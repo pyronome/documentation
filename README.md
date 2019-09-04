@@ -16,7 +16,7 @@ This repository contains latest and also, older versions of documentation. You c
 
 | Version | Description |
 | ------ | ------ |
-| [latest](latest) | Latest version of documentation. |
+| [latest](docs/latest) | Latest version of documentation. |
 
 ## Contributing
 
