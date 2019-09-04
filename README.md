@@ -12,11 +12,11 @@ For Pyronome documentation, please visit https://help.pyronome.com/
 
 ## Documentation Versions
 
-This repository contains latest and older versions of documentation. You can find the list of documentation versions below:
+This repository contains latest and also, older versions of documentation. You can find the list of documentation versions below:
 
 | Version | Description |
 | ------ | ------ |
-| [latest](latest) | Represents the Pyronome platform in https://www.pyronome.com |
+| [latest](latest) | Latest version of documentation. |
 
 ## Contributing
 
