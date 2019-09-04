@@ -10,6 +10,14 @@ This repository contains Pyronome **Documentation**.
 
 For Pyronome documentation, please visit https://help.pyronome.com/
 
+## Documentation Versions
+
+This repository contains latest and older versions of documentation. You can find the list of documentation versions below:
+
+| Version | Description |
+| ------ | ------ |
+| [latest](latest) | Represents the Pyronome platform in https://www.pyronome.com |
+
 ## Contributing
 
 Please use the [issue tracker](https://github.com/pyronome/documentation/issues) to report any bugs/typos or requests.
