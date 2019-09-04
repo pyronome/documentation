@@ -1,0 +1,3 @@
+# Mevcut Bir Kalıbı Klonlayarak Yeni Bir Kalıp Nasıl Oluşturulur
+
+Text goes here...

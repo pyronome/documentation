@@ -1,0 +1,14 @@
+# Git Ignore Files
+
+# Apple OSX Files
+.DS_Store
+
+# Node Modules Directory
+node_modules/**
+
+# sftp-config.json File
+source/sftp-config.json
+
+# Sublime Text Files
+*.sublime-*
+.vscode/*
