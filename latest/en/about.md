@@ -3,6 +3,8 @@ id: about
 title: About
 ---
 
+Test
+
 A significant part of software development can be described as an effort of modeling real-life systems, using the computer systems. Computer systems, which are more static, have structured (explicitly definite) or semi-structured nature. On the other hand real-life systems, which are more dynamic, can be structured, semi-structured or most of the time, unstructured.
 
 In the year 2005, a concept for software development was proposed by Aykut Aydınlı to be used for the projects of Sanpark. The main idea of this concept was to isolate the analysis and the design of real-life systems from the boundaries of computer systems. With the help of this isolated analysis, the idle effort of modeling an unstructured real-life system into a computer system is avoided and the resulting computer system serves as a complete solution. Ensuring the computer system is designed for the real-life system; not vice-versa.
