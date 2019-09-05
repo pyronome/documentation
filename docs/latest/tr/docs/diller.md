@@ -7,5 +7,5 @@ Pyronome yardımını farklı bir dilde görüntülemek için aşağıdaki seçe
 
 | ISO Kodu | Dil | Yardım URL Adresi
 | ------ | ------ | ------ |
-| EN | İngilizce | [https://pyronome.com/help/en/](https://pyronome.com/help/en/) |
-| **TR** | **Türkçe** | **[https://pyronome.com/help/tr/](https://pyronome.com/help/tr/)** |
+| EN | İngilizce | [https://help.pyronome.com/latest/en/](https://help.pyronome.com/latest/en/) |
+| **TR** | **Türkçe** | **[https://help.pyronome.com/latest/tr/](https://help.pyronome.com/latest/tr/)** |
