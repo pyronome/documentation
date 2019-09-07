@@ -4,7 +4,7 @@ title: Başlangıç
 ---
 
 ## Başlarken
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+Pyronome Platformu'nu kullanmaya başlamanın ilk adımı üye olmaktır. Kayıt formuna ulaşmak için lütfen (tıklayınız)[https://pyronome.com/signup].
 
 ## Yardım Kanalları
 Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
