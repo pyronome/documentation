@@ -3,16 +3,6 @@ id: baslangic
 title: Başlangıç
 ---
 
-<img src="/latest/tr/img/help-hero-image.jpg" alt="Project Logo">
-
-<div class="alert alert-info"><i class="fas fa-info-circle"></i> This is a info box.</div>
-
-<div class="alert alert-success"><i class="fas fa-check-circle"></i> This is a success box.</div>
-
-<div class="alert alert-danger"><i class="fas fa-times-circle"></i> This is a error box.</div>
-
-<div class="alert alert-warning"><i class="fas fa-exclamation-triangle"></i>This is a warning box.</div>
-
 ## Başlarken
 Pyronome hızlı ve sürdürülebilir yazılım geliştirilmesini sağlayan çevrimiçi bir platformdur. Pyronome'un sunmuş olduğu kolay kullanılır arayüzler ile yazılım elemanları kolaylıkla tanımlanabilmekte ve bu tanımlar daha sonra Java, C#, PHP, JavaScript, vb. gibi programlama dillerine dönüştürülebilmektedir. Pyronome yazılım geliştirme aşamasında sıklıkla kullanılan kaynak kod parçalarının, yeniden kullanılabilir bileşenlere dönüştürülmesini sağlayarak yazılım geliştirme süreçlerinde zaman tasarrufu sağlamaktadır. Bununla birlikte sunmuş olduğu yeniden kullanılabilir bileşen yaklaşımı ile yazılım Ar-Ge ve geliştirme süreçlerini birbirinden ayırmakta, tecrübenin sayısallaşmasını sağlayarak yazılım geliştirme süreçlerinde kalitenin artırılmasına yardımcı olmaktadır.
 
