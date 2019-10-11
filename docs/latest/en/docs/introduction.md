@@ -3,6 +3,8 @@ id: introduction
 title: Introduction
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 | Edition | Description |
 | ------ | ------ |
 | Platform | Represents the Pyronome platform in https://www.pyronome.com |

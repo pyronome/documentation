@@ -3,6 +3,8 @@ id: glossary
 title: Glossary
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## A
 
 Text goes here...

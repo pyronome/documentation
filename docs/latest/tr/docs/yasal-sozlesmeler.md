@@ -3,6 +3,8 @@ id: yasal-sozlesmeler
 title: Yasal Sözleşmeler
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 Pyronome Kullanıcı sözleşmesi, gizlilik politikası ve kullanım koşullarının bulunduğu bölümdür.
 
 ## Bölümler

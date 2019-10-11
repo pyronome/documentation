@@ -4,6 +4,8 @@ title: Platform Sürüm Geçmişi
 sidebar_label: Sürüm Geçmişi
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## Sürüm 3.0.0
 
 1. Patterns module added. Users can create their own patterns.

@@ -4,6 +4,8 @@ title: Pyronome Builder CE Release Notes
 sidebar_label: Release Notes
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## Version 3.0.0
 
 1. Patterns module added. Users can create their own patterns.

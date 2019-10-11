@@ -3,6 +3,8 @@ id: diller
 title: Yardım Dili
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Language"></a>
+
 Pyronome yardımını farklı bir dilde görüntülemek için aşağıdaki seçenekleri kullanabilirsiniz.
 
 | ISO Kodu | Dil | Yardım URL Adresi

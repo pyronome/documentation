@@ -3,6 +3,8 @@ id: baslangic
 title: Başlangıç
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## Başlarken
 Pyronome hızlı ve sürdürülebilir yazılım geliştirilmesini sağlayan çevrimiçi bir platformdur. Pyronome'un sunmuş olduğu kolay kullanılır arayüzler ile yazılım elemanları kolaylıkla tanımlanabilmekte ve bu tanımlar daha sonra Java, C#, PHP, JavaScript, vb. gibi programlama dillerine dönüştürülebilmektedir. Pyronome yazılım geliştirme aşamasında sıklıkla kullanılan kaynak kod parçalarının, yeniden kullanılabilir bileşenlere dönüştürülmesini sağlayarak yazılım geliştirme süreçlerinde zaman tasarrufu sağlamaktadır. Bununla birlikte sunmuş olduğu yeniden kullanılabilir bileşen yaklaşımı ile yazılım Ar-Ge ve geliştirme süreçlerini birbirinden ayırmakta, tecrübenin sayısallaşmasını sağlayarak yazılım geliştirme süreçlerinde kalitenin artırılmasına yardımcı olmaktadır.
 

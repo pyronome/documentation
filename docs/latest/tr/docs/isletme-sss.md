@@ -4,6 +4,8 @@ title: Pyronome Builder EE Sıkça Sorulan Sorular
 sidebar_label: SSS
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## Başlarken
 Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
 

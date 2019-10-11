@@ -3,6 +3,8 @@ id: basics
 title: Basics
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## The Zero Defect Software Concept
 
 From a certain point of view, a software which is not serving the needs of the user can be considered as defected. This can be caused by one or both reasons listed below:

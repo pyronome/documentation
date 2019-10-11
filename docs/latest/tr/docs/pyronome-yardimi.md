@@ -3,6 +3,8 @@ id: pyronome-yardimi
 title: Pyronome Yardımı
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 Pyronome yardım sayfasına hoş geldiniz. Pyronome yardım bölümleri ile ilgili detaylı bilgiyi aşağıda bulabililrsiniz.
 
 ## Bölümler

@@ -3,6 +3,8 @@ id: tanimlar
 title: Tanımlar
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## A
 
 ##### Ana Birim:

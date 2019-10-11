@@ -4,6 +4,8 @@ title: Pyronome Builder EE Sürüm Geçmişi
 sidebar_label: Sürüm Geçmişi
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## Version 3.0.0
 
 1. Patterns module added. Users can create their own patterns.

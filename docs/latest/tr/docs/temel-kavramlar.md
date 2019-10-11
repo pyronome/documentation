@@ -3,6 +3,8 @@ id: temel-kavramlar
 title: Temel Kavramlar
 ---
 
+<a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
+
 ## Sıfır Hatalı Yazılım Kavramı
 
 Genel bir bakış açısıyla, her ne şekilde olursa olsun kullanıcı ihtiyaçlarını karşılamayan yazılım hatalı olarak değerlendirilebilir. Bu durum aşağıdaki sebeplerin biri ya da hepsinin bir araya gelmesiyle oluşabilir:
