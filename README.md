@@ -1,7 +1,5 @@
 ![Pyronome Documentation Public Repository](README.png "Pyronome Documentation Public Repository")
 
-# Pyronome Documentation
-
 **Pyronome** is an online platform that allows software developers to develop sustainable and scalable software solutions really fast. For further information, please visit https://pyronome.com.
 
 This repository contains Pyronome **Documentation**.
