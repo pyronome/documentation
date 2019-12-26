@@ -6,4 +6,4 @@ sidebar_label: Builder EE
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-fsdafd jkadslifja silfj asdifklj dsklfi jdsi lkfjdsi fjisd dfksij dsj ifkjds k
+**Özel uygulamalar geliştiren bir yazılım ekibiniz varsa; Pyronome'un size özel, izole edilmiş bir sürümünü kullanmak istiyorsanız; Pyronome işletme ve kuruluş planlarını seçebilirsiniz. Pyronome işletme ve kuruluş planları ile, Pyronome'u özel bulut (Private Cloud) sunucularda ya da kendi yerleşik sunucularınızda (On-Premise) çalıştırabilirsiniz.**
