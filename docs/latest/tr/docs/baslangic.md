@@ -27,10 +27,12 @@ Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak v
 | [<i class="fab fa-facebook-square"></i> Facebook](https://facebook.com/pyronome) | Pyronome ekibi, çalışma ortamı ve etkinlikleri ile ilgili paylaşımlara ulaşmak için [Pyronome Facebook Sayfası](https://facebook.com/pyronome)'nı takip edebilirsiniz. |
 
 ## Platform
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+Pyronome, sunmuş olduğu birçok araç ve çevrimiçi hizmet ile yazılım geliştiricilerin hayatını kolaylaştıran bir platformdur. Pyronome'un sunmuş olduğu bu araç ve hizmetleri hemen şimdi kullanmaya başlayabilirsiniz. Buna ek olarak, Pyronome platformunu kullanarak kendi araçlarınızı ve çevrimiçi hizmetlerinizi geliştirebilirsiniz.
 
 ## İşletmeler
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+Özel uygulamalar geliştiren bir yazılım ekibiniz varsa; Pyronome'un size özel, izole edilmiş bir sürümünü kullanmak istiyorsanız; Pyronome işletme ve kuruluş planlarını seçebilirsiniz. Pyronome işletme ve kuruluş planları ile, Pyronome'u özel bulut (Private Cloud) sunucularda ya da kendi yerleşik sunucularınızda (On-Premise) çalıştırabilirsiniz.
 
 ## Topluluk
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+Pyronome'u tasarlarken dünya üzerinde bir şeyler tasarlayan, geliştiren ve üreten herkesi bir araya getirebilecek bir platform olmasını hedefledik. Bunun bir sonucu olarak, Pyronome geliştirici topluluğu, Pyronome platformunun tam kalbinde yer almaktadır.
+
+Pyronome platformunu herkes için daha da iyi yapmak için siz geliştiricilerin desteğine ihtiyaç duyuyoruz. Pyronome platformunun gelişmesine katkıda bulunmak ister misiniz?
