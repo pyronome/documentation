@@ -1,5 +1,5 @@
 ---
-id: tanimlar
+id: basvurular-tanimlar
 title: Tanımlar
 ---
 
