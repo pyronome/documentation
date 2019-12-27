@@ -1,6 +1,6 @@
 ---
-id: baslangic-kod-uretimi
-title: Kaynak Kod Üretimi
+id: giris-ilk-projemiz
+title: İlk Projemiz
 ---
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>

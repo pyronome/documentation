@@ -1,5 +1,5 @@
 ---
-id: kayit-giris
+id: giris-kayit-giris
 title: Kayıt ve Giriş
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: baslangic-pazaryeri
+id: giris-pazaryeri
 title: Platform Pazaryeri
 sidebar_label: Pazaryeri
 ---
