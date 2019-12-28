@@ -21,7 +21,7 @@ You can use the following help channels to get help, to be informed about update
 | ------ | ------ |
 | [Documentation](getting-started-introduction) | Detailed information about the Pyronome Platform, business, and community applications is provided in this section. <br><br>**You are now in this section.** |
 | [How-tos (Guides)](https://help.pyronome.com/) | Tutorial guides that provide step-by-step instructions on specific topics are included in this section. |
-| [Hizmet Durumu](https://status.pyronome.com/) | Information about the instant status of Pyronome services is provided in this section. |
+| [Service Status](https://status.pyronome.com/) | Information about the instant status of Pyronome services is provided in this section. |
 | [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/pyronome) | You can follow [Pyronome Twitter Account](https://twitter.com/pyronome) for instant updates and notifications. |
 | [<i class="fab fa-youtube"></i> Youtube](https://youtube.com/user/pyronome) | You can subscribe [Pyronome Youtube Channel] (https://youtube.com/user/pyronome) to learn more about Pyronome and to reach tutorial videos. |
 | [<i class="fab fa-github"></i> GitHub](https://github.com/pyronome) | You can use the [Pyronome GitHub Page](https://github.com/pyronome) to access developer resources for Pyronome services. |
@@ -33,10 +33,10 @@ You can use the following help channels to get help, to be informed about update
 ## Platform
 Pyronome is a platform with many tools and online services that make developers' lives easier. You can start using these tools and services right now with just a few clicks. In addition to that, you can develop your own tools by using these tools and services.
 
-## İşletmeler
+## Enterprise
 If you want to use your own version of the Pyronome platform in your development team, you can choose Pyronome business or enterprise plan. By choosing Pyronome business plan, you can run Pyronome platform on private cloud servers. One step further, by choosing Pyronome enterprise plan, you can run Pyronome platform on your own servers.
 
-## Topluluk
+## Community
 When designing the Pyronome platform, we aimed to make it a platform that brings together developers from all over the world. As a result, the Pyronome developer community is at the heart of the Pyronome platform.
 
 We need the support of you to make the Pyronome platform even better for everyone. Would you like to contribute to the development of the Pyronome platform?
