@@ -1,5 +1,5 @@
 ---
-id: user-agreement
+id: legal-user-agreement
 title: User Agreement
 ---
 

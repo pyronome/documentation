@@ -1,5 +1,5 @@
 ---
-id: builder-ee
+id: isletmeler-builder-ee
 title: Pyronome Builder İşletme Sürümü
 sidebar_label: Builder EE
 ---

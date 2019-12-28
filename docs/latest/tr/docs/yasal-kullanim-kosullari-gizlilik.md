@@ -1,5 +1,5 @@
 ---
-id: kullanim-kosullari-gizlilik
+id: yasal-kullanim-kosullari-gizlilik
 title: Kullanım Koşulları ve Gizlilik
 ---
 

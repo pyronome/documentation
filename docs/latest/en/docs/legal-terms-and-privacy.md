@@ -1,5 +1,5 @@
 ---
-id: terms-and-privacy
+id: legal-terms-and-privacy
 title: Terms of Use and Privacy
 ---
 

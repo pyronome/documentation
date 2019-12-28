@@ -1,5 +1,5 @@
 ---
-id: contributing
+id: community-contributing
 title: Contributing
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: about
+id: platform-about
 title: About
 ---
 

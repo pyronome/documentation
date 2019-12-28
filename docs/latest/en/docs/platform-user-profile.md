@@ -1,7 +1,6 @@
 ---
-id: community-faq
-title: Pyronome Builder CE Frequently Asked Questions
-sidebar_label: FAQ
+id: platform-user-profile
+title: User Profile
 ---
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>

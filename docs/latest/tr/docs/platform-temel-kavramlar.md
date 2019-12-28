@@ -1,5 +1,5 @@
 ---
-id: temel-kavramlar
+id: platform-temel-kavramlar
 title: Temel Kavramlar
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: katki-saglama
+id: topluluk-katki-saglama
 title: Katkı Sağlama
 ---
 

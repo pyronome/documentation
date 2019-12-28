@@ -1,5 +1,5 @@
 ---
-id: kullanici-sozlesmesi
+id: yasal-kullanici-sozlesmesi
 title: Kullanıcı Sözleşmesi
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: isletme-sss
+id: isletmeler-sss
 title: Pyronome Builder EE Sıkça Sorulan Sorular
 sidebar_label: SSS
 ---

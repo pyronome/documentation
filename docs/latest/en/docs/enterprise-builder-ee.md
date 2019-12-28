@@ -1,5 +1,5 @@
 ---
-id: builder-ee
+id: enterprise-builder-ee
 title: Pyronome Builder Enterprise Edition
 sidebar_label: Builder EE
 ---

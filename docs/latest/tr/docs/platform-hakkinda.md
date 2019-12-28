@@ -1,5 +1,5 @@
 ---
-id: hakkinda
+id: platform-hakkinda
 title: Hakkında
 ---
 

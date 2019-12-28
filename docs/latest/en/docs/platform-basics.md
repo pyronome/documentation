@@ -1,5 +1,5 @@
 ---
-id: basics
+id: platform-basics
 title: Basics
 ---
 
