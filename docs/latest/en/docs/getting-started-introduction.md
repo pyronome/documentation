@@ -5,9 +5,14 @@ title: Introduction
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome is an online platform that allows software developers to develop sustainable and scalable software solutions fast. Pyronome provides easy-to-use interfaces that make it possible to define software elements, and then these definitions can be transformed into source code in Java, C#, PHP, etc. Pyronome saves time in software production processes by converting frequently used source code snippets into reusable components. In addition to this, it separates software research and development processes with its reusable component approach. It helps to increase the quality of software production processes by enabling the digitization of experience.
+**Pyronome is an online platform that allows software developers to develop sustainable and scalable software solutions fast. Pyronome provides easy-to-use interfaces that make it possible to define software elements, and then these definitions can be transformed into source code in Java, C#, PHP, etc. Pyronome saves time in software production processes by converting frequently used source code snippets into reusable components. In addition to this, it separates software research and development processes with its reusable component approach. It helps to increase the quality of software production processes by enabling the digitization of experience.**
 
 The first step in getting started with the Pyronome Platform is to become a member. [Click here](https://pyronome.com/builder/signup) to access the member registration form. If you have a Pyronome account, you can [login](https://pyronome.com/builder/login).
+
+<div class="col s12 center-align">
+    <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn amber darken-4">Signup</a>
+    <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn blue-grey darken-2">Login</a>
+</div>
 
 ## Help and Notification Channels
 You can use the following help channels to get help, to be informed about updates, and to access developer resources:

@@ -5,9 +5,14 @@ title: Başlangıç
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome hızlı ve sürdürülebilir yazılım geliştirilmesini sağlayan çevrimiçi bir platformdur. Pyronome'un sunmuş olduğu kolay kullanılır arayüzler ile yazılım elemanları kolaylıkla tanımlanabilmekte ve bu tanımlar daha sonra Java, C#, PHP, JavaScript, vb. gibi programlama dillerine dönüştürülebilmektedir. Pyronome yazılım geliştirme aşamasında sıklıkla kullanılan kaynak kod parçalarının, yeniden kullanılabilir bileşenlere dönüştürülmesini sağlayarak yazılım geliştirme süreçlerinde zaman tasarrufu sağlamaktadır. Bununla birlikte sunmuş olduğu yeniden kullanılabilir bileşen yaklaşımı ile yazılım Ar-Ge ve geliştirme süreçlerini birbirinden ayırmakta, tecrübenin sayısallaşmasını sağlayarak yazılım geliştirme süreçlerinde kalitenin artırılmasına yardımcı olmaktadır.
+**Pyronome hızlı ve sürdürülebilir yazılım geliştirilmesini sağlayan çevrimiçi bir platformdur. Pyronome'un sunmuş olduğu kolay kullanılır arayüzler ile yazılım elemanları kolaylıkla tanımlanabilmekte ve bu tanımlar daha sonra Java, C#, PHP, JavaScript, vb. gibi programlama dillerine dönüştürülebilmektedir. Pyronome yazılım geliştirme aşamasında sıklıkla kullanılan kaynak kod parçalarının, yeniden kullanılabilir bileşenlere dönüştürülmesini sağlayarak yazılım geliştirme süreçlerinde zaman tasarrufu sağlamaktadır. Bununla birlikte sunmuş olduğu yeniden kullanılabilir bileşen yaklaşımı ile yazılım Ar-Ge ve geliştirme süreçlerini birbirinden ayırmakta, tecrübenin sayısallaşmasını sağlayarak yazılım geliştirme süreçlerinde kalitenin artırılmasına yardımcı olmaktadır.**
 
 Pyronome Platformu'nu kullanmaya başlamanın ilk adımı üye olmaktır. Üye kayıt formuna ulaşmak için lütfen [tıklayınız](https://pyronome.com/builder/signup). Eğer Pyronome hesabınız mevcutsa [giriş](https://pyronome.com/builder/login) yapabilirsiniz.
+
+<div class="col s12 center-align">
+    <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn amber darken-4">Kayıt</a>
+    <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn blue-grey darken-2">Giriş</a>
+</div>
 
 ## Yardım ve Bildirim Kanalları
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki yardım kanallarını kullanabilirsiniz:
