@@ -10,8 +10,8 @@ title: Başlangıç
 Pyronome Platformu'nu kullanmaya başlamanın ilk adımı üye olmaktır. Üye kayıt formuna ulaşmak için lütfen [tıklayınız](https://pyronome.com/builder/signup). Eğer Pyronome hesabınız mevcutsa [giriş](https://pyronome.com/builder/login) yapabilirsiniz.
 
 <div class="col s12">
-    <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn-large white-text amber darken-4">Kayıt</a>
-    <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn-large white-text blue-grey darken-2">Giriş</a>
+    <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn-large white-text amber darken-4">KAYIT</a>
+    <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn-large white-text blue-grey darken-2">GİRİŞ</a>
 </div>
 
 ## Yardım ve Bildirim Kanalları
