@@ -21,4 +21,4 @@ Platform hizmetlerini kullanabilmek için her kullanıcının öncelikle bir kul
 Platform hizmetlerini kullanabilmek, proje oluşturmak, daha önceden oluşturulan projeleri düzenlemek ve kaynak kod üretimi yapmak için giriş yapmanız gerekmektedir. Kullanıcı girişi, giriş formu yardımıyla yapılmaktadır. Giriş formuna erişmek için [https://pyronome.com/builder/login](https://pyronome.com/builder/login) adresini ziyaret edebilirsiniz.
 
 ## Şifre Hatırlatma Formu
-Giriş formunda girmeniz gereken şifrenizi hatırlamıyorsanız; giriş yaptığınız e-posta adresine yeni belirlenen şifrenizin gönderilmesini sağlayabilirsiniz. Bunun için [https://pyronome.com/builder/login](https://pyronome.com/builder/login) adresini ziyaret ederek; şifre hatırlatma formunu kullanabilirsiniz.
+Giriş formunda girmeniz gereken şifrenizi hatırlamıyorsanız; giriş yaptığınız e-posta adresine yeni belirlenen şifrenizin gönderilmesini sağlayabilirsiniz. Bunun için [https://pyronome.com/builder/forgot_password](https://pyronome.com/builder/forgot_password) adresini ziyaret ederek; şifre hatırlatma formunu kullanabilirsiniz.
