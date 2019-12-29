@@ -5,13 +5,20 @@ title: Kayıt ve Giriş
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome platform hizmetlerini kullanabilmek için kullanıcı hesabı oluşturulmalıdır. Kullanıcı hesabını oluşturmak için kaydı oluşturacak kullanıcı tarafından erişilebilen bir e-posta adresi (e-posta doğrulama gereklidir) ve şifre belirtilmesi istenmektedir. Kullanıcı hesabı oluşturulduktan sonra belirlenen şifre ile giriş yapılarak Pyronome platform hizmetleri kullanılabilmektedir.
+Pyronome platform hizmetlerini kullanabilmek için öncelikle kullanıcı hesabı oluşturmanız gerekmektedir. Kullanıcı hesabı oluşturmak için, erişim bilgilerine sahip olduğunuz bir e-posta adresi (e-posta doğrulama gereklidir) ve şifre belirtmeniz gerekmektedir. Kullanıcı hesabı oluşturulduktan sonra belirlediğiniz şifre ile giriş yaparak Pyronome platform hizmetlerini kullanabilirsiniz.
 
 ## Kayıt Formu
-Platform hizmetlerini kullanabilmek için her kullanıcının öncelikle bir kullanıcı hesabı olması gerekmektedir. Yeni kullanıcı hesabı kayıt formu kullanılarak oluşturulmaktadır. Kayıt formuna erişmek için [https://pyronome.com/builder/signup](https://pyronome.com/builder/signup) adresini ziyaret edebilirsiniz.
+Platform hizmetlerini kullanabilmek için her kullanıcının öncelikle bir kullanıcı hesabına sahip olması gerekmektedir. Yeni kullanıcı hesabı eklemek için kayıt formunu kullanabilirsiniz. Kayıt formuna erişmek için [https://pyronome.com/builder/signup](https://pyronome.com/builder/signup) adresini ziyaret edebilirsiniz.
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Pyronome Platform hizmetlerine kayıt olduğunuzda [Kullanıcı Sözleşmesi](https://pyronome.com/builder/signup), [Kullanım Koşulları](https://pyronome.com/builder/signup) ve [Gizlilik Politikası](https://pyronome.com/builder/signup)'nda belirtilmiş olan koşulları kabul etmiş olursunuz.</p>
+</div>
 
 ## Giriş Formu
-Platform hizmetlerini kullanabilmek için giriş yapılması gerekmektedir. Kullanıcı girişi, giriş formu yardımıyla yapılmaktadır. Giriş formuna erişmek için [https://pyronome.com/builder/login](https://pyronome.com/builder/login) adresini ziyaret edebilirsiniz.
+Platform hizmetlerini kullanabilmek, proje oluşturmak, daha önceden oluşturulan projeleri düzenlemek ve kaynak kod üretimi yapmak için giriş yapmanız gerekmektedir. Kullanıcı girişi, giriş formu yardımıyla yapılmaktadır. Giriş formuna erişmek için [https://pyronome.com/builder/login](https://pyronome.com/builder/login) adresini ziyaret edebilirsiniz.
 
 ## Şifre Hatırlatma Formu
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici 
+Giriş formunda girmeniz gereken şifrenizi hatırlamıyorsanız; giriş yaptığınız e-posta adresine yeni belirlenen şifrenizin gönderilmesini sağlayabilirsiniz. Bunun için [https://pyronome.com/builder/login](https://pyronome.com/builder/login) adresini ziyaret ederek; şifre hatırlatma formunu kullanabilirsiniz.
