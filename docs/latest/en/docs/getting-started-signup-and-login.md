@@ -21,4 +21,4 @@ To use the platform services, firstly, each user must have a user account. To ac
 You need to login to use platform services, create projects, edit previously created projects, and generate source code. To access the login form, visit [https://pyronome.com/builder/login](https://pyronome.com/builder/login).
 
 ## Forgot Password Form
-If you do not remember the password you need to enter in the login form, you can reset your password and send it to your email address. To access this Forgot Password Form, visit [https://pyronome.com/builder/forgot_password](https://pyronome.com/builder/forgot_password).
+If you do not remember the password you need to enter in the login form, you can reset your password and send it to your email address. To access the Forgot Password Form, visit [https://pyronome.com/builder/forgot_password](https://pyronome.com/builder/forgot_password).
