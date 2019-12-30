@@ -16,4 +16,14 @@ Pyronome kullanıcı hesabı oluşturulup; giriş yapıldıktan sonra aşağıda
 
 ## Kalıplarının Belirlenmesi
 
+| Adımlar |
+| ------ |
+| 1. Kullanıcı hesabı oluşturulduktan sonra ilk giriş işleminden sonra, doğrudan yeni proje oluşturma sayfası gösterilmektedir. |
+| 2. Gösterilen bu sayfa üzerinden |
+
 ## Modelin Oluşturulması
+
+| Adımlar |
+| ------ |
+| 1. Kullanıcı hesabı oluşturulduktan sonra ilk giriş işleminden sonra, doğrudan yeni proje oluşturma sayfası gösterilmektedir. |
+| 2. Gösterilen bu sayfa üzerinden |
