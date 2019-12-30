@@ -14,7 +14,7 @@ To use the platform services, firstly, each user must have a user account. To ac
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>When you signup for Pyronome Platform services, you agree to the terms of the <a href="legal-user-agreement">User Agreement</a>, <a href="legal-terms-and-privacy#terms-of-use">Terms of Use</a> ve <a href="legal-terms-and-privacy#privacy-policy">Privacy Policy</a>.</p>
+    <p>When you signup for Pyronome Platform services, you agree to the terms of the <a href="/latest/en/docs/legal-user-agreement">User Agreement</a>, <a href="/latest/en/docs/legal-terms-and-privacy#terms-of-use">Terms of Use</a> ve <a href="/latest/en/docs/legal-terms-and-privacy#privacy-policy">Privacy Policy</a>.</p>
 </div>
 
 ## Login Form
