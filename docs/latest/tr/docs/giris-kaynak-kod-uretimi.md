@@ -11,7 +11,7 @@ Proje oluşturulduktan; kalıpları belirlenip; belirlenen kalıplara göre mode
     <p>
         <strong><i class="fas fa-info-circle"></i> Not:</strong>
     </p>
-    <p>Kaynak kod üretim süresi, seçilen kalıpların içeriğine (şablonlar, statik dosyalar) ve proje modelinin büyüklüğüne göre farklılık gösterebilmektedir. Kod üretimi, orta büyüklükteki projeler için ortalama 2-3dk. sürmektedir.</p>
+    <p>Kaynak kod üretim süresi, seçilen kalıpların sayısına, içeriğine (şablonlar, statik dosyalar) ve proje modelinin büyüklüğüne göre farklılık gösterebilmektedir. Kod üretimi, orta büyüklükteki projeler için ortalama 2-3dk. sürmektedir.</p>
 </div>
 
 1. Sol tarafta bulunan **"Kaynak Kod"** menüsüne tıklayıp; kaynak kod sayfasını açınız.
