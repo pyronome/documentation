@@ -5,4 +5,19 @@ title: Kaynak Kod Üretimi
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome ile ilgili bazı başvuru kaynaklarının bulunduğu bölümdür.
+Proje oluşturulduktan; kalıpları belirlenip; belirlenen kalıplara göre modeli oluşturulduktan sonra kaynak kod üretim aşamasına geçilebilir.
+
+| Adımlar |
+| ------ |
+| 1. Sol tarafta bulunan **"Kaynak Kod"** menüsüne tıklayıp; kaynak kod sayfasını açınız. |
+| 2. Proje kalıplarında ve/veya modelinde bir değişiklik yapıldığında kaynak kod sayfası açılır açılmaz yeni kod üretim bildirimi gösterilerek kaynak kod üretimi gerçekleştirilir. Kaynak kod üretimini elle başlatmak için sayfanın sağ üst tarafında bulunan **"Şimdi Üret!"** düğmesine basabilirsiniz. |
+| 3. Kaynak kod üretimi başladıktan bir süre sonra sayfa yeniden yüklenmektedir. Kaynak kod üretim işlemi arkaplanda devam edebilir.
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-info-circle"></i> Not:</strong>
+    </p>
+    <p>Kaynak kod üretim süresi, seçilen kalıpların içeriğine ve projenin modelinin büyüklüğüne göre farklılık gösterebilmektedir.</p>
+</div>
+
+ |
