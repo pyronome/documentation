@@ -14,7 +14,7 @@ Platform hizmetlerini kullanabilmek için her kullanıcının öncelikle bir kul
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
     </p>
-    <p>Pyronome Platform hizmetlerine kayıt olduğunuzda <a href="../yasal-kullanici-sozlesmesi">Kullanıcı Sözleşmesi</a>, <a href="../yasal-kullanim-kosullari-gizlilik#kullanım-koşulları">Kullanım Koşulları</a> ve <a href="../yasal-kullanim-kosullari-gizlilik#gizlilik-politikası">Gizlilik Politikası</a>'nda belirtilmiş olan koşulları kabul etmiş olursunuz.</p>
+    <p>Pyronome Platform hizmetlerine kayıt olduğunuzda <a href="/latest/tr/docs/yasal-kullanici-sozlesmesi">Kullanıcı Sözleşmesi</a>, <a href="/latest/tr/docs/yasal-kullanim-kosullari-gizlilik#kullanım-koşulları">Kullanım Koşulları</a> ve <a href="/latest/tr/docs/yasal-kullanim-kosullari-gizlilik#gizlilik-politikası">Gizlilik Politikası</a>'nda belirtilmiş olan koşulları kabul etmiş olursunuz.</p>
 </div>
 
 ## Giriş Formu
