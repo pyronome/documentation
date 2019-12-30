@@ -9,8 +9,5 @@ sidebar_label: FAQ
 ## Başlarken
 Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
 
-## Yardım Kanalları
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
-
-## Platform
+##### Can I use source code generated from Pyronome in commercial projects?
 Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:

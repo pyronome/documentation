@@ -9,8 +9,5 @@ sidebar_label: SSS
 ## Başlarken
 Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
 
-## Yardım Kanalları
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
-
-## Platform
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+##### Pyronome üzerinden üretilen kaynak kodu ticari projelerde kullanabilir miyim?
+text goes here.
