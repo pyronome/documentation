@@ -19,7 +19,7 @@ Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak v
 
 | Yardım Kanalı | Açıklama |
 | ------ | ------ |
-| [Yardım Konuları](baslangic) | Pyronome Platformu, işletme ve topluluk uygulamaları ile ilgili detaylı bilgiler bu bölümde yer almaktadır. <br><br>**Şuan bu bölümde bulunmaktasınız.** |
+| [Yardım Konuları](/latest/tr/docs/giris-baslangic) | Pyronome Platformu, işletme ve topluluk uygulamaları ile ilgili detaylı bilgiler bu bölümde yer almaktadır. <br><br>**Şuan bu bölümde bulunmaktasınız.** |
 | [Nasıl Yapılır (Kılavuzlar)](https://help.pyronome.com/) | Belli konular ile ilgili adım adım yönergeler sunan öğretici kılavuzlar bu bölümde yer almaktadır. |
 | [Hizmet Durumu](https://status.pyronome.com/) | Pyronome hizmetlerinin anlık durumu ile ilgili bilgiler bu bölümde yer almaktadır. |
 | [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/pyronome) | Pyronome ile ilgili güncelleme ve hizmet bildirimleri için [Pyronome Twitter Hesabı](https://twitter.com/pyronome)'nı takip edebilirsiniz. |

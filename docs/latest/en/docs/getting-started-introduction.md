@@ -19,7 +19,7 @@ You can use the following help channels to get help, to be informed about update
 
 | Help Channel | Description |
 | ------ | ------ |
-| [Documentation](getting-started-introduction) | Detailed information about the Pyronome Platform, business, and community applications is provided in this section. <br><br>**You are now in this section.** |
+| [Documentation](/latest/en/docs/getting-started-introduction) | Detailed information about the Pyronome Platform, business, and community applications is provided in this section. <br><br>**You are now in this section.** |
 | [How-tos (Guides)](https://help.pyronome.com/) | Tutorial guides that provide step-by-step instructions on specific topics are included in this section. |
 | [Service Status](https://status.pyronome.com/) | Information about the instant status of Pyronome services is provided in this section. |
 | [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/pyronome) | You can follow [Pyronome Twitter Account](https://twitter.com/pyronome) for instant updates and notifications. |
