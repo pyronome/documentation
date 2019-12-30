@@ -9,8 +9,10 @@ Pyronome kullanıcı hesabı oluşturulup; giriş yapıldıktan sonra aşağıda
 
 ## Projenin Oluşturulması
 
-1. Kullanıcı hesabı oluşturulduktan sonra ilk giriş işleminden sonra, doğrudan yeni proje oluşturma sayfası gösterilmektedir.
-2. Gösterilen bu sayfa üzerinden
+| Adım |
+| ------ |
+| 1. Kullanıcı hesabı oluşturulduktan sonra ilk giriş işleminden sonra, doğrudan yeni proje oluşturma sayfası gösterilmektedir. |
+| 2. Gösterilen bu sayfa üzerinden |
 
 ## Kalıplarının Belirlenmesi
 
