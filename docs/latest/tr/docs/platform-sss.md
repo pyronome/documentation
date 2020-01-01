@@ -23,11 +23,11 @@ Pazaryeri üzerinde geliştirilen kalıplarla ilgili teknik destek kalıbı geli
 
 #### Pazaryeri üzerinden satın aldığım ya da ücretsiz olarak projeme eklediğim bir kalıp üzerinde bir ekleme ya da değişiklik nasıl yapabilirim?
 
-Pazaryeri üzerinde herhangi bir kalıbı satın aldığınızda ya da ücretsiz olarak projenize eklediğinizde ilgili kalıp **"Kalıplar"** menüsü altındaki **"Kurulan Kalıplar"** menüsüne eklenmektedir. Yeni bir kalıp eklerken kullanıcı hesabınızda kayıtlı kalıpları kopyalayarak yeni bir kalıp oluşturabilirsiniz. Yeni bir kalıp eklerken üzerinde güncelleme yapmak istediğiniz kalıbı seçip gerekli güncellemeleri yapabilirsiniz. Yapmış olduğunuz güncellemelerin üretilen kaynak koda yansıması için orjinal kalıbı projenin kalıplar sayfasından kaldırıp, sizin üzerinde değişiklik yaptığınız kalıbı projenin kalıpları arasına eklemeniz gerekmektedir.
+Pazaryeri üzerinden herhangi bir kalıbı satın aldığınızda ya da ücretsiz olarak projenize eklediğinizde, ilgili kalıp **"Kalıplar"** menüsü altındaki **"Kurulan Kalıplar"** menüsüne eklenmektedir. Yeni bir kalıp eklerken kullanıcı hesabınızda kayıtlı kalıpları kopyalayarak yeni bir kalıp oluşturabilirsiniz. Yeni bir kalıp eklerken üzerinde güncelleme yapmak istediğiniz kalıbı seçip gerekli güncellemeleri yapabilirsiniz. Yapmış olduğunuz güncellemelerin üretilen kaynak koda yansıması için orjinal kalıbı projenin kalıplar sayfasından kaldırıp, sizin üzerinde değişiklik yaptığınız yeni kalıbı projenin kalıpları arasına eklemeniz gerekmektedir.
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
     </p>
-    <p>Satın alınan ya da ücretsiz olarak projenize eklediğiniz bir kalıbı kopyaladıktan sonra yeni oluşturduğunuz kopya kalıp ile ilgili tüm sorumluluğu kabul etmiş olduğunuzu unutmayınız.</p>
+    <p>Satın alınan ya da ücretsiz olarak projenize eklediğiniz bir kalıbı kopyaladıktan sonra yeni oluşturduğunuz kopya kalıp ile ilgili tüm sorumluluğun tarafınızda olduğunu unutmayınız.</p>
 </div>
