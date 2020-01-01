@@ -6,4 +6,4 @@ sidebar_label: Kullanıcı Profili
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome ile ilgili bazı başvuru kaynaklarının bulunduğu bölümdür.
+Pyronome Platform profilinize bu bölümden ulaşabilirsiniz. Profil ayarları bölümü yardımıyla kullanıcı adınızı ve profil resminizi güncelleyebilirsiniz.
