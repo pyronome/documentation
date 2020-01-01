@@ -9,7 +9,7 @@ Pyronome hızlı ve sürdürülebilir yazılım geliştirilmesini sağlayan çev
 
 Pyronome Platformu'nu kullanmaya başlamanın ilk adımı üye olmaktır. Üye kayıt formuna ulaşmak için lütfen [tıklayınız](https://pyronome.com/builder/signup). Eğer Pyronome hesabınız mevcutsa [giriş](https://pyronome.com/builder/login) yapabilirsiniz.
 
-<div class="col s12">
+<div class="col s12 center-align">
     <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn-large white-text amber darken-4">KAYIT</a>
     <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn-large white-text blue-grey darken-2">GİRİŞ</a>
 </div>

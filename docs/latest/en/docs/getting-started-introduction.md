@@ -9,7 +9,7 @@ Pyronome is an online platform that allows software developers to develop sustai
 
 The first step in getting started with the Pyronome Platform is to become a member. [Click here](https://pyronome.com/builder/signup) to access the member registration form. If you have a Pyronome account, you can [login](https://pyronome.com/builder/login).
 
-<div class="col s12">
+<div class="col s12 center-align">
     <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn-large white-text amber darken-4">SIGNUP</a>
     <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn-large white-text blue-grey darken-2">LOGIN</a>
 </div>
