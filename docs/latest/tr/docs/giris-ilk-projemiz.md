@@ -34,11 +34,11 @@ Kullanıcı hesabınızı oluşturduktan sonra ilk giriş işleminden sonra, do�
 
 Kalıplar, projenin modelini ve üretilecek proje kaynak kodlarının içeriğini belirleyen bileşenlerdir. Bir proje içinde birden fazla kalıpla kaynak kod üretim işlemi gerçekleştirilebilir.
 
-<div class="panelize-infobox infobox-warning">
+<div class="panelize-infobox infobox-info">
     <p>
-        <strong><i class="fas fa-exclamation-triangle"></i> Not:</strong>
+        <strong><i class="fas fa-info-circle"></i> Not:</strong>
     </p>
-    <p>Teknoloji bağımsızlığı, güncelleme kolaylığı ve kütüphane ve uygulama çeşitliliğini desteklemek amacıyla kalıplar, mantıksal seviyelere bölünmüştür (Örn. arkayüz, önyüz ve uygulama kalıpları). İhtiyaçlarınız doğrultusunda kalıpları birlikte kullanarak kullanıma hazır uygulamalar üretebilirsiniz.</p>
+    <p>Teknoloji bağımsızlığını, güncelleme kolaylığını ve kütüphane çeşitliliğini sağlamak amacıyla kalıplar, mantıksal seviyelere bölünmüştür (Örn. arkayüz, önyüz ve uygulama kalıpları). İhtiyaçlarınız doğrultusunda kalıpları birlikte kullanarak kullanıma hazır uygulamalar üretebilirsiniz.</p>
 </div>
 
 ## Modelin Oluşturulması
