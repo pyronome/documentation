@@ -11,15 +11,19 @@ Evet, Pyronome hizmetleri üzerinden üretilen kaynak kodu ticari projelerde kul
 
 [Pazaryeri](https://pyronome.com/marketplace) üzerinde, her kalıbın lisans koşulları ile ilgili özel bir bölüm bulunmaktadır. Detaylı bilgi için kullanacağınız kalıpların lisans koşullarını gözden geçirebilirsiniz.
 
+
 ##### Pyronome tarafından üretilen kaynak kodun içine herhangi bir izleme kodu ekleniyor mu?
 Hayır. Pyronome ürettiği kaynak kodun içine herhangi bir izleme kodu eklemez.
+
 
 ##### Pyronome tarafından üretilen kaynak kodun çalışması için Pyronome hizmetlerine üyeliğimi devam ettirmem gerekiyor mu?
 Hayır. Kaynak kodu ürettikten sonra ürettiğiniz kaynak kodun çalışması için Pyronome hizmetlerine ihtiyaç duyulmaz. Ücretli üyeliğiniz sonlandıktan sonra da ürettiğiniz kaynak kodu kullanmaya devam edebilirsiniz.
 
+
 ##### Pazaryeri üzerinden satın aldığım ya da ücretsiz olarak projeme eklediğim bir kalıp ile ilgili teknik desteğe nasıl ulaşabilirim?
 
 Pazaryeri üzerinde geliştirilen kalıplarla ilgili teknik destek kalıbı geliştiren kişiler tarafından sağlanmaktadır. Pazaryeri üzerinde her kalıp için özel bir sayfa oluşturulmuştur. Bu sayfa üzerinden kalıbı geliştiren geliştiricilere ve teknik kaynaklara ulaşabilirsiniz.
+
 
 ##### Pazaryeri üzerinden satın aldığım ya da ücretsiz olarak projeme eklediğim bir kalıp üzerinde ufak bir ekleme ya da güncelleme nasıl yapabilirim?
 
