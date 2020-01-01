@@ -38,7 +38,7 @@ Kalıplar, projenin modelini ve üretilecek proje kaynak kodlarının içeriğin
     <p>
         <strong><i class="fas fa-info-circle"></i> Not:</strong>
     </p>
-    <p>Teknoloji bağımsızlığı, güncelleme kolaylığı ve kütüphane çeşitliliğini sağlamak amacıyla kalıplar, mantıksal seviyelere bölünmüştür (Örn. arkayüz, önyüz ve uygulama kalıpları). İhtiyaçlarınız doğrultusunda kalıpları birlikte kullanarak kullanıma hazır uygulamalar üretebilirsiniz.</p>
+    <p>Teknoloji bağımsızlığı, güncelleme kolaylığı, çatı ve kütüphane çeşitliliğini sağlamak amacıyla kalıplar, mantıksal seviyelere bölünmüştür (Örn. arkayüz, önyüz ve uygulama kalıpları). İhtiyaçlarınız doğrultusunda kalıpları birlikte kullanarak kullanıma hazır uygulamalar üretebilirsiniz.</p>
 </div>
 
 ## Modelin Oluşturulması
