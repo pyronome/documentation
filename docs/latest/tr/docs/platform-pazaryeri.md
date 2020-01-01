@@ -6,4 +6,4 @@ sidebar_label: Pazaryeri
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome ile ilgili bazı başvuru kaynaklarının bulunduğu bölümdür.
+Projemize ekleyebileceğimiz kalıpların listedendiği ana dizine Pazaryeri adı verilmektedir. Pazaryeri üzerinde bütün kalıplar belli ölçütlere göre sınıflandırılır ve listelenir.

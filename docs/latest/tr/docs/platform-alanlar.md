@@ -6,4 +6,4 @@ sidebar_label: Alanlar
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome ile ilgili bazı başvuru kaynaklarının bulunduğu bölümdür.
+Geliştirilen kalıplar için [https://pyronome.com](https://pyronome.com) üzerinde genel ad uzayları oluşturmak amacıyla alanlar bölümü kullanılmaktadır. Alanlar bölümü yardımıyla,[https://pyronome.com](https://pyronome.com) alan adı üzerinden erişilebilen farklı kalıp dizinleri oluşturulabilmektedir.

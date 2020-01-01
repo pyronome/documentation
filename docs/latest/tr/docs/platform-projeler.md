@@ -6,4 +6,4 @@ sidebar_label: Projeler
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome ile ilgili bazı başvuru kaynaklarının bulunduğu bölümdür.
+Platform üzerinde geliştirmekte olduğunuz projelerin listelendiği bölümdür.

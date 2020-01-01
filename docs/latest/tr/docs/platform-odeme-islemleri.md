@@ -6,4 +6,4 @@ sidebar_label: Ödeme İşlemleri
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome ile ilgili bazı başvuru kaynaklarının bulunduğu bölümdür.
+Platform üyelik ücret ödemeleri ve Pazaryeri kalıp satın alma işlemleri bu bölümde görüntülenmektedir.
