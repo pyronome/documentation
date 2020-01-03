@@ -33,7 +33,7 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
 
 <div class="panelize-infobox infobox-warning">
