@@ -40,7 +40,7 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
     </p>
-    <p>**"Ad"** alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
     <ul>
         <li>Sadece İngilizce karakterler içermelidir.</li>
         <li>Boşluk ve sekme karakterlerini içeremez.</li>
