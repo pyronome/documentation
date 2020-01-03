@@ -20,7 +20,21 @@ Oluşturduğunuz ya da üyesi olduğunuz projelerin listelendiği sayfadır. Bu 
 | <i class="fas fa-trash-alt"></i> Silme Düğmesi | Projenin silinmesi için kullanılan düğmedir. |
 
 ## Yeni Proje Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Yeni proje ekleme formunun bulunduğu sayfadır.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Boş Proje Oluştur | Bu alan seçildiğinde boş bir proje oluşturulmaktadır. |
+| Varolan Projeyi Klonla | Daha önce oluşturduğunuz ya da üzerinde düzenleme yetkiniz olduğu bir projeyi klonlayarak yeni bir proje oluşturabilirsiniz. Bu alan seçildiğinde açılan alan içerisinden bir proje seçilmelidir. |
+| Projeler | Bu alan sadece **"Varolan Projeyi Klonla"** alanı seçildiğinde gösterilmektedir. Yeni oluşturulacak projenin hangi projeden klonlanacağını belirten alandır. Bu alanda önceden eklemiş olduğunuz ya da düzenleme yetkisine sahip olduğunuz projeler listelenmektedir. |
+| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
+| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
+| Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
+| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
+| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
+| Ad | Projenin adını belirtmektedir.<br><br>`Gerekli` |
+| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
 
 ## Proje Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
