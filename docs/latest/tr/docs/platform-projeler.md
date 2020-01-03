@@ -59,14 +59,14 @@ Proje sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm proj
 | Bölüm | Açıklama |
 | ------ | ------ |
 | Temel Özellikler | Projenin belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
-| Kalıplar | Projenin kalıplarının listelendiği bölümdür. |
-| Kaynak Kod | Projenin üretilen kaynak kodunun gösterildiği bölümdür. |
-| Sürümler | Proje sürümlerinin listelendiği bölümdür. |
-| Üyeler | Proje üyelerinin listelendiği bölümdür. |
+| Kalıplar | Projenin kalıplarının listelendiği bölümdür. Detaylı bilgi için [**"Kalıplar Sayfası"**](#kalıplar-sayfası) bölümüne bakınız. |
+| Kaynak Kod | Projenin üretilen kaynak kodunun gösterildiği bölümdür. Detaylı bilgi için [**"Kaynak Kod Sayfası"**](#kaynak-kod-sayfası) bölümüne bakınız. |
+| Sürümler | Proje sürümlerinin listelendiği bölümdür. Detaylı bilgi için [**"Sürümler Sayfası"**](#surumler-sayfası) bölümüne bakınız. |
+| Üyeler | Proje üyelerinin listelendiği bölümdür. Detaylı bilgi için [**"Üyeler Sayfası"**](#uyeler-sayfası) bölümüne bakınız. |
 | İşlem Geçmişi | Proje üzerinde düzenleme yetkisine sahip kullanıcıların, proje üzerinde yapmış olduğu güncellemelerin listelendiği bölümdür. |
-| Sunucular | Proje sunucularının listelendiği bölümdür. |
-| Kod Depoları | Projenin kod depolarının listelendiği bölümdür. |
-| Web İstekleri | Projenin web isteklerinin listelendiği bölümdür. |
+| Sunucular | Proje sunucularının listelendiği bölümdür. Detaylı bilgi için [**"Sunucular Sayfası"**](#sunucular-sayfası) bölümüne bakınız. |
+| Kod Depoları | Projenin kod depolarının listelendiği bölümdür. Detaylı bilgi için [**"Kod Depoları Sayfası"**](#kod-depoları-sayfası) bölümüne bakınız. |
+| Web İstekleri | Projenin web isteklerinin listelendiği bölümdür. Detaylı bilgi için [**"Web İstekleri Sayfası"**](#web-i-stekleri-sayfası) bölümüne bakınız. |
 
 ### Model Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
