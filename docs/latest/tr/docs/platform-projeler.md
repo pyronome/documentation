@@ -33,14 +33,22 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir. Proje adı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
-    - Sadece İngilizce karakterler içermelidir.
-    - Boşluk ve sekme karakterlerini içeremez.
-    - İki karakterden daha uzun olmalıdır.
-    - Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.
-    - Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.
-<br><br>`Gerekli` |
+| Ad | Projenin adını belirtmektedir.<br><br>`Gerekli` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>**"Ad"** alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <ul>
+        <li>Sadece İngilizce karakterler içermelidir.</li>
+        <li>Boşluk ve sekme karakterlerini içeremez.</li>
+        <li>İki karakterden daha uzun olmalıdır.</li>
+        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
+        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
+    </ul></p>
+</div>
 
 ## Proje Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
