@@ -51,10 +51,22 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 </div>
 
 ## Proje Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yapabilirsiniz.
 
 ### Genel Bakış Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Proje sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm proje özelliklerinin özeti niteliğindedir.
+
+| Bölüm | Açıklama |
+| ------ | ------ |
+| Temel Özellikler | Projenin belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
+| Kalıplar | Projenin kalıplarının listelendiği bölümdür. |
+| Kaynak Kod | Projenin üretilen kaynak kodunun gösterildiği bölümdür. |
+| Sürümler | Proje sürümlerinin listelendiği bölümdür. |
+| Üyeler | Proje üyelerinin listelendiği bölümdür. |
+| İşlem Geçmişi | Proje üzerinde düzenleme yetkisine sahip kullanıcıların, proje üzerinde yapmış olduğu güncellemelerin listelendiği bölümdür. |
+| Sunucular | Proje sunucularının listelendiği bölümdür. |
+| Kod Depoları | Projenin kod depolarının listelendiği bölümdür. |
+| Web İstekleri | Projenin web isteklerinin listelendiği bölümdür. |
 
 ### Model Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
