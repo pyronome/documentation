@@ -16,8 +16,8 @@ Oluşturduğunuz ya da üyesi olduğunuz projelerin listelendiği sayfadır. Bu 
 | Ad | Projenin başlığı, projenin bulunduğu dizin ve proje adının gösterildiği alandır. |
 | Etkin Sürüm | Pyronome üzerinde projelerin farklı sürümleri oluşturulabilir. Bu alan üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Projenin **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
 | Etkin | Projenin etkin olup olmadığını belirten alandır. Etkin olmayan projeler, diğer üyeler tarafından görüntülenemez. |
-| Üyeler Düğmesi | Projenin sahibi tarafından belirlenen, projenin üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| Silme Düğmesi | Projenin silinmesi için kullanılan düğmedir. |
+| <i class="fas fa-users"></i> Üyeler Düğmesi | Projenin sahibi tarafından belirlenen, projenin üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
+| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Projenin silinmesi için kullanılan düğmedir. |
 
 ## Yeni Proje Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
