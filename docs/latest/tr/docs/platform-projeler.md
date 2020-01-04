@@ -81,7 +81,11 @@ Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçil
 | <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Kalıplar Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projenin kaynak kod üretimi, projeye kurulu kalıplar sayesinde gerçekleştirilir. Bir projeye birden fazla kalıp kurulabilir. Böylelikle kaynak kodu üretilecek uygulamanın farklı bölümlerinin farklı teknolojilere dönüştürülmesi ve aynı teknolojinin yeni sürümü ile güncellenmesi kolaylıkla gerçekleştirilebilir.
+
+**"Kalıp Ekle/Kur"** düğmesine basıldığında projeye kurulabilecek kalıpların listesini gösteren pencere açılır. Bu bölüm yardımıyla kalıplar belli ölçütlere göre arayabilir ve kalıp kurma ve satın alma işlemlerini gerçekleştirebilirsiniz.
+
+Projeye kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
 
 ### Kaynak Kod Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
