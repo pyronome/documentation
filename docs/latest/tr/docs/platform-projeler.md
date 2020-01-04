@@ -88,7 +88,13 @@ Projenin kaynak kod üretimi, projeye kurulu kalıplar sayesinde gerçekleştiri
 Projeye kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
 
 ### Kaynak Kod Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projenizin kaynak kodunu bu bölümden görüntüleyebilirsiniz. Model üzerinde ya da kalıplarda herhangi bir değişiklik yapıldığında bu bölüme giriş yapıldığında otomatik olarak kaynak kod üretim işlemi gerçekleştirilir.
+
+Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** düğmesine basabilirsiniz. Kaynak kod üretim işlemini yeniden başlattıktan sonra sayfa yeniden yüklenir ve kaynak kod üretim işlemi arkaplanda devam eder. Sayfanın sağ üst tarafında kaynak kod üretim işlemi devam ediyorken **"Üretiliyor..."** bildirimi gösterilir. Kaynak kod üretim işlemi tamamlandığında otomatik olarak dosya listesi güncellenir. Kaynak kod üretim işlemi projenin büyüklüğüne ve seçilen kalıpların içeriğine göre değişiklik gösterebilmektedir.
+
+Üretilen kaynak kodun tamamını tek bir .zip uzantılı bir dosya olarak indirmek için **"İndir (.zip)"** düğmesine basabilirsiniz.
+
+Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kodun dizin yapısına göre üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
 
 ### Genel Ayarlar Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
