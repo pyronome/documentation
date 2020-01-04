@@ -94,7 +94,7 @@ Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** d
 
 Üretilen kaynak kodun tamamını tek bir .zip uzantılı dosya olarak indirmek için **"İndir (.zip)"** düğmesine basabilirsiniz.
 
-Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kodun dizin yapısına göre üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
+Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
 
 ### Genel Ayarlar Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
