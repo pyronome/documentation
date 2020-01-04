@@ -92,7 +92,7 @@ Projenizin kaynak kodunu bu bölümden görüntüleyebilirsiniz. Model üzerinde
 
 Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** düğmesine basabilirsiniz. Kaynak kod üretim işlemini yeniden başlattıktan sonra sayfa yeniden yüklenir ve kaynak kod üretim işlemi arkaplanda devam eder. Sayfanın sağ üst tarafında kaynak kod üretim işlemi devam ediyorken **"Üretiliyor..."** bildirimi gösterilir. Kaynak kod üretim işlemi tamamlandığında otomatik olarak dosya listesi güncellenir. Kaynak kod üretim işlemi projenin büyüklüğüne ve seçilen kalıpların içeriğine göre değişiklik gösterebilmektedir.
 
-Üretilen kaynak kodun tamamını tek bir .zip uzantılı bir dosya olarak indirmek için **"İndir (.zip)"** düğmesine basabilirsiniz.
+Üretilen kaynak kodun tamamını tek bir .zip uzantılı dosya olarak indirmek için **"İndir (.zip)"** düğmesine basabilirsiniz.
 
 Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kodun dizin yapısına göre üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
 
