@@ -200,7 +200,24 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
 Bağlantı parametrelerini eksiksiz olarak girdikten sonra bağlantıyı test etmek için **"TEST"** düğmesine basabilirsiniz.
 
 ### Kod Depoları Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği kod depolarını belirtmek için bu bölümü kullanabilirsiniz.
+
+Oluşturulan kaynak kodu elle mevcut kod depolarına yüklemek için **"Şimdi İttir!"** düğmesine basabilirsiniz. Kaynak kod belirlediğiniz sıra ile kod depolarına yüklenecektir.
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Kod depolarına kaynak kod yükleme işlemi ardışık olarak gerçekleştirilmektedir. Başka bir deyişle, ilk kod deposuna yükleme işlemi tamamlanmadan ikinci kod deposuna yükleme işlemi başlatılmaz.</p>
+</div>
+
+Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Yeni Kod Deposu"** düğmesine basabilirsiniz.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
+| Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Gerekli` |
+
 
 ### Web İstekleri Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme işlemlerinden sonra web istekleri yapılmasını sağlayarak yazılım geliştirme süreçlerinizi otomatikleştirebilirsiniz.
