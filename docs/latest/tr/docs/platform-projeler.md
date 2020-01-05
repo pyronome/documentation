@@ -143,7 +143,12 @@ Bunun yanında,
 
 soneklerini belirterek ara sürümler de oluşturabilirsiniz.
 
-Pyronome sürümlerin belirlenmesinde **Anlamsal Sürümleme** yaklaşımını önermektedir. Anlamsal Sürümleme ile ilgili daha detaylı bilgi için [https://semver.org/](https://semver.org/lang/tr/) adresini ziyaret edebilirsiniz.
+<div class="panelize-infobox infobox-info">
+    <p>
+        <strong><i class="fas fa-info-circle"></i> Not:</strong>
+    </p>
+    <p>Pyronome sürümlerin belirlenmesinde <strong>Anlamsal Sürümleme</strong> yaklaşımını önermektedir. Anlamsal Sürümleme ile ilgili daha detaylı bilgi için <a href="https://semver.org/lang/tr/">https://semver.org/</a> adresini ziyaret edebilirsiniz.</p>
+</div>
 
 ### Sunucular Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
