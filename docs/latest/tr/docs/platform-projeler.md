@@ -33,7 +33,7 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
 
 ## Proje Sayfası
@@ -94,7 +94,7 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
 | Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
+| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
 | Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
 
 <div class="panelize-infobox infobox-warning">
@@ -141,7 +141,7 @@ Bunun yanında,
 - `alpha`
 - `beta`
 
-soneklerini belirterek ara sürümler de oluşturabilirsiniz.
+soneklerini ekleyerek ara sürümler de oluşturabilirsiniz.
 
 <div class="panelize-infobox infobox-info">
     <p>
@@ -151,7 +151,53 @@ soneklerini belirterek ara sürümler de oluşturabilirsiniz.
 </div>
 
 ### Sunucular Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği/kurulacağı sunucuaları belirtmek için bu bölümü kullanabilirsiniz.
+
+Bu bölümde şuan için;
+
+- FTP Sunucusu
+- SFTP Sunucusu
+
+ekleyebilirsiniz.
+
+Oluşturulan kaynak kodu elle mevcut sunuculara yüklemek için **"Şimdi Konuşlandır!"** düğmesine basabilirsiniz. Kaynak kod belirlediğiniz sıra ile sunuculara yüklenecektir.
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Sunuculara kaynak kod yükleme işlemi ardışık olarak gerçekleştirilmektedir. Başka bir deyişle, ilk sunucuya yükleme işlemi tamamlanmadan ikinci sunucuya yükleme işlemi başlatılmaz.</p>
+</div>
+
+Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni Sunucu"** düğmesine basabilirsiniz.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
+| Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Gerekli` |
+| Ad | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Açıklama | Sunucu ile ilgili açıklamaların girilebileceği form alanıdır. |
+| Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Gerekli` |
+| Kullanıcı | **"Sunucu Adresi"** form alanında belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Gerekli` |
+| Kullanıcı | **"Sunucu Adresi"** form alanında belirtilen sunucuya erişim yetkisine sahip kullanıcının şifresini girebileceğiniz alandır.<br><br>`Gerekli` |
+| Ev Dizini | Bağlantı sağlandıktan sonra yükleme işleminin yapılacağı dizini belirtir. |
+| Yuva (Port) | Bağlantının kurulacağı yuvayı belirtir.<br><br>`Gerekli` ve `Varsayılan Değer: 21` |
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <ul>
+        <li>Sadece İngilizce karakterler içermelidir.</li>
+        <li>Boşluk ve sekme karakterlerini içeremez.</li>
+        <li>İki karakterden daha uzun olmalıdır.</li>
+        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
+        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
+    </ul></p>
+</div>
+
+Bağlantı parametrelerini eksiksiz olarak girdikten sonra bağlantıyı test etmek için **"TEST"** düğmesine basabilirsiniz.
 
 ### Kod Depoları Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
