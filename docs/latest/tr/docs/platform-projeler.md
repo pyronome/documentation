@@ -128,14 +128,20 @@ Projeye 3 (üç) farklı türde üye eklebilirsiniz:
 
 ### Sürümler Sayfası
 Proje modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Proje sürümlerini belirlerken,
+
 1. Majör
 2. Minor
 3. Yama
-ana sürüm numaraları belirtilmelidir. Bunun yanında,
-1. `dev`
-2. `alpha`
-3. `beta`
-ara sürümlerini belirterek ara sürümler de oluşturabilirsiniz.
+
+ana sürüm numaraları belirtilmelidir.
+
+Bunun yanında,
+
+- `dev`
+- `alpha`
+- `beta`
+
+soneklerini belirterek ara sürümler de oluşturabilirsiniz.
 
 Pyronome sürümlerin belirlenmesinde **Anlamsal Sürümleme** yaklaşımını önermektedir. Anlamsal Sürümleme ile ilgili daha detaylı bilgi için [https://semver.org/](https://semver.org/lang/tr/) adresini ziyaret edebilirsiniz.
 
