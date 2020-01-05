@@ -97,10 +97,34 @@ Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** d
 Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
 
 ### Genel Ayarlar Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projeye ait genel bilgilerin güncellendiği bölümdür.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
+| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
+| Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
+| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
+| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
+| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
+| Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
 
 ### Üyeler Sayfası
-Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
+Projeyi görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
+
+Projeye 3 (üç) farklı türde üye eklebilirsiniz:
+- Yönetici: Proje üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
+- Geliştirici: Proje özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
+- İzleyici: Proje özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
+
+<div class="panelize-infobox infobox-info">
+    <p>
+        <strong><i class="fas fa-info-circle"></i> Not:</strong>
+    </p>
+    <p>Projeye ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek; davet gönderebilirsiniz.</p>
+</div>
 
 ### Sürümler Sayfası
 Pyronome ile ilgili yardım almak, güncelleme ve yeniliklerden haberdar olmak ve geliştirici kaynaklarına ulaşmak için aşağıdaki 
