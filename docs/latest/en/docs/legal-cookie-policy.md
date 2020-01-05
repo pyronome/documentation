@@ -22,7 +22,6 @@ You can prevent the setting of cookies by adjusting the settings on your browser
 ## The Cookies We Set
 
 - **Account related cookies:** If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
-
 - **Login related cookies:** We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
 
 ## Third Party Cookies
