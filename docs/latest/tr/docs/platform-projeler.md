@@ -33,22 +33,8 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
-
-<div class="panelize-infobox infobox-warning">
-    <p>
-        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
-    </p>
-    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
-    <ul>
-        <li>Sadece İngilizce karakterler içermelidir.</li>
-        <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
-        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
-        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
-    </ul></p>
-</div>
 
 ## Proje Sayfası
 Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yapabilirsiniz.
@@ -110,6 +96,20 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 | Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
 | Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <ul>
+        <li>Sadece İngilizce karakterler içermelidir.</li>
+        <li>Boşluk ve sekme karakterlerini içeremez.</li>
+        <li>İki karakterden daha uzun olmalıdır.</li>
+        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
+        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
+    </ul></p>
+</div>
 
 ### Üyeler Sayfası
 Projeyi görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
