@@ -51,6 +51,9 @@ Daha önceden eklenmiş bir alana ait özelliklerde değişiklik yapmak için ku
 
 <div class="panelize-infobox infobox-warning">
     <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>
         <i class="fas fa-exclamation-triangle"></i> Alan adını değiştirdikten sonra, eski alan adınız <strong>HEMEN UYGUN DURUMA</strong> geçecek ve başka bir kullanıcı tarafından kayıt edilebilecektir.
     </p>
 </div>
