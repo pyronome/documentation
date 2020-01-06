@@ -197,6 +197,8 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
     </ul></p>
 </div>
 
+Herhangi bir sunucuya ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
+
 Bağlantı parametrelerini eksiksiz olarak girdikten sonra bağlantıyı test etmek için **"TEST"** düğmesine basabilirsiniz.
 
 ### Kod Depoları Sayfası
@@ -229,6 +231,8 @@ Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Ye
 | SSH Adresi | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. SSH bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
 | SSH Doğrulama Anahtar Çiftini Üret | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. Her yeni SSH kimlik doğrulaması yapacak kod deposu kaydı eklendiğinde otomatik olarak SSH anahtar çifti oluşturulur. Mevcut bir kod deposu için anahtar çiftini tekrar üretmek isterseniz bu seçeneği işaretleyebilirsiniz. |
 | İşlem Notu | Kod yükleme işleminin kod deposu kayıtlarında gösterilecek işlem notunu belirtir. İşlem notu bölümünde `{{project_name}}`, `{{project_title}}`, vb. özel tanımlayıcılar kullanabilirsiniz. Bu özel tanımların tam listesi aşağıda verilmiştir.<br><br>`Gerekli` |
+
+Herhangi bir kod deposuna ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
 
 #### İşlem Notu Özel Tanımlayıcıları
 Kod deposuna kod yükleme işlemi yapıldığında işlem kayıtları oluşturulur. Bu işlem kayıtları için kod yükleme işlemini yapan kullanıcılar özel notlar/mesajlar belirtebilmektedir. Pyronome üzerinden yapılan kod yükleme işlemlerine de benzer şekilde özel notlar/mesajlar eklenebilir. Eklenen bu mesajların içinde proje ve kod yükleme işlemine ait özel tanımlayıcılar kullanılabilir.
@@ -267,3 +271,68 @@ Aşağıda işlem notunda kullanılabilecek özel tanımlayıcıların listesini
 
 ### Web İstekleri Sayfası
 Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme işlemlerinden sonra web istekleri yapılmasını sağlayarak yazılım geliştirme süreçlerinizi otomatikleştirebilirsiniz.
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Web istekleri ardışık olarak gönderilmektedir. Başka bir deyişle, ilk web isteği gönderme işlemi tamamlanmadan ikinci istek gönderimi başlatılmaz.</p>
+</div>
+
+Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Yeni Kod Deposu"** düğmesine basabilirsiniz.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Web isteğinin etkin olup olmadığını gösterir. Etkin olmayan web isteği gönderilmez. |
+| Ad | Web isteğini listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Gerekli` |
+| URL | Web isteğinin yapılacağı adresi belirtir.<br><br>`Gerekli` |
+| Gizli Anahtar | Web isteğinin Pyronome sunucuları tarafından gönderildiğini doğrulamak amacıyla gizli anahtar belirtebilirsiniz. |
+| Üretme Olayı | Web isteğinin kod üretme işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
+| Konuşlandırma Olayı | Web isteğinin sunucu konuşlandırma işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
+| İttirme Olayı | Web isteğinin kod deposu ittirme işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
+
+Herhangi bir web isteğine ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
+
+Aşağıda örnek bir web isteğini görebilirsiniz.
+
+```JSON
+{
+	"event": {
+		"guid": "E0X0A0M0L0E0G0U0I0D",
+		"name": "Example1",
+		"type": 1
+	},
+	"server": {
+		"host":"www.pyronome.com",
+		"name":"platform"
+	},
+	"webhook": {
+		"id": 1,
+		"guid": "E0X0A0M0L0E0W0B0H0O0O0K",
+		"index": "1",
+		"name": "ExampleWebhook1",
+		"url": "https://example.com",
+		"secret_token": "YOUR_SECRET_TOKEN",
+        "on_generate": 1,
+        "on_deploy": 0,
+        "on_push": 0
+	},
+	"project": {
+		"id": 1,
+		"guid": "E0X0A0M0L0E0P0R0J0E0C0T",
+		"name": "exampleproject1",
+		"title": "Example Project 1",
+		"short_description": "Project Short Description",
+        "active_version": "1.0.0",
+        "path": "exampleuser/exampleproject1",
+        "main_directory": "",
+        "sub_directory": ""
+	},
+	"user": {
+		"id": 1,
+		"guid": "E0X0A0M0L0E0U0S0E0R",
+		"user_name": "exampleuser",
+        "full_name": "Example User"
+	}
+}
+```
