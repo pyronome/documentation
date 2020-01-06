@@ -33,8 +33,9 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
+| Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
 
 ## Proje Sayfası
 Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yapabilirsiniz.
@@ -93,9 +94,10 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
 | Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
+| Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -175,7 +177,7 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
 | ------ | ------ |
 | Etkin | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
 | Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Gerekli` |
-| Ad | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen kriterlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Ad | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
 | Açıklama | Sunucu ile ilgili açıklamaların girilebileceği form alanıdır. |
 | Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Gerekli` |
 | Kullanıcı | **"Sunucu Adresi"** form alanında belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Gerekli` |
