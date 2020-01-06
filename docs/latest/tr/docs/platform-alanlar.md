@@ -8,6 +8,8 @@ sidebar_label: Alanlar
 
 Geliştirilen kalıplar için [https://pyronome.com](https://pyronome.com) üzerinde genel ad uzayları oluşturmak amacıyla alanlar bölümü kullanılmaktadır. Alanlar bölümü yardımıyla,[https://pyronome.com](https://pyronome.com) alan adı üzerinden erişilebilen farklı kalıp dizinleri oluşturulabilmektedir.
 
+Bununla birlikte alanlar platform üzerinde oluşturulan proje ve kalıpları sınıflandırmak için de kullanıbilir. **"Ana Sayfa"**, **"Projeler"** ve **"Kalıplarım"** sayfalarının sağ üst tarafında alan seçim menüleri yer almaktadır. Alan seçimi yapıldığında sadece seçilen alan içindeki kayıtlar gösterilir.
+
 ## Alanlar Sayfası
 Oluşturduğunuz ya da üyesi olduğunuz alanların listelendiği sayfadır. Bu sayfa üzerinden yeni alan ekleyebilir ya da mevcut alanlarınızı görüntüleyebilirsiniz.
 
