@@ -242,7 +242,7 @@ Code generation auto-push by Pyronome
 Özel tanımlayıcı eklenmiş işlem notu:
 
 ```HTML
-Code generation auto-push by Pyronome for {{project_title}} ({{project_name}}, {{project_active_version}}) .
+Code generation auto-push by Pyronome for {{project_title}} ({{project_name}}, {{project_active_version}}).
 ```
 
 Aşağıda işlem notunda kullanılabilecek özel tanımlayıcıların listesini bulabilirsiniz:
