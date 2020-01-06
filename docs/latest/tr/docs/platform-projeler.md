@@ -235,13 +235,13 @@ Kod deposuna kod yükleme işlemi yapıldığında işlem kayıtları oluşturul
 
 Varsayılan işlem notu:
 
-```JavaScript
+```HTML
 Code generation auto-push by Pyronome
 ```
 
 Özel tanımlayıcı eklenmiş işlem notu:
 
-```JavaScript
+```HTML
 Code generation auto-push by Pyronome for {{project_title}} ({{project_name}}, {{project_active_version}}) .
 ```
 
