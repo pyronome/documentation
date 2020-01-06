@@ -215,9 +215,55 @@ Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Ye
 
 | Form Alanı | Açıklama |
 | ------ | ------ |
-| Etkin | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
-| Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Gerekli` |
+| Etkin | Kod deposunun etkin olup olmadığını gösterir. Etkin olmayan kod depolarına yükleme işlemi yapılmaz. |
+| Kod Deposu Adı | Kod depolarını listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Gerekli` |
+| Dal Adı (Branch) | Üretilen kodun hangi dala (branch) yükleneceğini belirten alandır. Eğer kod deposunda belirtilen dal bulunmuyorsa, dal önce üretilir daha sonra kod yükleme işlemi yapılır.<br><br>`Gerekli` |
+| Ana Dizin | Üretilen kod, kod deposu içindeki belli bir dalın içinde özel bir alt dizine yüklenmesi gerekiyorsa bu alana yükleme yapılacak dizinin adının girilmesi gerekmektedir. |
+| Dosyaları Eklemeden Önce Dizindeki Mevcut Dosyaları Sil | Bu seçenek işaretlendiğinde yükleme yapılmadan önce, yükleme yapılacak dizin içeriği silinir. Böylelikle model üzerinde adı değiştirilen ya da kaldırılan elemanlara ilişkin kodlar kolaylıkla temizlenebilir. |
+| E-posta Adresi | Kod deposuna erişim yetkisi olan kullanıcının e-posta adresini belirtmektedir. Böylelikle kayıtlarda yükleme işleminin hangi kullanıcı tarafından yapıldığını kolaylıkla ayırt edebilirsiniz.<br><br>`Gerekli` |
+| Kullanıcı Adı | Kod deposuna erişim yetkisi olan kullanıcının kullanıcı adını belirtmektedir. |
+| HTTPS Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse HTTPS üzerinden kimlik doğrulaması yapılacaktır. |
+| SSH Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse SSH üzerinden kimlik doğrulaması yapılacaktır. |
+| HTTPS URL | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
+| HTTPS Password | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yaparken kullanılacak şifreyi belirtir.<br><br>`Gerekli` |
+| SSH Adresi | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. SSH bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
+| SSH Doğrulama Anahtar Çiftini Üret | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. Her yeni SSH kimlik doğrulaması yapacak kod deposu kaydı eklendiğinde otomatik olarak SSH anahtar çifti oluşturulur. Mevcut bir kod deposu için anahtar çiftini tekrar üretmek isterseniz bu seçeneği işaretleyebilirsiniz. |
+| İşlem Notu | Kod yükleme işleminin kod deposu kayıtlarında gösterilecek işlem notunu belirtir. İşlem notu bölümünde `{{project_name}}`, `{{project_title}}`, vb. özel tanımlayıcılar kullanabilirsiniz. Bu özel tanımların tam listesi aşağıda verilmiştir.<br><br>`Gerekli` |
 
+#### İşlem Notu Özel Tanımlayıcıları
+Kod deposuna kod yükleme işlemi yapıldığında işlem kayıtları oluşturulur. Bu işlem kayıtları için kod yükleme işlemini yapan kullanıcılar özel notlar/mesajlar belirtebilmektedir. Pyronome üzerinden yapılan kod yükleme işlemlerine de benzer şekilde özel notlar/mesajlar eklenebilir. Eklenen bu mesajların içinde proje ve kod yükleme işlemine ait özel tanımlayıcılar kullanılabilir.
+
+Varsayılan işlem notu:
+
+```
+Code generation auto-push by Pyronome
+```
+
+Özel tanımlayıcı eklenmiş işlem notu:
+
+```
+Code generation auto-push by Pyronome for {{project_title}} ({{project_name}}, {{project_active_version}}) .
+```
+
+Aşağıda işlem notunda kullanılabilecek özel tanımlayıcıların listesini bulabilirsiniz:
+
+| Tanımlayıcı | Açıklama |
+| ------ | ------ |
+| `{{server_host}}` | Kod deposunun bulunduğu sunucunun adresini belirtir. |
+| `{{server_name}}` | Kod deposunun bulunduğu sunucunun adını belirtir. |
+| `{{project_id}}` | Kod yükleme işlemi yapılan projeye ait tamsayı tekil tanımlayıcıdır. |
+| `{{project_guid}}` | Kod yükleme işlemi yapılan projeye ait rakam ve harflerden oluşan tekil tanımlayıcıdır. Bu tanımlayıcı `{{project_id}}` aksine, platform içinde her eleman için benzersiz olma niteliğine sahiptir. |
+| `{{project_name}}` | Projenin adını belirtir. |
+| `{{project_title}}` | Projenin başlığını belirtir. |
+| `{{project_short_description}}` | Projenin kısa açıklamasını belirtir. |
+| `{{project_active_version}}` | Projenin etkin sürümünü belirtir. |
+| `{{project_path}}` | Projenin ad uzayını belirtir. |
+| `{{project_main_directory}}` | Projenin ana dizin adını belirtir. |
+| `{{project_sub_directory}}` | Projenin alt dizin adını belirtir. |
+| `{{user_id}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tamsayı tekil tanımlayıcıdır. |
+| `{{user_guid}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait rakam ve harflerden oluşan benzersiz tekil tanımlayıcıdır. |
+| `{{user_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait kullanıcı adını belirtir. |
+| `{{user_full_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tam adı belirtir. |
 
 ### Web İstekleri Sayfası
 Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme işlemlerinden sonra web istekleri yapılmasını sağlayarak yazılım geliştirme süreçlerinizi otomatikleştirebilirsiniz.
