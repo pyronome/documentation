@@ -279,7 +279,7 @@ Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme i
     <p>Web istekleri ardışık olarak gönderilmektedir. Başka bir deyişle, ilk web isteği gönderme işlemi tamamlanmadan ikinci istek gönderimi başlatılmaz.</p>
 </div>
 
-Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Yeni Kod Deposu"** düğmesine basabilirsiniz.
+Yükleme işleminin yapılacağı yeni bir web isteği kaydı eklemek için **"Yeni Web İsteği"** düğmesine basabilirsiniz.
 
 | Form Alanı | Açıklama |
 | ------ | ------ |
