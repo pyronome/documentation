@@ -38,7 +38,7 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
 
 ## Proje Sayfası
-Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yapabilirsiniz.
+Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yönetebilirsiniz.
 
 ### Genel Bakış Sayfası
 Proje sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm proje özelliklerinin özeti niteliğindedir.
