@@ -13,11 +13,11 @@ Oluşturduğunuz ya da üyesi olduğunuz kalıpların listelendiği sayfadır. B
 
 | Tablo Alanı | Açıklama |
 | ------ | ------ |
-| Ad | Projenin başlığı, projenin bulunduğu dizin ve proje adının gösterildiği alandır. |
-| Etkin Sürüm | Pyronome üzerinde projelerin farklı sürümleri oluşturulabilir. Bu alan üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Projenin **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
-| Etkin | Projenin etkin olup olmadığını belirten alandır. Etkin olmayan projeler, diğer üyeler tarafından görüntülenemez. |
-| <i class="fas fa-users"></i> Üyeler Düğmesi | Projenin sahibi tarafından belirlenen, projenin üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Projenin silinmesi için kullanılan düğmedir. |
+| Ad | Kalıbın başlığı, kalıbın bulunduğu dizin ve kalıp adının gösterildiği alandır. |
+| Etkin Sürüm | Pyronome üzerinde kalıpların farklı sürümleri oluşturulabilir. Bu alan, üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Kalıbın **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
+| Etkin | Kalıbın etkin olup olmadığını belirten alandır. Etkin olmayan kalıplar, diğer üyeler tarafından görüntülenemez. |
+| <i class="fas fa-users"></i> Üyeler Düğmesi | Kalıbın sahibi tarafından belirlenen, projenin üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
+| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Kalıbın silinmesi için kullanılan düğmedir. |
 
 ## Kurulan Kalıplar Sayfası
 Proje ya da kalıp oluştururken, **"Kalıp Ekle/Kur"** penceresi üzerinden proje ya da kalıbınıza dahil ettiğiniz kalıplar bu bölümde listelenmektedir.
@@ -27,18 +27,19 @@ Yeni kalıp ekleme formunun bulunduğu sayfadır.
 
 | Form Alanı | Açıklama |
 | ------ | ------ |
-| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Boş Proje Oluştur | Bu alan seçildiğinde boş bir proje oluşturulmaktadır. |
-| Varolan Projeyi Klonla | Daha önce oluşturduğunuz ya da üzerinde düzenleme yetkiniz olduğu bir projeyi klonlayarak yeni bir proje oluşturabilirsiniz. Bu alan seçildiğinde açılan alan içerisinden bir proje seçilmelidir. |
-| Projeler | Bu alan sadece **"Varolan Projeyi Klonla"** alanı seçildiğinde gösterilmektedir. Yeni oluşturulacak projenin hangi projeden klonlanacağını belirten alandır. Bu alanda önceden eklemiş olduğunuz ya da düzenleme yetkisine sahip olduğunuz projeler listelenmektedir. |
-| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
-| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
-| Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
-| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
-| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
-| Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
+| Etkin | Kalıbın etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Boş Kalıp Oluştur | Bu alan seçildiğinde boş bir kalıp oluşturulmaktadır. |
+| Varolan Kalıbı Klonla | Daha önce oluşturduğunuz ya da üzerinde düzenleme yetkiniz olan bir kalıbı klonlayarak yeni bir kalıp oluşturabilirsiniz. Bu alan seçildiğinde açılan alan içerisinden bir kalıp seçilmelidir. |
+| Kalıplar | Bu alan sadece **"Varolan Kalıbı Klonla"** alanı seçildiğinde gösterilmektedir. Yeni oluşturulacak kalıbın hangi kalıptan klonlanacağını belirten alandır. Bu alanda önceden eklemiş olduğunuz ya da düzenleme yetkisine sahip olduğunuz projeler listelenmektedir. |
+| Alan | Kalıbın hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
+| Varolan Dizine Ekle | Kalıbın önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
+| Yeni Dizin Oluştur | Bu alan seçildiğinde kalıp yeni oluşturulacak dizine kaydedilir. |
+| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği ana dizini belirtmektedir. |
+| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği alt dizini belirtmektedir. |
+| Ad | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` |
+| Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Pazaryeri üzerinde görüntülenebilir. **"Özel"** kalıplar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
+| Kalıp Logosu | Kalıba ait simgenin yüklenebileceği form alanıdır. |
 
 ## Kalıp Sayfası
 Kalıbınızın tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden kalıp şemasını, şablonlarını, modelini ve dosyalarını yönetebilirsiniz.
@@ -48,75 +49,68 @@ Kalıp sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm kal
 
 | Bölüm | Açıklama |
 | ------ | ------ |
-| Temel Özellikler | Projenin belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
-| Kalıplar | Projenin kalıplarının listelendiği bölümdür. Detaylı bilgi için [**"Kalıplar Sayfası"**](#kalıplar-sayfası) bölümüne bakınız. |
-| Kaynak Kod | Projenin üretilen kaynak kodunun gösterildiği bölümdür. Detaylı bilgi için [**"Kaynak Kod Sayfası"**](#kaynak-kod-sayfası) bölümüne bakınız. |
-| Sürümler | Proje sürümlerinin listelendiği bölümdür. Detaylı bilgi için [**"Sürümler Sayfası"**](#surumler-sayfası) bölümüne bakınız. |
-| Üyeler | Proje üyelerinin listelendiği bölümdür. Detaylı bilgi için [**"Üyeler Sayfası"**](#uyeler-sayfası) bölümüne bakınız. |
-| İşlem Geçmişi | Proje üzerinde düzenleme yetkisine sahip kullanıcıların, proje üzerinde yapmış olduğu güncellemelerin listelendiği bölümdür. |
-| Sunucular | Proje sunucularının listelendiği bölümdür. Detaylı bilgi için [**"Sunucular Sayfası"**](#sunucular-sayfası) bölümüne bakınız. |
-| Kod Depoları | Projenin kod depolarının listelendiği bölümdür. Detaylı bilgi için [**"Kod Depoları Sayfası"**](#kod-depoları-sayfası) bölümüne bakınız. |
-| Web İstekleri | Projenin web isteklerinin listelendiği bölümdür. Detaylı bilgi için [**"Web İstekleri Sayfası"**](#web-i-stekleri-sayfası) bölümüne bakınız. |
+| Temel Özellikler | Kalıbın belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
+| Kalıplar | Kalıbın bağımlı olduğu kalıpların listelendiği bölümdür. Detaylı bilgi için [**"Kalıplar Sayfası"**](#kalıplar-sayfası) bölümüne bakınız. |
+| Dosyalar | Kalıbın statik dosyalarının gösterildiği bölümdür. Detaylı bilgi için [**"Dosyalar Sayfası"**](#dosyalar-sayfası) bölümüne bakınız. |
+| Sürümler | Kalıp sürümlerinin listelendiği bölümdür. Detaylı bilgi için [**"Sürümler Sayfası"**](#surumler-sayfası) bölümüne bakınız. |
+| Üyeler | Kalıbın üyelerinin listelendiği bölümdür. Detaylı bilgi için [**"Üyeler Sayfası"**](#uyeler-sayfası) bölümüne bakınız. |
+| İşlem Geçmişi | Kalıp üzerinde düzenleme yetkisine sahip kullanıcıların, kalıp üzerinde yapmış olduğu güncellemelerin listelendiği bölümdür. |
 
 ### Şema Sayfası
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
+Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafından eklenecek belli parametrelere ihtiyaç duymaktadır. Bu bölümde kullanıcı tarafından eklenecek parametrelerin ne olduğu ve kullanıcıdan nasıl alıncağı belirlenir. Böylelikle kullanıcı kalıbı kendi projesine eklediğinde projenin model sayfası bu bölümde belirlenen şemaya göre oluşturulur.
 
 | Bölüm | Açıklama |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Arama Bölümü | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Hepsini Daralt | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Güncelleme Geçmişi | Şema güncelleme işlemi yapıldığında şemanın bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Şema güncelleme işlemi sırasında şemanın belirlenen ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
+| Arama Bölümü | Şema içeriğinde belirtilen değerlerin ve şema alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
+| <i class="fas fa-minus-square"></i> Hepsini Daralt | Şema içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
+| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Şema içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
+| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Şemayı JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Doğrulama Sayfası
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
+Kalıbın şeması belirlendikten sonra, bu şemanın hangi koşullara göre doğrulanacağının belirtilmesi gerekmektedir. Böylelikle kalıbınızı kullanan kullanıcıları yönlendirip; kaynak kod üretim aşamasından önce gerekli kontrollerin yapılmasını sağlayabilirsiniz. Uyumsuz bölümlerin kullanıcılara gösterilip; bu uyumsuzlukların düzeltilmesini sağlayabilirsiniz. Bu bölümde doğrulamanın yapılması için koşullar oluşturulmaktadır.
 
 | Bölüm | Açıklama |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Arama Bölümü | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Hepsini Daralt | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Güncelleme Geçmişi | Doğrulama modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Doğrulama modellerinin de ön tanımlı kuralları bulunmaktadır. Doğrulama modelinin belirlenen ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
+| Arama Bölümü | Doğrulama model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
+| <i class="fas fa-minus-square"></i> Hepsini Daralt | Doğrulama model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
+| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Doğrulama modeli içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
+| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Doğrulama modelini JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Dosyalar Sayfası
-Projenizin kaynak kodunu bu bölümden görüntüleyebilirsiniz. Model üzerinde ya da kalıplarda herhangi bir değişiklik yapıldığında bu bölüme giriş yapıldığında otomatik olarak kaynak kod üretim işlemi gerçekleştirilir.
+Kaynak kod üretim aşamasında, bazı dosyalar doğrudan -üzerinde hiçbir işlem yapılmadan- kaynak kod eklenmesi gerekmektedir. Bu dosyalar statik dosyalar olarak adlandırılmaktadır. Bu bölümde, bu statik dosyalar eklenebilmektedir.
 
-Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** düğmesine basabilirsiniz. Kaynak kod üretim işlemini yeniden başlattıktan sonra sayfa yeniden yüklenir ve kaynak kod üretim işlemi arkaplanda devam eder. Sayfanın sağ üst tarafında kaynak kod üretim işlemi devam ediyorken **"Üretiliyor..."** bildirimi gösterilir. Kaynak kod üretim işlemi tamamlandığında otomatik olarak dosya listesi güncellenir. Kaynak kod üretim işlemi projenin büyüklüğüne ve seçilen kalıpların içeriğine göre değişiklik gösterebilmektedir.
-
-Üretilen kaynak kodun tamamını tek bir .zip uzantılı dosya olarak indirmek için **"İndir (.zip)"** düğmesine basabilirsiniz.
-
-Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
+Bu bölümde eklenebilecek dosyalar, resim, ikili dosya (Binary File) ve metin tabanlı dosyalar olabilir. Metin tabanlı dosyalar bütünleşik editör yardımıyla düzenlenebilmektedir. Bununla birlikte bütün statik dosyaların .zip uzantılı sıkıştırılmış bir dosya olarak atılması ve sıkıştırılmış dosyanın açılmasını sağlayabilirsiniz.
 
 ### Şablonlar Sayfası
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
+Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar model ağacına göre kod parçalarının bir araya getirilerek üreteçlerin oluşturulmasını sağlamaktadır.
 
 | Bölüm | Açıklama |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Arama Bölümü | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Hepsini Daralt | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Güncelleme Geçmişi | Şablon modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Şablon model güncelleme işlemi sırasında modelin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
+| Arama Bölümü | Şablon model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
+| <i class="fas fa-minus-square"></i> Hepsini Daralt | Şablon modeli içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
+| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Şablon modeli içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
+| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Şablon modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Değişkenler Sayfası
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
+Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu kalıplar için kaynak kod üretim işlemi birbirinden ayrı işletilmektedir. Bununla birlikte kaynak kod üretimi paralel işleme ile de gerçekleştirilebilir. Bu gibi durumlarda genel değişken tanımları yapılıp bu değişken tanımlarının bütün kaynak kod üretim sürecinde tanımlı kalmasını bu bölümü kullanarak sağlayabilirsiniz.
 
 | Bölüm | Açıklama |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Arama Bölümü | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Hepsini Daralt | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Güncelleme Geçmişi | Değişkenlerin güncelleme işlemi yapıldığında değişkenlerin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Değişken güncelleme işlemi sırasında değişkenlerin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
+| Arama Bölümü | Değişkenlerin içeriğinde belirtilen değerlerin aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
+| <i class="fas fa-minus-square"></i> Hepsini Daralt | Değişkenlerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
+| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Daraltılmış değişkenlerin hepsini genişletir. |
+| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Değişkenleri JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Model Sayfası
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
+Kalıbın seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ve bu kalıbın şema bölümünde belirlenen ölçütlere göres bu bölümde model içeriği oluşturulur.
 
 | Bölüm | Açıklama |
 | ------ | ------ |
@@ -128,11 +122,11 @@ Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçil
 | <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Kalıplar Sayfası
-Projenin kaynak kod üretimi, projeye kurulu kalıplar sayesinde gerçekleştirilir. Bir projeye birden fazla kalıp kurulabilir. Böylelikle kaynak kodu üretilecek uygulamanın farklı bölümlerinin farklı teknolojilere dönüştürülmesi ve aynı teknolojinin yeni sürümü ile güncellenmesi kolaylıkla gerçekleştirilebilir.
+Aynen projelerde olduğu gibi kalıplara da başka kalıplar kurulabilir. Böylelikle bazı alt seviye kalıpların tekrar tekrar seçilmesi zorunluğu ortadan kalkar.
 
-**"Kalıp Ekle/Kur"** düğmesine basıldığında projeye kurulabilecek kalıpların listesini gösteren pencere açılır. Bu bölüm yardımıyla kalıplar belli ölçütlere göre arayabilir ve kalıp kurma ve satın alma işlemlerini gerçekleştirebilirsiniz.
+**"Kalıp Ekle/Kur"** düğmesine basıldığında kalıba kurulabilecek kalıpların listesini gösteren pencere açılır. Bu bölüm yardımıyla kalıplar belli ölçütlere göre arayabilir ve kalıp kurma ve satın alma işlemlerini gerçekleştirebilirsiniz.
 
-Projeye kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
+Kalıba kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
 
 ### Genel Ayarlar Sayfası
 Projeye ait genel bilgilerin güncellendiği bölümdür.
