@@ -129,20 +129,22 @@ Aynen projelerde olduğu gibi kalıplara da başka kalıplar kurulabilir. Böyle
 Kalıba kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
 
 ### Genel Ayarlar Sayfası
-Projeye ait genel bilgilerin güncellendiği bölümdür.
+Kalıba ait genel bilgilerin güncellendiği bölümdür.
 
 | Form Alanı | Açıklama |
 | ------ | ------ |
-| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
-| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
+| Etkin | Kalıbın etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Alan | Kalıbın hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
+| Varolan Dizine Ekle | Kalıbın önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
-| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
-| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
-| Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
-| Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
+| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği ana dizini belirtmektedir. |
+| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği alt dizini belirtmektedir. |
+| Ad | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
+| Kısa Açıklama | Kalıbı anlatan bir cümlelik tanımıdır. |
+| Açıklama | Kalıp ile ilgili açıklamaların girilebileceği form alanıdır. |
+| Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Pazaryeri üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
+| Kalıp Logosu | Kalıba ait simgenin yüklenebileceği form alanıdır. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -159,22 +161,22 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 </div>
 
 ### Üyeler Sayfası
-Projeyi görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
+Kalıbı görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
 
-Projeye 3 (üç) farklı türde üye eklebilirsiniz:
-- Yönetici: Proje üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
-- Geliştirici: Proje özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
-- İzleyici: Proje özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
+Kalıba 3 (üç) farklı türde üye eklebilirsiniz:
+- Yönetici: Kalıp üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
+- Geliştirici: Kalıp özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
+- İzleyici: Kalıp özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
 
 <div class="panelize-infobox infobox-info">
     <p>
         <strong><i class="fas fa-info-circle"></i> Not:</strong>
     </p>
-    <p>Projeye ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek; davet gönderebilirsiniz.</p>
+    <p>Kalıba ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek davet gönderebilirsiniz.</p>
 </div>
 
 ### Sürümler Sayfası
-Proje modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Proje sürümlerini belirlerken,
+Kalıp modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Kalıp sürümlerini belirlerken,
 
 1. Majör
 2. Minor
@@ -198,31 +200,32 @@ soneklerini ekleyerek ara sürümler de oluşturabilirsiniz.
 </div>
 
 ### Pazaryeri Sayfası
-Projeye ait genel bilgilerin güncellendiği bölümdür.
+Kalıbın Pazaryeri üzerindeki sayfası ile ilgili bilgilerin güncellendiği bölümdür. Bu bölümdeki form alanların bir çoğu **"Genel Ayarlar Sayfası"** bölümündeki alanlardır.
 
 | Form Alanı | Açıklama |
 | ------ | ------ |
-| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
-| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
-| Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
-| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
-| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
-| Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
-| Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
+| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
+| Kısa Açıklama | Kalıbı anlatan bir cümlelik tanımıdır.<br><br>`Gerekli` |
+| Kategori | Kalıbın hangi kategori altında listeleneceğini belirtmektedir.<br><br>`Gerekli` |
+| Açıklama | Kalıp ile ilgili açıklamaların girilebileceği form alanıdır. |
+| Anahtar Kelimeler | Pazaryeri üzerinde herhangi bir arama gerçekleştirildiğinde kullanılacak anahtar kelimelerdir.<br><br>`Gerekli` |
+| Web URL | Kalıbın web sitesi adresini girebileceğiniz alandır. |
+| Destek URL | Kalıp kullanıcılarının yararlanabileceği destek adresini belirtmektedir. Bu bölüme GitHub, GitLab, BitBucket vb. çevrimiçi kod depolarının **"Issues"** sayfa adreslerini girebilirsiniz. |
+| Kod Deposu URL | Kalıbın kod deposu adresini girebileceğiniz alandır. |
+| README.md URL (DETAYLAR Sekmesi) | Pazaryeri üzerindeki kalıbın sayfasında **"Detaylar"** sekmesinde gösterilecek **"README.md"** dosyasının adresini belirtmektedir. |
+| Lisanslama | Kalıbın kullanım lisansını belirtmektedir. |
+| Fiyatlama | Kalıbın fiyatının belirlendiği bölümdür. |
+| Sabit Fiyat (USD) | Kalıbın fiyatlama biçimi **"Sabit Fiyat"** olarak seçildiğinde gösterilir. Kalıbın fiyatının USD para biriminde girildiği alandır. |
+| Resim Galerisi | Kalıbın ekran görüntüleri, kullanımı ile ilgili görsellerin eklendiği alandır. Bu alanda 10 (on) adet görsele yer verilebilir. Eklenen ilk görsel vitrin görseli olarak seçilir. |
+| Ad | Kalıbın geliştiricisinin adını girebileceğiniz bölümdür. |
+| Soyad | Kalıbın geliştiricisinin soyadını girebileceğiniz bölümdür. |
+| Telefon | Kalıbın geliştiricisinin telefonunu girebileceğiniz bölümdür. |
+| E-posta Adresi | Kalıbın geliştiricisinin e-posta adresini girebileceğiniz bölümdür. |
+| Notlar | Kalıbın geliştiricisinin iletişim bilgileri ile ilgili belirtmek istediği notlar bu alana girilmektedir. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
     </p>
-    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
-    <ul>
-        <li>Sadece İngilizce karakterler içermelidir.</li>
-        <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
-        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
-        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
-    </ul></p>
+    <p>Bu bölümde belirtilen URL adresleri genel kullanıma açık olmalıdır.</p>
 </div>
