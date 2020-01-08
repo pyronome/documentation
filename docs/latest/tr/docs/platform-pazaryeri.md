@@ -22,10 +22,10 @@ Kalıpların sahip olduğu etiketler Pazaryeri içindeki listelerde gösterim s�
 
 Buna göre;
 
-1. Yetkili Kalıplar
-2. Kurumsal Kalıplar
-3. Onaylı Kalıplar
-4. Kararlı Kalıplar
+1. Yetkili Kalıplar,
+2. Kurumsal Kalıplar,
+3. Onaylı Kalıplar,
+4. Kararlı Kalıplar,
 5. Diğer Kalıplar
 
 gösterilmektedir.
