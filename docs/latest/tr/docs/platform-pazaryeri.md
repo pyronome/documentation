@@ -27,3 +27,5 @@ Buna göre;
 3. Onaylı Kalıplar
 4. Kararlı Kalıplar
 5. Diğer Kalıplar
+
+gösterilmektedir.
