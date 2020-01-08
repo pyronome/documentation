@@ -14,4 +14,4 @@ Platform üyelik ücret ödemeleri ve Pazaryeri kalıp ve kredi satın alma işl
 | Sipariş Açıklaması | Sipariş için belirtilen ticari ünvanı ve sipariş numarasını gösteren alandır. |
 | Sipariş Tutarı | Sipariş tutarını belirten alandır. |
 | Sipariş Durumu | Sipariş durumunu belirten alandır. |
-| <i class="fas fa-file-alt"></i> İşlem Detayı Düğmesi | İşlem detayları gösterir. |
+| <i class="fas fa-file-alt"></i> İşlem Detayı Düğmesi | İşlem detaylarını gösterir. |
