@@ -29,3 +29,9 @@ Buna göre;
 5. Kararlı Olmayan Kalıplar
 
 gösterilmektedir.
+
+## Kalıp Sayfası
+Pazaryeri içinde listelenen her kalıp için bir sayfa oluşturulmuştur. Bu sayfa üzerinde kalıp ile ilgili genel bilgiler, kalıbın görselleri, sürümleri, kod deposu, destek ve varsa web sitesi adresleri, lisansı ve bağımlı olduğu diğer kalıplar ile ilgili bilgiler verilmektedir.
+
+## Profil Sayfası
+Profil sayfası ile ilgili detaylı bilgiye [Profil Sayfası](/latest/tr/docs/platform-kullanici-profili#profil-sayfası) bölümünden ulaşabilirsiniz.
