@@ -26,6 +26,6 @@ Buna göre;
 2. Kurumsal Kalıplar,
 3. Onaylı Kalıplar,
 4. Kararlı Kalıplar,
-5. Diğer Kalıplar
+5. Kararlı Olmayan Kalıplar
 
 gösterilmektedir.
