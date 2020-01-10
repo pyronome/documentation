@@ -5,11 +5,12 @@ title: Payments & Billing
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## Başlarken
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+Platform üyelik ücret ödemeleri ve Marketplace kalıp ve kredi satın alma işlemleri bu bölümde görüntülenmektedir.
 
-## Yardım Kanalları
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
-
-## Platform
-Daha detaylı bilgi almak için aşağıdaki başlıkları inceleyebilirsiniz:
+| Table Field | Description |
+| ------ | ------ |
+| İşlem Tarihi | Yapılan ödeme işleminin tarihini belirtir. |
+| Sipariş Descriptionsı | Sipariş için belirtilen ticari ünvanı ve sipariş numarasını gösteren alandır. |
+| Sipariş Tutarı | Sipariş tutarını belirten alandır. |
+| Sipariş Durumu | Sipariş durumunu belirten alandır. |
+| <i class="fas fa-file-alt"></i> İşlem Detayı Düğmesi | İşlem detaylarını gösterir. |
