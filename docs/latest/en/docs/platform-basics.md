@@ -36,8 +36,25 @@ Although the Agile Software Development approach is proposed as an alternative t
 
 ## Lean Software Development
 
-Text goes here...
+To understand the Lean Software Development approach, we need to understand the concept of "Lean" used for systems. The word "Lean" refers to a fast and flexible production flow. The "Lean" concept used for the systems can be summarized as the systems that provide the highest value to the stakeholders of the relevant system with the highest efficiency. Lean Software Development approach is based on Toyota's Lean Product Development approach.
+
+Lean Software Development approach can be defined as rapid and cost-effective software development with a competent team besides efficient and sustainable processes. The development team gathered for Lean Software Development should focus on continuous improvement in development processes.
+
+- Holistic optimization approach,
+- Eliminating time-consuming and unnecessary processes,
+- Building quality with effective, efficient and sustainable methods,
+- Stay true to planning,
+- Recognizing the stakeholders of the system and caring for their needs,
+- Ensuring the transformation of tacit knowledge into accumulation by experiencing
+- Delivering fast results
+can be counted as Lean Software Development principles.
+
+In order to implement the Lean Software Development approach accurately, the development team must convert all requirements into unit specifications before starting any production process. The development team should understand the importance of building an environment of interaction shaped by continuous communication with the users/stakeholders/customers of the system, not assumptions. Only the features that are necessary and feasible should be taken into consideration. If a requested feature is not possible, no time should be wasted to improve it. With continuous observation and measurement, time-consuming processes need to be avoided. The team should ensure the transformation of intermediate outputs into final outputs. The development team covers everyone who contributes to the development of the system in any way. Managers, analysts, quality engineers, developers, system administrators, people who deal with installation, support, and maintenance are considered noble members of the development team. Any suggestions for improvement should be carefully analyzed. Also, a strategy should be designed to evaluate the recommendations and to ensure the implementation of the appropriate ones.
 
 ## Low-Code Platforms
 
-Text goes here...
+For more than 20 years, companies have been investing in huge software applications to increase their productivity. Although these software applications have singular functionality, their ability to adapt to changing situations is limited. The internet has lifted the borders, and the local competitive environment of the companies has gained a global dimension. In other words, in today's world, a company that produces automobile spare parts has to compete not only with companies in its province or country but with companies all over the world. The changing competitive environment has profoundly affected the firm scales and business patterns as well. The necessity of adapting to innovations and the necessity of implementing new business patterns have required new features from these huge software applications. Also, the global competitive environment has led to the formation of new firm cultures. However, these huge software applications, which operate with standard approaches, have had difficulty in adapting these new firm cultures. For this reason, many companies have started to use spreadsheets.
+
+The difficulty in the adaptation of these huge software applications to new business patterns and the sharing, updating, managing, and synchronizing problems of the spreadsheets have resulted in the invention of low-code platforms.
+
+Low-code platforms are software platforms where the users can add new features by themselves by writing little or no code. In this way, software applications can easily be adapted to new business patterns; also, the new features can easily be added by people who have limited knowledge in software development, just like spreadsheets. With the development of cloud-based technologies, it has become possible to access via mobile devices regardless of location and time. Thanks to these features, it has been accepted and widely used by many companies.
