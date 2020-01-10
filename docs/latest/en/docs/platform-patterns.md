@@ -15,8 +15,8 @@ Oluşturduğunuz ya da üyesi olduğunuz kalıpların listelendiği sayfadır. B
 | Ad | Kalıbın başlığı, kalıbın bulunduğu dizin ve kalıp adının gösterildiği alandır. |
 | Etkin Sürüm | Pyronome üzerinde kalıpların farklı sürümleri oluşturulabilir. Bu alan, üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Kalıbın **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
 | Etkin | Kalıbın etkin olup olmadığını belirten alandır. Etkin olmayan kalıplar, diğer üyeler tarafından görüntülenemez. |
-| <i class="fas fa-users"></i> Üyeler Düğmesi | Kalıbın sahibi tarafından belirlenen, kalıbın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Kalıbın silinmesi için kullanılan düğmedir. |
+| <i class="fas fa-users"></i> Members Button | Kalıbın sahibi tarafından belirlenen, kalıbın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
+| <i class="fas fa-trash-alt"></i> Delete Button | Kalıbın silinmesi için kullanılan düğmedir. |
 
 ## Kurulan Kalıplar Sayfası
 Proje ya da kalıp oluştururken, **"Kalıp Ekle/Kur"** penceresi üzerinden proje ya da kalıbınıza dahil ettiğiniz kalıplar bu bölümde listelenmektedir.
@@ -46,7 +46,7 @@ Kalıbınızın tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden ka
 ### Genel Bakış Sayfası
 Kalıp sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm kalıp özelliklerinin özeti niteliğindedir.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | Temel Özellikler | Kalıbın belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
 | Kalıplar | Kalıbın bağımlı olduğu kalıpların listelendiği bölümdür. Detaylı bilgi için [**"Kalıplar Sayfası"**](#kalıplar-sayfası) bölümüne bakınız. |
@@ -58,7 +58,7 @@ Kalıp sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm kal
 ### Şema Sayfası
 Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafından eklenecek belli parametrelere ihtiyaç duymaktadır. Bu bölümde kullanıcı tarafından eklenecek parametrelerin ne olduğu ve kullanıcıdan nasıl alıncağı belirlenir. Böylelikle kullanıcı kalıbı kendi projesine eklediğinde projenin model sayfası bu bölümde belirlenen şemaya göre oluşturulur.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Şema güncelleme işlemi yapıldığında şemanın bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Şema güncelleme işlemi sırasında şemanın belirlenen ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
@@ -70,7 +70,7 @@ Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafı
 ### Doğrulama Sayfası
 Kalıbın şeması belirlendikten sonra, bu şemanın hangi koşullara göre doğrulanacağının belirtilmesi gerekmektedir. Böylelikle kalıbınızı kullanan kullanıcıları yönlendirip; kaynak kod üretim aşamasından önce gerekli kontrollerin yapılmasını sağlayabilirsiniz. Uyumsuz bölümlerin kullanıcılara gösterilip; bu uyumsuzlukların düzeltilmesini sağlayabilirsiniz. Bu bölümde doğrulamanın yapılması için koşullar oluşturulmaktadır.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Doğrulama modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Doğrulama modellerinin de ön tanımlı kuralları bulunmaktadır. Doğrulama modelinin belirlenen ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
@@ -87,7 +87,7 @@ Bu bölümde eklenebilecek dosyalar, resim, ikili dosya (Binary File) ve metin t
 ### Şablonlar Sayfası
 Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar model ağacına göre kod parçalarının bir araya getirilerek üreteçlerin oluşturulmasını sağlamaktadır.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Şablon modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Şablon model güncelleme işlemi sırasında modelin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
@@ -99,7 +99,7 @@ Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar m
 ### Değişkenler Sayfası
 Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu kalıplar için kaynak kod üretim işlemi birbirinden ayrı işletilmektedir. Bununla birlikte kaynak kod üretimi paralel işleme ile de gerçekleştirilebilir. Bu gibi durumlarda genel değişken tanımları yapılıp bu değişken tanımlarının bütün kaynak kod üretim sürecinde tanımlı kalmasını bu bölümü kullanarak sağlayabilirsiniz.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Değişkenlerin güncelleme işlemi yapıldığında değişkenlerin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Değişken güncelleme işlemi sırasında değişkenlerin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
@@ -111,7 +111,7 @@ Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu
 ### Model Sayfası
 Kalıbın seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ve bu kalıbın şema bölümünde belirlenen ölçütlere göres bu bölümde model içeriği oluşturulur.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |

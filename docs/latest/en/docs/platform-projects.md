@@ -5,21 +5,21 @@ title: Projects
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Platform üzerinde geliştirmekte olduğunuz projelerin listelendiği bölümdür.
+This section contains projects that you are developing on the platform.
 
-## Projeler Sayfası
-Oluşturduğunuz ya da üyesi olduğunuz projelerin listelendiği sayfadır. Bu sayfa üzerinden yeni proje ekleyebilir ya da mevcut projelerinizi görüntüleyebilirsiniz.
+## Projects Page
+This page contains the projects you have created or are a member of. You can add new projects or view your existing projects on this page.
 
 | Table Field | Description |
 | ------ | ------ |
-| Ad | Projenin başlığı, projenin bulunduğu dizin ve proje adının gösterildiği alandır. |
-| Etkin Sürüm | Pyronome üzerinde projelerin farklı sürümleri oluşturulabilir. Bu alan üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Projenin **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
-| Etkin | Projenin etkin olup olmadığını belirten alandır. Etkin olmayan projeler, diğer üyeler tarafından görüntülenemez. |
-| <i class="fas fa-users"></i> Üyeler Düğmesi | Projenin sahibi tarafından belirlenen, projenin üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Projenin silinmesi için kullanılan düğmedir. |
+| Name | This field shows the project title, the folder where the project is located and the project name. |
+| Active Version | Pyronome allows users to create different versions of their projects. This field refers to the version in which the user actively makes modifications to it. The active version can be changed via the **"Versions"** page of the project. |
+| Enabled | This field indicates whether the project is enabled or not. Other members cannot view disabled projects. |
+| <i class="fas fa-users"></i> Members Button | Displays the **"Members"** page, which lists other members authorized to take action on the project. |
+| <i class="fas fa-trash-alt"></i> Delete Button | You can use this button to delete a specific project. |
 
-## Yeni Proje Sayfası
-Yeni proje ekleme formunun bulunduğu sayfadır.
+## New Project Page
+This page contains the form, which you can add a new project.
 
 | Form Field | Description |
 | ------ | ------ |
@@ -36,13 +36,13 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
 | Proje Logosu | Projeye ait simgenin yüklenebileceği Form Fielddır. |
 
-## Proje Sayfası
+## Project Page
 Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yönetebilirsiniz.
 
-### Genel Bakış Sayfası
+### Overview Page
 Proje sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm proje özelliklerinin özeti niteliğindedir.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | Temel Özellikler | Projenin belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
 | Kalıplar | Projenin kalıplarının listelendiği bölümdür. Detaylı bilgi için [**"Kalıplar Sayfası"**](#kalıplar-sayfası) bölümüne bakınız. |
@@ -54,10 +54,10 @@ Proje sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm proj
 | Kod Depoları | Projenin kod depolarının listelendiği bölümdür. Detaylı bilgi için [**"Kod Depoları Sayfası"**](#kod-depoları-sayfası) bölümüne bakınız. |
 | Web İstekleri | Projenin web isteklerinin listelendiği bölümdür. Detaylı bilgi için [**"Web İstekleri Sayfası"**](#web-i-stekleri-sayfası) bölümüne bakınız. |
 
-### Model Sayfası
+### Model Page
 Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
 
-| Bölüm | Description |
+| Section | Description |
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
@@ -66,14 +66,14 @@ Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçil
 | <i class="fas fa-plus-square"></i> Hepsini Genişlet | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
 | <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
-### Kalıplar Sayfası
+### Patterns Page
 Projenin kaynak kod üretimi, projeye kurulu kalıplar sayesinde gerçekleştirilir. Bir projeye birden fazla kalıp kurulabilir. Böylelikle kaynak kodu üretilecek uygulamanın farklı bölümlerinin farklı teknolojilere dönüştürülmesi ve aynı teknolojinin yeni sürümü ile güncellenmesi kolaylıkla gerçekleştirilebilir.
 
 **"Kalıp Ekle/Kur"** düğmesine basıldığında projeye kurulabilecek kalıpların listesini gösteren pencere açılır. Bu bölüm yardımıyla kalıplar belli ölçütlere göre arayabilir ve kalıp kurma ve satın alma işlemlerini gerçekleştirebilirsiniz.
 
 Projeye kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
 
-### Kaynak Kod Sayfası
+### Source Code Page
 Projenizin kaynak kodunu bu bölümden görüntüleyebilirsiniz. Model üzerinde ya da kalıplarda herhangi bir değişiklik yapıldığında bu bölüme giriş yapıldığında otomatik olarak kaynak kod üretim işlemi gerçekleştirilir.
 
 Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** düğmesine basabilirsiniz. Kaynak kod üretim işlemini yeniden başlattıktan sonra sayfa yeniden yüklenir ve kaynak kod üretim işlemi arkaplanda devam eder. Sayfanın sağ üst tarafında kaynak kod üretim işlemi devam ediyorken **"Üretiliyor..."** bildirimi gösterilir. Kaynak kod üretim işlemi tamamlandığında otomatik olarak dosya listesi güncellenir. Kaynak kod üretim işlemi projenin büyüklüğüne ve seçilen kalıpların içeriğine göre değişiklik gösterebilmektedir.
@@ -82,7 +82,7 @@ Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** d
 
 Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
 
-### Genel Ayarlar Sayfası
+### General Settings Page
 Projeye ait genel bilgilerin güncellendiği bölümdür.
 
 | Form Field | Description |
@@ -112,7 +112,7 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
     </ul></p>
 </div>
 
-### Üyeler Sayfası
+### Members Page
 Projeyi görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
 
 Projeye 3 (üç) farklı türde üye eklebilirsiniz:
@@ -127,7 +127,7 @@ Projeye 3 (üç) farklı türde üye eklebilirsiniz:
     <p>Projeye ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek; davet gönderebilirsiniz.</p>
 </div>
 
-### Sürümler Sayfası
+### Versions Page
 Proje modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Proje sürümlerini belirlerken,
 
 1. Majör
@@ -151,7 +151,7 @@ soneklerini ekleyerek ara sürümler de oluşturabilirsiniz.
     <p>Pyronome sürümlerin belirlenmesinde <strong>Anlamsal Sürümleme</strong> yaklaşımını önermektedir. Anlamsal Sürümleme ile ilgili daha detaylı bilgi için <a href="https://semver.org/lang/tr/">https://semver.org/</a> adresini ziyaret edebilirsiniz.</p>
 </div>
 
-### Sunucular Sayfası
+### Servers Page
 Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği/kurulacağı sunucuaları belirtmek için bu bölümü kullanabilirsiniz.
 
 Bu bölümde şuan için;
@@ -202,7 +202,7 @@ Herhangi bir sunucuya ait işlem kayıtlarını görüntülemek için, ilgili ka
 
 Bağlantı parametrelerini eksiksiz olarak girdikten sonra bağlantıyı test etmek için **"TEST"** düğmesine basabilirsiniz.
 
-### Kod Depoları Sayfası
+### Repositories Page
 Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği kod depolarını belirtmek için bu bölümü kullanabilirsiniz.
 
 Oluşturulan kaynak kodu elle mevcut kod depolarına yüklemek için **"Şimdi İttir!"** düğmesine basabilirsiniz. Kaynak kod belirlediğiniz sıra ile kod depolarına yüklenecektir.
@@ -235,7 +235,7 @@ Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Ye
 
 Herhangi bir kod deposuna ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
 
-#### İşlem Notu Özel Tanımlayıcıları
+#### Commit Message Mustache Templates
 Kod deposuna kod yükleme işlemi yapıldığında işlem kayıtları oluşturulur. Bu işlem kayıtları için kod yükleme işlemini yapan kullanıcılar özel notlar/mesajlar belirtebilmektedir. Pyronome üzerinden yapılan kod yükleme işlemlerine de benzer şekilde özel notlar/mesajlar eklenebilir. Eklenen bu mesajların içinde proje ve kod yükleme işlemine ait özel tanımlayıcılar kullanılabilir.
 
 Varsayılan işlem notu:
@@ -270,7 +270,7 @@ Aşağıda işlem notunda kullanılabilecek özel tanımlayıcıların listesini
 | `{{user_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait kullanıcı adını belirtir. |
 | `{{user_full_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tam adı belirtir. |
 
-### Web İstekleri Sayfası
+### Webhooks Page
 Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme işlemlerinden sonra web istekleri yapılmasını sağlayarak yazılım geliştirme süreçlerinizi otomatikleştirebilirsiniz.
 
 <div class="panelize-infobox infobox-warning">

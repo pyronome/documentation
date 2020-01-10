@@ -17,8 +17,8 @@ Oluşturduğunuz ya da üyesi olduğunuz alanların listelendiği sayfadır. Bu 
 | Ad | Alanın adını belirtir. |
 | Etkin | Alanın etkin olup olmadığını belirtir. |
 | Görünüm | Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
-| <i class="fas fa-users"></i> Üyeler Düğmesi | Alanın sahibi tarafından belirlenen, alanın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Alanın silinmesi için kullanılan düğmedir. |
+| <i class="fas fa-users"></i> Members Button | Alanın sahibi tarafından belirlenen, alanın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
+| <i class="fas fa-trash-alt"></i> Delete Button | Alanın silinmesi için kullanılan düğmedir. |
 
 ## Yeni Alan Sayfası
 Yeni alan ekleme formunun bulunduğu sayfadır.
