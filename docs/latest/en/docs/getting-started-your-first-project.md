@@ -31,7 +31,7 @@ After your first login, you will be redirected to the new project page. You can 
     </ul></p>
 </div>
 
-## Selection of Patterns
+## Choosing Patterns
 
 Patterns are the components that determine the model of the project and the content of the project source code to be generated. You can select more than one pattern for a project.
 
