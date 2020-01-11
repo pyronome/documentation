@@ -17,7 +17,7 @@ Profiliniz ile ilgili bilgileri bu bölümden düzenleyebilirsiniz.
 
 | Form Field | Description |
 | ------ | ------ |
-| Kullanıcı Adı | Kullanıcı adını belirleyebileceğiniz Form Fielddır. Kullanıcı adı tanımlanan projeler, kalıplar ve profil sayfası için genel dizin görevi görmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kullanıcı adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Kullanıcı Adı | Kullanıcı adını belirleyebileceğiniz Form Fielddır. Kullanıcı adı tanımlanan projeler, kalıplar ve profil sayfası için genel dizin görevi görmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kullanıcı adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` ve `Unique` |
 | Ad/Soyad | Adınızı ve soyadınızı girebileceğiniz bölümdür. |
 | E-posta Adresi | E-posta adresinizi girebileceğiniz bölümdür. |
 | Description | Profiliniz ile ilgili Description girebileceğiniz Form Fielddır. Bu alana girilen metin profil sayfasında gösterilmektedir. |

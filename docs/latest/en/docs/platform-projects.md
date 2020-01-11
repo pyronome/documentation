@@ -23,48 +23,48 @@ This page contains the form, which you can add a new project.
 
 | Form Field | Description |
 | ------ | ------ |
-| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Boş Proje Oluştur | Bu alan seçildiğinde boş bir proje oluşturulmaktadır. |
-| Varolan Projeyi Klonla | Daha önce oluşturduğunuz ya da üzerinde düzenleme yetkiniz olduğu bir projeyi klonlayarak yeni bir proje oluşturabilirsiniz. Bu alan seçildiğinde açılan alan içerisinden bir proje seçilmelidir. |
-| Projeler | Bu alan sadece **"Varolan Projeyi Klonla"** alanı seçildiğinde gösterilmektedir. Yeni oluşturulacak projenin hangi projeden klonlanacağını belirten alandır. Bu alanda önceden eklemiş olduğunuz ya da düzenleme yetkisine sahip olduğunuz projeler listelenmektedir. |
-| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
-| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
-| Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
-| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
-| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
-| Proje Logosu | Projeye ait simgenin yüklenebileceği Form Fielddır. |
+| Enabled | The field that you can determine whether the project is enabled or not. |
+| Create Empty Project | When this field is selected, an empty project is created. |
+| Clone Existing Project | You can create a new project by cloning a project that you have already created or have permission to edit. When this field is selected, you must choose a project. |
+| Projects | This field is only displayed when the **"Clone Existing Project"** field is selected. This field specifies the main project that the new project will be cloned. This field lists the projects that you have previously created, or you have permission to edit. |
+| Organization | This field specifies in which namespace that the new project will be created. This field lists your user name and the organizations you have added.<br><br>`Required` |
+| Use Existing Directory | This field specifies that the new project will be created into an existing directory. |
+| Create New Directory | When this field is selected, the new project is created in the new directory. |
+| Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the project will be created. |
+| Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the project will be created. |
+| Name | This field specifies the name of the new project.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the project name.<br><br>`Required` ve `Unique` |
+| Title | This field specifies the title of the new project.<br><br>`Required` |
+| Project Logo | You can upload the project logo in this field. |
 
 ## Project Page
-Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yönetebilirsiniz.
+This page contains all the details of your project. From this page, you can manage the project model, source code, and server settings.
 
 ### Overview Page
-Proje sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm proje özelliklerinin özeti niteliğindedir.
+It is the first section displayed when you enter the project page. This page summarizes all the details regarding your project.
 
 | Section | Description |
 | ------ | ------ |
-| Temel Özellikler | Projenin belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"Genel Ayarlar Sayfası"**](#genel-ayarlar-sayfası) bölümüne bakınız. |
-| Kalıplar | Projenin kalıplarının listelendiği bölümdür. Detaylı bilgi için [**"Kalıplar Sayfası"**](#kalıplar-sayfası) bölümüne bakınız. |
-| Kaynak Kod | Projenin üretilen kaynak kodunun gösterildiği bölümdür. Detaylı bilgi için [**"Kaynak Kod Sayfası"**](#kaynak-kod-sayfası) bölümüne bakınız. |
-| Sürümler | Proje sürümlerinin listelendiği bölümdür. Detaylı bilgi için [**"Sürümler Sayfası"**](#surumler-sayfası) bölümüne bakınız. |
-| Üyeler | Proje üyelerinin listelendiği bölümdür. Detaylı bilgi için [**"Üyeler Sayfası"**](#uyeler-sayfası) bölümüne bakınız. |
-| İşlem Geçmişi | Proje üzerinde düzenleme yetkisine sahip kullanıcıların, proje üzerinde yapmış olduğu güncellemelerin listelendiği bölümdür. |
-| Sunucular | Proje sunucularının listelendiği bölümdür. Detaylı bilgi için [**"Sunucular Sayfası"**](#sunucular-sayfası) bölümüne bakınız. |
-| Kod Depoları | Projenin kod depolarının listelendiği bölümdür. Detaylı bilgi için [**"Kod Depoları Sayfası"**](#kod-depoları-sayfası) bölümüne bakınız. |
-| Web İstekleri | Projenin web isteklerinin listelendiği bölümdür. Detaylı bilgi için [**"Web İstekleri Sayfası"**](#web-i-stekleri-sayfası) bölümüne bakınız. |
+| Basic Info | This table shows the basic information about the project. See [**"General Settings Page"**](# general-settings-page) for further details. |
+| Patterns | This section lists the patterns of the project. See [**"Patterns Page"**](#patterns-page) for details. |
+| Source Code | This section shows the generated source code of the project. See [**"Source Code Page"**](#source-code-page) for details. |
+| Versions | This section lists the project versions. For details, see [**"Versions Page"**](#versions-page). |
+| Members | This section lists the project members. See [**"Members Page"**] (#members-page) for details. |
+| Activity Log | This section lists the updates that are performed on the project by the users. |
+| Servers | This section lists the project servers are listed. See [**"Servers Page"**](#servers-page) for details. |
+| Repositories | This section lists the project repositories. See [**"Repositories Page"**](#repositories-page) for details. |
+| Webhooks | This section lists the webhooks of the project. See [**"Webhooks Page"**](#webhooks-page) for details. |
 
 ### Model Page
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ölçütlere bu bölümde model içeriği oluşturulur.
+Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. The model fields are created according to the pattern schemas selected.
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Güncelleme Geçmişi | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Arama Bölümü | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Hepsini Daralt | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Hepsini Genişlet | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
+| Arama Bölümü | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
+| <i class="fas fa-minus-square"></i> Collapse All | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
+| <i class="fas fa-plus-square"></i> Expand All | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
+| <i class="fab fa-js-square"></i> Edit as JSON | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
 
 ### Patterns Page
 Projenin kaynak kod üretimi, projeye kurulu kalıplar sayesinde gerçekleştirilir. Bir projeye birden fazla kalıp kurulabilir. Böylelikle kaynak kodu üretilecek uygulamanın farklı bölümlerinin farklı teknolojilere dönüştürülmesi ve aynı teknolojinin yeni sürümü ile güncellenmesi kolaylıkla gerçekleştirilebilir.
@@ -87,16 +87,16 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 
 | Form Field | Description |
 | ------ | ------ |
-| Etkin | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Alan | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Gerekli` |
+| Enabled | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Organization | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Required` |
 | Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
-| Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
-| Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
+| Main Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
+| Sub Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
+| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` |
+| Başlık | Projenin başlığını belirtmektedir.<br><br>`Required` ve `Unique` |
 | Description | Proje ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Proje Logosu | Projeye ait simgenin yüklenebileceği Form Fielddır. |
+| Project Logo | Projeye ait simgenin yüklenebileceği Form Fielddır. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -116,9 +116,9 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 Projeyi görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
 
 Projeye 3 (üç) farklı türde üye eklebilirsiniz:
-- Yönetici: Proje üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
-- Geliştirici: Proje özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
-- İzleyici: Proje özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
+- Owner: Proje üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
+- Developer: Proje özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
+- Viewer: Proje özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
 
 <div class="panelize-infobox infobox-info">
     <p>
@@ -130,9 +130,9 @@ Projeye 3 (üç) farklı türde üye eklebilirsiniz:
 ### Versions Page
 Proje modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Proje sürümlerini belirlerken,
 
-1. Majör
+1. Major
 2. Minor
-3. Yama
+3. Patch
 
 ana sürüm numaraları belirtilmelidir.
 
@@ -156,8 +156,8 @@ Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükle
 
 Bu bölümde şuan için;
 
-- FTP Sunucusu
-- SFTP Sunucusu
+- FTP Server
+- SFTP Server
 
 ekleyebilirsiniz.
 
@@ -174,15 +174,15 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
 
 | Form Field | Description |
 | ------ | ------ |
-| Etkin | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
-| Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Gerekli` |
-| Ad | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Enabled | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
+| Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Required` |
+| Ad | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` ve `Unique` |
 | Description | Sunucu ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Gerekli` |
-| Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Gerekli` |
-| Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının şifresini girebileceğiniz alandır.<br><br>`Gerekli` |
+| Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Required` |
+| Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Required` |
+| Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının şifresini girebileceğiniz alandır.<br><br>`Required` |
 | Ev Dizini | Bağlantı sağlandıktan sonra yükleme işleminin yapılacağı dizini belirtir. |
-| Yuva (Port) | Bağlantının kurulacağı yuvayı belirtir.<br><br>`Gerekli` ve `Varsayılan Değer: 21` |
+| Yuva (Port) | Bağlantının kurulacağı yuvayı belirtir.<br><br>`Required` ve `Varsayılan Değer: 21` |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -218,20 +218,20 @@ Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Ye
 
 | Form Field | Description |
 | ------ | ------ |
-| Etkin | Kod deposunun etkin olup olmadığını gösterir. Etkin olmayan kod depolarına yükleme işlemi yapılmaz. |
-| Kod Deposu Adı | Kod depolarını listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Gerekli` |
-| Dal Adı (Branch) | Üretilen kodun hangi dala (branch) yükleneceğini belirten alandır. Eğer kod deposunda belirtilen dal bulunmuyorsa, dal önce üretilir daha sonra kod yükleme işlemi yapılır.<br><br>`Gerekli` |
-| Ana Dizin | Üretilen kod, kod deposu içindeki belli bir dalın içinde özel bir alt dizine yüklenmesi gerekiyorsa bu alana yükleme yapılacak dizinin adının girilmesi gerekmektedir. |
+| Enabled | Kod deposunun etkin olup olmadığını gösterir. Etkin olmayan kod depolarına yükleme işlemi yapılmaz. |
+| Kod Deposu Adı | Kod depolarını listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
+| Dal Adı (Branch) | Üretilen kodun hangi dala (branch) yükleneceğini belirten alandır. Eğer kod deposunda belirtilen dal bulunmuyorsa, dal önce üretilir daha sonra kod yükleme işlemi yapılır.<br><br>`Required` |
+| Main Directory | Üretilen kod, kod deposu içindeki belli bir dalın içinde özel bir alt dizine yüklenmesi gerekiyorsa bu alana yükleme yapılacak dizinin adının girilmesi gerekmektedir. |
 | Dosyaları Eklemeden Önce Dizindeki Mevcut Dosyaları Sil | Bu seçenek işaretlendiğinde yükleme yapılmadan önce, yükleme yapılacak dizin içeriği silinir. Böylelikle model üzerinde adı değiştirilen ya da kaldırılan elemanlara ilişkin kodlar kolaylıkla temizlenebilir. |
-| E-posta Adresi | Kod deposuna erişim yetkisi olan kullanıcının e-posta adresini belirtmektedir. Böylelikle kayıtlarda yükleme işleminin hangi kullanıcı tarafından yapıldığını kolaylıkla ayırt edebilirsiniz.<br><br>`Gerekli` |
+| E-posta Adresi | Kod deposuna erişim yetkisi olan kullanıcının e-posta adresini belirtmektedir. Böylelikle kayıtlarda yükleme işleminin hangi kullanıcı tarafından yapıldığını kolaylıkla ayırt edebilirsiniz.<br><br>`Required` |
 | Kullanıcı Adı | Kod deposuna erişim yetkisi olan kullanıcının kullanıcı adını belirtmektedir. |
 | HTTPS Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse HTTPS üzerinden kimlik doğrulaması yapılacaktır. |
 | SSH Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse SSH üzerinden kimlik doğrulaması yapılacaktır. |
-| HTTPS URL | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
-| HTTPS Password | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yaparken kullanılacak şifreyi belirtir.<br><br>`Gerekli` |
-| SSH Adresi | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. SSH bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
+| HTTPS URL | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yapılacak adresi belirtir.<br><br>`Required` |
+| HTTPS Password | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yaparken kullanılacak şifreyi belirtir.<br><br>`Required` |
+| SSH Adresi | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. SSH bağlantısı yapılacak adresi belirtir.<br><br>`Required` |
 | SSH Doğrulama Anahtar Çiftini Üret | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. Her yeni SSH kimlik doğrulaması yapacak kod deposu kaydı eklendiğinde otomatik olarak SSH anahtar çifti oluşturulur. Mevcut bir kod deposu için anahtar çiftini tekrar üretmek isterseniz bu seçeneği işaretleyebilirsiniz. |
-| İşlem Notu | Kod yükleme işleminin kod deposu kayıtlarında gösterilecek işlem notunu belirtir. İşlem notu bölümünde `{{project_name}}`, `{{project_title}}`, vb. özel tanımlayıcılar kullanabilirsiniz. Bu özel tanımların tam listesi aşağıda verilmiştir.<br><br>`Gerekli` |
+| İşlem Notu | Kod yükleme işleminin kod deposu kayıtlarında gösterilecek işlem notunu belirtir. İşlem notu bölümünde `{{project_name}}`, `{{project_title}}`, vb. özel tanımlayıcılar kullanabilirsiniz. Bu özel tanımların tam listesi aşağıda verilmiştir.<br><br>`Required` |
 
 Herhangi bir kod deposuna ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
 
@@ -284,9 +284,9 @@ Yükleme işleminin yapılacağı yeni bir web isteği kaydı eklemek için **"Y
 
 | Form Field | Description |
 | ------ | ------ |
-| Etkin | Web isteğinin etkin olup olmadığını gösterir. Etkin olmayan web isteği gönderilmez. |
-| Ad | Web isteğini listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Gerekli` |
-| URL | Web isteğinin yapılacağı adresi belirtir.<br><br>`Gerekli` |
+| Enabled | Web isteğinin etkin olup olmadığını gösterir. Etkin olmayan web isteği gönderilmez. |
+| Ad | Web isteğini listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
+| URL | Web isteğinin yapılacağı adresi belirtir.<br><br>`Required` |
 | Gizli Anahtar | Web isteğinin Pyronome sunucuları tarafından gönderildiğini doğrulamak amacıyla gizli anahtar belirtebilirsiniz. |
 | Üretme Olayı | Web isteğinin kod üretme işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
 | Konuşlandırma Olayı | Web isteğinin sunucu konuşlandırma işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |

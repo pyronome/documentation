@@ -9,24 +9,24 @@ Geliştirilen kalıplar için [https://pyronome.com](https://pyronome.com) üzer
 
 Bununla birlikte alanlar platform üzerinde oluşturulan proje ve kalıpları sınıflandırmak için de kullanıbilir. **"Ana Sayfa"**, **"Projeler"** ve **"Kalıplarım"** sayfalarının sağ üst tarafında alan seçim menüleri yer almaktadır. Alan seçimi yapıldığında sadece seçilen alan içindeki kayıtlar gösterilir.
 
-## Alanlar Sayfası
+## Organizations Page
 Oluşturduğunuz ya da üyesi olduğunuz alanların listelendiği sayfadır. Bu sayfa üzerinden yeni alan ekleyebilir ya da mevcut alanlarınızı görüntüleyebilirsiniz.
 
 | Table Field | Description |
 | ------ | ------ |
 | Ad | Alanın adını belirtir. |
-| Etkin | Alanın etkin olup olmadığını belirtir. |
+| Enabled | Alanın etkin olup olmadığını belirtir. |
 | Görünüm | Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | <i class="fas fa-users"></i> Members Button | Alanın sahibi tarafından belirlenen, alanın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
 | <i class="fas fa-trash-alt"></i> Delete Button | Alanın silinmesi için kullanılan düğmedir. |
 
-## Yeni Alan Sayfası
+## New Organization Page
 Yeni alan ekleme formunun bulunduğu sayfadır.
 
 | Form Field | Description |
 | ------ | ------ |
-| Etkin | Alanın etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Ad | Alanın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Alan adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
+| Enabled | Alanın etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Ad | Alanın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Alan adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` |
 | Description | Alan ile ilgili Descriptionların girilebileceği Form Fielddır. |
 | Görünüm | Alanın görüntülenme biçimini belirtir. Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Alan Logosu | Alana ait simgenin yüklenebileceği Form Fielddır. |
@@ -45,7 +45,7 @@ Yeni alan ekleme formunun bulunduğu sayfadır.
     </ul></p>
 </div>
 
-## Alan Özellikleri Sayfası
+## Organization Page
 Daha önceden eklenmiş bir alana ait özelliklerde değişiklik yapmak için kullanabileceğiniz sayfadır. Bu sayfa üzerindeki form alanları ile ilgili detaylı bilgi için [Yeni Alan Sayfası](#yeni-alan-sayfası) bölümüne bakabilirsiniz.
 
 <div class="panelize-infobox infobox-warning">
@@ -57,13 +57,13 @@ Daha önceden eklenmiş bir alana ait özelliklerde değişiklik yapmak için ku
     </p>
 </div>
 
-## Alan Üyeleri Sayfası
+## Organization Members Page
 Alanı görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
 
 Alana 3 (üç) farklı türde üye eklebilirsiniz:
-- Yönetici: Alan üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
-- Geliştirici: Alan özelliklerini güncelleme yetkisine sahiptir. Alan içinde yeni bir proje ve kalıp oluşturabilir.
-- İzleyici: Alan özelliklerini görüntüleyebilir ancak güncelleme yapamaz.
+- Owner: Alan üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
+- Developer: Alan özelliklerini güncelleme yetkisine sahiptir. Alan içinde yeni bir proje ve kalıp oluşturabilir.
+- Viewer: Alan özelliklerini görüntüleyebilir ancak güncelleme yapamaz.
 
 <div class="panelize-infobox infobox-info">
     <p>
