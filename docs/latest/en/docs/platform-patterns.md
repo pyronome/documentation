@@ -160,42 +160,40 @@ Kalıba ait genel bilgilerin güncellendiği bölümdür.
 </div>
 
 ### Members Page
-Kalıbı görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
+In this section, you can determine the users who will perform the viewing, editing, and managing operations on the pattern.
 
-Kalıba 3 (üç) farklı türde üye eklebilirsiniz:
-- Owner: Kalıp üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
-- Developer: Kalıp özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
-- Viewer: Kalıp özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
+You can add 3 (three) different types of members to the patterns:
+- Owner: This user has full authority over the pattern. Owner users can add other users.
+- Developer: This user has permission to update the pattern properties, the model, and the patterns.
+- Viewer: This user can display pattern properties, the model, and the patterns, but cannot modify them.
 
 <div class="panelize-infobox infobox-info">
     <p>
         <strong><i class="fas fa-info-circle"></i> Note:</strong>
     </p>
-    <p>Kalıba ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek davet gönderebilirsiniz.</p>
+    <p>The members you will add to the pattern must be registered to the platform. You can invite not registered users by specifying their e-mail address.</p>
 </div>
 
 ### Versions Page
-Kalıp modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Kalıp sürümlerini belirlerken,
+You can use this section to create copies of the pattern with different versions. When determining pattern versions,
 
 1. Major
 2. Minor
 3. Patch
 
-ana sürüm numaraları belirtilmelidir.
+version numbers must be specified.
 
-Bunun yanında,
+In addition, you can label pre-release versions by adding the following suffixes:
 
 - `dev`
 - `alpha`
 - `beta`
 
-soneklerini ekleyerek ara sürümler de oluşturabilirsiniz.
-
 <div class="panelize-infobox infobox-info">
     <p>
         <strong><i class="fas fa-info-circle"></i> Note:</strong>
     </p>
-    <p>Pyronome sürümlerin belirlenmesinde <strong>Anlamsal Sürümleme</strong> yaklaşımını önermektedir. Anlamsal Sürümleme ile ilgili daha detaylı bilgi için <a href="https://semver.org/lang/tr/">https://semver.org/</a> adresini ziyaret edebilirsiniz.</p>
+    <p>Pyronome recommends the <strong>Semantic Versioning</strong> approach to identifying versions. For more information on Semantic Versioning, please visit <a href="https://semver.org/lang/en/"> https://semver.org/</a>.</p>
 </div>
 
 ### Marketplace Page

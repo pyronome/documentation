@@ -58,16 +58,16 @@ Daha önceden eklenmiş bir alana ait özelliklerde değişiklik yapmak için ku
 </div>
 
 ## Organization Members Page
-Alanı görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
+In this section, you can determine the users who will perform the viewing, editing, and managing operations on the organization.
 
-Alana 3 (üç) farklı türde üye eklebilirsiniz:
-- Owner: Alan üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
-- Developer: Alan özelliklerini güncelleme yetkisine sahiptir. Alan içinde yeni bir proje ve kalıp oluşturabilir.
-- Viewer: Alan özelliklerini görüntüleyebilir ancak güncelleme yapamaz.
+You can add 3 (three) different types of members to the organizations:
+- Owner: This user has full authority over the organization. Owner users can add other users.
+- Developer: This user has permission to update the organization properties, the model, and the patterns.
+- Viewer: This user can display organization properties, the model, and the patterns, but cannot modify them.
 
 <div class="panelize-infobox infobox-info">
     <p>
         <strong><i class="fas fa-info-circle"></i> Note:</strong>
     </p>
-    <p>Alana ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek; davet gönderebilirsiniz.</p>
+    <p>The members you will add to the organization must be registered to the platform. You can invite not registered users by specifying their e-mail address.</p>
 </div>

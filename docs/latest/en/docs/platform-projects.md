@@ -113,42 +113,40 @@ Using this page, you can update the general information of the project.
 </div>
 
 ### Members Page
-Projeyi görüntüleme, düzenleme ve yönetme faaliyetlerini gerçekleştirecek kullanıcıların belirlendiği bölümdür.
+In this section, you can determine the users who will perform the viewing, editing, and managing operations on the project.
 
-Projeye 3 (üç) farklı türde üye eklebilirsiniz:
-- Owner: Proje üzerinde tam yetkiye sahiptir. Başka yönetici kullanıcılar ekleyebilir.
-- Developer: Proje özelliklerini, modelini ve kalıplarını güncelleme yetkisine sahiptir.
-- Viewer: Proje özelliklerini, modelini ve kalıplarını görüntüleyebilir ancak güncelleme yapamaz.
+You can add 3 (three) different types of members to the project:
+- Owner: This user has full authority over the project. Owner users can add other users.
+- Developer: This user has permission to update the project properties, the model, and the patterns.
+- Viewer: This user can display project properties, the model, and the patterns, but cannot modify them.
 
 <div class="panelize-infobox infobox-info">
     <p>
         <strong><i class="fas fa-info-circle"></i> Note:</strong>
     </p>
-    <p>Projeye ekleyeceğiniz üyelerin platforma üye olmaları gerekmektedir. Daha önceden üye kaydı yapmamış üyelerin e-posta adresini belirterek; davet gönderebilirsiniz.</p>
+    <p>The members you will add to the project must be registered to the platform. You can invite not registered users by specifying their e-mail address.</p>
 </div>
 
 ### Versions Page
-Proje modelinin farklı sürümlere sahip kopyalarını oluşturmak için bu bölümü kullanabilirsiniz. Proje sürümlerini belirlerken,
+You can use this section to create copies of the project model with different versions. When determining project versions,
 
 1. Major
 2. Minor
 3. Patch
 
-ana sürüm numaraları belirtilmelidir.
+version numbers must be specified.
 
-Bunun yanında,
+In addition, you can label pre-release versions by adding the following suffixes:
 
 - `dev`
 - `alpha`
 - `beta`
 
-soneklerini ekleyerek ara sürümler de oluşturabilirsiniz.
-
 <div class="panelize-infobox infobox-info">
     <p>
         <strong><i class="fas fa-info-circle"></i> Note:</strong>
     </p>
-    <p>Pyronome sürümlerin belirlenmesinde <strong>Anlamsal Sürümleme</strong> yaklaşımını önermektedir. Anlamsal Sürümleme ile ilgili daha detaylı bilgi için <a href="https://semver.org/lang/tr/">https://semver.org/</a> adresini ziyaret edebilirsiniz.</p>
+    <p>Pyronome recommends the <strong>Semantic Versioning</strong> approach to identifying versions. For more information on Semantic Versioning, please visit <a href="https://semver.org/lang/en/"> https://semver.org/</a>.</p>
 </div>
 
 ### Servers Page
