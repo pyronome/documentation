@@ -55,32 +55,32 @@ It is the first section displayed when you enter the project page. This page sum
 | Webhooks | This section lists the webhooks of the project. See [**"Webhooks Page"**](#webhooks-page) for details. |
 
 ### Model Page
-Projenin seçilen kalıplara göre modelinin oluşturulduğu bölümdür. The model fields are created according to the pattern schemas selected.
+In this section, you can model your project based on selected patterns.
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Commit History | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Search Field | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Collapse All | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Expand All | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> Edit as JSON | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | When you update the model, a copy of the model is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the model update process, a validation check is performed on whether the model satisfies the conditions of the selected patterns. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search the model fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the model content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the model in JSON syntax. |
 
 ### Patterns Page
-Projenin kaynak kod üretimi, projeye kurulu kalıplar sayesinde gerçekleştirilir. Bir projeye birden fazla kalıp kurulabilir. Böylelikle kaynak kodu üretilecek uygulamanın farklı bölümlerinin farklı teknolojilere dönüştürülmesi ve aynı teknolojinin yeni sürümü ile güncellenmesi kolaylıkla gerçekleştirilebilir.
+The patterns in a project are enabling the source code generation. You can install multiple patterns in a single project. In this way, the patterns can easily take care of the source code generation of different parts on an application. You can change an application's backend/frontend technology by changing just the pattern(s) dealing with the backend. In the same way, you can update an application's backend/frontend framework into a new version.
 
-**"Kalıp Ekle/Kur"** düğmesine basıldığında projeye kurulabilecek kalıpların listesini gösteren pencere açılır. Bu bölüm yardımıyla kalıplar belli ölçütlere göre arayabilir ve kalıp kurma ve satın alma işlemlerini gerçekleştirebilirsiniz.
+By clicking the **"Install Pattern(s)"** button, you can open the **"Install Pattern(s)"** window showing the possible pattern options that you can install to your project. With the help of this section, you can search for patterns according to your criteria and install the desired pattern(s), also purchase paid ones.
 
-Projeye kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
+The list of installed patterns is in the middle of the page. You can sort patterns with special sorting grips to the left of each line. Additionally, with the version selector at the right of each line in the list, you can choose a specific version and perform a source code generation process based on this selected version.
 
 ### Source Code Page
-Projenizin kaynak kodunu bu bölümden görüntüleyebilirsiniz. Model üzerinde ya da kalıplarda herhangi bir değişiklik yapıldığında bu bölüme giriş yapıldığında otomatik olarak kaynak kod üretim işlemi gerçekleştirilir.
+You can view the source code of your project from this page. If you make any changes in the model or patterns, the source code generation process is started immediately after opening this page.
 
-Kaynak kod üretim işlemini elle yeniden başlatmak için **"Şimdi Üret!"** düğmesine basabilirsiniz. Kaynak kod üretim işlemini yeniden başlattıktan sonra sayfa yeniden yüklenir ve kaynak kod üretim işlemi arkaplanda devam eder. Sayfanın sağ üst tarafında kaynak kod üretim işlemi devam ediyorken **"Üretiliyor..."** bildirimi gösterilir. Kaynak kod üretim işlemi tamamlandığında otomatik olarak dosya listesi güncellenir. Kaynak kod üretim işlemi projenin büyüklüğüne ve seçilen kalıpların içeriğine göre değişiklik gösterebilmektedir.
+You can press **"Generate Now!"** to manually restart the source code generation process. After you restart the source code generation process, the page reloads. The source code generation process may continue in the background. **"Generating ..."** is displayed at the top right of the page while the source code generation is in progress. When the source code generation process is complete, the file list is automatically updated. The source code generation process may vary depending on the size of the project and the content of the selected patterns.
 
-Üretilen kaynak kodun tamamını tek bir .zip uzantılı dosya olarak indirmek için **"İndir (.zip)"** düğmesine basabilirsiniz.
+You can press the **"Download (.zip)"** button to download the generated source code as a single .zip file.
 
-Sayfanın orta bölümünde yer alan dosya ve dizin listesinde üretilen kaynak kod gösterilmektedir. Herhangi bir dizinin üzerine tıkladığınızda o dizinin içeriğini görüntüleyebilirsiniz. Aynı şekilde herhangi bir dosyanın üzerine tıkladığınızda ilgili dosya metin içerikli bir dosya ise içeriğini görüntüleyebilirsiniz.
+You can view the source code -the list of files and directories- in the middle of the page. When you click on any directory, you can see the contents of that directory. Similarly, when you click on any file, you can view its contents if the file is text-based.
 
 ### General Settings Page
 Projeye ait genel bilgilerin güncellendiği bölümdür.

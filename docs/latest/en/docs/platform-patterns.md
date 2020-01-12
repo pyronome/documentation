@@ -60,24 +60,24 @@ Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafı
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Commit History | Şema güncelleme işlemi yapıldığında şemanın bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Şema güncelleme işlemi sırasında şemanın belirlenen ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Search Field | Şema içeriğinde belirtilen değerlerin ve şema alanlarının aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Collapse All | Şema içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Expand All | Şema içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> Edit as JSON | Şemayı JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | When you update the schema, a copy of the schema is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the schema update process, a validation check is performed on whether the schema satisfies the validation conditions. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the schema content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the schema in JSON syntax. |
 
 ### Validation Page
 Kalıbın şeması belirlendikten sonra, bu şemanın hangi koşullara göre doğrulanacağının belirtilmesi gerekmektedir. Böylelikle kalıbınızı kullanan kullanıcıları yönlendirip; kaynak kod üretim aşamasından önce gerekli kontrollerin yapılmasını sağlayabilirsiniz. Uyumsuz bölümlerin kullanıcılara gösterilip; bu uyumsuzlukların düzeltilmesini sağlayabilirsiniz. Bu bölümde doğrulamanın yapılması için koşullar oluşturulmaktadır.
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Commit History | Doğrulama modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Doğrulama modellerinin de ön tanımlı kuralları bulunmaktadır. Doğrulama modelinin belirlenen ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Search Field | Doğrulama model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Collapse All | Doğrulama model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Expand All | Doğrulama modeli içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> Edit as JSON | Doğrulama modelini JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | When you update the validation model, a copy of the validation model is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the validation model update process, a validation check is performed on whether the model satisfies the validation conditions. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the validation model content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the validation model in JSON syntax. |
 
 ### Files Page
 Kaynak kod üretim aşamasında, bazı dosyalar doğrudan -üzerinde hiçbir işlem yapılmadan- kaynak kod eklenmesi gerekmektedir. Bu dosyalar statik dosyalar olarak adlandırılmaktadır. Bu bölümde, bu statik dosyalar eklenebilmektedir.
@@ -89,36 +89,36 @@ Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar m
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Commit History | Şablon modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Şablon model güncelleme işlemi sırasında modelin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Search Field | Şablon model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Collapse All | Şablon modeli içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Expand All | Şablon modeli içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> Edit as JSON | Şablon modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | When you update the template model, a copy of the template model is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the template model update process, a validation check is performed on whether the model satisfies the validation conditions. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the template model content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the template model in JSON syntax. |
 
 ### Variables Page
 Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu kalıplar için kaynak kod üretim işlemi birbirinden ayrı işletilmektedir. Bununla birlikte kaynak kod üretimi paralel işleme ile de gerçekleştirilebilir. Bu gibi durumlarda genel değişken tanımları yapılıp bu değişken tanımlarının bütün kaynak kod üretim sürecinde tanımlı kalmasını bu bölümü kullanarak sağlayabilirsiniz.
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Commit History | Değişkenlerin güncelleme işlemi yapıldığında değişkenlerin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Değişken güncelleme işlemi sırasında değişkenlerin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Search Field | Değişkenlerin içeriğinde belirtilen değerlerin aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Collapse All | Değişkenlerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Expand All | Daraltılmış değişkenlerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> Edit as JSON | Değişkenleri JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | When you update the variables, a copy of this update is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the variable update process, a validation check is performed on whether the variables satisfy the validation conditions. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the variables in JSON syntax. |
 
 ### Model Page
 Kalıbın seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ve bu kalıbın şema bölümünde belirlenen ölçütlere göres bu bölümde model içeriği oluşturulur.
 
 | Section | Description |
 | ------ | ------ |
-| <i class="fas fa-history"></i> Commit History | Model güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
-| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | Model güncelleme işlemi sırasında modelin seçilen kalıpların ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Validation Log"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
-| Search Field | Model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Regular Expression** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
-| <i class="fas fa-minus-square"></i> Collapse All | Model içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
-| <i class="fas fa-plus-square"></i> Expand All | Model içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
-| <i class="fab fa-js-square"></i> Edit as JSON | Modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-history"></i> Commit History | When you update the model, a copy of the model is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the model update process, a validation check is performed on whether the model satisfies the conditions of the selected patterns. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the model content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the variables in JSON syntax. |
 
 ### Patterns Page
 Aynen projelerde olduğu gibi kalıplara da başka kalıplar kurulabilir. Böylelikle bazı alt seviye kalıpların tekrar tekrar seçilmesi zorunluğu ortadan kalkar.
