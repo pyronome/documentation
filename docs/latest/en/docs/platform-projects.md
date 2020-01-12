@@ -102,13 +102,13 @@ Using this page, you can update the general information of the project.
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <p>Please consider the followings regarding your project name:
     <ul>
-        <li>Sadece İngilizce karakterler içermelidir.</li>
-        <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
-        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
-        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
+        <li>It must contain only English characters.</li>
+        <li>It cannot contain spaces and tab characters.</li>
+        <li>It must be longer than two characters.</li>
+        <li>You can enter only the "-" and underscore "_" characters as punctuation.</li>
+        <li>It cannot begin with number, the middle line "-" and the underscore "_".</li>
     </ul></p>
 </div>
 
@@ -188,13 +188,13 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p><strong>"Ad"</strong> alanı ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <p>Please consider the followings regarding your server name:
     <ul>
-        <li>Sadece İngilizce karakterler içermelidir.</li>
-        <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
-        <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
-        <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
+        <li>It must contain only English characters.</li>
+        <li>It cannot contain spaces and tab characters.</li>
+        <li>It must be longer than two characters.</li>
+        <li>You can enter only the "-" and underscore "_" characters as punctuation.</li>
+        <li>It cannot begin with number, the middle line "-" and the underscore "_".</li>
     </ul></p>
 </div>
 

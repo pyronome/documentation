@@ -28,13 +28,13 @@ Profiliniz ile ilgili bilgileri bu bölümden düzenleyebilirsiniz.
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p><strong>"Kullanıcı Adı"</strong> ile ilgili olarak aşağıdaki ölçütlere dikkat edilmelidir:
+    <p>Please consider the followings regarding your user name:
     <ul>
-        <li>Sadece İngilizce karakterler içermelidir.</li>
-        <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
-        <li>Noktalama işareti içeremez.</li>
-        <li>Sayı ile başlayamaz.</li>
+        <li>It must contain only English characters.</li>
+        <li>It cannot contain spaces and tab characters.</li>
+        <li>It must be longer than two characters.</li>
+        <li>It cannot contain punctuation.</li>
+        <li>It cannot begin with number.</li>
     </ul></p>
 </div>
 
