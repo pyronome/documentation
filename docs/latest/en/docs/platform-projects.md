@@ -199,98 +199,98 @@ To view transaction logs for any server, you can press <strong><i class = "fas f
 Once you have entered all connection parameters, you can press **"TEST"** to test the connection.
 
 ### Repositories Page
-Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği kod depolarını belirtmek için bu bölümü kullanabilirsiniz.
+You can use this section to define the repositories where the source code will automatically upload after the source code generation process.
 
-Oluşturulan kaynak kodu elle mevcut kod depolarına yüklemek için **"Şimdi İttir!"** düğmesine basabilirsiniz. Kaynak kod belirlediğiniz sıra ile kod depolarına yüklenecektir.
+You can press the **"Push Now!"** button to manually push the generated source code into the existing repositories. The source code will be uploaded into the repositories in the order you specify.
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>Kod depolarına kaynak kod yükleme işlemi ardışık olarak gerçekleştirilmektedir. Başka bir deyişle, ilk kod deposuna yükleme işlemi tamamlanmadan ikinci kod deposuna yükleme işlemi başlatılmaz.</p>
+    <p>The uploading of source code to the repositories is performed consecutively. In other words, the upload process to the second repository does not start until the upload process to the first repository is complete.</p>
 </div>
 
-Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Yeni Kod Deposu"** düğmesine basabilirsiniz.
+You can press the **"New Repository"** button to add a new repository.
 
 | Form Field | Description |
 | ------ | ------ |
 | Enabled | This field indicates whether the repository is enabled or not. Push operation is not performed on disabled repositories. |
-| Kod Deposu Adı | Kod depolarını listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
-| Dal Adı (Branch) | Üretilen kodun hangi dala (branch) yükleneceğini belirten alandır. Eğer kod deposunda belirtilen dal bulunmuyorsa, dal önce üretilir daha sonra kod yükleme işlemi yapılır.<br><br>`Required` |
-| Main Directory | Üretilen kod, kod deposu içindeki belli bir dalın içinde özel bir alt dizine yüklenmesi gerekiyorsa bu alana yükleme yapılacak dizinin adının girilmesi gerekmektedir. |
-| Dosyaları Eklemeden Önce Dizindeki Mevcut Dosyaları Sil | Bu seçenek işaretlendiğinde yükleme yapılmadan önce, yükleme yapılacak dizin içeriği silinir. Böylelikle model üzerinde adı değiştirilen ya da kaldırılan elemanlara ilişkin kodlar kolaylıkla temizlenebilir. |
-| E-posta Adresi | Kod deposuna erişim yetkisi olan kullanıcının e-posta adresini belirtmektedir. Böylelikle kayıtlarda yükleme işleminin hangi kullanıcı tarafından yapıldığını kolaylıkla ayırt edebilirsiniz.<br><br>`Required` |
-| Kullanıcı Adı | Kod deposuna erişim yetkisi olan kullanıcının kullanıcı adını belirtmektedir. |
-| HTTPS Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse HTTPS üzerinden kimlik doğrulaması yapılacaktır. |
-| SSH Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse SSH üzerinden kimlik doğrulaması yapılacaktır. |
-| HTTPS URL | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yapılacak adresi belirtir.<br><br>`Required` |
-| HTTPS Password | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yaparken kullanılacak şifreyi belirtir.<br><br>`Required` |
-| SSH Adresi | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. SSH bağlantısı yapılacak adresi belirtir.<br><br>`Required` |
-| SSH Doğrulama Anahtar Çiftini Üret | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. Her yeni SSH kimlik doğrulaması yapacak kod deposu kaydı eklendiğinde otomatik olarak SSH anahtar çifti oluşturulur. Mevcut bir kod deposu için anahtar çiftini tekrar üretmek isterseniz bu seçeneği işaretleyebilirsiniz. |
-| İşlem Notu | Kod yükleme işleminin kod deposu kayıtlarında gösterilecek işlem notunu belirtir. İşlem notu bölümünde `{{project_name}}`, `{{project_title}}`, vb. özel tanımlayıcılar kullanabilirsiniz. Bu özel tanımların tam listesi aşağıda verilmiştir.<br><br>`Required` |
+| Repository Name | This field specifies the name of the repository.<br><br>`Required` |
+| Branch Name | This field specifies the branch name of the repository that will hold the generated source code. If the specified branch does not exist, firstly, the branch is created, and then the source code uploaded.<br><br>`Required` |
+| Main Directory | If the generated code must be loaded into a particular subdirectory within a specific branch, you can specify the name of the directory in this field. |
+| Delete All Files Before Adding Generated Files | When you check this option, the target directory contents will be deleted before the upload process. This feature makes it possible to remove related files that are renamed and deleted from the project model. |
+| E-mail Address | This field specifies the e-mail address of the user who has access to the repository. In this way, you can easily distinguish which user performed the uploading process.<br><br>`Required` |
+| User Name | This field specifies the user name of the user who has access to the repository. |
+| Authenticate using HTTPS | This field specifies the method of authentication. If you check this option, authentication will be performed over HTTPS. |
+| Authenticate using SSH | This field specifies the method of authentication. If you check this option, authentication will be performed over SSH. |
+| HTTPS URL | This field is displayed when you check the **"Authenticate using HTTPS"** option. Specifies the HTTPS address.<br><br>`Required` |
+| HTTPS Password | This field is displayed when you check the **"Authenticate using HTTPS"** option. Specifies the password will be used to connect over HTTPS.<br><br>`Required` |
+| SSH Host | This field is displayed when you check the **"Authenticate using SSH"**. Specifies the SSH address.<br><br>`Required` |
+| Generate SSH Keypair | This field is displayed when you check the **"Authenticate using SSH"**. An SSH key pair is automatically generated each time you create a new repository over SSH authentication. You can select this option if you want to recreate the key pair for an existing repository. |
+| Commit Message | This field specifies the commit message to display in the repository logs. In this field, you can enter mustache templates like `{{project_name}}`, `{{project_title}}`, etc. You can find a complete list of these mustache templates below.<br><br>`Required` |
 
-Herhangi bir kod deposuna ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
+To view upload process logs for any repository, you can press the <strong><i class="fas fa-file-alt"></i></strong> icon to the right of the corresponding record row.
 
 #### Commit Message Mustache Templates
-Kod deposuna kod yükleme işlemi yapıldığında işlem kayıtları oluşturulur. Bu işlem kayıtları için kod yükleme işlemini yapan kullanıcılar özel notlar/mesajlar belirtebilmektedir. Pyronome üzerinden yapılan kod yükleme işlemlerine de benzer şekilde özel notlar/mesajlar eklenebilir. Eklenen bu mesajların içinde proje ve kod yükleme işlemine ait özel tanımlayıcılar kullanılabilir.
+Commit messages contains brief information about a particular commit performed on a repository. Pyronome provides a practical way of uploading generated source code to your repositories. But, it is still essential to have descriptive commit messages. You can add some special identifiers to make your commit messages more descriptive.
 
-Varsayılan işlem notu:
+Default commit message:
 
 ```HTML
 Code generation auto-push by Pyronome
 ```
 
-Özel tanımlayıcı eklenmiş işlem notu:
+Commit message with mustache templates:
 
 ```HTML
 Code generation auto-push by Pyronome for {{project_title}} ({{project_name}}, {{project_active_version}}).
 ```
 
-Aşağıda işlem notunda kullanılabilecek özel tanımlayıcıların listesini bulabilirsiniz:
+Below is a list of specific identifiers that can be used in the commit messages:
 
-| Tanımlayıcı | Description |
+| Identifier | Description |
 | ------ | ------ |
-| `{{server_host}}` | Kod deposunun bulunduğu sunucunun adresini belirtir. |
-| `{{server_name}}` | Kod deposunun bulunduğu sunucunun adını belirtir. |
-| `{{project_id}}` | Kod yükleme işlemi yapılan projeye ait tamsayı tekil tanımlayıcıdır. |
-| `{{project_guid}}` | Kod yükleme işlemi yapılan projeye ait rakam ve harflerden oluşan tekil tanımlayıcıdır. Bu tanımlayıcı `{{project_id}}` aksine, platform içinde her eleman için benzersiz olma niteliğine sahiptir. |
-| `{{project_name}}` | Projenin adını belirtir. |
-| `{{project_title}}` | Projenin başlığını belirtir. |
-| `{{project_short_description}}` | Projenin kısa Descriptionsını belirtir. |
-| `{{project_active_version}}` | Projenin etkin sürümünü belirtir. |
-| `{{project_path}}` | Projenin ad uzayını belirtir. |
-| `{{project_main_directory}}` | Projenin ana dizin adını belirtir. |
-| `{{project_sub_directory}}` | Projenin alt dizin adını belirtir. |
-| `{{user_id}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tamsayı tekil tanımlayıcıdır. |
-| `{{user_guid}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait rakam ve harflerden oluşan benzersiz tekil tanımlayıcıdır. |
-| `{{user_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait kullanıcı adını belirtir. |
-| `{{user_full_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tam adı belirtir. |
+| `{{server_host}}` | This identifier holds the address of the server where the repository is located. |
+| `{{server_name}}` | This identifier holds the name of the server where the repository is located. |
+| `{{project_id}}` | This identifier holds the unique integer id of the project. |
+| `{{project_guid}}` | This identifier holds the global unique id of the project. This identifier, unlike `{{project_id}}`, is unique to each element within the platform. |
+| `{{project_name}}` | This identifier holds the name of the project. |
+| `{{project_title}}` | This identifier holds the title of the project. |
+| `{{project_short_description}}` | This identifier holds the short description of the project. |
+| `{{project_active_version}}` | This identifier holds the active version of the project. |
+| `{{project_path}}` | This identifier holds the namespace of the project. |
+| `{{project_main_directory}}` | This identifier holds the main directory of the project. |
+| `{{project_sub_directory}}` | This identifier holds the subdirectory of the project. |
+| `{{user_id}}` | This identifier holds the unique integer id of the user. |
+| `{{user_guid}}` | This identifier holds the global unique id of the user. |
+| `{{user_name}}` | This identifier holds the name of the user. |
+| `{{user_full_name}}` | This identifier holds the full name of the user. |
 
 ### Webhooks Page
-Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme işlemlerinden sonra web istekleri yapılmasını sağlayarak yazılım geliştirme süreçlerinizi otomatikleştirebilirsiniz.
+You can automate your software development processes by creating webhooks attached to the source code generation, server deployment, and repository push events.
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>Web istekleri ardışık olarak gönderilmektedir. Başka bir deyişle, ilk web isteği gönderme işlemi tamamlanmadan ikinci istek gönderimi başlatılmaz.</p>
+    <p>The webhook requests are posted consecutively. In other words, the second webhook request does not post until the first webhook request is posted.</p>
 </div>
 
-Yükleme işleminin yapılacağı yeni bir web isteği kaydı eklemek için **"Yeni Web İsteği"** düğmesine basabilirsiniz.
+You can press **"New Webhook"** button to add a new webhook.
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | This field indicates whether the webhook is enabled or not. The request is not sent to disabled webhooks. |
-| Name | Web isteğini listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
-| URL | Web isteğinin yapılacağı adresi belirtir.<br><br>`Required` |
-| Gizli Anahtar | Web isteğinin Pyronome sunucuları tarafından gönderildiğini doğrulamak amacıyla gizli anahtar belirtebilirsiniz. |
-| Üretme Olayı | Web isteğinin kod üretme işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
-| Konuşlandırma Olayı | Web isteğinin sunucu konuşlandırma işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
-| İttirme Olayı | Web isteğinin kod deposu ittirme işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
+| Enabled | This field indicates whether the webhook is enabled or not. The request is not posted to disabled webhooks. |
+| Name | This field specifies the name of the webhook. <br><br>`Required` |
+| URL | This field specifies the URL address of the request.<br><br>`Required` |
+| Secret Key | You can specify a secret key to verify that a specific web request is posted from Pyronome servers. |
+| Üretme Olayı | If you check this option, the web request is posted after the code generation process. |
+| Konuşlandırma Olayı | If you check this option, the web request is posted after the deploy process. |
+| İttirme Olayı | If you check this option, the web request is posted after the push process. |
 
-Herhangi bir web isteğine ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
+To view the logs for any webhook, you can press <strong><i class="fas fa-file-alt"></i></strong> icon to the right of the corresponding record row.
 
-Aşağıda örnek bir web isteğini görebilirsiniz.
+Below is a sample webhook request.
 
 ```JSON
 {

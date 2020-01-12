@@ -16,7 +16,7 @@ Oluşturduğunuz ya da üyesi olduğunuz alanların listelendiği sayfadır. Bu 
 | ------ | ------ |
 | Name | Alanın adını belirtir. |
 | Enabled | Using this field, you can specify whether the organization is enabled or not. |
-| Görünüm | Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
+| Visibility | Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | <i class="fas fa-users"></i> Members Button | Alanın sahibi tarafından belirlenen, alanın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
 | <i class="fas fa-trash-alt"></i> Delete Button | Alanın silinmesi için kullanılan düğmedir. |
 
@@ -28,7 +28,7 @@ Yeni alan ekleme formunun bulunduğu sayfadır.
 | Enabled | Using this field, you can specify whether the organization is enabled or not. |
 | Name | Alanın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Alan adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` |
 | Description | Alan ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Görünüm | Alanın görüntülenme biçimini belirtir. Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
+| Visibility | Alanın görüntülenme biçimini belirtir. Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Alan Logosu | Alana ait simgenin yüklenebileceği Form Fielddır. |
 
 <div class="panelize-infobox infobox-warning">

@@ -37,7 +37,7 @@ Yeni kalıp ekleme formunun bulunduğu sayfadır.
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
 | Name | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [General Settings Page](#general-settings-page) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
 | Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` |
-| Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
+| Visibility | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Kalıp Logosu | Kalıba ait simgenin yüklenebileceği Form Fielddır. |
 
 ## Pattern Page
@@ -142,7 +142,7 @@ Kalıba ait genel bilgilerin güncellendiği bölümdür.
 | Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` and `Unique` |
 | Short Description | Kalıbı anlatan bir cümlelik tanımıdır. |
 | Description | Kalıp ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
+| Visibility | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Kalıp Logosu | Kalıba ait simgenin yüklenebileceği Form Fielddır. |
 
 <div class="panelize-infobox infobox-warning">
