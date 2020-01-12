@@ -284,9 +284,9 @@ You can press **"New Webhook"** button to add a new webhook.
 | Name | This field specifies the name of the webhook. <br><br>`Required` |
 | URL | This field specifies the URL address of the request.<br><br>`Required` |
 | Secret Key | You can specify a secret key to verify that a specific web request is posted from Pyronome servers. |
-| Üretme Olayı | If you check this option, the web request is posted after the code generation process. |
-| Konuşlandırma Olayı | If you check this option, the web request is posted after the deploy process. |
-| İttirme Olayı | If you check this option, the web request is posted after the push process. |
+| On Generate Event | If you check this option, the web request is posted after the code generation process. |
+| On Deploy Event | If you check this option, the web request is posted after the deploy process. |
+| On Push Event | If you check this option, the web request is posted after the push process. |
 
 To view the logs for any webhook, you can press <strong><i class="fas fa-file-alt"></i></strong> icon to the right of the corresponding record row.
 
