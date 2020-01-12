@@ -12,9 +12,9 @@ Oluşturduğunuz ya da üyesi olduğunuz kalıpların listelendiği sayfadır. B
 
 | Table Field | Description |
 | ------ | ------ |
-| Ad | Kalıbın başlığı, kalıbın bulunduğu dizin ve kalıp adının gösterildiği alandır. |
+| Name | Kalıbın başlığı, kalıbın bulunduğu dizin ve kalıp adının gösterildiği alandır. |
 | Etkin Sürüm | Pyronome üzerinde kalıpların farklı sürümleri oluşturulabilir. Bu alan, üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Kalıbın **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
-| Enabled | Kalıbın etkin olup olmadığını belirten alandır. Etkin olmayan kalıplar, diğer üyeler tarafından görüntülenemez. |
+| Enabled | Using this field, you can specify whether the pattern is enabled or not. When you disable a pattern, other members cannot view this pattern. |
 | <i class="fas fa-users"></i> Members Button | Kalıbın sahibi tarafından belirlenen, kalıbın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
 | <i class="fas fa-trash-alt"></i> Delete Button | Kalıbın silinmesi için kullanılan düğmedir. |
 
@@ -26,17 +26,17 @@ Yeni kalıp ekleme formunun bulunduğu sayfadır.
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | Kalıbın etkin olup olmadığını belirleyebileceğiniz alandır. |
+| Enabled | Using this field, you can specify whether the pattern is enabled or not. |
 | Boş Kalıp Oluştur | Bu alan seçildiğinde boş bir kalıp oluşturulmaktadır. |
 | Varolan Kalıbı Klonla | Daha önce oluşturduğunuz ya da üzerinde düzenleme yetkiniz olan bir kalıbı klonlayarak yeni bir kalıp oluşturabilirsiniz. Bu alan seçildiğinde açılan alan içerisinden bir kalıp seçilmelidir. |
 | Patterns | Bu alan sadece **"Varolan Kalıbı Klonla"** alanı seçildiğinde gösterilmektedir. Yeni oluşturulacak kalıbın hangi kalıptan klonlanacağını belirten alandır. Bu alanda önceden eklemiş olduğunuz ya da düzenleme yetkisine sahip olduğunuz kalıplar listelenmektedir. |
-| Organization | Kalıbın hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Required` |
-| Varolan Dizine Ekle | Kalıbın önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
-| Yeni Dizin Oluştur | Bu alan seçildiğinde kalıp yeni oluşturulacak dizine kaydedilir. |
-| Main Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği ana dizini belirtmektedir. |
-| Sub Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği alt dizini belirtmektedir. |
-| Ad | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [General Settings Page](#general-settings-page) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Required` ve `Unique` |
-| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Required` |
+| Organization | This field specifies in which namespace that the new pattern will be created. This field lists your user name and the organizations you have added.<br><br>`Required` |
+| Use Existing Directory | This field specifies that the new pattern will be created into an existing directory. |
+| Create New Directory | When this field is selected, the new pattern is created in the new directory. |
+| Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the pattern will be created. |
+| Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
+| Name | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [General Settings Page](#general-settings-page) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
+| Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` |
 | Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Kalıp Logosu | Kalıba ait simgenin yüklenebileceği Form Fielddır. |
 
@@ -132,15 +132,15 @@ Kalıba ait genel bilgilerin güncellendiği bölümdür.
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | Kalıbın etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Organization | Kalıbın hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Required` |
-| Varolan Dizine Ekle | Kalıbın önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
-| Yeni Dizin Oluştur | Bu alan seçildiğinde kalıp yeni oluşturulacak dizine kaydedilir. |
-| Main Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği ana dizini belirtmektedir. |
-| Sub Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği alt dizini belirtmektedir. |
-| Ad | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` ve `Unique` |
-| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Required` ve `Unique` |
-| Kısa Description | Kalıbı anlatan bir cümlelik tanımıdır. |
+| Enabled | Using this field, you can specify whether the pattern is enabled or not. When you disable a pattern, other members cannot view this pattern. |
+| Organization | This field specifies in which namespace that the new pattern will be created. This field lists your user name and the organizations you have added.<br><br>`Required` |
+| Use Existing Directory | This field specifies that the new pattern will be created into an existing directory. |
+| Create New Directory | When this field is selected, the new pattern is created in the new directory. |
+| Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the pattern will be created. |
+| Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
+| Name | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
+| Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` and `Unique` |
+| Short Description | Kalıbı anlatan bir cümlelik tanımıdır. |
 | Description | Kalıp ile ilgili Descriptionların girilebileceği Form Fielddır. |
 | Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Kalıp Logosu | Kalıba ait simgenin yüklenebileceği Form Fielddır. |
@@ -203,8 +203,8 @@ Kalıbın Marketplace üzerindeki sayfası ile ilgili bilgilerin güncellendiği
 
 | Form Field | Description |
 | ------ | ------ |
-| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Required` ve `Unique` |
-| Kısa Description | Kalıbı anlatan bir cümlelik tanımıdır.<br><br>`Required` |
+| Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` and `Unique` |
+| Short Description | Kalıbı anlatan bir cümlelik tanımıdır.<br><br>`Required` |
 | Kategori | Kalıbın hangi kategori altında listeleneceğini belirtmektedir.<br><br>`Required` |
 | Description | Kalıp ile ilgili Descriptionların girilebileceği Form Fielddır. |
 | Anahtar Kelimeler | Marketplace üzerinde herhangi bir arama gerçekleştirildiğinde kullanılacak anahtar kelimelerdir.<br><br>`Required` |
@@ -216,7 +216,7 @@ Kalıbın Marketplace üzerindeki sayfası ile ilgili bilgilerin güncellendiği
 | Fiyatlama | Kalıbın fiyatının belirlendiği bölümdür. |
 | Sabit Fiyat (USD) | Kalıbın fiyatlama biçimi **"Sabit Fiyat"** olarak seçildiğinde gösterilir. Kalıbın fiyatının USD para biriminde girildiği alandır. |
 | Resim Galerisi | Kalıbın ekran görüntüleri, kullanımı ile ilgili görsellerin eklendiği alandır. Bu alanda 10 (on) adet görsele yer verilebilir. Eklenen ilk görsel vitrin görseli olarak seçilir. |
-| Ad | Kalıbın geliştiricisinin adını girebileceğiniz bölümdür. |
+| Name | Kalıbın geliştiricisinin adını girebileceğiniz bölümdür. |
 | Soyad | Kalıbın geliştiricisinin soyadını girebileceğiniz bölümdür. |
 | Telefon | Kalıbın geliştiricisinin telefonunu girebileceğiniz bölümdür. |
 | E-posta Adresi | Kalıbın geliştiricisinin e-posta adresini girebileceğiniz bölümdür. |

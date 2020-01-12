@@ -23,7 +23,7 @@ This page contains the form, which you can add a new project.
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | The field that you can determine whether the project is enabled or not. |
+| Enabled | This field indicates whether the project is enabled or not. Other members cannot view disabled projects. |
 | Create Empty Project | When this field is selected, an empty project is created. |
 | Clone Existing Project | You can create a new project by cloning a project that you have already created or have permission to edit. When this field is selected, you must choose a project. |
 | Projects | This field is only displayed when the **"Clone Existing Project"** field is selected. This field specifies the main project that the new project will be cloned. This field lists the projects that you have previously created, or you have permission to edit. |
@@ -32,7 +32,7 @@ This page contains the form, which you can add a new project.
 | Create New Directory | When this field is selected, the new project is created in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the project will be created. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the project will be created. |
-| Name | This field specifies the name of the new project.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the project name.<br><br>`Required` ve `Unique` |
+| Name | This field specifies the name of the new project.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the project name.<br><br>`Required` and `Unique` |
 | Title | This field specifies the title of the new project.<br><br>`Required` |
 | Project Logo | You can upload the project logo in this field. |
 
@@ -83,20 +83,20 @@ You can press the **"Download (.zip)"** button to download the generated source 
 You can view the source code -the list of files and directories- in the middle of the page. When you click on any directory, you can see the contents of that directory. Similarly, when you click on any file, you can view its contents if the file is text-based.
 
 ### General Settings Page
-Projeye ait genel bilgilerin güncellendiği bölümdür.
+Using this page, you can update the general information of the project.
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | Projenin etkin olup olmadığını belirleyebileceğiniz alandır. |
-| Organization | Projenin hangi isim uzayı içinde tanımlanacağını belirten alandır. Bu alanda kullanıcı adınız ve eklemiş olduğunuz alanlar listelenmektedir.<br><br>`Required` |
-| Varolan Dizine Ekle | Projenin önceden oluşturulan dizinlerin içine ekleneceğini belirten alandır. |
-| Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
-| Main Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
-| Sub Directory | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Required` ve `Unique` |
-| Description | Proje ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Project Logo | Projeye ait simgenin yüklenebileceği Form Fielddır. |
+| Enabled | This field indicates whether the project is enabled or not. Other members cannot view disabled projects. |
+| Organization | This field specifies in which namespace that the project will be located. This field lists your user name and the organizations you have added.<br><br>`Required` |
+| Use Existing Directory | This field specifies that the project will be located into an existing directory. |
+| Create New Directory | When this field is selected, the project is located in the new directory. |
+| Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the project will be located. |
+| Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the project will be located. |
+| Name | This field specifies the name of the project.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the project name.<br><br>`Required` and `Unique` |
+| Title | This field specifies the title of the project.<br><br>`Required` and `Unique` |
+| Description | This field specifies the description of the project. |
+| Project Logo | You can upload the project logo in this field. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -174,9 +174,9 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | Sunucunun etkin olup olmadığını gösterir. Etkin olmayan sunuculara yükleme işlemi yapılmaz. |
+| Enabled | This field indicates whether the server is enabled or not. Deployment is not performed on disabled servers. |
 | Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Required` |
-| Ad | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` ve `Unique` |
+| Name | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
 | Description | Sunucu ile ilgili Descriptionların girilebileceği Form Fielddır. |
 | Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Required` |
 | Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Required` |
@@ -218,7 +218,7 @@ Yükleme işleminin yapılacağı yeni bir kod deposu kaydı eklemek için **"Ye
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | Kod deposunun etkin olup olmadığını gösterir. Etkin olmayan kod depolarına yükleme işlemi yapılmaz. |
+| Enabled | This field indicates whether the repository is enabled or not. Push operation is not performed on disabled repositories. |
 | Kod Deposu Adı | Kod depolarını listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
 | Dal Adı (Branch) | Üretilen kodun hangi dala (branch) yükleneceğini belirten alandır. Eğer kod deposunda belirtilen dal bulunmuyorsa, dal önce üretilir daha sonra kod yükleme işlemi yapılır.<br><br>`Required` |
 | Main Directory | Üretilen kod, kod deposu içindeki belli bir dalın içinde özel bir alt dizine yüklenmesi gerekiyorsa bu alana yükleme yapılacak dizinin adının girilmesi gerekmektedir. |
@@ -284,8 +284,8 @@ Yükleme işleminin yapılacağı yeni bir web isteği kaydı eklemek için **"Y
 
 | Form Field | Description |
 | ------ | ------ |
-| Enabled | Web isteğinin etkin olup olmadığını gösterir. Etkin olmayan web isteği gönderilmez. |
-| Ad | Web isteğini listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
+| Enabled | This field indicates whether the webhook is enabled or not. The request is not sent to disabled webhooks. |
+| Name | Web isteğini listede ayırt etmek için bir isim verilmesi gerekmektedir. <br><br>`Required` |
 | URL | Web isteğinin yapılacağı adresi belirtir.<br><br>`Required` |
 | Gizli Anahtar | Web isteğinin Pyronome sunucuları tarafından gönderildiğini doğrulamak amacıyla gizli anahtar belirtebilirsiniz. |
 | Üretme Olayı | Web isteğinin kod üretme işleminden sonra gönderilip/gönderilmeyeceğini belirleyen alandır. |
