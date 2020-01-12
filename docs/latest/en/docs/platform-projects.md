@@ -150,37 +150,35 @@ In addition, you can label pre-release versions by adding the following suffixes
 </div>
 
 ### Servers Page
-Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği/kurulacağı sunucuaları belirtmek için bu bölümü kullanabilirsiniz.
+You can use this section to specify the servers that will be installed after the source code generation process.
 
-Bu bölümde şuan için;
+In this section, you can add the following servers:
 
 - FTP Server
 - SFTP Server
 
-ekleyebilirsiniz.
-
-Oluşturulan kaynak kodu elle mevcut sunuculara yüklemek için **"Şimdi Konuşlandır!"** düğmesine basabilirsiniz. Kaynak kod belirlediğiniz sıra ile sunuculara yüklenecektir.
+You can press the **"Deploy Now!"** button to manually upload the generated source code to the existing servers. The source code will be uploaded to the servers in the order you specify.
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>Sunuculara kaynak kod yükleme işlemi ardışık olarak gerçekleştirilmektedir. Başka bir deyişle, ilk sunucuya yükleme işlemi tamamlanmadan ikinci sunucuya yükleme işlemi başlatılmaz.</p>
+    <p>The installation of source code to the servers is performed consecutively. In other words, the installation to the second server does not start until the installation to the first server is complete.</p>
 </div>
 
-Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni Sunucu"** düğmesine basabilirsiniz.
+You can press **"New Server"** button to add a new server.
 
 | Form Field | Description |
 | ------ | ------ |
 | Enabled | This field indicates whether the server is enabled or not. Deployment is not performed on disabled servers. |
-| Tür | Sunucunun türünü belirtmektedir. Şuan için FTP ve SFTP sunucularına yükleme işlemi yapılabilmektedir.<br><br>`Required` |
-| Name | Sunucunun adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
-| Description | Sunucu ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Required` |
-| Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Required` |
-| Kullanıcı | **"Sunucu Adresi"** Form Fieldnda belirtilen sunucuya erişim yetkisine sahip kullanıcının şifresini girebileceğiniz alandır.<br><br>`Required` |
-| Ev Dizini | Bağlantı sağlandıktan sonra yükleme işleminin yapılacağı dizini belirtir. |
-| Yuva (Port) | Bağlantının kurulacağı yuvayı belirtir.<br><br>`Required` ve `Varsayılan Değer: 21` |
+| Type | This field specifies the type of the server. Currently, you can choose FTP or SFTP server.<br><br>`Required` |
+| Name | This field specifies the name of the server.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the server name.<br><br>`Required` and `Unique` |
+| Description | This field specifies the description of the server. |
+| Host | You can specify the server address in this field.<br><br>`Required` |
+| User | You can enter the authorized user name to access the server.<br><br>`Required` |
+| Password | You can enter the authorized user password to access the server.<br><br>`Required` |
+| Home Folder | You can specify the directory in which the installation will be performed after the connection is established using this field. |
+| Port | You can specify the port where the connection will be established.<br><br>`Required` and `Varsayılan Değer: 21` |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -196,9 +194,9 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
     </ul></p>
 </div>
 
-Herhangi bir sunucuya ait işlem kayıtlarını görüntülemek için, ilgili kayıt satırının sağ tarafında bulunan <strong><i class="fas fa-file-alt"></i></strong> simgesine basabilirsiniz.
+To view transaction logs for any server, you can press <strong><i class = "fas fa-file-alt"></i></strong> on the right-hand side of that record line.
 
-Bağlantı parametrelerini eksiksiz olarak girdikten sonra bağlantıyı test etmek için **"TEST"** düğmesine basabilirsiniz.
+Once you have entered all connection parameters, you can press **"TEST"** to test the connection.
 
 ### Repositories Page
 Projenin kaynak kod üretim işleminden sonra otomatik olarak dosyaların yükleneceği kod depolarını belirtmek için bu bölümü kullanabilirsiniz.

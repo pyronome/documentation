@@ -181,7 +181,7 @@ Yükleme işleminin yapılacağı yeni bir sunucu kaydı eklemek için **"Yeni S
 | Açıklama | Sunucu ile ilgili açıklamaların girilebileceği form alanıdır. |
 | Sunucu Adresi | Sunucu adresinin girildiği alandır.<br><br>`Gerekli` |
 | Kullanıcı | **"Sunucu Adresi"** form alanında belirtilen sunucuya erişim yetkisine sahip kullanıcının adını girebileceğiniz alandır.<br><br>`Gerekli` |
-| Kullanıcı | **"Sunucu Adresi"** form alanında belirtilen sunucuya erişim yetkisine sahip kullanıcının şifresini girebileceğiniz alandır.<br><br>`Gerekli` |
+| Şifre | **"Sunucu Adresi"** form alanında belirtilen sunucuya erişim yetkisine sahip kullanıcının şifresini girebileceğiniz alandır.<br><br>`Gerekli` |
 | Ev Dizini | Bağlantı sağlandıktan sonra yükleme işleminin yapılacağı dizini belirtir. |
 | Yuva (Port) | Bağlantının kurulacağı yuvayı belirtir.<br><br>`Gerekli` ve `Varsayılan Değer: 21` |
 
