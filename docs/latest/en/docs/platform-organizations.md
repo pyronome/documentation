@@ -14,22 +14,22 @@ This page lists the organizations you are a member of, or you have created. You 
 
 | Table Field | Description |
 | ------ | ------ |
-| Name | This field specifies. |
+| Name | This field shows the organization name. |
 | Enabled | Using this field, you can specify whether the organization is enabled or not. |
-| Visibility | Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
-| <i class="fas fa-users"></i> Members Button | Alanın sahibi tarafından belirlenen, alanın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| <i class="fas fa-trash-alt"></i> Delete Button | Alanın silinmesi için kullanılan düğmedir. |
+| Visibility | Organizations can be **"Public"** or **"Private"**. **"Public"** organizations can be displayed on the Marketplace. **"Private"** organizations can only be viewed by its members. |
+| <i class="fas fa-users"></i> Members Button | Displays the **"Members"** page, which lists other members authorized to take action on the organization. |
+| <i class="fas fa-trash-alt"></i> Delete Button | You can use this button to delete a specific organization. |
 
 ## New Organization Page
-Yeni alan ekleme formunun bulunduğu sayfadır.
+This page contains the form, which you can add a new organization.
 
 | Form Field | Description |
 | ------ | ------ |
 | Enabled | Using this field, you can specify whether the organization is enabled or not. |
-| Name | Alanın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Alan adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` |
-| Description | Alan ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Visibility | Alanın görüntülenme biçimini belirtir. Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
-| Alan Logosu | Alana ait simgenin yüklenebileceği Form Fielddır. |
+| Name | This field specifies the name of the organization.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the organization name.<br><br>`Required` and `Unique` |
+| Description | This field specifies the description of the organization. |
+| Visibility | This field specifies the visibility of the organization. Organizations can be **"Public"** or **"Private"**. **"Public"** organizations can be displayed on the Marketplace. **"Private"** organizations can only be viewed by its members. |
+| Alan Logosu | You can upload the organization logo in this field. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -46,14 +46,14 @@ Yeni alan ekleme formunun bulunduğu sayfadır.
 </div>
 
 ## Organization Page
-Daha önceden eklenmiş bir alana ait özelliklerde değişiklik yapmak için kullanabileceğiniz sayfadır. Bu sayfa üzerindeki form alanları ile ilgili detaylı bilgi için [Yeni Alan Sayfası](#yeni-alan-sayfası) bölümüne bakabilirsiniz.
+Using this page, you can update a previously added organization. See [New Organization Page](#new-organization-page) for detailed information about the form fields on this page.
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
     <p>
-        Alan adını değiştirdikten sonra, eski alan adınız <strong>HEMEN UYGUN DURUMA</strong> geçecek ve başka bir kullanıcı tarafından kayıt edilebilecektir.
+       Please note that, after changing your user name, your old user name <strong>IMMEDIATELY BECOMES AVAILABLE</strong> and can be registered by another user.
     </p>
 </div>
 
