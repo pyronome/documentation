@@ -209,8 +209,8 @@ Using this section, you can update the information about the Marketplace page of
 | Destek URL | This field specifies the support address available to the pattern users. You can enter GitHub, GitLab, BitBucket, etc. **"Issues"** page addresses of the pattern repository to this field. |
 | Kod Deposu URL | This field specifies the repository URL of the pattern. |
 | README.md URL (README Tab) | **"README"** tab shows the content of the README.md file entered to this field on the Marketplace pattern page. |
-| Lisanslama | This field specifies the usage terms and license of the pattern. |
-| Fiyatlama | This field specifies the pricing strategy of the pattern. |
+| Licensing | This field specifies the usage terms and license of the pattern. |
+| Pricing | This field specifies the pricing strategy of the pattern. |
 | Fixed Price (USD) | This field shows when you choose **"Fixed Price"** as pricing. You can enter the price of the pattern in USD currency. |
 | Image Gallery | You can upload up to 10 some images, screenshots, etc. of the pattern in this section. The first image will be considered as a featured image. |
 | First Name | This field specifies the first name of the pattern developer. |
