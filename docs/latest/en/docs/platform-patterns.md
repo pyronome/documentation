@@ -5,58 +5,57 @@ title: Patterns
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Kalıplar, Pyronome teknolojisinin önemli bir elemanıdır. Proje modelinin belirlenmesini sağlayan şemalar, kaynak kod üretiminde kullanılacak statik dosyalar ve şablonlar bir araya getirilerek kalıplar oluşturulmaktadır. Kalıplar da, projelerde olduğu gibi başka kalıplara bağlı olabilmektedir.
+Patterns are an essential element of Pyronome technology. Patterns are formed by bringing together the schemas -that shape the project model-, the static files, and the templates. Patterns can be based on other patterns, just like projects.
 
 ## My Patterns Page
-Oluşturduğunuz ya da üyesi olduğunuz kalıpların listelendiği sayfadır. Bu sayfa üzerinden yeni kalıp ekleyebilir ya da mevcut kalıplarınızı görüntüleyebilirsiniz.
+This page lists the patterns you are a member of, or you have created. You can add new patterns or view your existing patterns on this page.
 
 | Table Field | Description |
 | ------ | ------ |
-| Name | Kalıbın başlığı, kalıbın bulunduğu dizin ve kalıp adının gösterildiği alandır. |
-| Etkin Sürüm | Pyronome üzerinde kalıpların farklı sürümleri oluşturulabilir. Bu alan, üzerinde değişiklik yapılmakta olan etkin sürümü ifade etmektedir. Kalıbın **"Sürümler"** sayfası üzerinden etkin sürüm değiştirilebilir. |
-| Enabled | Using this field, you can specify whether the pattern is enabled or not. When you disable a pattern, other members cannot view this pattern. |
-| <i class="fas fa-users"></i> Members Button | Kalıbın sahibi tarafından belirlenen, kalıbın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
-| <i class="fas fa-trash-alt"></i> Delete Button | Kalıbın silinmesi için kullanılan düğmedir. |
+| Name | This field shows the pattern title, the folder where the pattern is located and the pattern name. |
+| Active Version | Pyronome allows users to create different versions of their patterns. This field refers to the version in which the user actively makes modifications to it. The active version can be changed via the **"Versions"** page of the pattern. |
+| Enabled | This field indicates whether the pattern is enabled or not. Other members cannot view disabled patterns. |
+| <i class="fas fa-users"></i> Members Button | Displays the **"Members"** page, which lists other members authorized to take action on the pattern. |
+| <i class="fas fa-trash-alt"></i> Delete Button | You can use this button to delete a specific pattern. |
 
 ## Installed Pattern Page
-Proje ya da kalıp oluştururken, **"Kalıp Ekle/Kur"** penceresi üzerinden proje ya da kalıbınıza dahil ettiğiniz kalıplar bu bölümde listelenmektedir.
+This page lists the patterns that you have included in your projects and patterns.
 
 ## New Pattern Page
-Yeni kalıp ekleme formunun bulunduğu sayfadır.
+This page contains the form, which you can add a new pattern.
 
 | Form Field | Description |
 | ------ | ------ |
 | Enabled | Using this field, you can specify whether the pattern is enabled or not. |
-| Boş Kalıp Oluştur | Bu alan seçildiğinde boş bir kalıp oluşturulmaktadır. |
-| Varolan Kalıbı Klonla | Daha önce oluşturduğunuz ya da üzerinde düzenleme yetkiniz olan bir kalıbı klonlayarak yeni bir kalıp oluşturabilirsiniz. Bu alan seçildiğinde açılan alan içerisinden bir kalıp seçilmelidir. |
-| Patterns | Bu alan sadece **"Varolan Kalıbı Klonla"** alanı seçildiğinde gösterilmektedir. Yeni oluşturulacak kalıbın hangi kalıptan klonlanacağını belirten alandır. Bu alanda önceden eklemiş olduğunuz ya da düzenleme yetkisine sahip olduğunuz kalıplar listelenmektedir. |
+| Create Empty Pattern | When this field is selected, an empty pattern is created. |
+| Clone Existing Pattern | You can create a new pattern by cloning a pattern that you have already created or have permission to edit. When this field is selected, you must choose a pattern. |
+| Patterns | This field is only displayed when the **"Clone Existing pattern"** field is selected. This field specifies the main pattern that the new pattern will be cloned. This field lists the patterns that you have previously created, or you have permission to edit. |
 | Organization | This field specifies in which namespace that the new pattern will be created. This field lists your user name and the organizations you have added.<br><br>`Required` |
 | Use Existing Directory | This field specifies that the new pattern will be created into an existing directory. |
 | Create New Directory | When this field is selected, the new pattern is created in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the pattern will be created. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
-| Name | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [General Settings Page](#general-settings-page) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
-| Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` |
-| Visibility | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
-| Kalıp Logosu | Kalıba ait simgenin yüklenebileceği Form Fielddır. |
+| Name | This field specifies the name of the new pattern.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the pattern name.<br><br>`Required` and `Unique` |
+| Title | This field specifies the title of the new pattern.<br><br>`Required` and `Unique` |
+| Pattern Logo | You can upload the pattern logo in this field. |
 
 ## Pattern Page
-Kalıbınızın tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden kalıp şemasını, şablonlarını, modelini ve dosyalarını yönetebilirsiniz.
+This page contains all the details of your pattern. From this page, You can manage the pattern schema, templates, model, and files.
 
 ### Overview Page
-Kalıp sayfasına girildiğinde ilk gösterilen bölümdür. Bu bölüm tüm kalıp özelliklerinin özeti niteliğindedir.
+It is the first section displayed when you enter the project page. This page summarizes all the details regarding your project.
 
 | Section | Description |
 | ------ | ------ |
-| Basic Info | Kalıbın belli başlı özelliklerinin gösterildiği tablodur. Detaylı bilgi için [**"General Settings Page"**](#general-settings-page) bölümüne bakınız. |
-| Patterns | Kalıbın bağımlı olduğu kalıpların listelendiği bölümdür. Detaylı bilgi için [**"Patterns Page"**](#patterns-page) bölümüne bakınız. |
-| Dosyalar | Kalıbın statik dosyalarının gösterildiği bölümdür. Detaylı bilgi için [**"Dosyalar Sayfası"**](#dosyalar-sayfası) bölümüne bakınız. |
-| Versions | Kalıp sürümlerinin listelendiği bölümdür. Detaylı bilgi için [**"Versions Page"**](#versions-page) bölümüne bakınız. |
-| Members | Kalıbın üyelerinin listelendiği bölümdür. Detaylı bilgi için [**"Members Page"**](#members-page) bölümüne bakınız. |
-| Activity Log | Kalıp üzerinde düzenleme yetkisine sahip kullanıcıların, kalıp üzerinde yapmış olduğu güncellemelerin listelendiği bölümdür. |
+| Basic Info | This table shows the basic information about the pattern. See [**"General Settings Page"**](#general-settings-page) for further details. |
+| Patterns | This section lists the base patterns of the pattern. See [**"Patterns Page"**](#patterns-page) for details. |
+| Dosyalar | This section shows the static files of the pattern. See [**"Files Page"**](#files-page) for details. |
+| Versions | This section lists the pattern versions. For details, see [**"Versions Page"**](#versions-page). |
+| Members | This section lists the pattern members. See [**"Members Page"**] (#members-page) for details. |
+| Activity Log | This section lists the updates that are performed on the pattern by the members. |
 
 ### Schema Page
-Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafından eklenecek belli parametrelere ihtiyaç duymaktadır. Bu bölümde kullanıcı tarafından eklenecek parametrelerin ne olduğu ve kullanıcıdan nasıl alıncağı belirlenir. Böylelikle kullanıcı kalıbı kendi projesine eklediğinde projenin model sayfası bu bölümde belirlenen şemaya göre oluşturulur.
+Patterns require specific fields and parameters to be defined by the user when creating the model. This section determines what fields and parameters to be defined by the user. Additionally, using this section, you can define a way to retrieve these fields and parameters from the user.
 
 | Section | Description |
 | ------ | ------ |
@@ -68,7 +67,7 @@ Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafı
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the schema in JSON syntax. |
 
 ### Validation Page
-Kalıbın şeması belirlendikten sonra, bu şemanın hangi koşullara göre doğrulanacağının belirtilmesi gerekmektedir. Böylelikle kalıbınızı kullanan kullanıcıları yönlendirip; kaynak kod üretim aşamasından önce gerekli kontrollerin yapılmasını sağlayabilirsiniz. Uyumsuz bölümlerin kullanıcılara gösterilip; bu uyumsuzlukların düzeltilmesini sağlayabilirsiniz. Bu bölümde doğrulamanın yapılması için koşullar oluşturulmaktadır.
+Once the schema of the pattern is determined, it is necessary to specify the conditions applied to verify defined fields and parameters. In this way, you can guide users while they are creating their model based on your pattern. Also, you can make the necessary checks before the source code generation process. Error, warning, and information notes will be shown to users based on your conditions. Thus, you can provide a way for them to fix their invalid parameters and field values before the source code generation process.
 
 | Section | Description |
 | ------ | ------ |
@@ -80,12 +79,12 @@ Kalıbın şeması belirlendikten sonra, bu şemanın hangi koşullara göre do�
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the validation model in JSON syntax. |
 
 ### Files Page
-Kaynak kod üretim aşamasında, bazı dosyalar doğrudan -üzerinde hiçbir işlem yapılmadan- kaynak kod eklenmesi gerekmektedir. Bu dosyalar statik dosyalar olarak adlandırılmaktadır. Bu bölümde, bu statik dosyalar eklenebilmektedir.
+In the source code generation phase, some files need to be added directly, without making any modifications to their content. These files are called static files. Using this section, you can create required directories and upload static files.
 
-Bu bölümde eklenebilecek dosyalar, resim, ikili dosya (Binary File) ve metin tabanlı dosyalar olabilir. Metin tabanlı dosyalar bütünleşik editör yardımıyla düzenlenebilmektedir. Bununla birlikte bütün statik dosyaların .zip uzantılı sıkıştırılmış bir dosya olarak atılması ve sıkıştırılmış dosyanın açılmasını sağlayabilirsiniz.
+The files that you can upload in this section can be binary (image, audio, compressed) files, and text-based files. You can edit text-based files with the help of an integrated editor. Additionally, you can upload all static files as a single compressed .zip file, and then you can uncompress.
 
 ### Templates Page
-Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar model ağacına göre kod parçalarının bir araya getirilerek üreteçlerin oluşturulmasını sağlamaktadır.
+One of the most important components of a pattern is templates. The templates are the micro-generators attached to pattern schema. Pyronome combines and runs these micro-generators while generating source code, according to the content of the model.
 
 | Section | Description |
 | ------ | ------ |
@@ -97,7 +96,7 @@ Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar m
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the template model in JSON syntax. |
 
 ### Variables Page
-Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu kalıplar için kaynak kod üretim işlemi birbirinden ayrı işletilmektedir. Bununla birlikte kaynak kod üretimi paralel işleme ile de gerçekleştirilebilir. Bu gibi durumlarda genel değişken tanımları yapılıp bu değişken tanımlarının bütün kaynak kod üretim sürecinde tanımlı kalmasını bu bölümü kullanarak sağlayabilirsiniz.
+More than one pattern can be installed on a single project. The source code generation process for these patterns is performed separately. Also, source code generation can be performed by parallel processing. In some cases, you need to define global variables that are available entire source code generation process. In this case, with the help of this section, you can define global variables.
 
 | Section | Description |
 | ------ | ------ |
@@ -109,7 +108,7 @@ Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the variables in JSON syntax. |
 
 ### Model Page
-Kalıbın seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçilen kalıpların şemasında belirlenen ve bu kalıbın şema bölümünde belirlenen ölçütlere göres bu bölümde model içeriği oluşturulur.
+You can use this section to define a default model for the pattern.
 
 | Section | Description |
 | ------ | ------ |
@@ -121,14 +120,14 @@ Kalıbın seçilen kalıplara göre modelinin oluşturulduğu bölümdür. Seçi
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the variables in JSON syntax. |
 
 ### Patterns Page
-Aynen projelerde olduğu gibi kalıplara da başka kalıplar kurulabilir. Böylelikle bazı alt seviye kalıpların tekrar tekrar seçilmesi zorunluğu ortadan kalkar.
+Just as in projects, you can install another pattern to your pattern. This approach eliminates the need to select some lower-level patterns over and over again.
 
-**"Kalıp Ekle/Kur"** düğmesine basıldığında kalıba kurulabilecek kalıpların listesini gösteren pencere açılır. Bu bölüm yardımıyla kalıplar belli ölçütlere göre arayabilir ve kalıp kurma ve satın alma işlemlerini gerçekleştirebilirsiniz.
+By clicking the **"Install Pattern(s)"** button, you can open the **"Install Pattern(s)"** window showing the possible pattern options that you can install to your pattern. With the help of this section, you can search for patterns according to your criteria and install the desired pattern(s), also purchase paid ones.
 
-Kalıba kurulu kalıpların listesi sayfanın orta bölümünde yer almaktadır. Bu bölümdeki kalıplar her satırın sol tarafında bulunan özel sıralama tutucuları ile sıralanabilir. Listedeki her satırın sol tarafında bulunan sürüm seçicisi ile kurulan kalıbın hangi sürümüne göre kaynak kod üretim işlemi yapılabileceği seçilebilir.
+The list of installed patterns is in the middle of the page. You can sort patterns with special sorting grips to the left of each line. Additionally, with the version selector at the right of each line in the list, you can choose a specific version and perform a source code generation process based on this selected version.
 
 ### General Settings Page
-Kalıba ait genel bilgilerin güncellendiği bölümdür.
+Using this page, you can update the general information of the pattern.
 
 | Form Field | Description |
 | ------ | ------ |
@@ -138,12 +137,12 @@ Kalıba ait genel bilgilerin güncellendiği bölümdür.
 | Create New Directory | When this field is selected, the new pattern is created in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the pattern will be created. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
-| Name | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Required` and `Unique` |
-| Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` and `Unique` |
-| Short Description | Kalıbı anlatan bir cümlelik tanımıdır. |
-| Description | Kalıp ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Visibility | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Marketplace üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
-| Kalıp Logosu | Kalıba ait simgenin yüklenebileceği Form Fielddır. |
+| Name | This field specifies the name of the pattern.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the pattern name.<br><br>`Required` and `Unique` |
+| Title | This field specifies the title of the pattern.<br><br>`Required` and `Unique` |
+| Short Description | This field specifies a one-sentence description of the pattern. |
+| Description | This field specifies the description of the pattern. |
+| Visibility | This field specifies the visibility of the pattern. Patterns can be **"Public"** or **"Private"**. **"Public"** patterns can be displayed on the Marketplace. **"Private"** patterns can only be viewed by its members. |
+| Pattern Logo | You can upload the pattern logo in this field. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
@@ -197,32 +196,32 @@ In addition, you can label pre-release versions by adding the following suffixes
 </div>
 
 ### Marketplace Page
-Kalıbın Marketplace üzerindeki sayfası ile ilgili bilgilerin güncellendiği bölümdür. Bu bölümdeki form alanların bir çoğu **"General Settings Page"** bölümündeki alanlardır.
+Using this section, you can update the information about the Marketplace page of the pattern. Most of the form fields in this section can also be updated using the **"General Settings Page"** section.
 
 | Form Field | Description |
 | ------ | ------ |
-| Title | Kalıbın başlığını belirtmektedir.<br><br>`Required` and `Unique` |
-| Short Description | Kalıbı anlatan bir cümlelik tanımıdır.<br><br>`Required` |
-| Kategori | Kalıbın hangi kategori altında listeleneceğini belirtmektedir.<br><br>`Required` |
-| Description | Kalıp ile ilgili Descriptionların girilebileceği Form Fielddır. |
-| Anahtar Kelimeler | Marketplace üzerinde herhangi bir arama gerçekleştirildiğinde kullanılacak anahtar kelimelerdir.<br><br>`Required` |
-| Web URL | Kalıbın web sitesi adresini girebileceğiniz alandır. |
-| Destek URL | Kalıp kullanıcılarının yararlanabileceği destek adresini belirtmektedir. Bu bölüme GitHub, GitLab, BitBucket vb. çevrimiçi kod depolarının **"Issues"** sayfa adreslerini girebilirsiniz. |
-| Kod Deposu URL | Kalıbın kod deposu adresini girebileceğiniz alandır. |
-| README.md URL (DETAYLAR Sekmesi) | Marketplace üzerindeki kalıbın sayfasında **"Detaylar"** sekmesinde gösterilecek **"README.md"** dosyasının adresini belirtmektedir. |
-| Lisanslama | Kalıbın kullanım lisansını belirtmektedir. |
-| Fiyatlama | Kalıbın fiyatının belirlendiği bölümdür. |
-| Sabit Fiyat (USD) | Kalıbın fiyatlama biçimi **"Sabit Fiyat"** olarak seçildiğinde gösterilir. Kalıbın fiyatının USD para biriminde girildiği alandır. |
-| Resim Galerisi | Kalıbın ekran görüntüleri, kullanımı ile ilgili görsellerin eklendiği alandır. Bu alanda 10 (on) adet görsele yer verilebilir. Eklenen ilk görsel vitrin görseli olarak seçilir. |
-| Name | Kalıbın geliştiricisinin adını girebileceğiniz bölümdür. |
-| Soyad | Kalıbın geliştiricisinin soyadını girebileceğiniz bölümdür. |
-| Telefon | Kalıbın geliştiricisinin telefonunu girebileceğiniz bölümdür. |
-| E-posta Adresi | Kalıbın geliştiricisinin e-posta adresini girebileceğiniz bölümdür. |
-| Notlar | Kalıbın geliştiricisinin iletişim bilgileri ile ilgili belirtmek istediği notlar bu alana girilmektedir. |
+| Title | This field specifies the title of the pattern.<br><br>`Required` and `Unique` |
+| Short Description | This field specifies a one-sentence description of the pattern.<br><br>`Required` |
+| Category | This field specifies the category under which the pattern will be listed.<br><br>`Required` |
+| Description | This field specifies the description of the pattern. |
+| Keywords | Keywords that will be used when any search is performed on the Marketplace.<br><br>`Required` |
+| Web URL | This field specifies the web URL of the pattern. |
+| Destek URL | This field specifies the support address available to the pattern users. You can enter GitHub, GitLab, BitBucket, etc. **"Issues"** page addresses of the pattern repository to this field. |
+| Kod Deposu URL | This field specifies the repository URL of the pattern. |
+| README.md URL (README Tab) | **"README"** tab shows the content of the README.md file entered to this field on the Marketplace pattern page. |
+| Lisanslama | This field specifies the usage terms and license of the pattern. |
+| Fiyatlama | This field specifies the pricing strategy of the pattern. |
+| Fixed Price (USD) | This field shows when you choose **"Fixed Price"** as pricing. You can enter the price of the pattern in USD currency. |
+| Image Gallery | You can upload up to 10 some images, screenshots, etc. of the pattern in this section. The first image will be considered as a featured image. |
+| First Name | This field specifies the first name of the pattern developer. |
+| Last Name | This field specifies the last name of the pattern developer. |
+| Phone Number | This field specifies the phone number of the pattern developer. |
+| E-mail Address | This field specifies the e-mail address of the pattern developer. |
+| Notes | You can enter some notes about the developer's contact information. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>Bu bölümde belirtilen URL adresleri genel kullanıma açık olmalıdır.</p>
+    <p>The URL addresses specified in this section must be publicly accessible.</p>
 </div>

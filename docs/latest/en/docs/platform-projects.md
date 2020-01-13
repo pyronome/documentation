@@ -44,12 +44,12 @@ It is the first section displayed when you enter the project page. This page sum
 
 | Section | Description |
 | ------ | ------ |
-| Basic Info | This table shows the basic information about the project. See [**"General Settings Page"**](# general-settings-page) for further details. |
+| Basic Info | This table shows the basic information about the project. See [**"General Settings Page"**](#general-settings-page) for further details. |
 | Patterns | This section lists the patterns of the project. See [**"Patterns Page"**](#patterns-page) for details. |
 | Source Code | This section shows the generated source code of the project. See [**"Source Code Page"**](#source-code-page) for details. |
 | Versions | This section lists the project versions. For details, see [**"Versions Page"**](#versions-page). |
 | Members | This section lists the project members. See [**"Members Page"**] (#members-page) for details. |
-| Activity Log | This section lists the updates that are performed on the project by the users. |
+| Activity Log | This section lists the updates that are performed on the project by the members. |
 | Servers | This section lists the project servers are listed. See [**"Servers Page"**](#servers-page) for details. |
 | Repositories | This section lists the project repositories. See [**"Repositories Page"**](#repositories-page) for details. |
 | Webhooks | This section lists the webhooks of the project. See [**"Webhooks Page"**](#webhooks-page) for details. |
