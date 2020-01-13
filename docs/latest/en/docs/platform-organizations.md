@@ -5,16 +5,16 @@ title: Organizations
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Geliştirilen kalıplar için [https://pyronome.com](https://pyronome.com) üzerinde genel ad uzayları oluşturmak amacıyla alanlar bölümü kullanılmaktadır. Alanlar bölümü yardımıyla,[https://pyronome.com](https://pyronome.com) alan adı üzerinden erişilebilen farklı kalıp dizinleri oluşturulabilmektedir.
+You can use organizations to create generic namespaces, for developed patterns on [https://pyronome.com](https://pyronome.com). With the help of the organizations, you can create different pattern directories that can be accessed via the domain name [https://pyronome.com](https://pyronome.com).
 
-Bununla birlikte alanlar platform üzerinde oluşturulan proje ve kalıpları sınıflandırmak için de kullanıbilir. **"Ana Sayfa"**, **"Projeler"** ve **"Kalıplarım"** sayfalarının sağ üst tarafında alan seçim menüleri yer almaktadır. Alan seçimi yapıldığında sadece seçilen alan içindeki kayıtlar gösterilir.
+Additionally, you can use organizations to classify your projects and patterns. On **"Home"**, **"Projects"** and **"My Patterns"** pages, there is an organization selection menu located on the top right. When an organization is selected, only the records within the selected organization are displayed.
 
 ## Organizations Page
-Oluşturduğunuz ya da üyesi olduğunuz alanların listelendiği sayfadır. Bu sayfa üzerinden yeni alan ekleyebilir ya da mevcut alanlarınızı görüntüleyebilirsiniz.
+This page lists the organizations you are a member of, or you have created. You can add new organizations or view your existing organizations on this page.
 
 | Table Field | Description |
 | ------ | ------ |
-| Name | Alanın adını belirtir. |
+| Name | This field specifies. |
 | Enabled | Using this field, you can specify whether the organization is enabled or not. |
 | Visibility | Alanlar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** alanlar Marketplace üzerinde görüntülenebilir. **"Özel"** alanlar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | <i class="fas fa-users"></i> Members Button | Alanın sahibi tarafından belirlenen, alanın üzerinde işlem yapma yetkisine sahip diğer üyelerin görüntülendiği **"Üyeler"** sayfasını gösterir. |
