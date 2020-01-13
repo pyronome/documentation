@@ -24,7 +24,7 @@ Kullanıcı hesabınızı oluşturduktan sonra ilk giriş işleminden sonra, do�
     <ul>
         <li>Sadece İngilizce karakterler içermelidir.</li>
         <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
+        <li>En az üç karakter uzunluğunda olmalıdır.</li>
         <li>Noktalama işareti olarak sadece orta çizgi "-" ve alt tire "_" karakterleri kabul edilmektedir.</li>
         <li>Sayı, orta çizgi "-" ve alt tire "_" ile başlayamaz.</li>
     </ul></p>

@@ -25,7 +25,7 @@ After your first login, you will be redirected to the new project page. You can 
     <ul>
         <li>It must contain only English characters.</li>
         <li>It cannot contain spaces and tab characters.</li>
-        <li>It must be longer than two characters.</li>
+        <li>It must be at least three characters long.</li>
         <li>You can enter only the "-" and underscore "_" characters as punctuation.</li>
         <li>It cannot begin with number, the middle line "-" and the underscore "_".</li>
     </ul></p>

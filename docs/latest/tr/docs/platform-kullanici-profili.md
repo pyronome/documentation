@@ -33,7 +33,7 @@ Profiliniz ile ilgili bilgileri bu bölümden düzenleyebilirsiniz.
     <ul>
         <li>Sadece İngilizce karakterler içermelidir.</li>
         <li>Boşluk ve sekme karakterlerini içeremez.</li>
-        <li>İki karakterden daha uzun olmalıdır.</li>
+        <li>En az üç karakter uzunluğunda olmalıdır.</li>
         <li>Noktalama işareti içeremez.</li>
         <li>Sayı ile başlayamaz.</li>
     </ul></p>
@@ -58,6 +58,6 @@ Kullanıcı şifrenizi bu bölümden değiştirebilirsiniz. Kullanıcı şifreni
     <ul>
         <li>En az bir tane harf içermelidir.</li>
         <li>En az bir tane rakam içermelidir.</li>
-        <li>Yedi karakterden daha uzun olmalıdır.</li>
+        <li>En az sekiz karakter uzunluğunda olmalıdır.</li>
     </ul></p>
 </div>
