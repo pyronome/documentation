@@ -5,12 +5,12 @@ title: Payments & Billing
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Platform üyelik ücret ödemeleri ve Marketplace kalıp ve kredi satın alma işlemleri bu bölümde görüntülenmektedir.
+This page lists payment transactions regarding Platform membership subscription payments, and Marketplace pattern and credit purchases.
 
 | Table Field | Description |
 | ------ | ------ |
-| İşlem Tarihi | Yapılan ödeme işleminin tarihini belirtir. |
-| Sipariş Descriptionsı | Sipariş için belirtilen ticari ünvanı ve sipariş numarasını gösteren alandır. |
-| Sipariş Tutarı | Sipariş tutarını belirten alandır. |
-| Sipariş Durumu | Sipariş durumunu belirten alandır. |
-| <i class="fas fa-file-alt"></i> İşlem Detayı Düğmesi | İşlem detaylarını gösterir. |
+| Transaction Date | This field shows the date of the payment transaction. |
+| Description | This field shows the billing name and order number. |
+| Amount | This field shows the order amount. |
+| Status | This field shows the status of the transaction. |
+| <i class="fas fa-file-alt"></i> Transaction Detail Button | You can click this link to view transaction details. |

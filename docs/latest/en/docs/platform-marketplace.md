@@ -5,21 +5,21 @@ title: Marketplace
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Projemize ekleyebileceğimiz kalıpların listedendiği kataloğa **"Marketplace"** adı verilmektedir. Marketplace üzerinde bütün kalıplar belli ölçütlere göre sınıflandırılır ve listelenir.
+The catalog that lists the patterns that we can install to our projects is called **"Marketplace"**. All patterns on the Marketplace are classified and listed according to specific criteria.
 
-Kalıplar için kullanılan **"Popüler"** filtreler ile ilgili Description aşağıda verilmiştir:
+Description about **"Popular"** filters used for patterns are as follows:
 
 | Filtre Türü | Description |
 | ------ | ------ |
-| Free | Ücretsiz kalıpları listeler. |
-| Stable | Etkin sürümleri arasında **"Kararlı"** olarak işaretlenmiş sürüm bulunan kalıpları listeler. |
-| Official | Pyronome tarafından geliştirilen kalıpları listeler. |
-| Certified | Profesyonel, İşletme ve Kuruluş hesabına sahip olan kullanıcılar tarafından geliştirilmiş; en az bir kararlı sürüme sahip ve Pyronome editörleri tarafından **onaylanmış** kalıpları listeler. |
-| Certified Enterprise | İşletme ve Kuruluş hesabına sahip olan kullanıcılar tarafından geliştirilmiş; en az bir kararlı sürüme sahip ve Pyronome editörleri tarafından **onaylanmış** kalıpları listeler. |
+| Free | This filter lists **FREE** patterns. |
+| Stable | This filter lists the patterns that have at least one **"Stable"** version. |
+| Official | This filter lists the patterns developed by Pyronome. |
+| Certified | This filter lists the patterns developed by users with Professional, Business, and Enterprise membership subscriptions. Certified patterns must have at least one stable version, and must be **approved** by Pyronome editors. |
+| Certified Enterprise | This filter lists the patterns developed by users with Business and Enterprise membership subscriptions. Certified Enterprise patterns must have at least one stable version, and must be **approved** by Pyronome editors. |
 
-Kalıpların sahip olduğu etiketler Marketplace içindeki listelerde gösterim sıralamasını etkilemektedir.
+The tags owned by the pattern affect display order in the lists and search results.
 
-Buna göre;
+According to this;
 
 1. Official Patterns,
 2. Certified Enterprise Patterns,
@@ -27,10 +27,10 @@ Buna göre;
 4. Stable Patterns,
 5. Other Patterns
 
-gösterilmektedir.
+are shown.
 
-## Kalıp Sayfası
-Marketplace içinde listelenen her kalıp için bir sayfa oluşturulmuştur. Bu sayfa üzerinde kalıp ile ilgili genel bilgiler, kalıbın görselleri, sürümleri, kod deposu, destek ve varsa web sitesi adresleri, lisansı ve bağımlı olduğu diğer kalıplar ile ilgili bilgiler verilmektedir.
+## Pattern Page
+Each pattern has its page on the Marketplace. This page provides general information about the pattern, image gallery, versions, repository, support, and web site addresses, if any. In addition to this, you can find information about the license and base patterns on pattern pages.
 
-## Profil Sayfası
-Profil sayfası ile ilgili detaylı bilgiye [Profil Sayfası](/latest/tr/docs/platform-kullanici-profili#profil-sayfası) bölümünden ulaşabilirsiniz.
+## Profile Page
+Detailed information about the profile page can be found on [Profile Page](/latest/en/docs/platform-user-profile#profile-page).
