@@ -5,35 +5,37 @@ title: Çerez Politikası
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## What Are Cookies
+## Çerez Nedir
 
-As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.
+Hemen hemen tüm profesyonel web sitesinde olduğu gibi, bu site de, deneyiminizi geliştirmek için bilgisayarınıza indirilen küçük dosyalar olan çerezleri kullanır. Bu sayfada çerezleri kullanarak hangi bilgileri topladığımız, nasıl kullandığımız ve neden çerezlere ihtiyaç duyduğumuz açıklanmaktadır. Ayrıca, bu çerezlerin bilgisayarınızda saklanmasını istemiyorsanız, ilerleyen bölümlerde çerezlerin nasıl devre dışı bırakılacağı ile ilgili bilgi de verilmiştir. Unutmayınız, çerezleri devre dışı bıraktığınızda bu web sitesinin bazı bölümlerinin kısmen ya da tamamen çalışması olumsuz etkilenebilir.
 
-For more general information on cookies see the Wikipedia article on HTTP Cookies.
+Çerezler hakkında daha genel bilgi için HTTP Çerezleri hakkındaki Wikipedia makalesine bakabilirsiniz.
 
-## How We Use Cookies
+## Çerezleri Nasıl Kullanıyoruz
 
-We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
+[**Kullandığımı Çerezler**](#kullandigimiz-cerezler) bölümünde ayrıntıları verilen çeşitli nedenlerle çerezleri kullanıyoruz. Ne yazık ki çoğu durumda, site çalışmasını olumsuz etkilemeden çerezlerin bir kaçını ya da hepsini devre dışı bırakmanın pratik bir çözümü bulunmamaktadır. Bu nedenle eğer çerezlerin kullanılmasını istemiyorsanız tüm çerezleri devre dışı bırakmanız önerilir.
 
-## Disabling Cookies
+## Çerezleri Devre Dışı Bırakma
 
-You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
+Tarayıcınızdaki ayarları değiştirerek çerezlerin kaydedilmesini önleyebilirsiniz Çerezlerin devre dışı bırakılması her tarayıcı için değişiklik göstermektedir. Bu nedenle tarayıcınızın yardım belgelerine bakmanı önerilmektedir. Çerezleri devre dışı bırakmanın, bunun ve ziyaret ettiğiniz diğer birçok web sitesinin işlevselliğini etkileyeceğini unutmayın. Çerezleri devre dışı bırakmak genellikle bu sitenin belirli işlevlerini ve özelliklerini de devre dışı bırakır. Bu nedenle, çerezleri devre dışı bırakmamanız önerilir.
 
-## The Cookies We Set
+## Kullandığımız Çerezler
 
-| Cookie Type | Description |
+| Çerez Türü | Açıklama |
 | ------- | ------- |
-| Account Related Cookies | If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out. |
-| Login Related Cookies | We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in. |
+| Kullanıcı Hesabı İle İlgili Çerezler | Platform üzerinde bir hesap oluşturduğunuzda, kayıt işleminin ve genel yönetimin yapılabilmesi çerezler oluşturulmaktadır. Bu çerezler genellikle oturumu kapattığınızda silinir, ancak bazı durumlarda oturumu kapattığınızda site tercihlerinizi hatırlamak için bilgisayarınızın hafızasında tutulabilirler. |
+| Kullanıcı Girişi İle İlgili Çerezler | Giriş sayfanızda giriş yaptığınızda, bu giriş işleminin diğer sayfalarda da hatırlanabilmesi amacıyla çerezler oluşturmaktayız. Böylelikle yeni bir sayfayı ziyaret ettiğinizde tekrar oturum açmanıza gerek kalmaz. Bu çerezler, oturum açtığınızda yalnızca kullanıcı hesabınızın erişim yetkisine sahip olan alan ve özelliklere erişebildiğinizden emin olmak için kaydedilir. Oturumu kapattığınızda silinir. |
 
-## Third Party Cookies
+## Üçüncü Taraf Çerezler
 
-In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
+Bazı özel durumlarda, güvenilir üçüncü taraflarca sağlanan çerezleri de kullanmaktayız. Aşağıdaki bölüm, bu site aracılığıyla hangi üçüncü taraf çerezleriyle karşılaşabileceğinizi açıklamaktadır.
 
-| Cookie Source | Description |
+| Çerez Kaynağı | Açıklama |
 | ------- | ------- |
-| Google Analytics | This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content. For more information on Google Analytics cookies, see the official Google Analytics page. |
+| Google Analytics | Bu site, siteyi nasıl kullandığınızı ve deneyiminizi nasıl iyileştirebileceğimizi anlamamıza yardımcı olması için web üzerindeki en yaygın ve güvenilir analiz çözümlerinden biri olan Google Analytics'i kullanıyor. Bu çerezler, sitede ne kadar süre geçirdiğiniz ve ziyaret ettiğiniz sayfalar gibi şeyleri izleyebilir. Google Analytics çerezleri hakkında daha fazla bilgi için resmi Google Analytics sayfasına bakın. |
 
 However if you are still looking for more information then you can [contact us](https://support.pyronome.com/iletisim) through our contact form.
 
-*Date Updated: 2020-01-05*
+Yukarıdaki bilgiler sizin için yeterli değilse; daha fazla bilgi için, [iletişim formu](https://support.pyronome.com/iletisim)'nu kullanarak bize mesaj gönderebilirsiniz.
+
+*Son Güncelleme: 2020-01-05*
