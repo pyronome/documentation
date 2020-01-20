@@ -11,7 +11,7 @@ Welcome to Pyronome!
 
 These terms and conditions outline the rules and regulations for the use of Pyronome's Website, located at https://pyronome.com.
 
-By accessing this website we assume you accept these terms and conditions. Do not continue to use Pyronome if you do not agree to take all of the terms and conditions stated on this page. Our Terms and Conditions were created with the help of the Terms And Conditions Generator and the Terms & Conditions Generator.
+By accessing this website we assume you accept these terms and conditions. Do not continue to use Pyronome if you do not agree to take all of the terms and conditions stated on this page.
 
 The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
@@ -135,7 +135,7 @@ Pyronome legal basis for collecting and using the personal information described
 
 Pyronome will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please [contact us](https://support.pyronome.com/contact). Our Privacy Policy was generated with the help of GDPR Privacy Policy Generator and the App Privacy Policy Generator.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please [contact us](https://support.pyronome.com/contact).
 
 In certain circumstances, you have the following data protection rights:
 
@@ -182,7 +182,7 @@ Pyronome does not knowingly collect any Personal Identifiable Information from c
 
 ### Online Privacy Policy Only
 
-Our Privacy Policy created at GDPRPrivacyPolicy.net) applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Pyronome. This policy is not applicable to any information collected offline or via channels other than this website. Our GDPR Privacy Policy was generated from the GDPR Privacy Policy Generator.
+Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Pyronome. This policy is not applicable to any information collected offline or via channels other than this website.
 
 ### Consent
 
