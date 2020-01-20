@@ -13,7 +13,7 @@ Hemen hemen tüm profesyonel web sitesinde olduğu gibi, bu site de, deneyiminiz
 
 ## Çerezleri Nasıl Kullanıyoruz
 
-[**Kullandığımı Çerezler**](#kullandığımız-çerezler) bölümünde ayrıntıları verilen çeşitli nedenlerle çerezleri kullanıyoruz. Ne yazık ki çoğu durumda, site çalışmasını olumsuz etkilemeden çerezlerin bir kaçını ya da hepsini devre dışı bırakmanın pratik bir çözümü bulunmamaktadır. Bu nedenle eğer çerezlerin kullanılmasını istemiyorsanız tüm çerezleri devre dışı bırakmanız önerilir.
+[**Kullandığımız Çerezler**](#kullandığımız-çerezler) bölümünde ayrıntıları verilen çeşitli nedenlerle çerezleri kullanıyoruz. Ne yazık ki çoğu durumda, site çalışmasını olumsuz etkilemeden çerezlerin bir kaçını ya da hepsini devre dışı bırakmanın pratik bir çözümü bulunmamaktadır. Bu nedenle eğer çerezlerin kullanılmasını istemiyorsanız tüm çerezleri devre dışı bırakmanız önerilir.
 
 ## Çerezleri Devre Dışı Bırakma
 
