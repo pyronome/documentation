@@ -34,8 +34,6 @@ Bazı özel durumlarda, güvenilir üçüncü taraflarca sağlanan çerezleri de
 | ------- | ------- |
 | Google Analytics | Bu site, siteyi nasıl kullandığınızı ve deneyiminizi nasıl iyileştirebileceğimizi anlamamıza yardımcı olması için web üzerindeki en yaygın ve güvenilir analiz çözümlerinden biri olan Google Analytics'i kullanıyor. Bu çerezler, sitede ne kadar süre geçirdiğiniz ve ziyaret ettiğiniz sayfalar gibi şeyleri izleyebilir. Google Analytics çerezleri hakkında daha fazla bilgi için resmi Google Analytics sayfasına bakın. |
 
-However if you are still looking for more information then you can [contact us](https://support.pyronome.com/iletisim) through our contact form.
-
 Yukarıdaki bilgiler sizin için yeterli değilse; daha fazla bilgi için, [iletişim formu](https://support.pyronome.com/iletisim)'nu kullanarak bize mesaj gönderebilirsiniz.
 
 *Son Güncelleme: 2020-01-05*
