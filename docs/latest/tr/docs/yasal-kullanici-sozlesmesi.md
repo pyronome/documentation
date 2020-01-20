@@ -153,7 +153,7 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 14.1. User hereby acknowledges and covenants never to disparage, speak ill of, or in any manner make, express, transmit, or otherwise communicate, any remark, comment, message, declaration or other statement of any kind, that might reasonably be construed to be derogatory or critical of, or negative toward, PYRONOME or any of PYRONOME's products, services, business methods, affiliates, officers, directors, employees or shareholders, and will take reasonable steps to prevent, and will not knowingly permit, any of User's respective employees or agents to disparage or speak ill of such persons and entities. Upon violation of any of the foregoing, PYRONOME may immediately terminate this Agreement and User's access to the Services.
 
-## 15. Governing Laws:
+## 15. Governing Laws
 
 15.1. This Agreement, all related transactions and any disputes hereunder shall be governed in all respects, including validity, interpretation and effect, by the laws of Turkey, without regard to their conflict of laws principles.
 
