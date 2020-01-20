@@ -5,13 +5,13 @@ title: Çerez Politikası
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## Çerez Nedir
+## Çerez Nedir?
 
 Hemen hemen tüm profesyonel web sitesinde olduğu gibi, bu site de, deneyiminizi geliştirmek için bilgisayarınıza indirilen küçük dosyalar olan çerezleri kullanır. Bu sayfada çerezleri kullanarak hangi bilgileri topladığımız, nasıl kullandığımız ve neden çerezlere ihtiyaç duyduğumuz açıklanmaktadır. Ayrıca, bu çerezlerin bilgisayarınızda saklanmasını istemiyorsanız, ilerleyen bölümlerde çerezlerin nasıl devre dışı bırakılacağı ile ilgili bilgi de verilmiştir. Unutmayınız, çerezleri devre dışı bıraktığınızda bu web sitesinin bazı bölümlerinin kısmen ya da tamamen çalışması olumsuz etkilenebilir.
 
 Çerezler hakkında daha genel bilgi için HTTP Çerezleri hakkındaki Wikipedia makalesine bakabilirsiniz.
 
-## Çerezleri Nasıl Kullanıyoruz
+## Çerezleri Nasıl Kullanıyoruz?
 
 [**Kullandığımız Çerezler**](#kullandığımız-çerezler) bölümünde ayrıntıları verilen çeşitli nedenlerle çerezleri kullanıyoruz. Ne yazık ki çoğu durumda, site çalışmasını olumsuz etkilemeden çerezlerin bir kaçını ya da hepsini devre dışı bırakmanın pratik bir çözümü bulunmamaktadır. Bu nedenle eğer çerezlerin kullanılmasını istemiyorsanız tüm çerezleri devre dışı bırakmanız önerilir.
 
