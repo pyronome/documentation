@@ -5,7 +5,7 @@ title: Help Language
 
 <a id="aHeaderMenuAnchor" data-header-menu="Language"></a>
 
-Pyronome Kılavuzlarını farklı bir dilde görüntülemek için aşağıdaki seçenekleri kullanabilirsiniz.
+You can use the options below to view Pyronome Help in a different language.
 
 | ISO Code | Language | Documentation URL
 | ------ | ------ | ------ |
