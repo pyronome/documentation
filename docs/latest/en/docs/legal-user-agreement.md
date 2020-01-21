@@ -5,7 +5,7 @@ title: User Agreement
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Important: Please read the terms and conditions of this Software-as-a-Service (SaaS) Subscription Agreement carefully before using this software. Pyronome Web Technologies, (&quot;PYRONOME&quot;) is willing to license the use of the software (as defined below) to You as the individual, legal entity or company (referenced below as "the User") that will be using the software only on the condition that the User accepts all of the terms contained in this agreement. This is a legal and enforceable contract between the User and PYRONOME By in any way indicating assent electronically, or by accessing the software, the User agrees to the terms and conditions of this agreement. If the User does not agree to this Agreement, the User agrees not to use or access the Software and this SaaS Internet Site.
+Important: Please read the terms and conditions of this Software-as-a-Service (SaaS) Subscription Agreement carefully before using this software. Pyronome Web Technologies, ("PYRONOME") is willing to license the use of the software (as defined below) to You as the individual, legal entity or company (referenced below as "the User") that will be using the software only on the condition that the User accepts all of the terms contained in this Agreement. This Agreement is a legal and enforceable contract between the User and PYRONOME. In any way indicating assent electronically, or by accessing the software, the User agrees to the terms and conditions of this Agreement. If the User does not agree to this Agreement, the User agrees not to use or access the Software and this SaaS Internet Site.
 
 ## 1. Software-as-a-Service (SaaS) Terms of Use
 
@@ -107,6 +107,7 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 10.1. In the event User alters the Software by any which way and for any purpose, User acknowledges that such alteration shall be at User's own risk and expense. User acknowledges and agrees that PYRONOME shall have no obligation to provide any services in respect of those elements of the Software which are altered or for which the provision of any services will be adversely affected by the alterations made by User. It is specifically understood by User that by virtue of such alterations to the Software, subsequent modifications, solutions, corrections, improvements or releases of the Software may be rendered unusable. 
 
 ## 11. Maintenance Support Services
+
 11.1. During the term of this Agreement, PYRONOME shall provide the User with Support Services for the use of the Software by the User which shall comprise of the following:
 
 - advice by telephone on the Support Line or by e-mail access and response;</li>
@@ -149,7 +150,7 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 13.4. Upon termination of this Agreement for whatever reason, User will immediately deliver up, or destroy, any materials and any confidential and proprietary information which it has no contractual rights to retain. The disclaimers of warranties and damages and limitations on liability shall survive termination.
 
-## 14. Non-Disparagement
+## 14. Mutual Ethical Attitude
 
 14.1. User hereby acknowledges and covenants never to disparage, speak ill of, or in any manner make, express, transmit, or otherwise communicate, any remark, comment, message, declaration or other statement of any kind, that might reasonably be construed to be derogatory or critical of, or negative toward, PYRONOME or any of PYRONOME's products, services, business methods, affiliates, officers, directors, employees or shareholders, and will take reasonable steps to prevent, and will not knowingly permit, any of User's respective employees or agents to disparage or speak ill of such persons and entities. Upon violation of any of the foregoing, PYRONOME may immediately terminate this Agreement and User's access to the Services.
 
@@ -159,20 +160,16 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 15.2. Any dispute under this Agreement shall be brought exclusively in the courts of Turkey and User hereby submits to the exclusive jurisdiction of such courts. User agrees that any cause of action arising out of or related to this Agreement shall be brought within three (3) years after the cause of action arose; otherwise, such cause of action is permanently barred.
 
-## 16. Turkey Government Restricted Rights
+## 16. Miscellaneous
 
-16.1. The PYRONOME Software is licensed subject to RESTRICTED RIGHTS. Use, duplication or disclosure by the Turkey Government or any person or entity action on its behalf is subject to restrictions. The subcontractor and manufacturer is PYRONOME.
+16.1. This Agreement represents and contains the entire agreement between the User and PYRONOME with respect to the subject matter contained herein and supersedes any other agreement, proposals, and communications, written or oral, between the User and PYRONOME with respect to the use of this Software, including any terms printed on User's purchase order or other forms or written agreements.
 
-## 17. Miscellaneous
+16.2. No waiver of any default, condition or breach of this Agreement shall be deemed to imply or constitute a waiver of any other default, condition or breach of this Agreement, whether of a similar nature or otherwise.
 
-17.1. This Agreement represents and contains the entire agreement between the User and PYRONOME with respect to the subject matter contained herein and supersedes any other agreement, proposals, and communications, written or oral, between the User and PYRONOME with respect to the use of this Software, including any terms printed on User's purchase order or other forms or written agreements.
+16.3. The failure of PYRONOME to exercise or enforce any right or provision of this Agreement does not constitute a waiver of such right or provision. If a court of competent jurisdiction finds any provision of this Agreement to be invalid or unenforceable, the Parties nevertheless agree that the court should endeavor to give effect to the Parties' intentions as reflected in the provision, and the other provisions of this Agreement in full force and effect.
 
-17.2. No waiver of any default, condition or breach of this Agreement shall be deemed to imply or constitute a waiver of any other default, condition or breach of this Agreement, whether of a similar nature or otherwise.
+16.4. Neither Party shall be in default if its failure to perform any obligation under this Agreement is caused solely by supervening conditions beyond that Party's reasonable control, including acts of God, civil commotion, war, strikes, labor disputes, third party Internet service interruptions or slowdowns, vandalism or "hacker" attacks, acts of terrorism or governmental demands or requirements.
 
-17.3. The failure of PYRONOME to exercise or enforce any right or provision of this Agreement does not constitute a waiver of such right or provision. If a court of competent jurisdiction finds any provision of this Agreement to be invalid or unenforceable, the Parties nevertheless agree that the court should endeavor to give effect to the Parties' intentions as reflected in the provision, and the other provisions of this Agreement in full force and effect.
+16.5. This Agreement shall be binding on and shall inure to the benefit of the Parties hereto and their respective successors and permitted assigns. User may not assign this Agreement without PYRONOME's prior written consent, not to be unreasonably withheld. PYRONOME may assign this Agreement to any parent, subsidiary or affiliate or to any successor to its business, and PYRONOME may subcontract any or all of its obligations hereunder, but shall nevertheless remain responsible for the performance of its obligations hereunder.
 
-17.4. Neither Party shall be in default if its failure to perform any obligation under this Agreement is caused solely by supervening conditions beyond that Party's reasonable control, including acts of God, civil commotion, war, strikes, labor disputes, third party Internet service interruptions or slowdowns, vandalism or "hacker" attacks, acts of terrorism or governmental demands or requirements.
-
-17.5. This Agreement shall be binding on and shall inure to the benefit of the Parties hereto and their respective successors and permitted assigns. User may not assign this Agreement without PYRONOME's prior written consent, not to be unreasonably withheld. PYRONOME may assign this Agreement to any parent, subsidiary or affiliate or to any successor to its business, and PYRONOME may subcontract any or all of its obligations hereunder, but shall nevertheless remain responsible for the performance of its obligations hereunder.
-
-17.6. The headings in this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+16.6. The headings in this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
