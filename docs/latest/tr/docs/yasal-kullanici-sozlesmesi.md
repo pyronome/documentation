@@ -5,7 +5,7 @@ title: Kullanıcı Sözleşmesi
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Önemli: Bu yazılımı kullanmadan önce lütfen bu Hizmet Olarak Yazılım (SaaS) Abonelik Sözleşmesi'nin koşullarını dikkatle okuyun. Pyronome Web Teknolojileri, ("PYRONOME"), yazılımı kullanacak gerçek kişilerin (aşağıda "Kullanıcı" olarak anılacaktır), yalnızca aşağıda belirtilen koşullarda, bu sözleşmeye konu olan yazılımı kullanmasını istemektedir. Kullanıcının bu Sözleşme'de yer alan tüm şartları kabul etmesi gerekmektedir. Bu Sözleşme, Kullanıcı ile PYRONOME arasında yasal dayanağa sahip bir sözleşmedir. Herhangi bir şekilde, elektronik ortamda veya yazılımın internet sitesine erişerek, işbu yazılımı kullanan kullanıcı, bu Sözleşme'nin koşullarını kabul etmiş olur. Kullanıcı bu Sözleşme'yi kabul etmiyorsa, yazılımı ve bu internet sitesini kullanmamayı tercih edebilir.
+**Önemli: Bu yazılımı kullanmadan önce lütfen bu Hizmet Olarak Yazılım (SaaS) Abonelik Sözleşmesi'nin koşullarını dikkatle okuyun. Pyronome Web Teknolojileri, ("PYRONOME"), yazılımı kullanacak gerçek kişilerin (aşağıda "Kullanıcı" olarak anılacaktır), yalnızca aşağıda belirtilen koşullarda, bu sözleşmeye konu olan yazılımı kullanmasını istemektedir. Kullanıcının bu Sözleşme'de yer alan tüm şartları kabul etmesi gerekmektedir. Bu Sözleşme, Kullanıcı ile PYRONOME arasında yasal dayanağa sahip bir sözleşmedir. Herhangi bir şekilde, elektronik ortamda veya yazılımın internet sitesine erişerek, işbu yazılımı kullanan kullanıcı, bu Sözleşme'nin koşullarını kabul etmiş olur. Kullanıcı bu Sözleşme'yi kabul etmiyorsa, yazılımı ve bu internet sitesini kullanmamayı tercih edebilir.**
 
 ## 1. Hizmet Olarak Yazılım (SaaS) Kullanım Koşulları
 
