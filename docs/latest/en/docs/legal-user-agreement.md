@@ -31,16 +31,35 @@ title: User Agreement
 - reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the Software or underlying ideas or algorithms of the Software, or create derivative works from the Software, copy or recreate any component of the Software and delivery media;
 - copy, sublicense, sell, rent, lease, distribute, or otherwise transfer rights to the Software or any portion of the Software;
 - remove, delete or modify any copyright notices or any other proprietary notices or legends on, in or from the Software and generated source by using the Software;
-- use the Software and generated source code by using Software in any manner that could damage, disable, overburden, or impair PYRONOME's or any other party's search services, servers, or other services; or
+- use the Software and generated source code by using Software in any manner that could damage, disable, overburden, or impair PYRONOME's or any other party's search services, servers, or other online services; or
 - use the Software in any manner not authorized by this agreement.
     
 ## 3. Prices and Terms of Agreement
 
-3.1. PYRONOME reserves the right to change the price for the Software and/or for the Support services on a regular basis and all price changes shall become effective within a reasonable time notice determined by PYRONOME. PYRONOME also reserves the right to change or modify the terms and conditions of this agreement. Such major changes or modifications shall be posted from time to time on PYRONOME's website. 
+3.1. PYRONOME reserves the right to change the price and rates for the Software, components, and for the Support services regularly, and all price/rate changes shall become effective within a reasonable time notice determined by PYRONOME. PYRONOME also reserves the right to update or modify the terms and conditions of this agreement. Such major updates or modifications shall be posted from time to time on PYRONOME's website. 
 
 ## 4. Copyright and Intellectual Property Rights
 
-4.1. User hereby acknowledges that the Software is the exclusive property of PYRONOME and is protected by copyright law and patent law. PYRONOME is the sole owner of the Software and, except as expressly set forth herein, shall retain any and all rights, titles and interests in the Software. No title to the intellectual property in the Software is transferred to the User. This agreement governs any releases, revisions, or enhancements to the Software that PYRONOME may furnish to the User. 
+4.1. USER hereby acknowledges that the Software is the exclusive property of PYRONOME and is protected by copyright law and patent law. PYRONOME is the sole owner of the Software and, except as expressly set forth herein, shall retain all rights, titles, and interests in the Software. No claim to the intellectual property in the Software is transferred to the USER. This agreement governs any releases, revisions, or enhancements to the Software that PYRONOME may furnish to the USER.
+
+4.2. Within the PYRONOME platform, the copyright and intellectual property rights of the third party components included in the software belong to their owners. This term contains component versions, revisions, and developer features for the USER.
+
+4.3. Within the PYRONOME platform, the copyright and intellectual property rights of the components developed by the USER and included in the software belong to the USER, who developed the component. This condition covers component versions, revisions, and enhancements provided.
+
+4.4. Regarding the components included in the PYRONOME platform; The following rights, directly or indirectly, of PYRONOME, are reserved without the consent of the parties developing the component:
+
+- Decompiling/disassembling of the component into source code by PYRONOME, PYRONOME authorized third parties or USERS,
+- Making partial or holistic changes and updates on the component by PYRONOME, PYRONOME authorized third parties or USERS,
+- Dividing the source code of the component into parts, performing separate operations on the component and its parts by PYRONOME, third parties authorized by PYRONOME or USERS
+- Analyzing the component source code by PYRONOME, PYRONOME authorized third parties or USERS,
+- Copying, installing, downloading, backing up, running online or offline of the component by PYRONOME, PYRONOME authorized third parties or USERS,
+- Making the component source code available to other USERS,
+- Creating derivative works from the component by PYRONOME, PYRONOME authorized third parties or USERS,
+- Including some parts or all of the component in another software by PYRONOME, PYRONOME authorized third parties or USERS,
+- Licensing, re-licensing, selling, leasing, distributing, transferring, by PYRONOME, PYRONOME authorized third parties or USERS, either by itself or by including it in another software,
+- Use of the name, logo, visual and text-based elements of the component in advertising and promotional environments without the consent of those who develop the component, by PYRONOME, PYRONOME authorized third parties or USERS,
+- Use of the component name, logo, visual and text-based elements in visual, text and video-based content to be prepared for any purpose by PYRONOME, PYRONOME authorized third parties or USERS,
+- Performing virus scan on the component, quarantining or deleting all or some parts of the component PYRONOME, PYRONOME authorized third parties or USERS.
 
 ## 5. User Obligations
 

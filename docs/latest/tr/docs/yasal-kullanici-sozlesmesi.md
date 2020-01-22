@@ -38,11 +38,30 @@ gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı b
     
 ## 3. Fiyatlar ve Sözleşme Koşulları
 
-3.1. PYRONOME reserves the right to change the price for the Software and/or for the Support services on a regular basis and all price changes shall become effective within a reasonable time notice determined by PYRONOME. PYRONOME also reserves the right to change or modify the terms and conditions of this Agreement. Such major changes or modifications shall be posted from time to time on PYRONOME's website. 
+3.1. PYRONOME, yazılım, bileşenler ve/veya destek hizmetleri için belirlediği fiyatı ve oranları düzenli olarak değiştirme hakkını saklı tutar ve tüm fiyat/oran değişiklikleri PYRONOME tarafından belirlenen makul bir süre içinde geçerli olur. PYRONOME ayrıca bu sözleşmenin hüküm ve koşullarını değiştirme hakkını saklı tutar. Önemli değişiklikler veya güncellemeler zaman zaman PYRONOME'un web sitesinde yayınlanacaktır.
 
 ## 4. Telif ve Fikri Mülkiyet Hakları
 
-4.1. User hereby acknowledges that the Software is the exclusive property of PYRONOME and is protected by copyright law and patent law. PYRONOME is the sole owner of the Software and, except as expressly set forth herein, shall retain any and all rights, titles and interests in the Software. No title to the intellectual property in the Software is transferred to the User. This agreement governs any releases, revisions, or enhancements to the Software that PYRONOME may furnish to the User. 
+4.1. KULLANICI, yazılımın PYRONOME'un münhasır mülkü olduğunu ve telif hakkı yasası ve patent yasasıyla korunduğunu kabul eder. PYRONOME, yazılımın tek sahibidir ve burada açıkça belirtilmediği sürece yazılımın tüm haklarını, unvanlarını ve menfaatlerini elinde tutacaktır. Yazılımdaki fikri mülkiyet haklarından hiçbiri KULLANICI'ya devredilmez. Bu koşul, PYRONOME'un KULLANICI'ya sağlayabileceği yazılım sürümlerini, revizyonlarını ve geliştirmelerini kapsar.
+
+4.2. PYRONOME platformu bünyesinde, üçüncü şahıslar tarafından geliştirilen ve yazılıma dahil edilen bileşenlere ait telif ve fikri mülkiyet hakkı, bileşeni geliştiren taraflara aittir. Bu koşul, KULLANICI'ya sağlanan bileşen sürümlerini, revizyonlarını ve geliştirmelerini kapsar.
+
+4.3. PYRONOME platformu bünyesinde, KULLANICI tarafından geliştirilen ve yazılıma dahil edilen bileşenlere ait telif ve fikri mülkiyet hakkı, bileşeni geliştiren KULLANICI'ya aittir. Bu koşul, sağlanan bileşen sürümlerini, revizyonlarını ve geliştirmelerini kapsar.
+
+4.4. PYRONOME platformu bünyesine dahil edilen bileşenlerle ilgili olarak; PYRONOME'un doğrudan ya da dolaylı olarak aşağıdaki hakları, bileşeni geliştiren tarafların onayı aranmaksızın saklı tutulmaktadır:
+
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin kaynak koda dönüştürülmesi,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin üzerinde kismi ya da bütünsel değişiklerin ve güncellemelerin yapılması,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin kaynak kodunun parçalara bölünmesi, bölünen bu parçalar üzerinde ayrı ayrı işlem yapılması,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşen kaynak kodunun analiz edilmesi,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin kopyalanması, bir sunucuya yüklenmesi, indirilmesi, yedeklenmesi, çevrimiçi ya da çevrimdışı çalıştırılması,
+- Bileşen kaynak kodunun diğer KULLANICI'lara açılması,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenden türev çalışmalar oluşturulması,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin bir bölümünün ya da tamamının başka bir yazılıma dahil edilmesi,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin ya da bir bölümünün, tek başına ya da başka bir yazılıma dahil edilerek lisanslanması, yeniden lisanslanması, satılması, kiralanması, dağıtılması, devredilmesi,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, reklam ve tanıtım ortamlarında bileşenin adının, logosunun, görsel ve metin tabanlı öğelerinin, bileşeni geliştiren kişilerin onayına ihtiyaç duyulmaksızın kullanılması,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, herhangi bir amaçla hazırlanacak görsel, metin ve video tabanlı içerikte bileşen adı, logosu, görsel ve metin tabanlı öğelerinin kullanılması,
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşen üzerinde virüs tarama yapılması, bileşenin tamamının ya da bir bölümünün karantinaya alınması ya da silinmesi
 
 ## 5. Kullanıcı Yükümlülükleri
 
