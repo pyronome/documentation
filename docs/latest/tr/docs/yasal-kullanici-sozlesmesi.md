@@ -9,7 +9,7 @@ title: Kullanıcı Sözleşmesi
 
 ## 1. Hizmet Olarak Yazılım (SaaS) Kullanım Koşulları
 
-1.1. Bu sözleşmenin hüküm ve koşullarına tabi olarak, PYRONOME, abonelik seçecekleri kapsamında ücreti karşılığında, PYRONOME yazılımını (SaaS platformu erişimi ve SaaS uygulaması dahil) Hizmete Olarak Yazılım (SaaS) yaklaşımıyla KULLANICI'nın kullanımına sunmayı kabul eder. Arabirimi, veritabanı ve ona eşlik eden belgeler (topluca "Yazılım"), tanımlanmış, açıklanmış ve çevrimiçi olarak kullanılabilir biçimde belirlenen yayın tarihinden başlayarak kullanıma sunulmuştur. Yazılımın web sitesini yükleyerek ve kullanıcı bilgileri ile kayıt ve giriş işlemini yapan KULLANICI, PYRONOME platformunun kayıtlı bir kullanıcısı olur.
+1.1. Bu sözleşmenin hüküm ve koşullarına tabi olarak, PYRONOME, abonelik seçecekleri kapsamında ücreti karşılığında, PYRONOME yazılımını (SaaS platformu erişimi ve SaaS uygulaması dahil) Hizmet Olarak Yazılım (SaaS) yaklaşımıyla KULLANICI'nın kullanımına sunmayı kabul eder. Arabirimi, veritabanı ve ona eşlik eden belgeler (topluca "Yazılım"), tanımlanmış, açıklanmış ve çevrimiçi olarak kullanılabilir biçimde belirlenen yayın tarihinden başlayarak kullanıma sunulmuştur. Yazılımın web sitesini yükleyerek ve kullanıcı bilgileri ile kayıt ve giriş işlemini yapan KULLANICI, PYRONOME platformunun kayıtlı bir kullanıcısı olur.
 
 1.2. KULLANICI, bu sözleşmeyi bir şirket veya başka bir tüzel kişilik adına yapıyorsa, söz konusu tüzel kişiyi bu sözleşme kapsamında temsil etmeye yetkili olduğunu beyan eder.
 
@@ -21,14 +21,20 @@ title: Kullanıcı Sözleşmesi
 
 ## 2. Lisanslama
 
-2.1. PYRONOME hereby grants to User, by means of User's account and authorized password, subject to all of the terms and conditions of this Agreement, a non-exclusive, non-transferable license for access to the Software via the Internet and to use the Software, in object code form only, solely for business purposes in accordance with the terms set out in this Agreement.
+2.1. PYRONOME işbu sözleşmeyle KULLANICI'ya münhasır olmayan, devredilemeyen bir lisans vermektedir. Bu lisans, işbu sözleşmenin koşullarına tabi olarak ticari amaçlı kullanımları destekler.
 
-2.2. User shall not, directly or indirectly:
-- reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the Software or underlying ideas or algorithms of the Software, or create derivative works from the Software, copy or recreate any component of the Software and delivery media;
-- copy, sublicense, sell, rent, lease, distribute, or otherwise transfer rights to the Software or any portion of the Software;
-- remove, delete or modify any copyright notices or any other proprietary notices or legends on, in or from the Software;
-- use the Software in any manner that could damage, disable, overburden, or impair PYRONOME's or any other party's search services, servers, or other services; or
-- use the Software in any manner not authorized by this agreement.
+2.2. PYRONOME platformu bünyesinde, üçüncü şahıslar tarafından geliştirilen ve yazılıma dahil edilen her bileşen kendi özel lisans koşullarına sahip olabilir. Bu özel lisans koşulları hiçbir şekilde, işbu sözleşmedeki şartların bir bölümünü veya tamamını askıya almaz, durdurmaz ya da yürürlükten kaldırmaz. Belirtilen özel lisans koşulları, kullanıcı sözleşmesi, kullanım koşulları ve gizlilik politikasına ek olarak kabul edilir. Kullanıcı sözleşmesi, kullanım koşulları, gizlilik politikası ve üçüncü şahıslar tarafından geliştirilen bileşenlere ait özel lisans koşulları birbiriyle çelişmesi durumunda işbu sözleşme koşulları uygulanır.
+
+2.3. PYRONOME platformu bünyesinde, üçüncü şahıslar tarafından geliştirilen ve yazılıma dahil edilen bileşenlere ait özel lisans koşulları sadece ilgili bileşen yazılım üretimi için kullanıldığında geçerlidir. Kullanılmayan bileşenlere ait özel lisans koşulları uygulanmaz.
+
+2.4. KULLANICI doğrudan veya dolaylı olarak:
+
+- tersine mühendislik, derlenen kodu kaynak koda dönüştürme, değiştirme, tercüme etme, yazılımın kaynak kodunu veya yazılımın altında yatan fikirleri veya algoritmaları keşfetme girişiminde bulunma veya yazılımdan türev çalışmalar oluşturma, yazılımın ve dağıtım ortamının herhangi bir bileşenini kopyalama veya yeniden oluşturma;
+- kopyalama, yeniden lisanslama, satma, kiralama, dağıtma, bilgisayara indirme, başka bir bilgisayara yükleme veya başka bir şekilde devretme;
+- yazılımın veya yazılım kullanılarak üretilen kaynak kodun içinde bulunan, herhangi bir telif hakkı bildirimini veya diğer mülkiyet bildirimlerini veya açıklamaları kaldırma, silme veya değiştirme
+- yazılımı veya yazılım kullanılarak üretilen kaynak kodu, üçüncü şahısların donanım, yazılım ve çevrimiçi hizmetlerine zarar verebilecek, devre dışı bırakabilecek, aşırı yükleyebilecek veya bozabilecek herhangi bir şekilde kullanma
+
+gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı bu sözleşmede belirtilen durumlar dışında kullanmayacağını kabul ve taahhüt eder.
     
 ## 3. Fiyatlar ve Sözleşme Koşulları
 

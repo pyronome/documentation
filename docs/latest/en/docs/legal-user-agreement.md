@@ -21,9 +21,13 @@ title: User Agreement
 
 ## 2. License Grant
 
-2.1. PYRONOME hereby grants to User, by means of User's account and authorized password, subject to all of the terms and conditions of this Agreement, a non-exclusive, non-transferable license for access to the Software via the Internet and to use the Software, in object code form only, solely for business purposes in accordance with the terms set out in this Agreement.
+2.1. PYRONOME hereby grants to the USER, a non-exclusive, non-transferable license. This license includes uses for business purposes, subject to the terms of this Agreement.
 
-2.2. User shall not, directly or indirectly:
+2.2. Within the PYRONOME platform, each component developed and included in the software by third parties may have its special license terms. These special license terms cannot suspend, stop, or repeal some or all of the terms in this Agreement in any way. The special license terms considered as an extension to the user agreement, terms of use, and privacy policy. In case of conflict between user agreement, terms of use, privacy policy, and these special license terms of components developed by third parties, the terms of this Agreement apply.
+
+2.3. Special license terms for components developed by third parties within the PYRONOME platform are valid only when the respective component is used for source code generation. Special license terms for unused components do not apply.
+
+2.4. USER shall not, directly or indirectly:
 - reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the Software or underlying ideas or algorithms of the Software, or create derivative works from the Software, copy or recreate any component of the Software and delivery media;
 - copy, sublicense, sell, rent, lease, distribute, or otherwise transfer rights to the Software or any portion of the Software;
 - remove, delete or modify any copyright notices or any other proprietary notices or legends on, in or from the Software;
