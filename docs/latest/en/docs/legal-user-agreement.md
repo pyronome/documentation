@@ -30,8 +30,8 @@ title: User Agreement
 2.4. USER shall not, directly or indirectly:
 - reverse engineer, decompile, disassemble, modify, translate, make any attempt to discover the source code of the Software or underlying ideas or algorithms of the Software, or create derivative works from the Software, copy or recreate any component of the Software and delivery media;
 - copy, sublicense, sell, rent, lease, distribute, or otherwise transfer rights to the Software or any portion of the Software;
-- remove, delete or modify any copyright notices or any other proprietary notices or legends on, in or from the Software;
-- use the Software in any manner that could damage, disable, overburden, or impair PYRONOME's or any other party's search services, servers, or other services; or
+- remove, delete or modify any copyright notices or any other proprietary notices or legends on, in or from the Software and generated source by using the Software;
+- use the Software and generated source code by using Software in any manner that could damage, disable, overburden, or impair PYRONOME's or any other party's search services, servers, or other services; or
 - use the Software in any manner not authorized by this agreement.
     
 ## 3. Prices and Terms of Agreement
