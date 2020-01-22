@@ -9,16 +9,13 @@ title: User Agreement
 
 ## 1. Software-as-a-Service (SaaS) Terms of Use
 
-1.1. Subject to the terms and conditions of this Agreement, PYRONOME agrees to provide to User, on a Software-as-a-Service (SaaS) basis in exchange of Subscription Fees, the PYRONOME software (including the SaaS protocol access and SaaS application), its interface, database, and the documentation that accompanies it (collectively the "Software"), identified, described and available online, and delivered on the Activation Date hereof. By installing the Software on his computer, the User becomes a registered user of the Software, which PYRONOME provides for the exclusive use of each registered user.
+1.1. Subject to the terms and conditions of this Agreement, PYRONOME agrees to make the PYRONOME software (including SaaS platform access and SaaS application) available to the User with the software as a Service (SaaS) approach for the fee of subscription options. Its interface, database, and accompanying documents (collectively "Software") are available starting from the release date, which has been identified, explained, and determined to be available online. By visiting the software's website and registering and logging in with user information, the USER becomes a registered user of PYRONOME platform.
 
 1.2. If the User is agreeing to this Agreement on behalf of a company or other legal entity, User represents that it has the authority to bind such entity to this Agreement.
 
-1.3. User acknowledges and agrees that PYRONOME may modify the terms and conditions of this Agreement at any time without notice to User by posting revised terms or Agreement on SaaS Site. User's use of the Software and of this SaaS Site constitutes its binding acceptance of this Agreement, including any modifications that PYRONOME makes. User is responsible for regularly reviewing this Agreement and the terms and conditions it contains.
+1.3. The USER agrees and acknowledges that PYRONOME has the right to partially or entirely update (add/edit/delete) on the website, the software, and legal documents (e.g., user agreement, terms of use, privacy policy, etc.) without any prior notice. The USER accepts and undertakes to use the software and this website, taking into account the most current User Agreement terms available. The USER is responsible for regularly reviewing this Agreement and the terms and conditions it contains.
 
-1.4. When subscription is completed, User will be able to access Software through the Software SaaS website. Login on the SaaS Website requires a User ID and Password, which can be obtained from the Software SaaS website administrator. The Software can be accessed through a "session specific" log.in i.e. that one (1) license enables the Software to be used either:
-    
-- by a single User who uses the Software from any one (1) workstation at a time, or
-- by multiple people through User's log.in required information, but non-simultaneously.
+1.4. After completing the registration process, the USER can access the software via the website. The user ID and password, specified during registration, are required to log on to the platform website. The USER can access the software based on the "session-specific" login approach. More than one person can use the software with a single USER license. However, only one person can use the software at a time.
     
 1.5. If the Software is provided as an upgrade, patch or update to an earlier licensed release of the Software, then User must have a valid license to use such earlier release of the same version as the upgrade to install or use the upgrade. All Software being upgraded is deemed to be part of the Software and is subject to this Agreement.
 

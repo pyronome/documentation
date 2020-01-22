@@ -5,22 +5,19 @@ title: Kullanıcı Sözleşmesi
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-**Önemli: Bu yazılımı kullanmadan önce lütfen bu Hizmet Olarak Yazılım (SaaS) Abonelik Sözleşmesi'nin koşullarını dikkatle okuyun. Pyronome Web Teknolojileri, ("PYRONOME"), yazılımı kullanacak gerçek kişilerin (aşağıda "Kullanıcı" olarak anılacaktır), yalnızca aşağıda belirtilen koşullarda, bu sözleşmeye konu olan yazılımı kullanmasını istemektedir. Kullanıcının bu Sözleşme'de yer alan tüm şartları kabul etmesi gerekmektedir. Bu Sözleşme, Kullanıcı ile PYRONOME arasında yasal dayanağa sahip bir sözleşmedir. Herhangi bir şekilde, elektronik ortamda veya yazılımın internet sitesine erişerek, işbu yazılımı kullanan kullanıcı, bu Sözleşme'nin koşullarını kabul etmiş olur. Kullanıcı bu Sözleşme'yi kabul etmiyorsa, yazılımı ve bu internet sitesini kullanmamayı tercih edebilir.**
+**Önemli: Bu yazılımı kullanmadan önce lütfen bu Hizmet Olarak Yazılım (SaaS) Abonelik Sözleşmesi'nin koşullarını dikkatle okuyun. Pyronome Web Teknolojileri, ("PYRONOME"), yazılımı kullanacak gerçek kişilerin (aşağıda "KULLANICI" olarak anılacaktır), yalnızca aşağıda belirtilen koşullarda, bu sözleşmeye konu olan yazılımı kullanmasını istemektedir. KULLANICI'nın bu sözleşmede yer alan tüm şartları kabul etmesi gerekmektedir. Bu sözleşme, KULLANICI ile PYRONOME arasında yasal dayanağa sahip bir sözleşmedir. Herhangi bir şekilde, elektronik ortamda veya yazılımın internet sitesine erişerek, işbu yazılımı kullanan KULLANICI, bu sözleşme'nin koşullarını kabul etmiş olur. KULLANICI bu sözleşme'yi kabul etmiyorsa, yazılımı ve bu internet sitesini kullanmamayı tercih edebilir.**
 
 ## 1. Hizmet Olarak Yazılım (SaaS) Kullanım Koşulları
 
-1.1. Subject to the terms and conditions of this Agreement, PYRONOME agrees to provide to User, on a Software-as-a-Service (SaaS) basis in exchange of Subscription Fees, the PYRONOME software (including the SaaS protocol access and SaaS application), its interface, database, and the documentation that accompanies it (collectively the "Software"), identified, described and available online, and delivered on the Activation Date hereof. By installing the Software on his computer, the User becomes a registered user of the Software, which PYRONOME provides for the exclusive use of each registered user.
+1.1. Bu sözleşmenin hüküm ve koşullarına tabi olarak, PYRONOME, abonelik seçecekleri kapsamında ücreti karşılığında, PYRONOME yazılımını (SaaS platformu erişimi ve SaaS uygulaması dahil) Hizmete Olarak Yazılım (SaaS) yaklaşımıyla KULLANICI'nın kullanımına sunmayı kabul eder. Arabirimi, veritabanı ve ona eşlik eden belgeler (topluca "Yazılım"), tanımlanmış, açıklanmış ve çevrimiçi olarak kullanılabilir biçimde belirlenen yayın tarihinden başlayarak kullanıma sunulmuştur. Yazılımın web sitesini yükleyerek ve kullanıcı bilgileri ile kayıt ve giriş işlemini yapan KULLANICI, PYRONOME platformunun kayıtlı bir kullanıcısı olur.
 
-1.2. If the User is agreeing to this Agreement on behalf of a company or other legal entity, User represents that it has the authority to bind such entity to this Agreement.
+1.2. KULLANICI, bu sözleşmeyi bir şirket veya başka bir tüzel kişilik adına yapıyorsa, söz konusu tüzel kişiyi bu sözleşme kapsamında temsil etmeye yetkili olduğunu beyan eder.
 
-1.3. User acknowledges and agrees that PYRONOME may modify the terms and conditions of this Agreement at any time without notice to User by posting revised terms or Agreement on SaaS Site. User's use of the Software and of this SaaS Site constitutes its binding acceptance of this Agreement, including any modifications that PYRONOME makes. User is responsible for regularly reviewing this Agreement and the terms and conditions it contains.
+1.3. KULLANICI, PYRONOME'un web sitesinde ve yazılımın bir bölümünde ya da tamamında, kullanıcı sözleşmesi, kullanım koşulları ve gizlilik politikası gibi yasal belgelerde herhangi bir ön bildirimde bulunmaksızın güncelleme (ekleme/düzeltme/silme) hakkının olduğunu kabul ve beyan eder. KULLANICI yazılımı ve bu web sitesini, yayında bulunan en güncel kullanıcı sözleşmesi koşullarını dikkate alarak kullanmayı kabul ve taahhüt eder. KULLANICI, bu sözleşmeyi ve içerdiği hüküm ve koşulları düzenli olarak incelemekten sorumludur.
 
-1.4. When subscription is completed, User will be able to access Software through the Software SaaS website. Login on the SaaS Website requires a User ID and Password, which can be obtained from the Software SaaS website administrator. The Software can be accessed through a "session specific" log.in i.e. that one (1) license enables the Software to be used either:
-    
-- by a single User who uses the Software from any one (1) workstation at a time, or
-- by multiple people through User's log.in required information, but non-simultaneously.
-    
-1.5. If the Software is provided as an upgrade, patch or update to an earlier licensed release of the Software, then User must have a valid license to use such earlier release of the same version as the upgrade to install or use the upgrade. All Software being upgraded is deemed to be part of the Software and is subject to this Agreement.
+1.4. KULLANICI kayıt işlemini tamamlandığında, yazılıma, web sitesi üzerinden erişebilir. Web sitesinde oturum açmak için kayıt sırasında belirlenen kullanıcı kimliği ve parola gerekir. Yazılıma, "oturuma özgü" giriş yapıldıktan sonra erişilebilir. Yazılım, tek bir KULLANICI lisansı ile birden fazla kişi tarafından kullanılabilir. Ancak aynı anda yazılımı sadece tek bir kişi kullanabilir.
+
+1.5. Yazılım, daha önceki bir lisanslı sürümüden yükseltme, yama ya da güncelleme içeriyorsa, mevcut yazılımı bu güncellenmiş yazılıma yükseltmek ve kullanmak için ek bir lisans gerekebilir. Yükseltilen tüm yazılımlar, genel yazılımın bir parçası olarak kabul edilir ve bu sözleşmeye tabidir.
 
 ## 2. Lisanslama
 
