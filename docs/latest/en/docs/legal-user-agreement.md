@@ -67,19 +67,19 @@ title: User Agreement
 
 - User is responsible for obtaining and maintaining all computer hardware, software and communications equipment needed to internally access the Software, and for paying all third party access charges incurred while using the Software;
 - User is responsible for implementing, maintaining and updating all necessary and proper procedures and software for safeguarding against computer infection, viruses, worms, Trojan horses and other code that manifest contaminating or destructive properties (collectively "viruses"). User acknowledges that PYRONOME cannot and does not guarantee or warrant that the Software will be free of viruses following installation or access by User;
-- User shall be solely responsible for its actions while using the Software and the contents of its transmissions through the SaaS.</li>
+- User shall be solely responsible for its actions while using the Software and the contents of its transmissions through the SaaS.
     
 5.2. User agrees:
 
-- to abide by all local and international laws and regulations applicable to its use of the SaaS, including without limitation all laws regarding the transmission of technical data exported through the SaaS;</li>
-- not to upload or distribute in any way files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Software or the SaaS;</li>
-- not to use the Software or the SaaS for illegal purposes;</li>
-- not to interfere with or disrupt sites, servers, or networks connected to the SaaS;</li>
-- not to probe, scan, test the vulnerability of, or circumvent any security mechanisms used by, the sites, servers, or networks connected to the SaaS;</li>
-- not to take any action that imposes an unreasonably or disproportionately large load on the sites, servers, or networks connected to the SaaS;</li>
-- to comply with all regulations, policies and procedures of networks connected to the SaaS;</li>
-- not to post, promote, or transmit through the SaaS any unlawful, harassing, libelous, abusive, threatening, harmful, hateful, or otherwise objectionable material of any kind or nature; and</li>
-- not to transmit or post any material that encourages conduct that could constitute a criminal offence or give rise to civil liability.</li>
+- to abide by all local and international laws and regulations applicable to its use of the SaaS, including without limitation all laws regarding the transmission of technical data exported through the SaaS;
+- not to upload or distribute in any way files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Software or the SaaS;
+- not to use the Software or the SaaS for illegal purposes;
+- not to interfere with or disrupt sites, servers, or networks connected to the SaaS;
+- not to probe, scan, test the vulnerability of, or circumvent any security mechanisms used by, the sites, servers, or networks connected to the SaaS;
+- not to take any action that imposes an unreasonably or disproportionately large load on the sites, servers, or networks connected to the SaaS;
+- to comply with all regulations, policies and procedures of networks connected to the SaaS;
+- not to post, promote, or transmit through the SaaS any unlawful, harassing, libelous, abusive, threatening, harmful, hateful, or otherwise objectionable material of any kind or nature; and
+- not to transmit or post any material that encourages conduct that could constitute a criminal offence or give rise to civil liability.
     
 ## 6. User Data
 
@@ -130,20 +130,20 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 11.1. During the term of this agreement, PYRONOME shall provide the User with Support Services for the use of the Software by the User which shall comprise of the following:
 
-- advice by telephone on the Support Line or by e-mail access and response;</li>
-- the dispatch out, at PYRONOME's sole discretion, by post of fix announcements, information regarding forthcoming new releases and technical newsletters;</li>
-- the creation and upload, from time to time at PYRONOME's sole discretion, of patches and fixes in respect of the Software;</li>
-- the diagnosis of errors in the Software and the rectification of such errors (remotely) by the issue of fixes in respect of the Software and the making of any consequential amendments, if any, to the Software Documentation;</li>
-- any other support service offered to User by PYRONOME from time to time which PYRONOME may, at its sole discretion, designate as a Support Service; and</li>
-- the issue of, at PYRONOME's sole discretion, new releases of Software to the SaaS.</li>
+- advice by telephone on the Support Line or by e-mail access and response;
+- the dispatch out, at PYRONOME's sole discretion, by post of fix announcements, information regarding forthcoming new releases and technical newsletters;
+- the creation and upload, from time to time at PYRONOME's sole discretion, of patches and fixes in respect of the Software;
+- the diagnosis of errors in the Software and the rectification of such errors (remotely) by the issue of fixes in respect of the Software and the making of any consequential amendments, if any, to the Software Documentation;
+- any other support service offered to User by PYRONOME from time to time which PYRONOME may, at its sole discretion, designate as a Support Service; and
+- the issue of, at PYRONOME's sole discretion, new releases of Software to the SaaS.
     
 11.2. Support Services shall not include the diagnosis and rectification of any errors resulting from:
 
-- any alteration or modification to the Software or the SaaS made by any person other than PYRONOME;</li>
-- minor defects in the Software or the SaaS which do not significantly affect or impair the use of the Software or the SaaS;</li>
-- any incorrect or improper use of the Software or the SaaS;</li>
-- the failure by User to implement recommendations in respect of any solutions to errors previously advised by PYRONOME; and</li>
-- the use of the Software for any purpose for which it was not designed.</li>
+- any alteration or modification to the Software or the SaaS made by any person other than PYRONOME;
+- minor defects in the Software or the SaaS which do not significantly affect or impair the use of the Software or the SaaS;
+- any incorrect or improper use of the Software or the SaaS;
+- the failure by User to implement recommendations in respect of any solutions to errors previously advised by PYRONOME; and
+- the use of the Software for any purpose for which it was not designed.
     
 11.3. PYRONOME shall, upon request by User, provide reasonable diagnosis and rectification of errors notwithstanding that the error in question results from any of the circumstances described in Section 11.2, but PYRONOME shall charge for this rectification of error on a time and materials basis.
 
