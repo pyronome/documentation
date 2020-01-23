@@ -85,19 +85,21 @@ gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı b
     
 ## 6. KULLANICI Verileri
 
-6.1. As between PYRONOME and USER, USER shall own all data, information or material that USER enters into the Software ("USER Data"). Except as permitted in this Agreement, PYRONOME will not edit, delete or disclose the contents of USER Data unless authorized by USER or unless PYRONOME is required to do so by law or in the good faith belief that such action is necessary to:
+6.1. KULLANICI, yazılıma girdiği tüm veri, bilgi veya materyale ("KULLANICI Verileri") sahip olacaktır. Bu sözleşmede izin verilen durumlar dışında, PYRONOME, KULLANICI tarafından yetki verilmedikçe veya PYRONOME'un yasalarca veya böyle bir işlemin yapılması gerektiğine dair iyi niyetli bir inançla gerekli olmadığı sürece, KULLANICI verilerinin içeriğini düzenlemeyecek, silmeyecek veya ifşa etmeyecektir:
 
-- conform to applicable laws or comply with legal process served on PYRONOME;
-- protect and defend the rights or property of PYRONOME; or
-- enforce this Agreement.
-    
-6.2. PYRONOME may access USER Data to respond to service or technical problems with the Software or SaaS. USER is solely responsible for the accuracy, quality, integrity, legality, reliability, appropriateness, and copyright of all USER Data, and PYRONOME assumes no responsibility for the deletion, correction, destruction, loss, infringement or failure of the SaaS to store any USER Data.
+PYRONOME aşağıdaki durumlarda KULLANICI verileri üzerinde ekleme/düzenleme/silme işlemi yapabilir:
 
-6.3. PYRONOME reserves the right to establish a maximum amount of memory or other computer storage and a maximum amount of USER Data that USER may store, post or transmit on or through the Software and SaaS. USER shall be responsible for maintaining an archive or back-up copy of all USER Data, and PYRONOME shall have no liability for any loss of USER Data, whether caused by PYRONOME or any third party service provider.
+- Geçerli yasalara uymak veya PYRONOME'da sunulan yasal sürece uymak
+- PYRONOME'un haklarını veya mülkiyetini korumak ve savunmak
+- Bu sözleşme koşullarını yerine getirmek
 
-6.4. USER shall be responsible for compliance with all obligations imposed by Canadian and Turkey applicable privacy legislations, and any implementing or amending legislation as may be enacted from time to time, and USER shall indemnify, defend and hold PYRONOME harmless from and against any third party claims against PYRONOME resulting from the use and disclosure by PYRONOME of personal information consistent with the terms of this Agreement.
+6.2. PYRONOME, yazılım veya yazılım kullanılarak üretilen kaynak kod ile ilgili bakım faaliyetlerini gerçekleştirmek veya teknik sorunlara yanıt vermek için KULLANICI verilerine erişebilir. KULLANICI, tüm KULLANICI verilerinin doğruluğundan, kalitesinden, bütünlüğünden, yasallığından, güvenilirliğinden, uygunluğundan yalnızca sorumludur. PYRONOME, herhangi bir KULLANICI'ya ait verinin silinmesi, düzeltilmesi, imhası, kaybı, ihlali veya başarısızlığından sorumlu değildir.
 
-6.5. PYRONOME shall retain USER Data for a period of thirty (30) days after expiration or termination of this Agreement. USER may request that PYRONOME conduct a mass export or send a file of USER Data, and PYRONOME agrees to provide such services at its then current rates on a time and material basis. After thirty (30) days, PYRONOME may delete and destroy all USER Data without notice or further liability to USER.
+6.3. PYRONOME, KULLANICI'nın yazılım üzerinde depolayabileceği, gönderebileceği veya iletebileceği maksimum miktarda KULLANICI verisi için maksimum miktarda bellek veya başka bir bilgisayar depolama alanı oluşturma hakkını saklı tutar. KULLANICI, tüm KULLANICI verilerinin arşivinin veya yedek kopyasının tutulmasından sorumludur. PYRONOME, kendi ya da yetkilendirdiği herhangi bir üçüncü taraf hizmet sağlayıcı tarafından, kaynaklanan herhangi bir KULLANICI verisi kaybından sorumlu tutulamaz.
+
+6.4. KULLANICI, Türkiye'nin yürürlükteki gizlilik mevzuatlarının ve zaman zaman yürürlüğe girebilecek tüm uygulama veya değişiklik mevzuatlarının getirdiği tüm yükümlülüklere uymakla yükümlüdür. KULLANICI, kişisel bilgilerinin, bu sözleşmenin koşullarına uygun olarak kullanılması ve ifşa edilmesinden kaynaklanan herhangi bir üçüncü taraf talebine karşı PYRONOME'u sorumlu tutamaz.
+
+6.5. PYRONOME, bu sözleşmenin sona ermesinden veya feshinden sonra otuz (30) gün boyunca KULLANICI verilerini saklayacaktır. KULLANICI, PYRONOME'dan verilerinin bir kopyasını göndermesini isteyebilir. PYRONOME, otuz (30) iş günü içinde, bu talebi gerçekleştirir. Otuz (30) gün sonra PYRONOME, KULLANICI'ya bildirmeksizin veya başka bir yükümlülük altına girmeden tüm KULLANICI verilerini silebilir ve yok edebilir.
 
 ## 7. PYRONOME'un Yükümlülükleri
 
@@ -161,16 +163,17 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 ## 13. Fesih
 
-13.1. The original term of this Agreement is initiated from the Activation Date and will expire according to the USER's Subscription Package and Fees. Upon expiration of the term of this Agreement, this Agreement will expire and PYRONOME will terminate USER's ability to access and use the Software, unless USER has renewed its subscription or has subscribed to a new Subscription Package by that date.
+13.1. Bu sözleşmenin süresi, etkinleştirme tarihinden başlar ve KULLANICI abonelik planına göre geçerliliğini yitirir. Bu sözleşmenin süresi sona erdikten hemen sonra, geçerliliği de sona erecek ve PYRONOME, KULLANICI aboneliğini yenilemediği veya o tarihe kadar yeni bir abonelik planına abone olmadığı sürece, KULLANICI'nın yazılıma erişme ve kullanma yeteneğini kismi ya da bütünsel olarak sona erdirecektir.
 
-13.2. Notwithstanding the foregoing, PYRONOME may immediately terminate or suspend USER's access and use of the Software, or terminate USER's account and this Agreement if USER:
+13.2. Yukarıdakilere bakılmaksızın, PYRONOME aşağıdaki durumlarda, derhal KULLANICI'nın yazılıma erişimini ve kullanımını sona erdirebilir veya askıya alabilir. Aşağıdaki durumların KULLANICI tarafından çözümlenmemesi durumunda, işbu sözleşmeyi derhal feshedebilir:
 
-- fails to pay any applicable fees when due; or
-- breaches or otherwise fails to comply with this Agreement and fails to remedy this breach within thirty (30) days of being so notified.
-    
-13.3. Termination will not relieve USER from any obligation to pay fees that remain unpaid and will not limit either Party from pursuing other available remedies. Upon termination of this Agreement or any part thereof in accordance with this Agreement as a result of USER's breach, negligence or default, PYRONOME will have no obligation to refund USER any fees paid, if any. The provisions of this Section will not apply to those situations defined by law.
+- KULLANICI'nın, zamanı geldiğinde geçerli herhangi bir ücret ödememesi
+- KULLANICI'nın ihlal veya başka bir şekilde bu sözleşmeye uymaması ve bu ihlal kendisine bildirildikten otuz (30) gün içinde çözümlememesi
+- KULLANICI'nın yirmidört (24) ay boyunca yazılıma giriş yapmaması, erişmemesi ve kullanmaması
 
-13.4. Upon termination of this Agreement for whatever reason, USER will immediately deliver up, or destroy, any materials and any confidential and proprietary information which it has no contractual rights to retain. The disclaimers of warranties and damages and limitations on liability shall survive termination.
+13.3. Fesih, KULLANICI'yı ödenmemiş ücretler ödeme yükümlülüğünden kurtarmayacak ve taraflardan herhangi birinin mevcut diğer hukuk yollarını takip etmesini sınırlamayacaktır. KULLANICI'nın ihlali, ihmali veya temerrüdünün bir sonucu olarak işbu sözleşme'nın veya herhangi bir bölümünün işbu sözleşme uyarınca feshi üzerine, PYRONOME, varsa, ödenen herhangi bir ücreti KULLANICI'ya iade etme yükümlülüğü olmayacaktır. Bu bölümün hükümleri kanunla tanımlanan durumlara uygulanmaz.
+
+13.4. Bu sözleşmenin herhangi bir nedenle feshi üzerine, KULLANICI, herhangi bir sözleşme hakkına sahip olmayacağı tüm materyalleri derhal teslim edecek veya imha edecektir. Sorumluluk reddi ve sınırlamalarına ilişkin koşullar işbu sözleşme feshedilse dahi yürürlüğünü koruyacaktır.
 
 ## 14. Karşılıklı Etik Tutum
 

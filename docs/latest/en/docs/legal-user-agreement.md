@@ -90,13 +90,13 @@ title: User Agreement
 - protect and defend the rights or property of PYRONOME; or
 - enforce this agreement.
     
-6.2. PYRONOME may access USER Data to respond to service or technical problems with the Software or SaaS. USER is solely responsible for the accuracy, quality, integrity, legality, reliability, appropriateness, and copyright of all USER Data, and PYRONOME assumes no responsibility for the deletion, correction, destruction, loss, infringement or failure of the SaaS to store any USER Data.
+6.2. PYRONOME may access USER Data to respond to service or technical problems with the software or the source code using the software. USER is solely responsible for the accuracy, quality, integrity, legality, reliability, appropriateness, and copyright of all USER Data, and PYRONOME assumes no responsibility for the deletion, correction, destruction, loss, infringement or failure of the SaaS to store any USER Data.
 
 6.3. PYRONOME reserves the right to establish a maximum amount of memory or other computer storage and a maximum amount of USER Data that USER may store, post or transmit on or through the Software and SaaS. USER shall be responsible for maintaining an archive or back-up copy of all USER Data, and PYRONOME shall have no liability for any loss of USER Data, whether caused by PYRONOME or any third party service provider.
 
 6.4. USER shall be responsible for compliance with all obligations imposed by Canadian and Turkey applicable privacy legislations, and any implementing or amending legislation as may be enacted from time to time, and USER shall indemnify, defend and hold PYRONOME harmless from and against any third party claims against PYRONOME resulting from the use and disclosure by PYRONOME of personal information consistent with the terms of this agreement.
 
-6.5. PYRONOME shall retain USER Data for a period of thirty (30) days after expiration or termination of this agreement. USER may request that PYRONOME conduct a mass export or send a file of USER Data, and PYRONOME agrees to provide such services at its then current rates on a time and material basis. After thirty (30) days, PYRONOME may delete and destroy all USER Data without notice or further liability to USER.
+6.5. PYRONOME will retain USER data for thirty (30) days after the expiration or termination of this Agreement. The USER may ask PYRONOME to send a copy of their data. PYRONOME fulfills this request within thirty (30) business days. Thirty (30) days later, PYRONOME may delete and destroy all USER data without notifying the USER or under any other obligations.
 
 ## 7. Obligations of PYRONOME
 
@@ -160,13 +160,14 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 ## 13. Termination
 
-13.1. The original term of this agreement is initiated from the Activation Date and will expire according to the USER's Subscription Package and Fees. Upon expiration of the term of this agreement, this agreement will expire and PYRONOME will terminate USER's ability to access and use the Software, unless USER has renewed its subscription or has subscribed to a new Subscription Package by that date.
+13.1. The duration of this contract starts from the activation date and expires according to the USER's subscription plan. As soon as this contract expires, its validity will expire, and PYRONOME will partially or wholly end the USER's ability to access and use the software unless the USER renews its subscription or subscribes to a new subscription plan by that time.
 
 13.2. Notwithstanding the foregoing, PYRONOME may immediately terminate or suspend USER's access and use of the Software, or terminate USER's account and this agreement if USER:
 
-- fails to pay any applicable fees when due; or
-- breaches or otherwise fails to comply with this agreement and fails to remedy this breach within thirty (30) days of being so notified.
-    
+- fails to pay any applicable fees when due;
+- breaches or otherwise fails to comply with this agreement and fails to remedy this breach within thirty (30) days of being so notified; or
+- does not log in, access and use the software for twenty-four (24) months.
+
 13.3. Termination will not relieve USER from any obligation to pay fees that remain unpaid and will not limit either Party from pursuing other available remedies. Upon termination of this agreement or any part thereof in accordance with this agreement as a result of USER's breach, negligence or default, PYRONOME will have no obligation to refund USER any fees paid, if any. The provisions of this Section will not apply to those situations defined by law.
 
 13.4. Upon termination of this agreement for whatever reason, USER will immediately deliver up, or destroy, any materials and any confidential and proprietary information which it has no contractual rights to retain. The disclaimers of warranties and damages and limitations on liability shall survive termination.
