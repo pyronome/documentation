@@ -153,9 +153,9 @@ PYRONOME, yazılım ve hizmetin herhangi bir şekilde kesintiye uğramasından k
 
 ## 11. Şifreler ve Güvenlik
 
-11.1. PYRONOME shall issue to USER a password for each authorized USER who has paid the applicable subscription fees. USER is responsible for maintaining the confidentiality of his password and for ensuring that only the authorized USER uses his password. USER is entirely responsible for any and all activities that occur under his account. USER agrees to immediately notify PYRONOME of any unauthorized use of his account or any other breach of security known to him. PYRONOME shall have no liability for any loss or damage arising from USER's failure to comply with these requirements. PYRONOME will maintain USER's password as confidential and will not disclose it to third parties.
+11.1. PYRONOME, geçerli abonelik ücretlerini ödeyen her KULLANICI için özel bir şifre verecektir. KULLANICI, şifresinin gizliliğini korumaktan ve yalnızca yetkilendirdiği kişilerin şifresini kullanmasını sağlamaktan sorumludur. KULLANICI, hesabı altında gerçekleşen tüm faaliyetlerden tamamen sorumludur. KULLANICI, hesabının yetkisiz kullanımı veya kendisi tarafından bilinen diğer güvenlik ihlallerini derhal PYRONOME'a bildirmeyi kabul eder. PYRONOME, KULLANICI'nın bu gerekliliklere uymamasından kaynaklanan kayıp veya hasarlardan sorumlu tutulamaz. PYRONOME, KULLANICI şifresini gizli tutacak ve üçüncü taraflara ifşa etmeyecektir.
 
-11.2. PYRONOME will maintain the Software at a reputable third party Internet service provider and hosting facility, where they are subject to commercially reasonable security precautions to prevent unauthorized access to the Software. USER acknowledges that, notwithstanding such security precautions, use of or connection to the Internet provides the opportunity for unauthorized third parties to circumvent such precautions and illegally gain access to the Software and USER Data. Accordingly, PYRONOME cannot and does not guarantee the privacy, security or authenticity of any information so transmitted over the Internet.
+11.2. PYRONOME, yazılıma yetkisiz erişimi önlemek için, ticari olarak makul güvenlik önlemlerine sahip, saygın bir üçüncü taraf internet hizmet sağlayıcısından barındırma hizmeti almaktadır. KULLANICI, bu tür güvenlik önlemlerine rağmen, küresel bir ağ olan internetin, yetkisiz üçüncü taraflara, KULLANICI verilerine yasa dışı şekilde erişme fırsatı sağladığını kabul eder. Buna göre PYRONOME, internet üzerinden aktarılan bilgilerin gizliliğini, güvenliğini veya gerçekliğini garanti edemez ve garanti etmez.
 
 ## 12. Fesih
 
@@ -173,13 +173,13 @@ PYRONOME, yazılım ve hizmetin herhangi bir şekilde kesintiye uğramasından k
 
 ## 13. Karşılıklı Etik Tutum
 
-13.1. USER hereby acknowledges and covenants never to disparage, speak ill of, or in any manner make, express, transmit, or otherwise communicate, any remark, comment, message, declaration or other statement of any kind, that might reasonably be construed to be derogatory or critical of, or negative toward, PYRONOME or any of PYRONOME's products, services, business methods, affiliates, officers, directors, employees or shareholders, and will take reasonable steps to prevent, and will not knowingly permit, any of USER's respective employees or agents to disparage or speak ill of such persons and entities. Upon violation of any of the foregoing, PYRONOME may immediately terminate this Agreement and USER's access to the Services.
+13.1. PYRONOME ve KULLANICI işbu vesileyle, tarafların üretmekte olduğu ürünler, vermekte olduğu hizmetler, iş yöntemleri, bağlı kuruluşları, görevlileri, yöneticileri, çalışanları veya hissedarları için aşağılayıcı olarak yorumlanabilecek bir ifadeyi herhangi bir görsel veya yazılı iletişim kanalında kullanmamayı kabul eder. Bu maddenin ihlali durumunda PYRONOME işbu sözleşmeyi ve KULLANICI'nın hizmetlere erişimini feshetme hakkını saklı tutmaktadır.
 
 ## 14. Geçerli Yasalar
 
-14.1. This Agreement, all related transactions and any disputes hereunder shall be governed in all respects, including validity, interpretation and effect, by the laws of Turkey, without regard to their conflict of laws principles.
+14.1. İşbu sözleşme, ilgili tüm işlemler, anlaşmazlıklar, geçerlilik, yorum ve etki bakımından, yasalarla ihtilafı ilkeler dikkate alınmaksızın, Türkiye yasalarına tabidir.
 
-14.2. Any dispute under this Agreement shall be brought exclusively in the courts of Turkey and USER hereby submits to the exclusive jurisdiction of such courts. USER agrees that any cause of action arising out of or related to this Agreement shall be brought within three (3) years after the cause of action arose; otherwise, such cause of action is permanently barred.
+14.2. Bu sözleşme kapsamındaki herhangi bir anlaşmazlık münhasıran Türkiye mahkemelerine getirilecek ve KULLANICI işbu vesileyle bu mahkemelerin münhasır yargı yetkisine tabi olacaktır.
 
 ## 15. Diğer Hükümler
 
