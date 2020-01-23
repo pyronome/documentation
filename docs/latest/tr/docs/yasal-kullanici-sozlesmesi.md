@@ -1,6 +1,6 @@
 ---
 id: yasal-kullanici-sozlesmesi
-title: KULLANICI Sözleşmesi
+title: Kullanıcı Sözleşmesi
 ---
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
