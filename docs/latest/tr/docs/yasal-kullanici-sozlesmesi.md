@@ -1,6 +1,6 @@
 ---
 id: yasal-kullanici-sozlesmesi
-title: Kullanıcı Sözleşmesi
+title: KULLANICI Sözleşmesi
 ---
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
@@ -23,7 +23,7 @@ title: Kullanıcı Sözleşmesi
 
 2.1. PYRONOME işbu sözleşmeyle KULLANICI'ya münhasır olmayan, devredilemeyen bir lisans vermektedir. Bu lisans, işbu sözleşmenin koşullarına tabi olarak ticari amaçlı kullanımları destekler.
 
-2.2. PYRONOME platformu bünyesinde, üçüncü şahıslar tarafından geliştirilen ve yazılıma dahil edilen her bileşen kendi özel lisans koşullarına sahip olabilir. Bu özel lisans koşulları hiçbir şekilde, işbu sözleşmedeki şartların bir bölümünü veya tamamını askıya almaz, durdurmaz ya da yürürlükten kaldırmaz. Belirtilen özel lisans koşulları, kullanıcı sözleşmesi, kullanım koşulları ve gizlilik politikasına ek olarak kabul edilir. Kullanıcı sözleşmesi, kullanım koşulları, gizlilik politikası ve üçüncü şahıslar tarafından geliştirilen bileşenlere ait özel lisans koşulları birbiriyle çelişmesi durumunda işbu sözleşme koşulları uygulanır.
+2.2. PYRONOME platformu bünyesinde, üçüncü şahıslar tarafından geliştirilen ve yazılıma dahil edilen her bileşen kendi özel lisans koşullarına sahip olabilir. Bu özel lisans koşulları hiçbir şekilde, işbu sözleşmedeki şartların bir bölümünü veya tamamını askıya almaz, durdurmaz ya da yürürlükten kaldırmaz. Belirtilen özel lisans koşulları, kullanıcı sözleşmesi, kullanım koşulları ve gizlilik politikasına ek olarak kabul edilir. KULLANICI sözleşmesi, kullanım koşulları, gizlilik politikası ve üçüncü şahıslar tarafından geliştirilen bileşenlere ait özel lisans koşulları birbiriyle çelişmesi durumunda işbu sözleşme koşulları uygulanır.
 
 2.3. PYRONOME platformu bünyesinde, üçüncü şahıslar tarafından geliştirilen ve yazılıma dahil edilen bileşenlere ait özel lisans koşulları sadece ilgili bileşen yazılım üretimi için kullanıldığında geçerlidir. Kullanılmayan bileşenlere ait özel lisans koşulları uygulanmaz.
 
@@ -63,7 +63,7 @@ gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı b
 - PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, herhangi bir amaçla hazırlanacak görsel, metin ve video tabanlı içerikte bileşen adı, logosu, görsel ve metin tabanlı öğelerinin kullanılması,
 - PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşen üzerinde güvenlik sınamalarının (örn. virüs tarama, sızma testi) yapılması,
 
-## 5. Kullanıcı Yükümlülükleri
+## 5. KULLANICI Yükümlülükleri
 
 5.1. PYRONOME ve KULLANICI işbu sözleşme ile aşağıdakileri kabul eder:
 
@@ -83,34 +83,34 @@ gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı b
 - KULLANICI, herhangi bir tür veya nitelikteki yasa dışı, taciz edici, iftira niteliğinde, taciz edici, tehdit edici, zararlı, nefret dolu veya başka bir şekilde sakıncalı materyali yayınlamayacak, tanıtmayacak, iletmeyecek ve paylaşmayacaktır.
 - KULLANICI, cezai bir suç teşkil edebilecek veya hukuki sorumluluk doğurabilecek davranışları teşvik eden herhangi bir materyali  yayınlamayacak, tanıtmayacak, iletmeyecek ve paylaşmayacaktır.
     
-## 6. Kullanıcı Verileri
+## 6. KULLANICI Verileri
 
-6.1. As between PYRONOME and User, User shall own all data, information or material that User enters into the Software ("User Data"). Except as permitted in this Agreement, PYRONOME will not edit, delete or disclose the contents of User Data unless authorized by User or unless PYRONOME is required to do so by law or in the good faith belief that such action is necessary to:
+6.1. As between PYRONOME and USER, USER shall own all data, information or material that USER enters into the Software ("USER Data"). Except as permitted in this Agreement, PYRONOME will not edit, delete or disclose the contents of USER Data unless authorized by USER or unless PYRONOME is required to do so by law or in the good faith belief that such action is necessary to:
 
 - conform to applicable laws or comply with legal process served on PYRONOME;
 - protect and defend the rights or property of PYRONOME; or
 - enforce this Agreement.
     
-6.2. PYRONOME may access User Data to respond to service or technical problems with the Software or SaaS. User is solely responsible for the accuracy, quality, integrity, legality, reliability, appropriateness, and copyright of all User Data, and PYRONOME assumes no responsibility for the deletion, correction, destruction, loss, infringement or failure of the SaaS to store any User Data.
+6.2. PYRONOME may access USER Data to respond to service or technical problems with the Software or SaaS. USER is solely responsible for the accuracy, quality, integrity, legality, reliability, appropriateness, and copyright of all USER Data, and PYRONOME assumes no responsibility for the deletion, correction, destruction, loss, infringement or failure of the SaaS to store any USER Data.
 
-6.3. PYRONOME reserves the right to establish a maximum amount of memory or other computer storage and a maximum amount of User Data that User may store, post or transmit on or through the Software and SaaS. User shall be responsible for maintaining an archive or back-up copy of all User Data, and PYRONOME shall have no liability for any loss of User Data, whether caused by PYRONOME or any third party service provider.
+6.3. PYRONOME reserves the right to establish a maximum amount of memory or other computer storage and a maximum amount of USER Data that USER may store, post or transmit on or through the Software and SaaS. USER shall be responsible for maintaining an archive or back-up copy of all USER Data, and PYRONOME shall have no liability for any loss of USER Data, whether caused by PYRONOME or any third party service provider.
 
-6.4. User shall be responsible for compliance with all obligations imposed by Canadian and Turkey applicable privacy legislations, and any implementing or amending legislation as may be enacted from time to time, and User shall indemnify, defend and hold PYRONOME harmless from and against any third party claims against PYRONOME resulting from the use and disclosure by PYRONOME of personal information consistent with the terms of this Agreement.
+6.4. USER shall be responsible for compliance with all obligations imposed by Canadian and Turkey applicable privacy legislations, and any implementing or amending legislation as may be enacted from time to time, and USER shall indemnify, defend and hold PYRONOME harmless from and against any third party claims against PYRONOME resulting from the use and disclosure by PYRONOME of personal information consistent with the terms of this Agreement.
 
-6.5. PYRONOME shall retain User Data for a period of thirty (30) days after expiration or termination of this Agreement. User may request that PYRONOME conduct a mass export or send a file of User Data, and PYRONOME agrees to provide such services at its then current rates on a time and material basis. After thirty (30) days, PYRONOME may delete and destroy all User Data without notice or further liability to User.
+6.5. PYRONOME shall retain USER Data for a period of thirty (30) days after expiration or termination of this Agreement. USER may request that PYRONOME conduct a mass export or send a file of USER Data, and PYRONOME agrees to provide such services at its then current rates on a time and material basis. After thirty (30) days, PYRONOME may delete and destroy all USER Data without notice or further liability to USER.
 
 ## 7. PYRONOME'un Yükümlülükleri
 
-7.1. Subject to the exceptions set out elsewhere herein this Agreement, PYRONOME warrants that it will provide Software using reasonable care and skill and that the Software will perform substantially and materially in accordance with its functional specifications under normal use. If there is a material breach of the above warranty, PYRONOME's entire liability and User's entire remedy shall be, at PYRONOME's sole discretion, to:
+7.1. Subject to the exceptions set out elsewhere herein this Agreement, PYRONOME warrants that it will provide Software using reasonable care and skill and that the Software will perform substantially and materially in accordance with its functional specifications under normal use. If there is a material breach of the above warranty, PYRONOME's entire liability and USER's entire remedy shall be, at PYRONOME's sole discretion, to:
 
 - modify the Software to conform to the its functional specifications, in a reasonable workaround time and fashion; or
-- if the foregoing is not commercially reasonable or feasible, terminate this Agreement and User's right to use the Software, and refund to User any unused prepaid Subscription Fees, if any, as of the date of termination, with no further liability to PYRONOME or User. These remedies are User's sole and exclusive remedies.
+- if the foregoing is not commercially reasonable or feasible, terminate this Agreement and USER's right to use the Software, and refund to USER any unused prepaid Subscription Fees, if any, as of the date of termination, with no further liability to PYRONOME or USER. These remedies are USER's sole and exclusive remedies.
     
 7.2. Subject to the foregoing, all conditions, warranties, terms and undertakings, express or implied, statutory or otherwise, in respect of the Software or of any Support Services, and of any additional services, are hereby excluded to the greatest extent permissible by applicable law.
 
 ## 8. Sorumluluk Reddi
 
-The User agrees to USE the Software at the User's own RISK. The User agrees that PYRONOME offers NO WARRANTIES WHATSOEVER. ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF intellectual PROPRIETARY RIGHTS, ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. ALSO TO THE FULLEST EXTENT PERMITTED BY LAW, PYRONOME DISCLAIMS ANY REPRESENTATIONS, WARRANTIES, OR GUARANTIES AS TO THE QUALITY, SUITABILITY, TRUTH, ACCURACY, OR COMPLETENESS OF ANY OF THE MATERIALS CONTAINED in the Software.
+The USER agrees to USE the Software at the USER's own RISK. The USER agrees that PYRONOME offers NO WARRANTIES WHATSOEVER. ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF intellectual PROPRIETARY RIGHTS, ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. ALSO TO THE FULLEST EXTENT PERMITTED BY LAW, PYRONOME DISCLAIMS ANY REPRESENTATIONS, WARRANTIES, OR GUARANTIES AS TO THE QUALITY, SUITABILITY, TRUTH, ACCURACY, OR COMPLETENESS OF ANY OF THE MATERIALS CONTAINED in the Software.
 
 PYRONOME MAKES NO WARRANTY THAT (a) THE software WILL MEET the user's REQUIREMENTS, (b) THE software WILL BE ERROR-FREE, uninterrupted, timely or secure, (c) defects will be corrected, (d) RESULTS OBTAINED FROM THE USE OF THE software WILL BE ACCURATE OR RELIABLE, OR (e) THE QUALITY OF ANY INFORMATION OR OTHER MATERIAL OBTAINED BY the user THROUGH THE use of the Software WILL MEET the user's EXPECTATIONS.
 
@@ -126,17 +126,17 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 ## 10. Yazılımın Değiştirilmesi
 
-10.1. In the event User alters the Software by any which way and for any purpose, User acknowledges that such alteration shall be at User's own risk and expense. User acknowledges and agrees that PYRONOME shall have no obligation to provide any services in respect of those elements of the Software which are altered or for which the provision of any services will be adversely affected by the alterations made by User. It is specifically understood by User that by virtue of such alterations to the Software, subsequent modifications, solutions, corrections, improvements or releases of the Software may be rendered unusable. 
+10.1. In the event USER alters the Software by any which way and for any purpose, USER acknowledges that such alteration shall be at USER's own risk and expense. USER acknowledges and agrees that PYRONOME shall have no obligation to provide any services in respect of those elements of the Software which are altered or for which the provision of any services will be adversely affected by the alterations made by USER. It is specifically understood by USER that by virtue of such alterations to the Software, subsequent modifications, solutions, corrections, improvements or releases of the Software may be rendered unusable. 
 
 ## 11. Bakım ve Destek Hizmetleri
 
-11.1. During the term of this Agreement, PYRONOME shall provide the User with Support Services for the use of the Software by the User which shall comprise of the following:
+11.1. During the term of this Agreement, PYRONOME shall provide the USER with Support Services for the use of the Software by the USER which shall comprise of the following:
 
 - advice by telephone on the Support Line or by e-mail access and response;
 - the dispatch out, at PYRONOME's sole discretion, by post of fix announcements, information regarding forthcoming new releases and technical newsletters;
 - the creation and upload, from time to time at PYRONOME's sole discretion, of patches and fixes in respect of the Software;
 - the diagnosis of errors in the Software and the rectification of such errors (remotely) by the issue of fixes in respect of the Software and the making of any consequential amendments, if any, to the Software Documentation;
-- any other support service offered to User by PYRONOME from time to time which PYRONOME may, at its sole discretion, designate as a Support Service; and
+- any other support service offered to USER by PYRONOME from time to time which PYRONOME may, at its sole discretion, designate as a Support Service; and
 - the issue of, at PYRONOME's sole discretion, new releases of Software to the SaaS.
     
 11.2. Support Services shall not include the diagnosis and rectification of any errors resulting from:
@@ -144,47 +144,47 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 - any alteration or modification to the Software or the SaaS made by any person other than PYRONOME;
 - minor defects in the Software or the SaaS which do not significantly affect or impair the use of the Software or the SaaS;
 - any incorrect or improper use of the Software or the SaaS;
-- the failure by User to implement recommendations in respect of any solutions to errors previously advised by PYRONOME; and
+- the failure by USER to implement recommendations in respect of any solutions to errors previously advised by PYRONOME; and
 - the use of the Software for any purpose for which it was not designed.
     
-11.3. PYRONOME shall, upon request by User, provide reasonable diagnosis and rectification of errors notwithstanding that the error in question results from any of the circumstances described in Section 11.2, but PYRONOME shall charge for this rectification of error on a time and materials basis.
+11.3. PYRONOME shall, upon request by USER, provide reasonable diagnosis and rectification of errors notwithstanding that the error in question results from any of the circumstances described in Section 11.2, but PYRONOME shall charge for this rectification of error on a time and materials basis.
 
 11.4. The Support Services are only provided by PYRONOME in respect of the current release of the Software and for a period not exceeding twelve (12) months dating from the issuance of the current release.
 
-11.5. PYRONOME acknowledges that an annual Support Charge is included within the Subscription Fees. In the event the User fails to pay any amounts due pursuant to the terms of this Agreement within thirty (30) days of the due date, PYRONOME shall be entitled, without prejudice to any other rights and remedies it may have under this Agreement, to cease provision of the Support Services until such amounts and any interest payable have been paid in full.
+11.5. PYRONOME acknowledges that an annual Support Charge is included within the Subscription Fees. In the event the USER fails to pay any amounts due pursuant to the terms of this Agreement within thirty (30) days of the due date, PYRONOME shall be entitled, without prejudice to any other rights and remedies it may have under this Agreement, to cease provision of the Support Services until such amounts and any interest payable have been paid in full.
 
 ## 12. Şifreler ve Güvenlik
 
-12.1. PYRONOME shall issue to User a password for each authorized User who has paid the applicable subscription fees. User is responsible for maintaining the confidentiality of his password and for ensuring that only the authorized User uses his password. User is entirely responsible for any and all activities that occur under his account. User agrees to immediately notify PYRONOME of any unauthorized use of his account or any other breach of security known to him. PYRONOME shall have no liability for any loss or damage arising from User's failure to comply with these requirements. PYRONOME will maintain User's password as confidential and will not disclose it to third parties.
+12.1. PYRONOME shall issue to USER a password for each authorized USER who has paid the applicable subscription fees. USER is responsible for maintaining the confidentiality of his password and for ensuring that only the authorized USER uses his password. USER is entirely responsible for any and all activities that occur under his account. USER agrees to immediately notify PYRONOME of any unauthorized use of his account or any other breach of security known to him. PYRONOME shall have no liability for any loss or damage arising from USER's failure to comply with these requirements. PYRONOME will maintain USER's password as confidential and will not disclose it to third parties.
 
-12.2. PYRONOME will maintain the Software at a reputable third party Internet service provider and hosting facility, where they are subject to commercially reasonable security precautions to prevent unauthorized access to the Software. User acknowledges that, notwithstanding such security precautions, use of or connection to the Internet provides the opportunity for unauthorized third parties to circumvent such precautions and illegally gain access to the Software and User Data. Accordingly, PYRONOME cannot and does not guarantee the privacy, security or authenticity of any information so transmitted over the Internet.
+12.2. PYRONOME will maintain the Software at a reputable third party Internet service provider and hosting facility, where they are subject to commercially reasonable security precautions to prevent unauthorized access to the Software. USER acknowledges that, notwithstanding such security precautions, use of or connection to the Internet provides the opportunity for unauthorized third parties to circumvent such precautions and illegally gain access to the Software and USER Data. Accordingly, PYRONOME cannot and does not guarantee the privacy, security or authenticity of any information so transmitted over the Internet.
 
 ## 13. Fesih
 
-13.1. The original term of this Agreement is initiated from the Activation Date and will expire according to the User's Subscription Package and Fees. Upon expiration of the term of this Agreement, this Agreement will expire and PYRONOME will terminate User's ability to access and use the Software, unless User has renewed its subscription or has subscribed to a new Subscription Package by that date.
+13.1. The original term of this Agreement is initiated from the Activation Date and will expire according to the USER's Subscription Package and Fees. Upon expiration of the term of this Agreement, this Agreement will expire and PYRONOME will terminate USER's ability to access and use the Software, unless USER has renewed its subscription or has subscribed to a new Subscription Package by that date.
 
-13.2. Notwithstanding the foregoing, PYRONOME may immediately terminate or suspend User's access and use of the Software, or terminate User's account and this Agreement if User:
+13.2. Notwithstanding the foregoing, PYRONOME may immediately terminate or suspend USER's access and use of the Software, or terminate USER's account and this Agreement if USER:
 
 - fails to pay any applicable fees when due; or
 - breaches or otherwise fails to comply with this Agreement and fails to remedy this breach within thirty (30) days of being so notified.
     
-13.3. Termination will not relieve User from any obligation to pay fees that remain unpaid and will not limit either Party from pursuing other available remedies. Upon termination of this Agreement or any part thereof in accordance with this Agreement as a result of User's breach, negligence or default, PYRONOME will have no obligation to refund User any fees paid, if any. The provisions of this Section will not apply to those situations defined by law.
+13.3. Termination will not relieve USER from any obligation to pay fees that remain unpaid and will not limit either Party from pursuing other available remedies. Upon termination of this Agreement or any part thereof in accordance with this Agreement as a result of USER's breach, negligence or default, PYRONOME will have no obligation to refund USER any fees paid, if any. The provisions of this Section will not apply to those situations defined by law.
 
-13.4. Upon termination of this Agreement for whatever reason, User will immediately deliver up, or destroy, any materials and any confidential and proprietary information which it has no contractual rights to retain. The disclaimers of warranties and damages and limitations on liability shall survive termination.
+13.4. Upon termination of this Agreement for whatever reason, USER will immediately deliver up, or destroy, any materials and any confidential and proprietary information which it has no contractual rights to retain. The disclaimers of warranties and damages and limitations on liability shall survive termination.
 
 ## 14. Karşılıklı Etik Tutum
 
-14.1. User hereby acknowledges and covenants never to disparage, speak ill of, or in any manner make, express, transmit, or otherwise communicate, any remark, comment, message, declaration or other statement of any kind, that might reasonably be construed to be derogatory or critical of, or negative toward, PYRONOME or any of PYRONOME's products, services, business methods, affiliates, officers, directors, employees or shareholders, and will take reasonable steps to prevent, and will not knowingly permit, any of User's respective employees or agents to disparage or speak ill of such persons and entities. Upon violation of any of the foregoing, PYRONOME may immediately terminate this Agreement and User's access to the Services.
+14.1. USER hereby acknowledges and covenants never to disparage, speak ill of, or in any manner make, express, transmit, or otherwise communicate, any remark, comment, message, declaration or other statement of any kind, that might reasonably be construed to be derogatory or critical of, or negative toward, PYRONOME or any of PYRONOME's products, services, business methods, affiliates, officers, directors, employees or shareholders, and will take reasonable steps to prevent, and will not knowingly permit, any of USER's respective employees or agents to disparage or speak ill of such persons and entities. Upon violation of any of the foregoing, PYRONOME may immediately terminate this Agreement and USER's access to the Services.
 
 ## 15. Geçerli Yasalar
 
 15.1. This Agreement, all related transactions and any disputes hereunder shall be governed in all respects, including validity, interpretation and effect, by the laws of Turkey, without regard to their conflict of laws principles.
 
-15.2. Any dispute under this Agreement shall be brought exclusively in the courts of Turkey and User hereby submits to the exclusive jurisdiction of such courts. User agrees that any cause of action arising out of or related to this Agreement shall be brought within three (3) years after the cause of action arose; otherwise, such cause of action is permanently barred.
+15.2. Any dispute under this Agreement shall be brought exclusively in the courts of Turkey and USER hereby submits to the exclusive jurisdiction of such courts. USER agrees that any cause of action arising out of or related to this Agreement shall be brought within three (3) years after the cause of action arose; otherwise, such cause of action is permanently barred.
 
 ## 16. Diğer Hükümler
 
-16.1. This Agreement represents and contains the entire agreement between the User and PYRONOME with respect to the subject matter contained herein and supersedes any other agreement, proposals, and communications, written or oral, between the User and PYRONOME with respect to the use of this Software, including any terms printed on User's purchase order or other forms or written agreements.
+16.1. This Agreement represents and contains the entire agreement between the USER and PYRONOME with respect to the subject matter contained herein and supersedes any other agreement, proposals, and communications, written or oral, between the USER and PYRONOME with respect to the use of this Software, including any terms printed on USER's purchase order or other forms or written agreements.
 
 16.2. No waiver of any default, condition or breach of this Agreement shall be deemed to imply or constitute a waiver of any other default, condition or breach of this Agreement, whether of a similar nature or otherwise.
 
@@ -192,6 +192,6 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 16.4. Neither Party shall be in default if its failure to perform any obligation under this Agreement is caused solely by supervening conditions beyond that Party's reasonable control, including acts of God, civil commotion, war, strikes, labor disputes, third party Internet service interruptions or slowdowns, vandalism or "hacker" attacks, acts of terrorism or governmental demands or requirements.
 
-16.5. This Agreement shall be binding on and shall inure to the benefit of the Parties hereto and their respective successors and permitted assigns. User may not assign this Agreement without PYRONOME's prior written consent, not to be unreasonably withheld. PYRONOME may assign this Agreement to any parent, subsidiary or affiliate or to any successor to its business, and PYRONOME may subcontract any or all of its obligations hereunder, but shall nevertheless remain responsible for the performance of its obligations hereunder.
+16.5. This Agreement shall be binding on and shall inure to the benefit of the Parties hereto and their respective successors and permitted assigns. USER may not assign this Agreement without PYRONOME's prior written consent, not to be unreasonably withheld. PYRONOME may assign this Agreement to any parent, subsidiary or affiliate or to any successor to its business, and PYRONOME may subcontract any or all of its obligations hereunder, but shall nevertheless remain responsible for the performance of its obligations hereunder.
 
 16.6. The headings in this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
