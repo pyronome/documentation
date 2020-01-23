@@ -65,23 +65,23 @@ gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı b
 
 ## 5. Kullanıcı Yükümlülükleri
 
-5.1. PYRONOME and User hereby agree to the following:
+5.1. PYRONOME ve KULLANICI işbu sözleşme ile aşağıdakileri kabul eder:
 
-- User is responsible for obtaining and maintaining all computer hardware, software and communications equipment needed to internally access the Software, and for paying all third party access charges incurred while using the Software;
-- User is responsible for implementing, maintaining and updating all necessary and proper procedures and software for safeguarding against computer infection, viruses, worms, Trojan horses and other code that manifest contaminating or destructive properties (collectively "viruses"). User acknowledges that PYRONOME cannot and does not guarantee or warrant that the Software will be free of viruses following installation or access by User;
-- User shall be solely responsible for its actions while using the Software and the contents of its transmissions through the SaaS.
+- KULLANICI, yazılıma dahili olarak erişmek için gereken tüm bilgisayar donanımını, yazılımını ve iletişim ekipmanını elde etmekten ve muhafaza etmekten ve yazılımı kullanırken ortaya çıkan tüm üçüncü taraf erişim ücretlerini ödemekten sorumludur;
+- KULLANICI, yazılımı çalıştırmak için kullandığı bilgisayarın güvenliğini, zararlı özellik gösteren yazılımlardan (örn. virüsler, solucanlar, truva atları ile yıkıcı özellikler gösteren betik ve kodlar) korumak için gerekli ve uygun tüm prosedürleri uygulamak ve gerekli güvenlik yazılımlarını kurmak, ve ilgili güvenlik yazılımlarını güncel tutmaktan sorumludur. KULLANICI, PYRONOME'un yazılımı ve PYRONOME tarafından üretilen kaynak kodun indirme, derleme, kurulum, çalıştırma ve erişim sonrasında virüssüz olacağını garanti edemeyeceğini kabul eder;
+- KULLANICI, yazılımı kullanırken yaptığı eylemlerden tek başına sorumlu olacaktır.
     
-5.2. User agrees:
+5.2. KULLANICI işbu sözleşme ile aşağıdakileri kabul ve taahhüt eder:
 
-- to abide by all local and international laws and regulations applicable to its use of the SaaS, including without limitation all laws regarding the transmission of technical data exported through the SaaS;
-- not to upload or distribute in any way files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Software or the SaaS;
-- not to use the Software or the SaaS for illegal purposes;
-- not to interfere with or disrupt sites, servers, or networks connected to the SaaS;
-- not to probe, scan, test the vulnerability of, or circumvent any security mechanisms used by, the sites, servers, or networks connected to the SaaS;
-- not to take any action that imposes an unreasonably or disproportionately large load on the sites, servers, or networks connected to the SaaS;
-- to comply with all regulations, policies and procedures of networks connected to the SaaS;
-- not to post, promote, or transmit through the SaaS any unlawful, harassing, libelous, abusive, threatening, harmful, hateful, or otherwise objectionable material of any kind or nature; and
-- not to transmit or post any material that encourages conduct that could constitute a criminal offence or give rise to civil liability.
+- KULLANICI, yazılım ve yazılım tarafından üretilen kaynak kod aracılığıyla ihraç edilen teknik verilerin iletilmesine ilişkin tüm yasalar da dahil ancak bunlarla sınırlı olmamak üzere, ilgili yazılım ve üretilen kaynak kodların kullanımında geçerli olan tüm yerel ve uluslararası yasa ve düzenlemelere uyacaktır.
+- KULLANICI, yazılımın çalışmasına zarar verebilecek virüs, bozuk dosya veya benzeri başka bir yazılım veya program içeren dosyaları yüklemeyecek ve dağıtmayacaktır.
+- KULLANICI, PYRONOME kullanarak, diğer kullanıcıların bilgisayarlarına zarar verebilecek virüs, bozuk dosya veya benzeri başka bir yazılım veya program içeren bir bileşen geliştirmeyecek ve dağıtmayacaktır.
+- KULLANICI, yazılıma bağlı sitelere, sunuculara veya ağlara müdahale etmeyecek veya bunların çalışmasını olumsuz etkileyecek faaliyetlerde bulunmayacaktır.
+- KULLANICI, yazılıma bağlı siteler, sunucular veya ağlar tarafından kullanılan güvenlik mekanizmalarını sızma amaçlı araştırmayacak; bu sistemler üzerinde sızma amaçlı tarama yapmayacak; ve güvenlik açıklarını bularak, işlerliğini olumsuz etkileyebilecek faaliyetlerde bulunmayacaktır.
+- KULLANICI, yazılıma bağlı sitelere, sunuculara veya ağlara makul olmayan veya orantısız olarak büyük bir yük getiren herhangi bir işlem yapmayacaktır.
+- KULLANICI, yazılıma bağlı ağların tüm düzenlemelerine, politikalarına ve prosedürlerine uyacaktır.
+- KULLANICI, herhangi bir tür veya nitelikteki yasa dışı, taciz edici, iftira niteliğinde, taciz edici, tehdit edici, zararlı, nefret dolu veya başka bir şekilde sakıncalı materyali yayınlamayacak, tanıtmayacak, iletmeyecek ve paylaşmayacaktır.
+- KULLANICI, cezai bir suç teşkil edebilecek veya hukuki sorumluluk doğurabilecek davranışları teşvik eden herhangi bir materyali  yayınlamayacak, tanıtmayacak, iletmeyecek ve paylaşmayacaktır.
     
 ## 6. Kullanıcı Verileri
 

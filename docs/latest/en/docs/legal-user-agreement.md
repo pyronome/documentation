@@ -66,19 +66,20 @@ title: User Agreement
 5.1. PYRONOME and User hereby agree to the following:
 
 - User is responsible for obtaining and maintaining all computer hardware, software and communications equipment needed to internally access the Software, and for paying all third party access charges incurred while using the Software;
-- User is responsible for implementing, maintaining and updating all necessary and proper procedures and software for safeguarding against computer infection, viruses, worms, Trojan horses and other code that manifest contaminating or destructive properties (collectively "viruses"). User acknowledges that PYRONOME cannot and does not guarantee or warrant that the Software will be free of viruses following installation or access by User;
-- User shall be solely responsible for its actions while using the Software and the contents of its transmissions through the SaaS.
+- USER is responsible for implementing, maintaining, and updating all necessary and proper procedures to protect the security of the computer it uses to run the software from harmful software  (e.g., viruses, worms, trojans, and scripts, and codes with destructive features). The USER is also responsible for installing the required security software, and for keeping the relevant security software up to date. USER agrees and acknowledges that PYRONOME cannot and does not guarantee or warrant the software and the source code generated from PYRONOME that it will be virus-free after download, compilation, installation, running, and accessing.
+- USER will be solely responsible for the actions taken while using the software.
     
 5.2. User agrees:
 
-- to abide by all local and international laws and regulations applicable to its use of the SaaS, including without limitation all laws regarding the transmission of technical data exported through the SaaS;
-- not to upload or distribute in any way files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Software or the SaaS;
-- not to use the Software or the SaaS for illegal purposes;
-- not to interfere with or disrupt sites, servers, or networks connected to the SaaS;
-- not to probe, scan, test the vulnerability of, or circumvent any security mechanisms used by, the sites, servers, or networks connected to the SaaS;
-- not to take any action that imposes an unreasonably or disproportionately large load on the sites, servers, or networks connected to the SaaS;
-- to comply with all regulations, policies and procedures of networks connected to the SaaS;
-- not to post, promote, or transmit through the SaaS any unlawful, harassing, libelous, abusive, threatening, harmful, hateful, or otherwise objectionable material of any kind or nature; and
+- to abide by all local and international laws and regulations applicable to its use of the software and the source code generated using software, including without limitation all laws regarding the transmission of technical data exported through the software;
+- not to upload or distribute in any way files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Software;
+- not to develop or distribute in any way components that contain viruses, corrupted files, or any other similar software or programs that may damage other users computers;
+- not to use the software or the source generated using the software for illegal purposes;
+- not to interfere with or disrupt sites, servers, or networks connected to the software;
+- not to probe, scan, test the vulnerability of, or circumvent any security mechanisms used by, the sites, servers, or networks connected to the software;
+- not to take any action that imposes an unreasonably or disproportionately large load on the sites, servers, or networks connected to the software;
+- to comply with all regulations, policies and procedures of networks connected to the software;
+- not to post, promote, or transmit through the software any unlawful, harassing, libelous, abusive, threatening, harmful, hateful, or otherwise objectionable material of any kind or nature; and
 - not to transmit or post any material that encourages conduct that could constitute a criminal offence or give rise to civil liability.
     
 ## 6. User Data
