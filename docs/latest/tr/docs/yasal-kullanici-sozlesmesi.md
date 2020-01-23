@@ -61,7 +61,7 @@ gibi faaliyetleri yazılım üzerinde gerçekleştirmeyeceğini ve yazılımı b
 - PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşenin ya da bir bölümünün, tek başına ya da başka bir yazılıma dahil edilerek lisanslanması, yeniden lisanslanması, satılması, kiralanması, dağıtılması, devredilmesi,
 - PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, reklam ve tanıtım ortamlarında bileşenin adının, logosunun, görsel ve metin tabanlı öğelerinin, bileşeni geliştiren kişilerin onayına ihtiyaç duyulmaksızın kullanılması,
 - PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, herhangi bir amaçla hazırlanacak görsel, metin ve video tabanlı içerikte bileşen adı, logosu, görsel ve metin tabanlı öğelerinin kullanılması,
-- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşen üzerinde virüs tarama yapılması, bileşenin tamamının ya da bir bölümünün karantinaya alınması ya da silinmesi
+- PYRONOME, PYRONOME'un yetkilendirdiği üçüncü şahıslar ya da KULLANICI'lar tarafından, bileşen üzerinde güvenlik sınamalarının (örn. virüs tarama, sızma testi) yapılması,
 
 ## 5. Kullanıcı Yükümlülükleri
 

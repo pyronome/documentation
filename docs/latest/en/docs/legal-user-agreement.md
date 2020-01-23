@@ -59,7 +59,7 @@ title: User Agreement
 - Licensing, re-licensing, selling, leasing, distributing, transferring, by PYRONOME, PYRONOME authorized third parties or USERS, either by itself or by including it in another software,
 - Use of the name, logo, visual and text-based elements of the component in advertising and promotional environments without the consent of those who develop the component, by PYRONOME, PYRONOME authorized third parties or USERS,
 - Use of the component name, logo, visual and text-based elements in visual, text and video-based content to be prepared for any purpose by PYRONOME, PYRONOME authorized third parties or USERS,
-- Performing virus scan on the component, quarantining or deleting all or some parts of the component PYRONOME, PYRONOME authorized third parties or USERS.
+- Performing security tests (e.g., virus scanning, penetration test) on the component by PYRONOME, PYRONOME authorized third parties or USERS,
 
 ## 5. User Obligations
 
