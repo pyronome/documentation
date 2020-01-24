@@ -8,13 +8,18 @@ title: Tanımlar
 ## A
 
 ##### Alan:
-Geliştirilen kalıplar ad uzayları oluşturmak için tanımlanan kayıtlardır. Alanlar yardımıyla,[https://pyronome.com](https://pyronome.com) alan adı üzerinden erişilebilen farklı kalıp dizinleri oluşturulabilmektedir.
+Geliştirilen kalıplar ad uzayları oluşturmak için tanımlanan kayıtlardır. Alanlar yardımıyla, [https://pyronome.com](https://pyronome.com) alan adı üzerinden erişilebilen farklı kalıp dizinleri oluşturulabilmektedir.
 
 ##### Az-Kod:
 "Kod yazmadan ya da çok az kod yazarak..." olarak ifade edilmektedir.
 
 ##### Az-Kod Platformu:
 Kod yazmadan ya da çok az kod ile yeni özellikler eklenebilen yazılım platformlardır.
+
+## B
+
+##### Bulut (bilişim):
+Bulut (bilişim), bilgisayarlar ve diğer cihazlar için, istendiği zaman kullanılabilen ve kullanıcılar arasında paylaşılan bilgisayar kaynakları sağlayan, internet tabanlı bilişim hizmetlerinin genel adıdır. (Bknz. Vikipedi)
 
 ## G
 
@@ -38,7 +43,7 @@ Genel olarak üzerinde anlaşılan ve uzlaşılan uygulama biçimlerini ifade ed
 Gerçek dünyadaki bir varlığın, olayın veya sistemin üzerinde işlemler gerçekleştirmek için yapılan basitleştirilmiş örneklere verilen genel addır. Pyronome üzerindeki modeller, geliştirilecek yazılım sisteminin ana ve alt elemanlarının oluşturduğu tanımları ifade etmektedir.
 
 ##### Modo:
-Pyronome üzerinde model tanımlarının kolay yapılabilmesi için geliştirilmiş modelleme dilidir (Bknz. http://modolaguage.org).
+Pyronome üzerinde model tanımlarının kolay yapılabilmesi için geliştirilmiş modelleme dilidir (Bknz. http://modolanguage.org).
 
 ## P
 
