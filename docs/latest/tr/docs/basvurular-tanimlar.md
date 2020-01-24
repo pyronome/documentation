@@ -7,53 +7,53 @@ title: Tanımlar
 
 ## A
 
-##### Ana Birim:
-text goes here.
+##### Alan:
+Geliştirilen kalıplar ad uzayları oluşturmak için tanımlanan kayıtlardır. Alanlar yardımıyla,[https://pyronome.com](https://pyronome.com) alan adı üzerinden erişilebilen farklı kalıp dizinleri oluşturulabilmektedir.
 
 ##### Az-Kod:
-text goes here.
+"Kod yazmadan ya da çok az kod yazarak..." olarak ifade edilmektedir.
 
 ##### Az-Kod Platformu:
-text goes here.
+Kod yazmadan ya da çok az kod ile yeni özellikler eklenebilen yazılım platformlardır.
 
 ## G
 
 ##### Gerçek Hayat Sistemi:
-text goes here.
+İçeriğinde, insan, makine, yasa, politika, ve kurallar barındıran bütünsel sistemleri ifade etmektedir. "Gerçek Hayat Sistemleri", sosyal sistemler olarak da ifade edilmektedir.
 
 ## K
 
+##### Kalıp:
+Pyronome, yazılım elemanlarının yeniden kullanılabilir bileşenlere ve paketlere dönüştürülmesini destekleyen bir mimariye sahiptir. Yeniden kullanılabilir bu bileşen ve paketlere "KALIP" ismi verilmektedir.
+
 ##### Kaynak Kod:
-text goes here.
+Kaynak kod, herhangi bir yazılımın işlenip makine diline çevrilmeden önce insanların okuyup üzerinde çalışabildiği programlama diliyle yazılmış halidir. (Bknz. Vikipedi)
 
 ##### Konvansiyon:
-text goes here.
+Genel olarak üzerinde anlaşılan ve uzlaşılan uygulama biçimlerini ifade eder.
 
 ## M
 
 ##### Model:
-text goes here.
+Gerçek dünyadaki bir varlığın, olayın veya sistemin üzerinde işlemler gerçekleştirmek için yapılan basitleştirilmiş örneklere verilen genel addır. Pyronome üzerindeki modeller, geliştirilecek yazılım sisteminin ana ve alt elemanlarının oluşturduğu tanımları ifade etmektedir.
 
 ##### Modo:
-text goes here.
+Pyronome üzerinde model tanımlarının kolay yapılabilmesi için geliştirilmiş modelleme dilidir (Bknz. http://modolaguage.org).
 
 ## P
 
-##### Project:
-Project is a model that specifies a real-life system which will subject to code generation.
-
-##### Pattern:
-Pattern is a set of instructions and templates that determines how the source code will generated according to project model.
+##### Proje:
+Pyronome üzerinde kaynak kod üretimi gerçekleştirilecek tanımların yapıldığı ana elemandır.
 
 ## S
 
 ##### Sosyal Sistem:
-text goes here.
+İçeriğinde, insan, makine, yasa, politika, ve kurallar barındıran bütünsel sistemleri ifade etmektedir. "Sosyal Sistemler", gerçek hayat sistemleri olarak da ifade edilmektedir.
 
 ## Ş
 
 ##### Şablon:
-text goes here.
+Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar model ağacına göre kod parçalarının bir araya getirilerek üreteçlerin oluşturulmasını sağlayan elemanlardır.
 
 ##### Şema:
-text goes here.
+Kalıplar kaynak kod üretimi yaparken belli özelliklere ve kullanıcı tarafından eklenecek belli parametrelere ihtiyaç duymaktadır. Şemalar kullanacıdan alınacak bilgilerin tanımlanmasını sağlayan elemanlardır.
