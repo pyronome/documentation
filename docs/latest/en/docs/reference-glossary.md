@@ -5,14 +5,6 @@ title: Glossary
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## A
-
-Text goes here...
-
-## B
-
-Text goes here...
-
 ## C
 
 ##### Cloud:
@@ -20,38 +12,6 @@ text goes here.
 
 ##### Convention:
 text goes here.
-
-## D
-
-Text goes here...
-
-## E
-
-Text goes here...
-
-## F
-
-Text goes here...
-
-## G
-
-Text goes here...
-
-## H
-
-Text goes here...
-
-## I
-
-Text goes here...
-
-## J
-
-Text goes here...
-
-## K
-
-Text goes here...
 
 ## L
 
@@ -68,10 +28,6 @@ text goes here.
 
 ##### Modo:
 text goes here.
-
-## N
-
-Text goes here...
 
 ## O
 
@@ -91,10 +47,6 @@ Text goes here...
 
 ##### Project:
 Project is a model that specifies a real-life system which will subject to code generation.
-
-## Q
-
-Text goes here...
 
 ## R
 
@@ -119,27 +71,3 @@ text goes here.
 
 ##### Template:
 text goes here.
-
-## U
-
-Text goes here...
-
-## V
-
-Text goes here...
-
-## W
-
-Text goes here...
-
-## X
-
-Text goes here...
-
-## Y
-
-Text goes here...
-
-## Z
-
-Text goes here...
