@@ -128,28 +128,31 @@ PYRONOME, yazılım ve hizmetin herhangi bir şekilde kesintiye uğramasından k
 
 ## 10. Bakım ve Destek Hizmetleri
 
-10.1. During the term of this Agreement, PYRONOME shall provide the USER with Support Services for the use of the Software by the USER which shall comprise of the following:
+10.1. Bu sözleşmenin süresi boyunca, KULLANICI'nın abonelik planına uygun olarak, PYRONOME, KULLANICI'ya yazılımın kullanımı için aşağıdakilerden oluşan destek hizmetleri sağlayacaktır:
 
-- advice by telephone on the Support Line or by e-mail access and response;
-- the dispatch out, at PYRONOME's sole discretion, by post of fix announcements, information regarding forthcoming new releases and technical newsletters;
-- the creation and upload, from time to time at PYRONOME's sole discretion, of patches and fixes in respect of the Software;
-- the diagnosis of errors in the Software and the rectification of such errors (remotely) by the issue of fixes in respect of the Software and the making of any consequential amendments, if any, to the Software Documentation;
-- any other support service offered to USER by PYRONOME from time to time which PYRONOME may, at its sole discretion, designate as a Support Service; and
-- the issue of, at PYRONOME's sole discretion, new releases of Software to the SaaS.
+- Destek hattı üzerinden telefonla veya e-posta yanıtı ile tavsiyeler;
+- PYRONOME'un kendi takdirine bağlı olarak, düzeltme duyuruları, güncellemeler ve teknik bültenler hakkında bilgi gönderilmesi;
+- Zaman zaman PYRONOME'un tamamen kendi takdirine bağlı olarak yazılım ile ilgili düzeltme ekleri ve güncellemeler ve bu güncellemelerin yayına alınması;
+- Yazılımdaki hataların teşhisi ve bu tür hataların uzaktan yardım ile giderilmesi ve yazılım dokümantasyonunda gerekli değişikliklerin yapılması;
+- PYRONOME tarafından zaman zaman KULLANICI'ya sunulan, ve PYRONOME'un kendi takdirine bağlı olarak, destek servisi olarak nitelendirilebilecek diğer tüm hizmetler; ve
+- PYRONOME'un takdirine bağlı olarak, yazılımın yeni sürümlerinin yayına alınması
+
+10.2. Destek hizmetleri aşağıdaki hataların teşhisini ve düzeltilmesini içermez:
+
+- PYRONOME tarafından yayınlanmayan bileşenlerde karşılaşılabilecek herhangi bir kusur
+- Ücretsiz olarak sağlanan bileşenlerde karşılaşılabilecek herhangi bir kusur
+- Üçüncü taraf hizmetlerinde karşılaşılabilecek kusurlar
+- Yazılımda, yazılımdan üretilen kaynak kodda ve PYRONOME tarafından sağlanan bileşenlerde, PYRONOME dışında herhangi bir kişi tarafından yapılan herhangi bir değişiklik veya güncelleme sonrasında karşılaşılan hatalar
+- Yazılımda, yazılımın kullanımını önemli ölçüde etkilemeyen küçük kusurlar;
+- Yazılımın yanlış veya uygunsuz kullanımı;
+- PYRONOME tarafından yapılan kullanım tavsiyelerine uyulmaması sonucunda karşılaşılan hatalar;
+- Yazılımın tasarım amacı dışında kullanılması.
     
-10.2. Support Services shall not include the diagnosis and rectification of any errors resulting from:
+10.3. PYRONOME, KULLANICI'nın talebi üzerine, söz konusu hatanın Bölüm 10.2'de açıklanan koşullardan kaynaklanmasına rağmen, teşhisi ve giderilmesine özen gösterecektir. Bu durumda, hatanın giderilmesi ile ilgili, PYRONOME'un ek ücret talep etme hakkı saklıdır.
 
-- any alteration or modification to the Software or the SaaS made by any person other than PYRONOME;
-- minor defects in the Software or the SaaS which do not significantly affect or impair the use of the Software or the SaaS;
-- any incorrect or improper use of the Software or the SaaS;
-- the failure by USER to implement recommendations in respect of any solutions to errors previously advised by PYRONOME; and
-- the use of the Software for any purpose for which it was not designed.
-    
-10.3. PYRONOME shall, upon request by USER, provide reasonable diagnosis and rectification of errors notwithstanding that the error in question results from any of the circumstances described in Section 10.2, but PYRONOME shall charge for this rectification of error on a time and materials basis.
+10.4. PYRONOME tarafından destek hizmetleri, yalnızca yazılımın mevcut sürümüyle ilgili olarak ve mevcut sürümün yayınlanmasından itibaren on iki (12) ayı geçmeyen bir süre için verilir.
 
-10.4. The Support Services are only provided by PYRONOME in respect of the current release of the Software and for a period not exceeding twelve (12) months dating from the issuance of the current release.
-
-10.5. PYRONOME acknowledges that an annual Support Charge is included within the Subscription Fees. In the event the USER fails to pay any amounts due pursuant to the terms of this Agreement within thirty (30) days of the due date, PYRONOME shall be entitled, without prejudice to any other rights and remedies it may have under this Agreement, to cease provision of the Support Services until such amounts and any interest payable have been paid in full.
+10.5. PYRONOME yıllık destek ücretinin abonelik ücretlerine dahil olduğunu kabul eder. PYRONOME, bu sözleşme kapsamında sahip olabileceği diğer haklar saklı tutularak, KULLANICI'nın, işbu sözleşme hükümlerine uygun olarak, son ödeme tarihinden itibaren otuz (30) gün içinde herhangi bir tutarda ödeme yapmaması durumunda, borcun ve -varsa- geç ödemeden kaynaklanan faizlerin tamamı ödenene kadar destek hizmetlerinin verilmesini durdurur.
 
 ## 11. Şifreler ve Güvenlik
 
@@ -183,14 +186,14 @@ PYRONOME, yazılım ve hizmetin herhangi bir şekilde kesintiye uğramasından k
 
 ## 15. Diğer Hükümler
 
-15.1. This Agreement represents and contains the entire agreement between the USER and PYRONOME with respect to the subject matter contained herein and supersedes any other agreement, proposals, and communications, written or oral, between the USER and PYRONOME with respect to the use of this Software, including any terms printed on USER's purchase order or other forms or written agreements.
+15.1. Bu sözleşme, burada yer alan konu ile ilgili olarak KULLANICI ile PYRONOME arasındaki tüm sözleşmeyi temsil eder ve içerir. Bu yazılımın kullanımı ile ilgili olarak, KULLANICI ile PYRONOME arasındaki yazılı veya sözlü diğer tüm anlaşma (KULLANICI'nın satın alma emrinde veya diğer formlarda veya yazılı sözleşmelerde yazılı olan şartlar dahil), teklif, ve iletişimlerin yerine geçer.
 
-15.2. No waiver of any default, condition or breach of this Agreement shall be deemed to imply or constitute a waiver of any other default, condition or breach of this Agreement, whether of a similar nature or otherwise.
+15.2. Bu sözleşmedeki herhangi bir maddesindeki temerrüt, koşul veya ihlalden feragat, başka bir şekilde ya da benzer bir nitelikte olsa dahi, bu sözleşmenin başka maddelerindeki temerrüt, koşul veya ihlalden feragat edildiği anlamına gelmez.
 
-15.3. The failure of PYRONOME to exercise or enforce any right or provision of this Agreement does not constitute a waiver of such right or provision. If a court of competent jurisdiction finds any provision of this Agreement to be invalid or unenforceable, the Parties nevertheless agree that the court should endeavor to give effect to the Parties' intentions as reflected in the provision, and the other provisions of this Agreement in full force and effect.
+15.3. PYRONOME'un bu sözleşmenin herhangi bir hakkını veya hükmünü yerine getirememesi veya uygulayamaması, bu hak veya hükmün feragat edildiği anlamına gelmez. Yetkili bir mahkeme bu sözleşmenin herhangi bir hükmünün geçersiz veya uygulanamaz olduğunu tespit ederse, taraflar bu sözleşmenin diğer hükümlerinin tam olarak uygulanmasına gayret gösterilmesi konusunda hemfikirdir.
 
-15.4. Neither Party shall be in default if its failure to perform any obligation under this Agreement is caused solely by supervening conditions beyond that Party's reasonable control, including acts of God, civil commotion, war, strikes, labor disputes, third party Internet service interruptions or slowdowns, vandalism or "hacker" attacks, acts of terrorism or governmental demands or requirements.
+15.4. Tarafların iradeleri dışında ortaya çıkan ve sözleşme hükümlerinin yerine getirilmesini güçleştirici veya engelleyici bir hal teşkil eden kısmi veya genel seferberlik ilan edilmesi, harp hali, işin yapıldığı yerde, belediye hudutları içinde yetkili mercilerce bulaşıcı hastalık çıktığının ilan edilmesi, işin yapıldığı yerde çıkan yangınlar veya yer sarsıntısı, su baskını, heyelan gibi doğal afetler mücbir sebep olarak kabul edilecektir. Mücbir sebeplerden birinin oluşması durumunda, bir taraf diğer tarafa onbeş (15) gün içinde yazılı bildirimde bulunarak sözleşme hükümlerini askıya alabilir, mücbir sebep halinin üç aydan fazla sürmesi halinde ise taraflar sözleşmeyi feshedebilir.
 
-15.5. This Agreement shall be binding on and shall inure to the benefit of the Parties hereto and their respective successors and permitted assigns. USER may not assign this Agreement without PYRONOME's prior written consent, not to be unreasonably withheld. PYRONOME may assign this Agreement to any parent, subsidiary or affiliate or to any successor to its business, and PYRONOME may subcontract any or all of its obligations hereunder, but shall nevertheless remain responsible for the performance of its obligations hereunder.
+15.5. İşbu sözleşme, taraflar ile bunlara ilişkin halefleri ve yetkilendirilmiş kişiler için bağlayıcı olacak ve bunlara fayda sağlayacaktır. KULLANICI, bu sözleşmeyi PYRONOME'un önceden yazılı izni olmadan edinemez. PYRONOME bu sözleşmeyi herhangi bir ana kuruluşa, yan kuruluşa veya bağlı kuruluşa ya da herhangi bir halefine atayabilir ve PYRONOME buradaki yükümlülüklerinin herhangi birini ya da tamamını taşerona verebilir, ancak yine de buradaki yükümlülüklerinin yerine getirilmesinden sorumlu tutulacaktır.
 
-15.6. The headings in this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+15.6. Bu sözleşmedeki başlıklar sadece referans amaçlıdır ve sözleşme koşullarını sınırlamaz veya başka şekilde etkilemez.

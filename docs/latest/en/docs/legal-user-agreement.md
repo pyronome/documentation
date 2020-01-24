@@ -127,7 +127,7 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 ## 10. Maintenance Support Services
 
-10.1. During the term of this agreement, PYRONOME shall provide the USER with Support Services for the use of the Software by the USER which shall comprise of the following:
+10.1. During the term of this Agreement, based on USER's subscription plan, PYRONOME shall provide the USER with support services for the use of the software by the USER which shall comprise of the following:
 
 - advice by telephone on the Support Line or by e-mail access and response;
 - the dispatch out, at PYRONOME's sole discretion, by post of fix announcements, information regarding forthcoming new releases and technical newsletters;
@@ -138,7 +138,10 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
     
 10.2. Support Services shall not include the diagnosis and rectification of any errors resulting from:
 
-- any alteration or modification to the Software or the SaaS made by any person other than PYRONOME;
+- any defects in the components that are not published by PYRONOME;
+- any defects in the components that are provided for free;
+- any defects in the third party services;
+- any alteration or modification to the software, the source code generated from the software, components provided by PYRONOME made by any person other than PYRONOME;
 - minor defects in the Software or the SaaS which do not significantly affect or impair the use of the Software or the SaaS;
 - any incorrect or improper use of the Software or the SaaS;
 - the failure by USER to implement recommendations in respect of any solutions to errors previously advised by PYRONOME; and
@@ -158,7 +161,7 @@ By using this Software, the user agrees to indemnify PYRONOME and its subsidiari
 
 ## 12. Termination
 
-12.1. The duration of this contract starts from the activation date and expires according to the USER's subscription plan. As soon as this contract expires, its validity will expire, and PYRONOME will partially or wholly end the USER's ability to access and use the software unless the USER renews its subscription or subscribes to a new subscription plan by that time.
+12.1. The duration of this Agreement starts from the activation date and expires according to the USER's subscription plan. As soon as this contract expires, its validity will expire, and PYRONOME will partially or wholly end the USER's ability to access and use the software unless the USER renews its subscription or subscribes to a new subscription plan by that time.
 
 12.2. Notwithstanding the foregoing, PYRONOME may immediately terminate or suspend USER's access and use of the Software, or terminate USER's account and this agreement if USER:
 
