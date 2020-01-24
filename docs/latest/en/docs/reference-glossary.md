@@ -27,7 +27,7 @@ They are software platforms that can add new features without writing code or wi
 It is the generic name for simplified examples to perform operations on a real-world asset, event, or system. Models on Pyronome express the definitions formed by the main and sub-elements of the software system to be developed.
 
 ##### Modo:
-It is a modeling language that is used for defining model elements on Pyronome (see http://modolanguage.org).
+It is a modeling language that is used for defining model elements on Pyronome (See http://modolanguage.org).
 
 ## O
 
