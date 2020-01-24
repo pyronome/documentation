@@ -7,93 +7,68 @@ title: Kullanım Koşulları ve Gizlilik
 
 ## Kullanım Koşulları
 
-Welcome to Pyronome!
+Hoşgeldiniz!
 
-These terms and conditions outline the rules and regulations for the use of Pyronome's Website, located at https://pyronome.com.
+Bu şartlar ve koşullar, https://pyronome.com adresinde bulunan Pyronome web Sitesinin kullanımına ilişkin kural ve düzenlemeleri özetlemektedir.
 
-By accessing this website we assume you accept these terms and conditions. Do not continue to use Pyronome if you do not agree to take all of the terms and conditions stated on this page.
+Bu web sitesine erişerek bu hüküm ve koşulları kabul ettiğinizi varsayıyoruz. Bu sayfada belirtilen tüm hüküm ve koşulları kabul etmiyorsanız Pyronome'u kullanmamayı tercih edebilirsiniz.
 
-The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+Aşağıdaki terimler bu Kullanım Koşulları ve Gizlilik Politikası ile birlikte tüm alt sözleşmeleri için geçerlidir: "Müşteri", "Siz" ve "Sizin" ifadeleri, bu web sitesinde oturum açan ve şirketin hüküm ve koşullarına tabi olan ziyaretçileri ifade eder. "Şirket", "Kendimiz", "Biz", "Bizim" ve "Biz" şirketimize atıfta bulunur. "Parti", "Taraflar" veya "Biz", hem Müşteri'yi hem de kendimizi ifade eder. Tüm şartlar, Müşterinin belirttiği hizmetlerin sağlanmasında, Müşterinin ihtiyaçlarını açıkça karşılamak amacıyla Müşteriye yardım sürecimizi en uygun şekilde yerine getirmek için gerekli olan ödeme teklifini, kabulünü ve değerlendirilmesini ifade eder. Bu hüküm ve koşullar yürürlükte olan Türkiye yasalarına tabidir. Yukarıdaki teknik terimlerin veya diğer kelimelerin tekil, çoğul, büyük/küçük harf herhangi bir kullanımı, birbirinin yerine geçebilir.
 
 ### Çerezler
 
-We employ the use of cookies. By accessing Pyronome, you agreed to use cookies in agreement with the Pyronome's [Privacy Policy](#privacy-policy) and [Cookie Policy](/latest/en/docs/legal-cookie-policy/).
+Pyronome web sitesinde çerezler kullanılmaktadır. Pyronome'a ​​erişerek, [Gizlilik Politikası](#gizlilik-politikası) ve [Çerez Politikası](/latest/tr/docs/yasal-cerez-politikasi/) ilkelerine uygun olarak çerezleri kullanmayı kabul ettiniz.
 
-Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.
-
-### Lisans
-
-Unless otherwise stated, Pyronome and/or its licensors own the intellectual property rights for all material on Pyronome. All intellectual property rights are reserved. You may access this from Pyronome for your own personal use subjected to restrictions set in these terms and conditions.
-
-You must not:
-
-- Republish material from Pyronome
-- Sell, rent or sub-license material from Pyronome
-- Reproduce, duplicate or copy material from Pyronome
-- Redistribute content from Pyronome
-
-This Agreement shall begin on the date hereof.
-
-Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Pyronome does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Pyronome,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Pyronome shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
-
-Pyronome reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
-
-You warrant and represent that:
-
-- You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
-- The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;
-- The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy
-- The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
-
-You hereby grant Pyronome a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
+Çoğu etkileşimli web sitesi, her ziyaret için kullanıcının ayrıntılarını almak için çerezler kullanır. Çerezler, web sitemizi ziyaret eden kişilerin deneyimini iyileştirmek ve belirli alanların işlevselliğini sağlamak için kullanılır. Kullandığımız kütüphaneler, reklam ve satış ortaklarımızdan bazıları da çerezleri kullanabilir.
 
 ### İçeriğe Verilen Bağlantılar
 
-The following organizations may link to our Website without prior written approval:
+Aşağıdaki kuruluşlar önceden yazılı onay almadan web sitemize bağlantı verebilir:
 
-- Government agencies;
-- Search engines;
-- News organizations;
-- Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and
-- System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.
+- Devlet kurumları;
+- Arama motorları;
+- Haber kuruluşları;
+- Çevrimiçi dizin hizmeti veren yayıncılar, web sitemize, listeledikleri diğer işletmelerle aynı şekilde, bağlantı verebilir; ve
 
-These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.
+Bu kuruluşlar, web sitemize: (a) hiçbir şekilde aldatıcı bilgi vermeden; (b) bağlantı kurulacak tarafın ve ürünlerinin ve/veya hizmetlerinin yanlış bir şekilde sponsorluğunu, onayını ima etmeden; ve (c) web sitesi bağlamına uygun olarak bağlantı verebilirler.
 
-We may consider and approve other link requests from the following types of organizations:
+Aşağıdaki kuruluşlardan gelen bağlantı isteklerini dikkate alınır ve uygun görülmesi durumunda onaylanır:
 
-- commonly-known consumer and/or business information sources;
-- dot.com community sites;
-- associations or other groups representing charities;
-- online directory distributors;
-- internet portals;
-- accounting, law and consulting firms; and
-- educational institutions and trade associations.
+- yaygın olarak bilinen tüketici ve/veya ticari bilgi kaynakları;
+- Topluluk siteleri;
+- dernekleri veya sivil toplum kuruluşlarını temsil eden gruplar;
+- internet portalları;
+- muhasebe, hukuk ve danışmanlık firmaları; ve
+- eğitim kurumları ve ticaret birlikleri.
 
-We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Pyronome; and (d) the link is in the context of general resource information.
+Bağlantı taleplerini onaylarken aşağıdaki ölçütler dikkate alınır:
 
-These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
+- Bağlantının tarafımıza veya akredite edilmiş işlerimize olumsuz etkisi olmamalıdır;
+- Bağlantı talebinde bulunan tarafın herhangi bir olumsuz kaydı olmamalıdır;
+- Bağlantının görünürlüğü olumlu fayda sağlamalıdır;
+- Bağlantı genel kaynak niteliğinde olmalıdır.
 
-If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Pyronome. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
+Yukarıda listelenen kuruluşlardan biriyseniz ve web sitemize bağlantı vermekle ilgileniyorsanız, Pyronome'a ​​e-posta göndererek bizi bilgilendirmelisiniz. Gönderdiğiniz e-postada, adınızı, kuruluş adınızı, iletişim bilgilerinizi, sitenizin URL'sini, web sitemize bağlamak istediğiniz URL'lerin bir listesini ve sitemizdeki istediğiniz URL'lerin bir listesini belirtiniz. Talebiniz destek birimimize aktarılacak ve 30 iş günü içinde yanıtlanacaktır.
 
-Approved organizations may hyperlink to our Website as follows:
+Onaylanmış kuruluşlar web Sitemize aşağıda belirtildiği gibi bağlantı oluşturabilir:
 
-- By use of our corporate name; or
-- By use of the uniform resource locator being linked to; or
-- By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.
+- Kurumsal ismimizi kullanarak;
+- Web sitemizden bir URL adresi belirterek;
+- Web sitemizi anlatan ve web sitemizin adresini belirten bir içerik oluşturarak.
 
-No use of Pyronome's logo or other artwork will be allowed for linking absent a trademark license agreement.
+Aksi belirtilmediği takdirde, bu site içindeki görsel ve yazılı içerik [Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/) Uluslararası Lisansı ile yayınlanmaktadır.
 
 ### iFrame Elemanları
 
-Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.
+Önceden onay ve yazılı izin olmadan, web sayfalarımızı, web Sitemizin görsel sunumunu veya görünümünü hiçbir şekilde değiştiren çerçeveler içinde çalıştıramazsınız.
 
 ### İçerik Sorumluluğu
 
-We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
+Web sitenizde görünen hiçbir içerikten tarafımız sorumlu tutulamaz. Bağlantı adreslerimizi web sitenize eklemeniz durumunda, web sitenizdeki içerik ile ilgili tüm iddialara karşı bizi korumayı ve savunmayı kabul edersiniz. İftira, müstehcelik, taciz, tehdit ve her ne şekilde olursa olsun suç teşkil edebilecek veya üçüncü tarafların haklarını ihlal edebilecek hiçbir web sitesinde bağlantılarımızı yayınlayamazsınız.
 
 ### Hakların Saklı Tutulması
 
-We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
+Yayınlamakta olduğunuz, web sitemize yönlenen, tüm bağlantıları veya belirli bir bağlantıyı kaldırmanızı talep etme hakkımızı saklı tutarız. Web sitemize yönlenen bağlantıları yayınlamanız durumunda, web sitemize olan tüm bağlantıları istek üzerine derhal kaldırmayı kabul etmiş olursunuz. Pyronome'un bu kullanım koşulları, gizlilik politikası ve bu bağlı alt sözleşmeleri değiştirme hakkı saklı tutulmaktadır. Web sitemize bağlantı vererek, bu sözleşmelerdeki hüküm ve koşullara bağlı olmayı ve kalmayı kabul etmiş olursunuz.
 
 ### Bağlantıların Web Sitemizden Kaldırılması
 
