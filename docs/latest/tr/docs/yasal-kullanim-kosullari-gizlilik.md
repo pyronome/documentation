@@ -72,93 +72,99 @@ Yayınlamakta olduğunuz, web sitemize yönlenen, tüm bağlantıları veya beli
 
 ### Bağlantıların Web Sitemizden Kaldırılması
 
-If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.
+Web sitemizde herhangi bir nedenle rahatsız edici bir bağlantı bulursanız, istediğiniz zaman bizimle iletişime geçebilir ve bize bildirebilirsiniz. Bağlantıları kaldırma isteklerini özenle takip edeceğiz, ancak size doğrudan yanıt veremeyebiliriz.
 
-We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.
+Bu web sitesindeki bilgilerin doğruluğu, materyalin güncelliği ve web sitesinin sürekli erişime açık olması her zaman için garanti edilemez.
 
 ### Sorumluluk Reddi
 
-To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:
+Geçerli yasaların izin verdiği azami ölçüde, web sitemiz ve bu web sitesinin kullanımı ile ilgili tüm beyanları, garantileri ve koşulları hariç tutuyoruz. Bu feragatnamede yer alan hiçbir şey:
 
-- limit or exclude our or your liability for death or personal injury;
-- limit or exclude our or your liability for fraud or fraudulent misrepresentation;
-- limit any of our or your liabilities in any way that is not permitted under applicable law; or
-- exclude any of our or your liabilities that may not be excluded under applicable law.
+- ölüm veya kişisel yaralanma sorumluluğumuzun veya sorumluluğunuzun sınırlandırılması veya hariç tutulması;
+- sahtekarlık veya hileli yanlış beyanlardan dolayı sorumluluğumuzun veya sorumluluğunuzun sınırlandırılması veya hariç tutulması;
+- yükümlülüğümüzü veya herhangi bir yükümlülüğünüzü, yürürlükteki yasalara izin verilmeyen herhangi bir şekilde sınırlanması; veya
+- yürürlükteki yasalar kapsamındaki tüm yükümlülüklerimizi veya borçlarınızın hariç tutulması
 
-The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
+olarak yorumlanamaz.
 
-As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
+Bu bölümde ve bu feragatnamenin başka bir yerinde belirlenen sorumluluk sınırlamaları ve yasakları: (a) bir önceki paragrafa tabidir; ve (b) haksız fiil ve yasal yükümlülüklerin ihlali dahil olmak üzere, sorumluluktan doğan tüm yükümlülükleri kapsar.
 
-This website provides technologies, tools and documentation about Pyronome. Pyronome may partially or entirely update the content of this website at any time and without prior notice. Pyronome site content is licensed under a [Creative Commons Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
+Web sitesi ve web sitesindeki bilgi ve hizmetler ücretsiz olarak sağlanmaktadır, bu web sitesi kullanımı ile oluşan ya da oluşacak herhangi bir zarar veya ziyandan tarafımız sorumlu tutulamaz.
 
 ## Gizlilik Politikası
 
-At Pyronome, accessible from https://pyronome.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Pyronome and how we use it.
+Pyronome olarak https://pyronome.com adresinden erişilebilen web sitemizde ana önceliklerimizden biri ziyaretçilerimizin gizliliğidir. Bu Gizlilik Politikası, Pyronome tarafından toplanan ve kaydedilen bilgi türlerini ve bunları nasıl kullandığımızı açıklar.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+Başka sorularınız olursa veya Gizlilik Politikası koşulları hakkında daha fazla bilgiye ihtiyaç duyarsanız, bizimle iletişime geçebilirsiniz.
 
-### Genel Veri Koruma Yönetmeliği (GDPR)
+### Kişisel Verilerin Korunması Kanunu (KVKK) ve Genel Veri Koruma Yönetmeliği (GDPR)
 
-We are a Data Controller of your information.
+Pyronome, Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında "Veri Sorumlusu" olarak değerlendirilmektedir.
 
-Pyronome legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
+Bu Gizlilik Politikası'nda açıklanan kişisel bilgileri toplamak ve kullanmak için Pyronome'un yasal dayanağı aşağıdaki gibi özetlenebilir:
 
-- Pyronome needs to perform a contract with you
-- You have given Pyronome permission to do so
-- Processing your personal information is in Pyronome legitimate interests
-- Pyronome needs to comply with the law
+- Pyronome bilgilerinizi toplamak ve kullanmak için sizinle bir sözleşme yapmaktadır (Bknz. [Kullanıcı Sözleşmesi](/latest/tr/yasal-kullanici-sozlesmesi)).
+- Bilgilerinizi toplamak ve kullanmaz özel izninize tabidir.
+- Kişisel bilgilerinizin işlenmesi Pyronome'un meşru menfaatleri (sistemin çalıştırılması ve size özel çıktılar üretmesi) üzerinedir.
+- Pyronome, kişisel bilgilerinizin toplanması ve işlenmesi süreçlerinde, yasalara uygun haraket etmektedir.
 
-Pyronome will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+Pyronome kişisel bilgilerinizi yalnızca bu Gizlilik Politikası'nda belirtilen amaçlar için gerekli olduğu sürece saklayacaktır. Bilgilerinizi yasal yükümlülüklerimize uymak, anlaşmazlıkları çözmek ve politikalarımızı uygulamak için gerekli olduğu ölçüde koruyacağız ve kullanacağız.
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please [contact us](https://support.pyronome.com/contact).
+Avrupa Ekonomik Alanı'nda (EEA) ikamet ediyorsanız, belirli veri koruma haklarına sahipsiniz. Kaydını tuttuğumuz kişisel bilgilerinizden haberdar olmak ve bu bilgilerin sistemlerimizden kaldırılmasını istiyorsanız, lütfen [bize ulaşın](https://support.pyronome.com/iletisim).
 
-In certain circumstances, you have the following data protection rights:
+Pyronome web sitesini kullanırken aşağıdaki veri koruma haklarına sahipsiniz:
 
-- The right to access, update or to delete the information we have on you.
-- The right of rectification.
-- The right to object.
-- The right of restriction.
-- The right to data portability
-- The right to withdraw consent
+- Bilgilerinize erişim, bilgilerinize ekleme yapma, düzeltme ve silme hakkı
+- Yanlış belirtilen bilgileri doğruları ile değiştirme hakkı
+- İtiraz hakkı
+- Kısıtlama hakkı
+- Veri taşınabilirliği hakkı
+- Onayı geri çekme hakkı
 
 ### İşlem Kayıt Dosyaları
 
-Pyronome follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+Pyronome, işlem kayıtlarını kullanma konusunda standart bir prosedür izler. Bu kayıtlar, ziyaretçileri, web sitelerini ziyaret ettiklerinde, günlüğe kaydeder. Tüm barındırma şirketleri, bu kayıtları, hizmet analizlerinin bir parçası yapar. İşlem kayıtları tarafından toplanan bilgiler arasında internet protokolü (IP) adresleri, tarayıcı türü, internet hizmet sağlayıcısı (İHS), tarih ve saat damgası, yönlendirme / çıkış sayfaları ve muhtemelen tıklama sayısı bulunur. Bunlar kişisel olarak tanımlanabilir herhangi bir bilgi ile bağlantılı değildir. Bilgilerin amacı eğilimleri analiz etmek, siteyi yönetmek, kullanıcıların web sitesindeki hareketlerini izlemek ve demografik bilgi toplamaktır.
 
 ### Çerezler ve Web İşaretçileri
 
-Like any other website, Pyronome uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+Diğer tüm web siteleri gibi Pyronome da "çerezleri" kullanır. Bu çerezler, ziyaretçilerin tercihlerini ve ziyaretçilerin eriştiği veya ziyaret ettiği web sitesindeki sayfaları içeren bilgileri depolamak için kullanılır. Bilgiler, web sayfası içeriğimizi ziyaretçilerin tarayıcı türüne ve/veya diğer bilgilere göre özelleştirerek kullanıcıların deneyimini optimize etmek için kullanılır.
+
+Daha detaylı bilgi için [Çerez Politikası](/latest/tr/yasal-cerez-politikasi) sayfasını ziyaret edebilirsiniz.
 
 ### Reklam Ortaklarımız
 
-Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+Sitemizdeki bazı reklamverenler çerezleri ve web işaretçilerini kullanabilir. Reklam ortaklarımız aşağıda listelenmiştir. Reklam ortaklarımızın her birinin kullanıcı verilerine ilişkin politikaları için kendi Gizlilik Politikası koşulları gözden geçirilebilir. Daha kolay erişim için aşağıdaki Gizlilik Politikası bağlantılarını kullanabilirsiniz:
 
 - Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
 ### Gizlilik Politikaları
 
-You may consult this list to find the Privacy Policy for each of the advertising partners of Pyronome.
+Pyronome'un reklam ortaklarının her birine ait Gizlilik Politikası'na ulaşmak için aşağıdaki listeye başvurabilirsiniz:
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Pyronome, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+- Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
-Note that Pyronome has no access to or control over these cookies that are used by third-party advertisers.
+Üçüncü taraf reklam sunucuları veya reklam ağları, Pyronome'da görünen ve doğrudan kullanıcıların tarayıcısına gönderilen ilgili reklamlarında ve bağlantılarında kullanılan çerezler, JavaScript veya web işaretçileri gibi teknolojileri kullanır. Bu teknolojilerle IP adresiniz otomatik olarak alınabilir. Bu teknolojiler, reklam kampanyalarının etkinliğini ölçmek ve/veya ziyaret ettiğiniz web sitelerinde gördüğünüz reklam içeriğini kişiselleştirmek için kullanılır.
+
+Pyronome'un üçüncü taraf reklamverenler tarafından kullanılan çerezlere erişimi veya bu çerezler üzerinde bir kontrolü bulunmamaktadır.
 
 ### Üçüncü Şahıs Gizlilik Politikaları
 
-Pyronome's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+Pyronome'un Gizlilik Politikası diğer reklamverenler veya web siteleri için geçerli değildir. Bu nedenle, daha ayrıntılı bilgi için bu üçüncü taraf reklam sunucularının ilgili gizlilik politikalarına başvurmanızı öneririz. Bazı seçeneklerin nasıl devre dışı bırakılacağıyla ilgili özel uygulamalarını ve talimatlarını üçüncü tarafların kendi gizlilik politikası belgelerinde bulabilirsiniz. Bu gizlilik politikalarının ve bağlantılarının tam bir listesini burada bulabilirsiniz:
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+- Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
+Tek tek tarayıcı seçeneklerinizden çerezleri devre dışı bırakmayı seçebilirsiniz. Belirli web tarayıcılarıyla çerez yönetimi hakkında daha ayrıntılı bilgi edinmek için, tarayıcıların ilgili web sitelerinde "Çerez Nedir?" başlığına başvurabilirsiniz.
 
 ### Yetişkin Olmayan Bireylere Ait Bilgiler
 
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+Ana önceliklerimizden biri de interneti kullanırken çocukların korunmasıdır. Ebeveynleri ve velileri, yetişkin olmayan bireylerin, çevrimiçi etkinliklerini gözlemlemeye, katılmaya, izlemeye ve yönlendirmeye teşvik ediyoruz.
 
-Pyronome does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Pyronome, 13 yaşın altındaki çocuklardan bilerek herhangi bir kişisel tanımlanabilir bilgi toplamaz. Çocuğunuzun web sitemize bu tür bilgileri sağladığını düşünüyorsanız, hemen bizimle iletişime geçmenizi şiddetle tavsiye ederiz. Hassas verilerin web sitemizden derhal kaldırılması için gerekli özen tarafımızca gösterilecektir.
 
 ### Gizlilik İlkelerinin Çevrimiçi Kapsamı
 
-Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Pyronome. This policy is not applicable to any information collected offline or via channels other than this website.
+Gizlilik Politikası koşullarımız yalnızca çevrimiçi etkinliklerimiz için geçerlidir ve Pyronome'da paylaştıkları ve/veya topladıkları bilgilerle ilgili olarak web sitemizi ziyaret edenler için geçerlidir. Bu politika, çevrimdışı olarak veya bu web sitesi dışındaki kanallar aracılığıyla toplanan hiçbir bilgi için geçerli değildir.
 
 ### Onay
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+Web sitemizi kullanarak, Gizlilik Politikası koşullarını kabul etmiş olursunuz.

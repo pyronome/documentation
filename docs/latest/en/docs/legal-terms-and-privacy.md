@@ -126,6 +126,8 @@ Pyronome follows a standard procedure of using log files. These files log visito
 
 Like any other website, Pyronome uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
+For further information, you can visit [Cookie Policy](/latest/en/legal-cookie-policy) page. 
+
 ### Our Advertising Partners
 
 Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
@@ -136,15 +138,19 @@ Some of advertisers on our site may use cookies and web beacons. Our advertising
 
 You may consult this list to find the Privacy Policy for each of the advertising partners of Pyronome.
 
+- Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
 Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Pyronome, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
 Note that Pyronome has no access to or control over these cookies that are used by third-party advertisers.
 
 ### Third Party Privacy Policies
 
-Pyronome's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+Pyronome's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here:
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+- Google: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
 ### Children's Information
 
