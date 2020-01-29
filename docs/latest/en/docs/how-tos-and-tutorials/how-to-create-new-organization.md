@@ -1,3 +1,0 @@
-# How to Create a New Organization
-
-Text goes here...

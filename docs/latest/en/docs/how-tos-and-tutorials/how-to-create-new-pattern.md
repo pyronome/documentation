@@ -1,3 +1,0 @@
-# How to Create a New Pattern
-
-Text goes here...

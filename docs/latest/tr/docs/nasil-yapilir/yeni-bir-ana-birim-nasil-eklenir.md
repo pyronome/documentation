@@ -1,3 +1,0 @@
-# Yeni Bir Ana Birim Nasıl Oluşturulur
-
-Text goes here...

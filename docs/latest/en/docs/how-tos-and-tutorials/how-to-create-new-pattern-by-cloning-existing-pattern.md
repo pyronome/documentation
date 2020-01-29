@@ -1,3 +1,0 @@
-# How to Create a New Pattern By Cloning an Existing Pattern
-
-Text goes here...

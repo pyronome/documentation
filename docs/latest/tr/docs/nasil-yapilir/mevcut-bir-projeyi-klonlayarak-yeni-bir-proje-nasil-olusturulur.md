@@ -1,3 +1,0 @@
-# Mevcut Bir Projeyi Klonlayarak Yeni Bir Proje Nasıl Oluşturulur
-
-Text goes here...
