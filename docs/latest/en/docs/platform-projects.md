@@ -250,21 +250,30 @@ Below is a list of specific identifiers that can be used in the commit messages:
 
 | Identifier | Description |
 | ------ | ------ |
+| `{{current_date}}` | This identifier holds the current date, based on user timezone. E.g. `20200516` |
+| `{{current_datetime}}` | This identifier holds the current date and time, based on user timezone. E.g. `20200516235959` |
+| `{{current_datetime_formatted}}` | This identifier holds the formatted current date and time, based on user language settings. E.g. `16.05.2020 23:59` |
+| `{{current_day}}` | This identifier holds the current day as integer, based on user timezone. E.g. `16` |
+| `{{current_hour}}` | This identifier holds the current hour as integer, based on user timezone. E.g. `23` |
+| `{{current_minute}}` | This identifier holds the current minute as integer, based on user timezone. E.g. `59` |
+| `{{current_month}}` | This identifier holds the current month as integer, based on user timezone. E.g. `05` |
+| `{{current_time}}` | This identifier holds the current time, based on user timezone. E.g. `235959` |
+| `{{current_year}}` | This identifier holds the current year as 4-digit integer, based on user timezone. E.g. `2020` |
+| `{{project_active_version}}` | This identifier holds the active version of the project. |
+| `{{project_guid}}` | This identifier holds the global unique id of the project. This identifier, unlike `{{project_id}}`, is unique to each element within the platform. |
+| `{{project_id}}` | This identifier holds the unique integer id of the project. |
+| `{{project_main_directory}}` | This identifier holds the main directory of the project. |
+| `{{project_name}}` | This identifier holds the name of the project. |
+| `{{project_path}}` | This identifier holds the namespace of the project. |
+| `{{project_short_description}}` | This identifier holds the short description of the project. |
+| `{{project_sub_directory}}` | This identifier holds the subdirectory of the project. |
+| `{{project_title}}` | This identifier holds the title of the project. |
 | `{{server_host}}` | This identifier holds the address of the server where the repository is located. |
 | `{{server_name}}` | This identifier holds the name of the server where the repository is located. |
-| `{{project_id}}` | This identifier holds the unique integer id of the project. |
-| `{{project_guid}}` | This identifier holds the global unique id of the project. This identifier, unlike `{{project_id}}`, is unique to each element within the platform. |
-| `{{project_name}}` | This identifier holds the name of the project. |
-| `{{project_title}}` | This identifier holds the title of the project. |
-| `{{project_short_description}}` | This identifier holds the short description of the project. |
-| `{{project_active_version}}` | This identifier holds the active version of the project. |
-| `{{project_path}}` | This identifier holds the namespace of the project. |
-| `{{project_main_directory}}` | This identifier holds the main directory of the project. |
-| `{{project_sub_directory}}` | This identifier holds the subdirectory of the project. |
-| `{{user_id}}` | This identifier holds the unique integer id of the user. |
-| `{{user_guid}}` | This identifier holds the global unique id of the user. |
-| `{{user_name}}` | This identifier holds the name of the user. |
 | `{{user_full_name}}` | This identifier holds the full name of the user. |
+| `{{user_guid}}` | This identifier holds the global unique id of the user. |
+| `{{user_id}}` | This identifier holds the unique integer id of the user. |
+| `{{user_name}}` | This identifier holds the name of the user. |
 
 ### Webhooks Page
 You can automate your software development processes by creating webhooks attached to the source code generation, server deployment, and repository push events.

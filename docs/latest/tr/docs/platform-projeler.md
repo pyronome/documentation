@@ -255,21 +255,30 @@ Aşağıda işlem notunda kullanılabilecek özel tanımlayıcıların listesini
 
 | Tanımlayıcı | Açıklama |
 | ------ | ------ |
+| `{{current_date}}` | Kullanıcı zaman dilimine göre mevcut tarihi belirtir. Örn. `20200516` |
+| `{{current_datetime}}` | Kullanıcı zaman dilimine göre mevcut tarihi ve saati belirtir. Örn. `20200516235959` |
+| `{{current_datetime_formatted}}` | Kullanıcı dil ayarlarına göre biçimlendirilmiş mevcut tarih ve saati belirtir. Örn. `16.05.2020 23:59` |
+| `{{current_day}}` | Kullanıcı zaman dilimine göre mevcut günü tamsayı olarak belirtir. Örn. `16` |
+| `{{current_hour}}` | Kullanıcı zaman dilimine göre mevcut saati tamsayı olarak belirtir. Örn. `23` |
+| `{{current_minute}}` | Kullanıcı zaman dilimine göre mevcut dakikayı tamsayı olarak belirtir. Örn. `59` |
+| `{{current_month}}` | Kullanıcı zaman dilimine göre mevcut ayı tamsayı olarak belirtir. Örn. `05` |
+| `{{current_time}}` | Kullanıcı zaman dilimine göre mevcut zamanı belirtir. Örn. `235959` |
+| `{{current_year}}` | Kullanıcı zaman dilimine göre mevcut yılı 4 basamaklı tamsayı olarak belirtir. Örn. `2020` |
+| `{{project_active_version}}` | Projenin etkin sürümünü belirtir. |
+| `{{project_guid}}` | Kod yükleme işlemi yapılan projeye ait rakam ve harflerden oluşan tekil tanımlayıcıdır. Bu tanımlayıcı `{{project_id}}` aksine, platform içinde her eleman için benzersiz olma niteliğine sahiptir. |
+| `{{project_id}}` | Kod yükleme işlemi yapılan projeye ait tamsayı tekil tanımlayıcıdır. |
+| `{{project_main_directory}}` | Projenin ana dizin adını belirtir. |
+| `{{project_name}}` | Projenin adını belirtir. |
+| `{{project_path}}` | Projenin ad uzayını belirtir. |
+| `{{project_short_description}}` | Projenin kısa açıklamasını belirtir. |
+| `{{project_sub_directory}}` | Projenin alt dizin adını belirtir. |
+| `{{project_title}}` | Projenin başlığını belirtir. |
 | `{{server_host}}` | Kod deposunun bulunduğu sunucunun adresini belirtir. |
 | `{{server_name}}` | Kod deposunun bulunduğu sunucunun adını belirtir. |
-| `{{project_id}}` | Kod yükleme işlemi yapılan projeye ait tamsayı tekil tanımlayıcıdır. |
-| `{{project_guid}}` | Kod yükleme işlemi yapılan projeye ait rakam ve harflerden oluşan tekil tanımlayıcıdır. Bu tanımlayıcı `{{project_id}}` aksine, platform içinde her eleman için benzersiz olma niteliğine sahiptir. |
-| `{{project_name}}` | Projenin adını belirtir. |
-| `{{project_title}}` | Projenin başlığını belirtir. |
-| `{{project_short_description}}` | Projenin kısa açıklamasını belirtir. |
-| `{{project_active_version}}` | Projenin etkin sürümünü belirtir. |
-| `{{project_path}}` | Projenin ad uzayını belirtir. |
-| `{{project_main_directory}}` | Projenin ana dizin adını belirtir. |
-| `{{project_sub_directory}}` | Projenin alt dizin adını belirtir. |
-| `{{user_id}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tamsayı tekil tanımlayıcıdır. |
-| `{{user_guid}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait rakam ve harflerden oluşan benzersiz tekil tanımlayıcıdır. |
-| `{{user_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait kullanıcı adını belirtir. |
 | `{{user_full_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tam adı belirtir. |
+| `{{user_guid}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait rakam ve harflerden oluşan benzersiz tekil tanımlayıcıdır. |
+| `{{user_id}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait tamsayı tekil tanımlayıcıdır. |
+| `{{user_name}}` | Kod yükleme işlemini yapan Pyronome kullanıcısına ait kullanıcı adını belirtir. |
 
 ### Web İstekleri Sayfası
 Projenin kaynak kod üretim, sunucu konuşlandırma ve kod depolarına ittirme işlemlerinden sonra web istekleri yapılmasını sağlayarak yazılım geliştirme süreçlerinizi otomatikleştirebilirsiniz.
