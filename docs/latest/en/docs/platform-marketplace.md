@@ -9,7 +9,7 @@ The catalog that lists the patterns that we can install to our projects is calle
 
 Description about **"Popular"** filters used for patterns are as follows:
 
-| Filtre Türü | Description |
+| Filter Type | Description |
 | ------ | ------ |
 | Free | This filter lists **FREE** patterns. |
 | Stable | This filter lists the patterns that have at least one **"Stable"** version. |
