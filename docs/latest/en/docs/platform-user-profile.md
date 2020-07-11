@@ -80,4 +80,4 @@ You can press **"New Access Token"** button to add a access token.
 | Enabled | This field indicates whether the access token is enabled or not. You cannot use disabled access tokens to access your platform assets. |
 | Title | This field specifies the title of the access token.<br><br>`Required` |
 
-You can press the **GENERATE TOKEN** button to add and display the access token.
+You can press the **"GENERATE TOKEN"** button to add and display the access token.
