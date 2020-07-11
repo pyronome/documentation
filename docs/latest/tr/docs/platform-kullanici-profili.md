@@ -23,6 +23,7 @@ Profiliniz ile ilgili bilgileri bu bölümden düzenleyebilirsiniz.
 | E-posta Adresi | E-posta adresinizi girebileceğiniz bölümdür. |
 | Açıklama | Profiliniz ile ilgili açıklama girebileceğiniz form alanıdır. Bu alana girilen metin profil sayfasında gösterilmektedir. |
 | Arayüz Dili | Formlar, form alanları ve sayfaların gösterim dilini belirtmektedir. |
+| Zaman Dilimi | Bulunduğunuz zaman dilimini belirtir. Tarih ve saat değerleri bulunduğunuz zaman dilimine göre gösterilmektedir. |
 | Profil Resmi | Profil resminizi girebileceğiniz form alanıdır. |
 
 <div class="panelize-infobox infobox-warning">
@@ -61,3 +62,23 @@ Kullanıcı şifrenizi bu bölümden değiştirebilirsiniz. Kullanıcı şifreni
         <li>En az sekiz karakter uzunluğunda olmalıdır.</li>
     </ul></p>
 </div>
+
+## Erişim Anahtarları Sayfası
+Bir uygulama programlama arabirimi (API), komut satırı arabirimi (CLI) ve/veya 3. parti araçlar aracılığıyla platform varlıklarınıza güvenli bir biçimde erişmek için erişim anahtarları oluşturabilirsiniz.
+
+| Tablo Alanı | Açıklama |
+| ------ | ------ |
+| Oluşturma | Erişim anahtarının oluşturulduğu tarih ve zamanı belirtir. |
+| Başlık | Erişim anahtarı başlığını gösterir. |
+| Anahtar | Erişim anahtarının başlangıç bölümünü gösterir. Erişim anahtarı sadece ilk oluşturulurken tam olarak görüntülenebilir. Güvenlik sebebiyle daha sonra tam hali görüntülenemez. |
+| Etkin | Erişim anahtarının etkin olup olmadığını gösterir. Etkin olmayan erişim anahtarları ile erişim sağlanamaz. |
+| <i class="fas fa-trash-alt"></i> Silme Düğmesi | Erişim anahtarının silinmesi için kullanılan düğmedir. |
+
+Erişim için kullanılacak yeni bir erişim anahtarı eklemek için **"Yeni Erişim Anahtarı"** düğmesine basabilirsiniz.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Erişim anahtarının etkin olup olmadığını gösterir. Etkin olmayan erişim anahtarları ile erişim sağlanamaz. |
+| Başlık | Erişim anahtarı başlığını gösterir. <br><br>`Gerekli` |
+
+Başlığını ve durumunu -etkin/etkin değil- belirlediğiniz erişim anahtarını eklemek ve görüntülemek için  **"ANAHTARI ÜRET"** düğmesine basabilirsiniz.

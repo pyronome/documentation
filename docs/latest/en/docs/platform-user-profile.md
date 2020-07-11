@@ -22,6 +22,7 @@ You can edit your profile information using this page.
 | E-mail Address | You can enter your e-mail address in this field. |
 | Description | You can enter a description of your profile in this field. The text entered in this field is shown on the profile page. |
 | Preferred Language | You can choose the display language of the form fields and pages using this field. |
+| Preferred Timezone | You can choose your timezone. Date and time values ​​are shown according to the timezone you chose. |
 | Profile Picture | You can upload the your profile logo in this field. |
 
 <div class="panelize-infobox infobox-warning">
@@ -60,3 +61,23 @@ You can change your user password in this section. To change your user password,
         <li>It must be at least eight characters long.</li>
     </ul></p>
 </div>
+
+## Access Tokens Page
+You can create access tokens to access securely to your platform assets through an application programming interface (API), command-line interface (CLI), and 3rd party tools.
+
+| Table Field | Description |
+| ------ | ------ |
+| Creation | This field shows the creation date of the access token. |
+| Title | This field shows the title of the access token. |
+| Token | This field shows the starting part of the access token. The access token can only be displayed fully when first created. For security reasons, the full version of the access tokens cannot be viewed later. |
+| Enabled | This field indicates whether the access token is enabled or not. You cannot use disabled access tokens to access your platform assets. |
+| <i class="fas fa-trash-alt"></i> Delete Button | You can use this button to delete a specific access token. |
+
+You can press **"New Access Token"** button to add a access token.
+
+| Form Field | Description |
+| ------ | ------ |
+| Enabled | This field indicates whether the access token is enabled or not. You cannot use disabled access tokens to access your platform assets. |
+| Title | This field specifies the title of the access token.<br><br>`Required` |
+
+You can press the **GENERATE TOKEN** button to add and display the access token.
