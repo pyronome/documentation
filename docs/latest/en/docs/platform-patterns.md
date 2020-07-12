@@ -90,10 +90,44 @@ One of the most important components of a pattern is templates. The templates ar
 | ------ | ------ |
 | <i class="fas fa-history"></i> Commit History | When you update the template model, a copy of the template model is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the template model update process, a validation check is performed on whether the model satisfies the validation conditions. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| <i class="fab fa-git-alt"></i> Repository | In some cases, it may be useful to store templates as files and update these files in a code repository. By clicking this button, you can specify a repository for the template files. |
+| Pull & Compile! | If you specify a repository and it is enabled, click this button to pull and compile the template files. If a repository is not specified or not enabled, only compile operation is performed by clicking this button. |
 | Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
 | <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the template model content, so you can only expand fields, you want to edit. |
 | <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the template model in JSON syntax. |
+| <i class="fas fa-file-download"></i> Download | You can click this link to download the template files saved in the system. |
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
+    </p>
+    <p>If you have specified a repository and it is enabled, you can not modify the templates through the interface. All modification operations can be carried out via the repository.</p>
+</div>
+
+<div class="panelize-infobox infobox-info">
+    <p>
+        <strong><i class="fas fa-info-circle"></i> Note:</strong>
+    </p>
+    <p>Only the reading operation is done from the repository specified for the templates. No file is uploaded to the specified repository.</p>
+</div>
+
+You can press the **"<i class="fab fa-git-alt"></i> Repository"** button to specify a repository for the templates.
+
+| Form Field | Description |
+| ------ | ------ |
+| Enabled | This field indicates whether the repository is enabled or not. Pull operation is not performed on disabled repositories. |
+| Authenticate using HTTPS | This field specifies the method of authentication. If you check this option, authentication will be performed over HTTPS. |
+| Authenticate using SSH | This field specifies the method of authentication. If you check this option, authentication will be performed over SSH. |
+| E-mail Address | This field specifies the e-mail address of the user who has access to the repository. |
+| User Name | This field specifies the user name of the user who has access to the repository. |
+| HTTPS URL | This field is displayed when you check the **"Authenticate using HTTPS"** option. Specifies the HTTPS address.<br><br>`Required` |
+| HTTPS Password | This field is displayed when you check the **"Authenticate using HTTPS"** option. Specifies the password will be used to connect over HTTPS. |
+| SSH Host | This field is displayed when you check the **"Authenticate using SSH"**. Specifies the SSH address.<br><br>`Required` |
+| Generate SSH Keypair | This field is displayed when you check the **"Authenticate using SSH"**. An SSH key pair is automatically generated each time you create a new repository over SSH authentication. You can select this option if you want to recreate the key pair for an existing repository. |
+| Branch Name | This field specifies the branch name of the repository that will hold the generated source code. If the specified branch does not exist, pull operation could not be performed.<br><br>`Required` |
+| Template Folder | This field indicates the template directory that holds template files. |
+| Auto-pull before compile operation | The templates files are automatically pulled from the specified repository before each compile operation if you check this checkbox. If this checkbox is not checked, you should click **"Check & Compile!"** button each time you need to pull template files from the repository. |
 
 ### Variables Page
 More than one pattern can be installed on a single project. The source code generation process for these patterns is performed separately. Also, source code generation can be performed by parallel processing. In some cases, you need to define global variables that are available entire source code generation process. In this case, with the help of this section, you can define global variables.
