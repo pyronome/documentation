@@ -92,10 +92,19 @@ Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar m
 | ------ | ------ |
 | <i class="fas fa-history"></i> Güncelleme Geçmişi | Şablon modelinin güncelleme işlemi yapıldığında modelin bir kopyası tarayıcınızın yerel hafızasına da kaydedilir. Böylelikle önceden yapmış olduğunuz bir güncellemeyi geri yükleyebilirsiniz. |
 | <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Doğrulama Sonucu | Şablon model güncelleme işlemi sırasında modelin ön-tanımlı ölçütlerine uyup uymadığı kontrol edilir. Uyumsuz bölümler işaretlenir ve kullanıcıya gösterilir. **"Doğrulama Sonucu"** düğmesine basıldığında tüm hata, uyarı ve bilgi mesajlarının listelendiği pencere gösterilir. |
+| <i class="fab fa-git-alt"></i> Kod Deposu | Bazı durumlarda şablonları dosya olarak geliştirmek ve bir kod deposunda tutmak yararlı olabilir. Bu düğmeye basıldığında açılan form üzerinde şablonların tutulduğu kod deposu bilgileri belirlenebilmektedir. |
+| Çek & Derle! | Bu düğmeye basıldığında, bir kod deposu belirtilmişse; bu kod deposundan şablonlar çekildikten sonra kalıp derlenir. Eğer bir kod deposu belirtilmemişse; sadece derleme işlemi gerçekleştirilir. |
 | Arama Bölümü | Şablon model içeriğinde belirtilen değerlerin ve model alanlarının aranabildiği bölümdür. Bu bölümde **Kurallı İfadeler (Regular Expression)** sözdizimi içeren arama cümleleri de belirtebilirsiniz. |
 | <i class="fas fa-minus-square"></i> Hepsini Daralt | Şablon modeli içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
 | <i class="fas fa-plus-square"></i> Hepsini Genişlet | Şablon modeli içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
 | <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Şablon modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Kod deposu bilgileri eklenmiş ve kod deposu etkinleştirilmişse; şablon düzenleme işlemi arayüz üzerinden gerçekleştirilemez. Bütün işlemler kod deposu üzerinden gerçekleştirilebilmektedir.</p>
+</div>
 
 ### Değişkenler Sayfası
 Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu kalıplar için kaynak kod üretim işlemi birbirinden ayrı işletilmektedir. Bununla birlikte kaynak kod üretimi paralel işleme ile de gerçekleştirilebilir. Bu gibi durumlarda genel değişken tanımları yapılıp bu değişken tanımlarının bütün kaynak kod üretim sürecinde tanımlı kalmasını bu bölümü kullanarak sağlayabilirsiniz.
