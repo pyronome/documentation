@@ -107,9 +107,9 @@ Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar m
     <p>Şablonlar için kod deposu bilgileri eklenmiş ve kod deposu etkinleştirilmişse; şablon düzenleme işlemi arayüz üzerinden gerçekleştirilemez. Bütün işlemler kod deposu üzerinden gerçekleştirilebilmektedir.</p>
 </div>
 
-<div class="panelize-infobox infobox-warning">
+<div class="panelize-infobox infobox-info">
     <p>
-        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+        <strong><i class="fas fa-info-circle"></i> Not:</strong>
     </p>
     <p>Şablonlar için belirlenen kod deposundan sadece okuma işlemi yapılır. Belirtilen kod deposuna herhangi bir dosya yüklemesi yapılmaz.</p>
 </div>
