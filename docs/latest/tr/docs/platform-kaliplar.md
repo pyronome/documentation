@@ -98,13 +98,38 @@ Kalıpların en önemli bileşenlerinden bir tanesi şablonlardır. Şablonlar m
 | <i class="fas fa-minus-square"></i> Hepsini Daralt | Şablon modeli içeriğinde dizilerin tümünü daraltır, böylelikle sadece düzenlenecek bölümdeki alanları genişletebilirsiniz. |
 | <i class="fas fa-plus-square"></i> Hepsini Genişlet | Şablon modeli içeriğinde önceden daraltılmış dizilerin hepsini genişletir. |
 | <i class="fab fa-js-square"></i> JSON Olarak Düzenle | Şablon modeli JSON sözdiziminde düzenlemek için bu bağlantıya tıklayabilirsiniz. |
+| <i class="fas fa-file-download"></i> İndir | Sistemde kayıtlı olan şablon dosyalarını indirmek için bu bağlantıya tıklayabilirsiniz. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
         <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
     </p>
-    <p>Kod deposu bilgileri eklenmiş ve kod deposu etkinleştirilmişse; şablon düzenleme işlemi arayüz üzerinden gerçekleştirilemez. Bütün işlemler kod deposu üzerinden gerçekleştirilebilmektedir.</p>
+    <p>Şablonlar için kod deposu bilgileri eklenmiş ve kod deposu etkinleştirilmişse; şablon düzenleme işlemi arayüz üzerinden gerçekleştirilemez. Bütün işlemler kod deposu üzerinden gerçekleştirilebilmektedir.</p>
 </div>
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Şablonlar için belirlenen kod deposundan sadece okuma işlemi yapılır. Belirtilen kod deposuna herhangi bir dosya yüklemesi yapılmaz.</p>
+</div>
+
+Şablonlar için kod deposu belirlemek için **"<i class="fab fa-git-alt"></i> Kod Deposu"** düğmesine basabilirsiniz.
+
+| Form Alanı | Açıklama |
+| ------ | ------ |
+| Etkin | Kod deposunun etkin olup olmadığını gösterir. Etkin olmayan kod depolarından herhangi bir dosya çekme işlemi yapılmaz. |
+| HTTPS Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse HTTPS üzerinden kimlik doğrulaması yapılacaktır. |
+| SSH Kullanarak Kimlik Doğrulama | Kimlik doğrulama işleminin hangi metotla yapılacağını belirten alandır. Bu alan işaretlenirse SSH üzerinden kimlik doğrulaması yapılacaktır. |
+| E-posta Adresi | Kod deposuna erişim yetkisi olan kullanıcının e-posta adresini belirtmektedir. |
+| Kullanıcı Adı | Kod deposuna erişim yetkisi olan kullanıcının kullanıcı adını belirtmektedir. |
+| HTTPS URL | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
+| HTTPS Şifre | **"HTTPS Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. HTTPS bağlantısı yaparken kullanılacak şifreyi belirtir. |
+| SSH Adresi | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. SSH bağlantısı yapılacak adresi belirtir.<br><br>`Gerekli` |
+| SSH Doğrulama Anahtar Çiftini Üret | **"SSH Kullanarak Kimlik Doğrulama"** seçeneği işaretlendiğinde gösterilmektedir. Her yeni SSH kimlik doğrulaması yapacak kod deposu kaydı eklendiğinde otomatik olarak SSH anahtar çifti oluşturulur. Mevcut bir kod deposu için anahtar çiftini tekrar üretmek isterseniz bu seçeneği işaretleyebilirsiniz. |
+| Dal Adı (Branch) | Şablonların hangi daldan (branch) çekileceğini belirten alandır. Eğer kod deposunda belirtilen dal bulunmuyorsa, şablonlar çekilemez.<br><br>`Gerekli` |
+| Şablon Dizini | Şablon dosyalarının hangi dizinde olduğunu belirten alandır. |
+| Derleme işleminden önce kodları çek | Eğer bu seçenek işaretlenirse; her derleme işleminden önce belirtilen etkin kod deposundan dosya çekme işlemi gerçekleştirilir. Eğer bu işaret seçilmemişse; şablon dosyalarının kod deposundan çekilebilmesi için **"Çek & Derle!"** düğmesine basılması gerekmektedir. |
 
 ### Değişkenler Sayfası
 Bir projenin kaynak kod üretim aşamasında birden fazla kalıp eklenebilir. Bu kalıplar için kaynak kod üretim işlemi birbirinden ayrı işletilmektedir. Bununla birlikte kaynak kod üretimi paralel işleme ile de gerçekleştirilebilir. Bu gibi durumlarda genel değişken tanımları yapılıp bu değişken tanımlarının bütün kaynak kod üretim sürecinde tanımlı kalmasını bu bölümü kullanarak sağlayabilirsiniz.
