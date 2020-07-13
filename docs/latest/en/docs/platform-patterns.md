@@ -237,15 +237,30 @@ Using this section, you can update the information about the Marketplace page of
 | Title | This field specifies the title of the pattern.<br><br>`Required` and `Unique` |
 | Short Description | This field specifies a one-sentence description of the pattern.<br><br>`Required` |
 | Category | This field specifies the category under which the pattern will be listed.<br><br>`Required` |
+| List as Project Template | When you select this option, the pattern is listed as a project application template on the new project page. |
 | Description | This field specifies the description of the pattern. |
 | Keywords | Keywords that will be used when any search is performed on the Marketplace.<br><br>`Required` |
 | Web URL | This field specifies the web URL of the pattern. |
-| Destek URL | This field specifies the support address available to the pattern users. You can enter GitHub, GitLab, BitBucket, etc. **"Issues"** page addresses of the pattern repository to this field. |
-| Kod Deposu URL | This field specifies the repository URL of the pattern. |
+| Support URL | This field specifies the support address available to the pattern users. You can enter GitHub, GitLab, BitBucket, etc. **"Issues"** page addresses of the pattern repository to this field. |
+| Repository URL | This field specifies the repository URL of the pattern. |
 | README.md URL (README Tab) | **"README"** tab shows the content of the README.md file entered to this field on the Marketplace pattern page. |
 | Licensing | This field specifies the usage terms and license of the pattern. |
 | Pricing | This field specifies the pricing strategy of the pattern. |
-| Fixed Price (USD) | This field shows when you choose **"Fixed Price"** as pricing. You can enter the price of the pattern in USD currency. |
+| Free | You should check this option for providing your pattern for free. |
+| Fixed Price | You should check this option to specify a fixed price for the pattern. |
+| Bundle Pricing | You should check this option to combine multiple patterns and specify a single price. |
+| Price Per User (USD)  | This field is displayed when **"Fixed Price"** is selected. Two different pricing models are applied for patterns: **"Price Per User"** and **"Price Per Project"**. **"Price Per Project"** pricing indicates the usage price of the pattern in only one project; **"Price Per User"** pricing indicates the usage price in all projects and user patterns. **"Price Per Project"** price is suggested to be one-fifth of the **"Price Per User"**. |
+| Enable Price Per Project | This field is displayed when **"Fixed Price"** is selected. You should check this option if you would like to provide **"Price Per Project"** pricing in addition to **"Price Per User"** for the pattern. |
+| Price Per Project (USD) | This field is displayed when **"Enable Price Per Project"** is selected. You can specify **"Price Per Project"** using this field. |
+| Discount on Price Per User | This field is displayed when **"Bundle Pricing"** is selected. You can specify the discount to be applied to the bundled patterns' **"Price Per User"** total price. You can enter a percentage or an exact amount in this field. |
+| Enable Discount on Price Per Project | This field is displayed when **"Bundle Pricing"** is selected. You can specify **"Price Per Project"** discounts for the bundled pattern by selecting this option. |
+| Discount on Price Per Project | This field is displayed when **"Enable Discount on Price Per Project"** is selected. You can specify the discount to be applied to the bundled patterns' **"Price Per Project"** total price. You can enter a percentage or an exact amount in this field. |
+| Discount | This field is displayed when **"Fixed Price"** or **"Bundle Pricing"** is selected. You can specify the discount to be applied to the pattern using this field. |
+| Enable Discount | This field is displayed when **"Fixed Price"** or **"Bundle Pricing"** is selected. You can check this option to specify the discount to be applied to the pattern. |
+| Enable Discount on Price Per User (Discount Section) | This field is displayed when **"Enable Discount"** is selected. You can check this option to specify the discount to be applied on **"Price Per User"**. |
+| Enable Discount on Price Per Project (Discount Section) | This field is displayed when **"Enable Discount"** is selected. You can check this option to specify the discount to be applied on **"Price Per Project"**. |
+| Discount on Price Per User (Discount Section) | This field is displayed when **"Enable Discount on Price Per User"** in Discount Section is selected. You can specify the discount to be applied to the pattern **"Price Per User"** price. You can enter a percentage or an exact amount in this field. |
+| Discount on Price Per Project (Discount Section) | This field is displayed when **"Enable Discount on Price Per Project"** in Discount Section is selected. You can specify the discount to be applied to the pattern **"Price Per Project"** price. You can enter a percentage or an exact amount in this field. |
 | Image Gallery | You can upload up to 10 some images, screenshots, etc. of the pattern in this section. The first image will be considered as a featured image. |
 | First Name | This field specifies the first name of the pattern developer. |
 | Last Name | This field specifies the last name of the pattern developer. |
