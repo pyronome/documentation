@@ -274,3 +274,10 @@ Using this section, you can update the information about the Marketplace page of
     </p>
     <p>The URL addresses specified in this section must be publicly accessible.</p>
 </div>
+
+<div class="panelize-infobox infobox-info">
+    <p>
+        <strong><i class="fas fa-info-circle"></i> Note:</strong>
+    </p>
+    <p>In addition to the **"Price Per User"** pricing model, if you would like to provide **"Price Per Project"** pricing model; It is recommended to specify a **"Price Per Project"** is one-fifth of the **"Price Per User"**.</p>
+</div>
