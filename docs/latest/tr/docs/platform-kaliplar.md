@@ -241,6 +241,7 @@ Kalıbın Pazaryeri üzerindeki sayfası ile ilgili bilgilerin güncellendiği b
 | Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
 | Kısa Açıklama | Kalıbı anlatan bir cümlelik tanımıdır.<br><br>`Gerekli` |
 | Kategori | Kalıbın hangi kategori altında listeleneceğini belirtmektedir.<br><br>`Gerekli` |
+| Proje Şablonu Olarak Göster | Bu seçeneği işaretlediğinizde, ilgili kalıp yeni proje ekleme bölümünde proje uygulama şablonu olarak gösterilmektedir. |
 | Açıklama | Kalıp ile ilgili açıklamaların girilebileceği form alanıdır. |
 | Anahtar Kelimeler | Pazaryeri üzerinde herhangi bir arama gerçekleştirildiğinde kullanılacak anahtar kelimelerdir.<br><br>`Gerekli` |
 | Web URL | Kalıbın web sitesi adresini girebileceğiniz alandır. |
@@ -249,7 +250,21 @@ Kalıbın Pazaryeri üzerindeki sayfası ile ilgili bilgilerin güncellendiği b
 | README.md URL (DETAYLAR Sekmesi) | Pazaryeri üzerindeki kalıbın sayfasında **"Detaylar"** sekmesinde gösterilecek **"README.md"** dosyasının adresini belirtmektedir. |
 | Lisanslama | Kalıbın kullanım lisansını belirtmektedir. |
 | Fiyatlama | Kalıbın fiyatının belirlendiği bölümdür. |
-| Sabit Fiyat (USD) | Kalıbın fiyatlama biçimi **"Sabit Fiyat"** olarak seçildiğinde gösterilir. Kalıbın fiyatının USD para biriminde girildiği alandır. |
+| Ücretsiz | Ücretsiz kalıplar için bu seçenek işaretlenmelidir. |
+| Sabit Fiyat | Kalıp için sabit bir fiyat belirlemek için bu seçenek işaretlenmelidir. |
+| Paket Fiyatlaması | Birden fazla kalıp birleştirilip tek bir fiyat belirlemek için bu seçenek işaretlenmelidir. |
+| Kullanıcı Başı Fiyat (USD) | **"Sabit Fiyat"** seçildiğinde gösterilmektedir. Kalıplar için **"Kullanıcı Başı"** ve **"Proje Başı"** olmak üzere iki farklı fiyatlama modeli uygulanmaktadır. **"Proje Başı"** fiyatlama ilgili kalıbın sadece tek bir projede kullanım fiyatını belirtirken; **"Kullanıcı Başı"** fiyatlama ilgili kullanıcının tüm proje ve kalıplarında kullanım fiyatını belirtir. **"Proje Başı"** fiyatın **"Kullanıcı Başı"** fiyatın beşte biri olması önerilmektedir. |
+| Proje Başı Fiyatı Etkinleştir | **"Sabit Fiyat"** seçildiğinde gösterilmektedir. İlgili kalıp için **"Kullanıcı Başı"** fiyatlamaya ek olarak **"Proje Başı"** fiyatlama yapılacaksa bu seçenek işaretlenmelidir. |
+| Proje Başı Fiyat (USD) | **"Proje Başı Fiyatı Etkinleştir"** seçildiğinde gösterilmektedir. Kalıp için **"Proje Başı"** fiyatın belirlendiği bölümdür. |
+| Kullanıcı Başı Fiyatta İndirim | **"Paket Fiyatlaması"** seçildiğinde gösterilmektedir. Paket içeriğindeki kalıpların **"Kullanıcı Başı"** fiyat toplamlarına uygulanacak indirimin kesin değer ya da yüzdelik değer olarak belirtildiği bölümdür. |
+| Proje Başı Fiyatta İndirimi Etkinleştir | **"Paket Fiyatlaması"** seçildiğinde gösterilmektedir. Bu seçenek işaretlenerek paket için **"Proje Başı"** fiyatlama indirimleri belirtilebilir. |
+| Proje Başı Fiyatta İndirim | **"Proje Başı Fiyatta İndirimi Etkinleştir"** seçildiğinde gösterilmektedir. Paket içeriğindeki kalıpların **"Proje Başı"** fiyat toplamlarına uygulanacak indirimin kesin değer ya da yüzdelik değer olarak belirtildiği bölümdür. |
+| İndirim | **"Sabit Fiyat"** veya **"Paket Fiyatlaması"** seçildiğinde gösterilmektedir. Kalıbın fiyatına uygulanacak indirimin belirlendiği bölümdür. |
+| İndirimi Etkinleştir | **"Sabit Fiyat"** veya **"Paket Fiyatlaması"** seçildiğinde gösterilmektedir. Kalıbın fiyatına uygulanacak indirimin belirlendiği bölümdür. |
+| Kullanıcı Başı Fiyatta İndirimi Etkinleştir (İndirim Bölümü) | **"İndirimi Etkinleştir"** bölümü seçildiğinde gösterilmektedir. Bu seçenek işaretlendiğinde kullanıcı başı fiyat için indirim belirlenebilir. |
+| Proje Başı Fiyatta İndirimi Etkinleştir (İndirim Bölümü) | **"İndirimi Etkinleştir"** bölümü seçildiğinde gösterilmektedir. Bu seçenek işaretlendiğinde proje başı fiyat için indirim belirlenebilir. |
+| Kullanıcı Başı Fiyatta İndirim (İndirim Bölümü) | İndirim bölümündeki, **"Kullanıcı Başı Fiyatta İndirimi Etkinleştir"** seçildiğinde gösterilmektedir. Kullanıcı başı fiyata uygulanacak indirimin kesin değer ya da yüzdelik değer olarak belirtildiği bölümdür. |
+| Proje Başı Fiyatta İndirim (İndirim Bölümü) | İndirim bölümündeki, **"Proje Başı Fiyatta İndirimi Etkinleştir"** seçildiğinde gösterilmektedir. Proje başı fiyata uygulanacak indirimin kesin değer ya da yüzdelik değer olarak belirtildiği bölümdür. |
 | Resim Galerisi | Kalıbın ekran görüntüleri, kullanımı ile ilgili görsellerin eklendiği alandır. Bu alanda 10 (on) adet görsele yer verilebilir. Eklenen ilk görsel vitrin görseli olarak seçilir. |
 | Ad | Kalıbın geliştiricisinin adını girebileceğiniz bölümdür. |
 | Soyad | Kalıbın geliştiricisinin soyadını girebileceğiniz bölümdür. |
@@ -262,4 +277,11 @@ Kalıbın Pazaryeri üzerindeki sayfası ile ilgili bilgilerin güncellendiği b
         <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
     </p>
     <p>Bu bölümde belirtilen URL adresleri genel kullanıma açık olmalıdır.</p>
+</div>
+
+<div class="panelize-infobox infobox-info">
+    <p>
+        <strong><i class="fas fa-info-circle"></i> Not:</strong>
+    </p>
+    <p>Kullanıcı başı fiyatlama modeline ek olarak proje başı fiyatlama modeli de desteklenecekse; proje başı fiyatlamanın kullanıcı başı fiyatın beşte biri olması önerilmektedir.</p>
 </div>
