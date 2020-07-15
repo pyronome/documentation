@@ -279,5 +279,5 @@ Using this section, you can update the information about the Marketplace page of
     <p>
         <strong><i class="fas fa-info-circle"></i> Note:</strong>
     </p>
-    <p>In addition to the <strong>Price Per User</strong> pricing model, if you would like to provide <strong>Price Per Project</strong> pricing model; It is recommended to specify a <strong>Price Per Project</strong> is one-fifth of the <strong>Price Per User</strong>.</p>
+    <p>In addition to the <strong>Price Per User</strong> pricing model, if you would like to provide <strong>Price Per Project</strong> pricing model; It is recommended to specify a <strong>Price Per Project</strong>, which is one-fifth of the <strong>Price Per User</strong>.</p>
 </div>
