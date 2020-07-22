@@ -5,7 +5,7 @@ title: Hakkında
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-**Dünyada 2016 yılında yazılım projeleri için 300 milyar dolardan fazla para harcandı. Ancak bu projelerin yalnız %33'u başarıyla tamamlandı. %48'si süre ve bütçe aşımına uğradı. %19'u ise hiç tamamlanamadı. Yani yaklaşık $60 milyar dolar çöpe gitti.**
+**The Standish Group Chaos Report (2017) verilerine göre, dünyada 2016 yılında yazılım projeleri için 300 milyar dolardan fazla para harcandı. Ancak bu projelerin yalnız %33'u başarıyla tamamlandı. %48'si süre ve bütçe aşımına uğradı. %19'u ise hiç tamamlanamadı. (The Standish Report Chaos Report) Yani yaklaşık $60 milyar dolar çöpe gitti.**
 
 **Biz bu büyük kaybın önüne geçilebileceğine inanıyoruz.**
 

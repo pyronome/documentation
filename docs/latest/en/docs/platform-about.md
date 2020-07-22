@@ -5,7 +5,7 @@ title: About
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-**More than $ 300 billion was spent on software projects in the world in 2016. However, only 33% of these projects were completed. 48% have exceeded time and budget. 19% were never completed. So about $ 60 billion went into the trash.**
+**According to The Standish Group Chaos Report (2017), more than $ 300 billion was spent on software projects in the world in 2016. However, only 33% of these projects were completed. 48% have exceeded time and budget. 19% were never completed. So about $ 60 billion went into the trash.**
 
 **We believe that this significant loss can be avoided.**
 
