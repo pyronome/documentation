@@ -5,7 +5,7 @@ title: Hakkında
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-**Dünyada 2016 yılında yazılım projeleri için 300 milyar dolardan fazla para harcandı. Ancak bu projelerin yalnız %29'u başarıyla tamamlandı. %52'si süre ve bütçe aşımına uğradı. %19'u ise hiç tamamlanamadı. Yani yaklaşık $60 milyar dolar çöpe gitti.**
+**Dünyada 2016 yılında yazılım projeleri için 300 milyar dolardan fazla para harcandı. Ancak bu projelerin yalnız %33'u başarıyla tamamlandı. %48'si süre ve bütçe aşımına uğradı. %19'u ise hiç tamamlanamadı. Yani yaklaşık $60 milyar dolar çöpe gitti.**
 
 **Biz bu büyük kaybın önüne geçilebileceğine inanıyoruz.**
 
