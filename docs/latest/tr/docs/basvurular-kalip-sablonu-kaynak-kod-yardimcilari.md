@@ -182,9 +182,9 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 
 | Denetim Yapısı | Açıklama |
 | --- | --- |
-| `{{@if...}}` | "EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `\|\|` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
+| `{{@if...}}` | "EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
 | `{{@else}}` | "DEĞİLSE" denetiminin yapılmasını sağlayan denetim yapısıdır. |
-| `{{@elseif...}}` | "DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `\|\|` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
+| `{{@elseif...}}` | "DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
 | `{{@endif}}` | "EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır. |
 
 **Örnek 1:** `{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
