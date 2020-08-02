@@ -10,7 +10,7 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 
 ### Küresel Değişkenler
 
-| Global Variables | Description |
+| Küresel Değişken | Açıklama |
 | --- | --- |
 | `{{$__globals__/PYRONOME_SHORT_VERSION}}` |  |
 | `{{$__globals__/PYRONOME_VERSION}}` |  |
