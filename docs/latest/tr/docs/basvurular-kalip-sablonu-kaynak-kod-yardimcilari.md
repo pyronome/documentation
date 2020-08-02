@@ -1,7 +1,7 @@
 ---
 id: basvurular-kalip-sablonu-kaynak-kod-yardimcilari
 title: Kalıp Şablonu Kaynak Kod Yardımcıları
-sidebar_label: Şablon Kaynak Kod Yardımcıları
+sidebar_label: Şablon Yardımcıları
 ---
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
@@ -26,7 +26,7 @@ Pyronome sürümünün tam halini tutan küresel değişkendir. `3.1.2+20200430.
 
 Mevcut proje adını tutan küresel değişkendir. `testproject` şeklinde bir değere sahiptir.
 
-##### `{{$__globals__/PYRONOME_PROJECT_CAPTION}}`
+##### `{{$__globals__/PYRONOME_PROJECT_TITLE}}`
 
 Mevcut proje başlığını tutan küresel değişkendir. `Test Project` şeklinde bir değere sahiptir.
 
@@ -74,7 +74,7 @@ Kaynak kod üretim işleminin yapıldığı dakikayı herhangi bir biçimlendirm
 
 Kaynak kod üretim işleminin yapıldığı kalıbın adını tutan küresel değişkendir. `testpattern` şeklinde bir değere sahiptir.
 
-##### `{{$__globals__/PYRONOME_PATTERN_CAPTION}}`
+##### `{{$__globals__/PYRONOME_PATTERN_TITLE}}`
 
 Kaynak kod üretim işleminin yapıldığı kalıbın başlığını tutan küresel değişkendir. `Test Pattern` şeklinde bir değere sahiptir.
 
