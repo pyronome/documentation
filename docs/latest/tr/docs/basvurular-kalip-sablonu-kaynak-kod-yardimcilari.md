@@ -69,6 +69,18 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 
 Yukarıdaki model göz önünde bulundurularak aşağıdaki tabloda elemanlara ait değerlerin kaynak koda aktarılması için kullanılabilecek ifadeler listelenmiştir:
 
+#### `{{$__value__}}`
+
+Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini verir.
+
+Buna ek olarak;
+
+- `{{$__value__/__uppercase_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini büyük harfe çevirerek verir. 
+- `{{$__value__/__lowercase_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini küçük harfe çevirerek verir.
+- `{{$__value__/__md5_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini MD5 metin değerini verir.
+- `{{$__value__/__sha1_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerini verir.
+- `{{$__value__/__sha1_md5_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerinin MD5 metin değerini verir.
+
 | Model Değişkeni | Açıklama |
 | --- | --- |
 | `{{$__value__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini verir. |
