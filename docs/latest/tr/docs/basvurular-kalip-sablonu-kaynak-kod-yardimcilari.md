@@ -1,5 +1,5 @@
 ---
-id: basvuru-kalip-sablonu-kaynak-kod-yardimcilari
+id: basvurular-kalip-sablonu-kaynak-kod-yardimcilari
 title: Kalıp Şablonu Kaynak Kod Yardımcıları
 sidebar_label: Şablon Kaynak Kod Yardımcıları
 ---
