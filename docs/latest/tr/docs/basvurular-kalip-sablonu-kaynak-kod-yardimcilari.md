@@ -66,7 +66,7 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 
 ### Kalıp Değişkenleri
 
-[Platform Kalıplar Değişkenler Sayfası](/latest/tr/docs/platform-kaliplar/#değişkenler-sayfası) bölümünde detayları belirtilen, kalıplar arası bilgi transferi için kullanılan değişken değerlerinin kaynak koda aktarılması gerekli olabilir. Bu değişkenleri `{{$__variables__/` ön takısı ile kaynak koda aktarabiliriz.
+[Platform Kalıplar Değişkenler Sayfası](/latest/tr/docs/platform-kaliplar/#değişkenler-sayfası) bölümünde detayları belirtilen, kalıplar arası bilgi transferi için kullanılan değişken değerlerinin kaynak koda aktarılması gerekli olabilir. Bu değişkenleri `{{$__variables__/` ön takısı ile kaynak koda aktarabilirsiniz.
 
 **Örneğin;**
 
@@ -151,7 +151,7 @@ $values[{{$__index__}}] = '';
 
 ## Kaçış Simgesi
 
-Pyronome kalıp şablonları için özel bir anlama sahip olan `{{` ve `}}` ifadeleri, birçok başka yazılım dili, anaçatı ve kütüphane için de özel bir anlama sahip olabilir. Bu nedenle bazı durumlarda Pyronome kaynak kod üreteçlerinin `{{` ve `}}` ifadelerini görmezden gelmesini isteyebiliriz. Bu gibi durumlarda `{{!` ifadesi kullanılabilir. `{{!` ifadesi kaynak kod üretim aşamasında, `{{` ifadesine dönüştürülür.
+Pyronome kalıp şablonları için özel bir anlama sahip olan `{{` ve `}}` ifadeleri, birçok başka yazılım dili, anaçatı ve kütüphane için de özel bir anlama sahip olabilir. Bu nedenle bazı durumlarda Pyronome kaynak kod üreteçlerinin `{{` ve `}}` ifadelerini görmezden gelmesini isteyebilirsiniz. Bu gibi durumlarda `{{!` ifadesi kullanılabilir. `{{!` ifadesi kaynak kod üretim aşamasında, `{{` ifadesine dönüştürülür.
 
 **Örneğin;**
 
