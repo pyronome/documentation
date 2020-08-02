@@ -8,7 +8,11 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 
 ## Değişkenler
 
+
+
 ### Küresel Değişkenler
+
+
 
 | Küresel Değişken | Açıklama |
 | --- | --- |
@@ -54,7 +58,11 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 | `{{$__globals__/PYRONOME_RANDOM_STRING_32BYTES_UPPERCASE}}` | 32 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A692A2798B3C8FA4297B7A0D535D06B` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_64BYTES_UPPERCASE}}` | 64 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. |
 
+
+
 ### Model Değişkenleri
+
+
 
 ```
 - project
@@ -69,7 +77,11 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 
 Yukarıdaki model göz önünde bulundurularak aşağıda elemanlara ait değerlerin kaynak koda aktarılması için kullanılabilecek ifadeler listelenmiştir:
 
+
+
 #### `{{$__value__}}`
+
+
 
 Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini verir.
 
@@ -81,7 +93,11 @@ Buna ek olarak;
 - `{{$__value__/__sha1_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerini verir.
 - `{{$__value__/__sha1_md5_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerinin MD5 metin değerini verir.
 
+
+
 #### `{{$__name__}}`
+
+
 
 Mevcut elemanın adını tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının adını verir.
 
@@ -92,7 +108,11 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__name__/__sha1_text__}}` ve
 - `{{$__name__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
+
+
 #### `{{$__index__}}`
+
+
 
 Mevcut elemanın indisini -sıfırdan başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
 
@@ -101,7 +121,11 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__index__/__sha1_text__}}` ve
 - `{{$__index__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
+
+
 #### `{{$__index1__}}`
+
+
 
 Mevcut elemanın indisini -birden başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
 
@@ -110,7 +134,11 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__index1__/__sha1_text__}}` ve
 - `{{$__index1__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
+
+
 #### `{{$__type__}}`
+
+
 
 Mevcut elemanın türünü tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının türünü verir.
 
@@ -121,7 +149,11 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__type__/__sha1_text__}}` ve
 - `{{$__type__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
+
+
 #### `{{$../category/__value__}}`
+
+
 
 Mevcut eleman ile aynı seviyeye sahip `category` elemanının değerini verir.
 
@@ -145,7 +177,11 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$../category/__value__/__sha1_text__}}` ve
 - `{{$../category/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
+
+
 #### `{{$../../../title/__value__}}`
+
+
 
 Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının değerini verir.
 
@@ -169,7 +205,11 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$../../../title/__value__/__sha1_text__}}` ve
 - `{{$../../../title/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
+
+
 ### Kalıp Değişkenleri
+
+
 
 [Platform Kalıplar Değişkenler Sayfası](/latest/tr/docs/platform-kaliplar/#değişkenler-sayfası) bölümünde detayları belirtilen, kalıplar arası bilgi transferi için kullanılan değişken değerlerinin kaynak koda aktarılması gerekli olabilir. Bu değişkenleri `{{$__variables__/` ön takısı ile kaynak koda aktarabilirsiniz.
 
@@ -178,14 +218,35 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `MAX_CPU_COUNT` şeklinde tanımlanan değişken değeri, şablon kaynak koduna `{{$__variables__/MAX_CPU_COUNT}}` ifadesi ile aktarılabilir.
 - `PUBLIC_API_KEY` şeklinde tanımlanan değişken değeri, şablon kaynak koduna `{{$__variables__/PUBLIC_API_KEY}}` ifadesi ile aktarılabilir.
 
+
+
 ## Denetim Yapıları
 
-| Denetim Yapısı | Açıklama |
-| --- | --- |
-| `{{@if...}}` | "EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
-| `{{@else}}` | "DEĞİLSE" denetiminin yapılmasını sağlayan denetim yapısıdır. |
-| `{{@elseif...}}` | "DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
-| `{{@endif}}` | "EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır. |
+
+
+#### `{{@if...}}`
+
+"EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz.
+
+
+
+#### `{{@else}}`
+
+"DEĞİLSE" denetiminin yapılmasını sağlayan denetim yapısıdır.
+
+
+
+#### `{{@elseif...}}`
+
+"DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz.
+
+
+
+#### `{{@endif}}`
+
+"EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır.
+
+
 
 **Örnek 1:** `{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
 
@@ -250,7 +311,11 @@ $values[{{$__index__}}] = '';
 {{@endif}}
 ```
 
+
+
 ## Kaçış Simgesi
+
+
 
 Pyronome kalıp şablonları için özel bir anlama sahip olan `{{` ve `}}` ifadeleri, birçok başka yazılım dili, anaçatı ve kütüphane için de özel bir anlama sahip olabilir. Bu nedenle bazı durumlarda Pyronome kaynak kod üreteçlerinin `{{` ve `}}` ifadelerini görmezden gelmesini isteyebilirsiniz. Bu gibi durumlarda `{{!` ifadesi kullanılabilir. `{{!` ifadesi kaynak kod üretim aşamasında, `{{` ifadesine dönüştürülür.
 
