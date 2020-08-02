@@ -67,7 +67,7 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
                     - category
 ```
 
-Yukarıdaki model göz önünde bulundurularak aşağıdaki tabloda elemanlara ait değerlerin kaynak koda aktarılması için kullanılabilecek ifadeler listelenmiştir:
+Yukarıdaki model göz önünde bulundurularak aşağıda elemanlara ait değerlerin kaynak koda aktarılması için kullanılabilecek ifadeler listelenmiştir:
 
 #### `{{$__value__}}`
 
@@ -81,29 +81,53 @@ Buna ek olarak;
 - `{{$__value__/__sha1_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerini verir.
 - `{{$__value__/__sha1_md5_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerinin MD5 metin değerini verir.
 
-| Model Değişkeni | Açıklama |
-| --- | --- |
-| `{{$__value__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini verir. |
-| `{{$__value__/__uppercase_text__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini büyük harfe çevirerek verir. |
-| `{{$__value__/__lowercase_text__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini küçük harfe çevirerek verir. |
-| `{{$__value__/__md5_text__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini MD5 metin değerini verir. |
-| `{{$__value__/__sha1_text__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerini verir. |
-| `{{$__value__/__sha1_md5_text__}}` | Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerinin MD5 metin değerini verir. |
-| `{{$__name__}}` | Mevcut elemanın adını tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının adını verir. |
-| `{{$__index__}}` | Mevcut elemanın indisini -sıfırdan başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir. |
-| `{{$__index1__}}` | Mevcut elemanın indisini -birden başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir. |
-| `{{$__type__}}` | Mevcut elemanın türünü tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının türünü verir. |
-| `{{$../category/__value__}}` | Mevcut eleman ile aynı seviyeye sahip `category` elemanının değerini verir. |
-| `{{$../category/__name__}}` | Mevcut eleman ile aynı seviyeye sahip `category` elemanının adını verir. |
-| `{{$../category/__index__}}` | Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -sıfırdan başlayarak- verir. |
-| `{{$../category/__index1__}}` | Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -birden başlayarak- verir. |
-| `{{$../category/__type__}}` | Mevcut eleman ile aynı seviyeye sahip `category` elemanının türünü verir. |
-| `{{$../../../title/__value__}}` | Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının değerini verir. |
-| `{{$../../../title/__name__}}` | Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının adını verir. |
-| `{{$../../../title/__index__}}` | Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -sıfırdan başlayarak- verir. |
-| `{{$../../../title/__index1__}}` | Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -birden başlayarak- verir. |
-| `{{$../../../title/__type__}}` | Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının türünü verir. |
+#### `{{$__name__}}`
 
+Mevcut elemanın adını tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının adını verir.
+
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__name__/__uppercase_text__}}`, `{{$__name__/__lowercase_text__}}`, `{{$__name__/__md5_text__}}`, `{{$__name__/__sha1_text__}}` ve `{{$__name__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+
+#### `{{$__index__}}`
+
+Mevcut elemanın indisini -sıfırdan başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
+
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__index__/__md5_text__}}`, `{{$__index__/__sha1_text__}}` ve `{{$__index__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+
+#### `{{$__index1__}}`
+
+Mevcut elemanın indisini -birden başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
+
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__index1__/__md5_text__}}`, `{{$__index1__/__sha1_text__}}` ve `{{$__index1__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+
+#### `{{$__type__}}`
+
+Mevcut elemanın türünü tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının türünü verir.
+
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__type__/__uppercase_text__}}`, `{{$__type__/__lowercase_text__}}`, `{{$__type__/__md5_text__}}`, `{{$__type__/__sha1_text__}}` ve `{{$__type__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+
+#### `{{$../category/__value__}}`
+
+Mevcut eleman ile aynı seviyeye sahip `category` elemanının değerini verir.
+
+Aynı şekilde;
+- `{{$../category/__name__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının adını verir.
+- `{{$../category/__index__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -sıfırdan başlayarak- verir.
+- `{{$../category/__index1__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -birden başlayarak- verir.
+- `{{$../category/__type__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının türünü verir.
+
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$../category/__value__/__uppercase_text__}}`, `{{$../category/__value__/__lowercase_text__}}`, `{{$../category/__value__/__md5_text__}}`, `{{$../category/__value__/__sha1_text__}}` ve `{{$../category/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+
+#### `{{$../../../title/__value__}}`
+
+Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının değerini verir.
+
+Aynı şekilde;
+- `{{$../../../title/__name__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının adını verir.
+- `{{$../../../title/__index__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -sıfırdan başlayarak- verir.
+- `{{$../../../title/__index1__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -birden başlayarak- verir.
+- `{{$../../../title/__type__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının türünü verir.
+
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$../../../title/__value__/__uppercase_text__}}`, `{{$../../../title/__value__/__lowercase_text__}}`, `{{$../../../title/__value__/__md5_text__}}`, `{{$../../../title/__value__/__sha1_text__}}` ve `{{$../../../title/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 ### Kalıp Değişkenleri
 
