@@ -157,4 +157,4 @@ Pyronome kalıp şablonları için özel bir anlama sahip olan `{{` ve `}}` ifad
 
 - `{{!name}}` ifadesi, `{{name}}` ifadesine dönüştürülür.
 - `{{!$URL}}` ifadesi, `{{$URL}}` ifadesine dönüştürülür.
-- `{{!@if}}` ifadesi, `{{!@if}}` ifadesine dönüştürülür.
+- `{{!@if}}` ifadesi, `{{@if}}` ifadesine dönüştürülür.
