@@ -318,41 +318,41 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 
 **Örnek 1:** `{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
 
-```
+```php
 {{@if {{$__value__}} < "5"}}
-DEĞER 5'TEN KÜÇÜK
+DEGER 5TEN KUCUK
 {{@elseif {{$__value__}} == "5"}}
-DEĞER 5'E EŞİT
+DEGER 5E ESIT
 {{@else}}
-DEĞER 5'TEN BÜYÜK
+DEGER 5TEN BUYUK
 {{@endif}}
 ```
 
 kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
 
-```
-DEĞER 5'E EŞİT
+```php
+DEGER 5E ESIT
 ```
 
 **Örnek 2:** `{{$type/__value__}}` ifadesinin değerinin "String" olduğu bir durum için aşağıdaki şablon kaynak kodu:
 
-```
+```php
 {{@if {{$type/__value__}} == "String"}}
-$defaultValue = '';
+$currentValue = '';
 {{@else}}
-$defaultValue = 0;
+$currentValue = 0;
 {{@endif}}
 ```
 
 kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
 
-```
-$defaultValue = "";
+```php
+$currentValue = "";
 ```
 
 **Örnek 3:** `{{$type/__value__}}` ifadesinin değerinin "String" olduğu ve `{{$__index__}}` ifadesinin değerinin "0" olduğu bir durum için aşağıdaki şablon kaynak kodu: 
 
-```
+```php
 {{@if ({{$type/__value__}} == "String") && ({{$__index__}} == "0")}}
 $values = [];
 $values[0] = '';
@@ -363,14 +363,14 @@ $values[{{$__index__}}] = '';
 
 kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
 
-```
+```php
 $values = [];
 $values[0] = '';
 ```
 
 Yukarıdaki ifade aşağıdaki biçimde içe içe birleştirilmiş olarak da yazılabilir:
 
-```
+```php
 {{@if {{$type/__value__}} == "String"}}
 {{@if {{$__index__}} == "0"}}
 $values = [];
