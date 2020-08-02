@@ -85,25 +85,41 @@ Buna ek olarak;
 
 Mevcut elemanın adını tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının adını verir.
 
-Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__name__/__uppercase_text__}}`, `{{$__name__/__lowercase_text__}}`, `{{$__name__/__md5_text__}}`, `{{$__name__/__sha1_text__}}` ve `{{$__name__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
+- `{{$__name__/__uppercase_text__}}`,
+- `{{$__name__/__lowercase_text__}}`,
+- `{{$__name__/__md5_text__}}`,
+- `{{$__name__/__sha1_text__}}` ve
+- `{{$__name__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 #### `{{$__index__}}`
 
 Mevcut elemanın indisini -sıfırdan başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
 
-Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__index__/__md5_text__}}`, `{{$__index__/__sha1_text__}}` ve `{{$__index__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
+- `{{$__index__/__md5_text__}}`,
+- `{{$__index__/__sha1_text__}}` ve
+- `{{$__index__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 #### `{{$__index1__}}`
 
 Mevcut elemanın indisini -birden başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
 
-Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__index1__/__md5_text__}}`, `{{$__index1__/__sha1_text__}}` ve `{{$__index1__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
+- `{{$__index1__/__md5_text__}}`,
+- `{{$__index1__/__sha1_text__}}` ve
+- `{{$__index1__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 #### `{{$__type__}}`
 
 Mevcut elemanın türünü tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının türünü verir.
 
-Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$__type__/__uppercase_text__}}`, `{{$__type__/__lowercase_text__}}`, `{{$__type__/__md5_text__}}`, `{{$__type__/__sha1_text__}}` ve `{{$__type__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
+- `{{$__type__/__uppercase_text__}}`,
+- `{{$__type__/__lowercase_text__}}`,
+- `{{$__type__/__md5_text__}}`,
+- `{{$__type__/__sha1_text__}}` ve
+- `{{$__type__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 #### `{{$../category/__value__}}`
 
@@ -115,7 +131,12 @@ Aynı şekilde;
 - `{{$../category/__index1__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -birden başlayarak- verir.
 - `{{$../category/__type__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının türünü verir.
 
-Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$../category/__value__/__uppercase_text__}}`, `{{$../category/__value__/__lowercase_text__}}`, `{{$../category/__value__/__md5_text__}}`, `{{$../category/__value__/__sha1_text__}}` ve `{{$../category/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
+- `{{$../category/__value__/__uppercase_text__}}`,
+- `{{$../category/__value__/__lowercase_text__}}`,
+- `{{$../category/__value__/__md5_text__}}`,
+- `{{$../category/__value__/__sha1_text__}}` ve
+- `{{$../category/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 #### `{{$../../../title/__value__}}`
 
@@ -127,7 +148,12 @@ Aynı şekilde;
 - `{{$../../../title/__index1__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -birden başlayarak- verir.
 - `{{$../../../title/__type__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının türünü verir.
 
-Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi `{{$../../../title/__value__/__uppercase_text__}}`, `{{$../../../title/__value__/__lowercase_text__}}`, `{{$../../../title/__value__/__md5_text__}}`, `{{$../../../title/__value__/__sha1_text__}}` ve `{{$../../../title/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
+Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
+- `{{$../../../title/__value__/__uppercase_text__}}`,
+- `{{$../../../title/__value__/__lowercase_text__}}`,
+- `{{$../../../title/__value__/__md5_text__}}`,
+- `{{$../../../title/__value__/__sha1_text__}}` ve
+- `{{$../../../title/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
 ### Kalıp Değişkenleri
 
