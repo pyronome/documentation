@@ -82,8 +82,7 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 | `{{@elseif...}}` | "DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `\|\|` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz. |
 | `{{@endif}}` | "EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır. |
 
-**Örnek 1:**
-`{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
+**Örnek 1:** `{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
 
 ```
 {{@if {{$__value__}} < "5"}}
@@ -101,8 +100,7 @@ kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
 DEĞER 5'E EŞİT
 ```
 
-**Örnek 2:**
-`{{$type/__value__}}` ifadesinin değerinin "String" olduğu bir durum için aşağıdaki şablon kaynak kodu:
+**Örnek 2:** `{{$type/__value__}}` ifadesinin değerinin "String" olduğu bir durum için aşağıdaki şablon kaynak kodu:
 
 ```
 {{@if {{$type/__value__}} == "String"}}
@@ -118,8 +116,7 @@ kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
 $defaultValue = "";
 ```
 
-**Örnek 3:**
-`{{$type/__value__}}` ifadesinin değerinin "String" olduğu ve `{{$__index__}}` ifadesinin değerinin "0" olduğu bir durum için aşağıdaki şablon kaynak kodu: 
+**Örnek 3:** `{{$type/__value__}}` ifadesinin değerinin "String" olduğu ve `{{$__index__}}` ifadesinin değerinin "0" olduğu bir durum için aşağıdaki şablon kaynak kodu: 
 
 ```
 {{@if ({{$type/__value__}} == "String") && ({{$__index__}} == "0")}}
@@ -147,7 +144,6 @@ $values = [];
 $values[{{$__index__}}] = '';
 {{@endif}}
 ```
-
 
 ## Kaçış Simgesi
 
