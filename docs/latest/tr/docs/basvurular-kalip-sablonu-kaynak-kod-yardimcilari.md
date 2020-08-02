@@ -46,13 +46,13 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 | `{{$__globals__/PYRONOME_RANDOM_STRING_8BYTES_LOWERCASE}}` | 8 karakter uzunluğuna sahip küçük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4a692a27` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_16BYTES_LOWERCASE}}` | 16 karakter uzunluğuna sahip küçük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4a692a2798b3c8fa` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_32BYTES_LOWERCASE}}` | 32 karakter uzunluğuna sahip küçük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4a692a2798b3c8fa4297b7a0d535d06b` şeklinde bir değere sahiptir. |
-| `{{$__globals__/PYRONOME_RANDOM_STRING_64BYTES_LOWERCASE}}` | 64 karakter uzunluğuna sahip küçük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4a692a2798b3c8fa4297b7a0d535d06b2798b3c8fa4297b735d06b2798b3c8fa` şeklinde bir değere sahiptir. |
+| `{{$__globals__/PYRONOME_RANDOM_STRING_64BYTES_LOWERCASE}}` | 64 karakter uzunluğuna sahip küçük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_2BYTES_UPPERCASE}}` | 2 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_4BYTES_UPPERCASE}}` | 4 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A69` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_8BYTES_UPPERCASE}}` | 8 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A692A27` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_16BYTES_UPPERCASE}}` | 16 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A692A2798B3C8FA` şeklinde bir değere sahiptir. |
 | `{{$__globals__/PYRONOME_RANDOM_STRING_32BYTES_UPPERCASE}}` | 32 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A692A2798B3C8FA4297B7A0D535D06B` şeklinde bir değere sahiptir. |
-| `{{$__globals__/PYRONOME_RANDOM_STRING_64BYTES_UPPERCASE}}` | 64 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. `4A692A2798B3C8FA4297B7A0D535D06B2798B3C8FA4297B735D06B2798B3C8FA` şeklinde bir değere sahiptir. |
+| `{{$__globals__/PYRONOME_RANDOM_STRING_64BYTES_UPPERCASE}}` | 64 karakter uzunluğuna sahip büyük harfler ve sayılar içeren rastgele metin tutan küresel değişkendir. |
 
 ### Model Değişkenleri
 
