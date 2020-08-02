@@ -189,7 +189,7 @@ Kaynak kod üretim işlemi yapılan projenin son güncelleme zamanını herhangi
 
 Yukarıdaki model göz önünde bulundurularak aşağıda elemanlara ait değerlerin kaynak koda aktarılması için kullanılabilecek ifadeler listelenmiştir:
 
-#### `{{$__value__}}`
+##### `{{$__value__}}`
 
 Mevcut elemanın değerini tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini verir.
 
@@ -201,7 +201,7 @@ Buna ek olarak;
 - `{{$__value__/__sha1_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerini verir.
 - `{{$__value__/__sha1_md5_text__}}`: Yukarıdaki örnekte `property` elemanına ait `title` elemanının değerini SHA1 metin değerinin MD5 metin değerini verir.
 
-#### `{{$__name__}}`
+##### `{{$__name__}}`
 
 Mevcut elemanın adını tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının adını verir.
 
@@ -212,7 +212,7 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__name__/__sha1_text__}}` ve
 - `{{$__name__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
-#### `{{$__index__}}`
+##### `{{$__index__}}`
 
 Mevcut elemanın indisini -sıfırdan başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
 
@@ -221,7 +221,7 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__index__/__sha1_text__}}` ve
 - `{{$__index__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
-#### `{{$__index1__}}`
+##### `{{$__index1__}}`
 
 Mevcut elemanın indisini -birden başlayarak- tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının indisini verir.
 
@@ -230,7 +230,7 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__index1__/__sha1_text__}}` ve
 - `{{$__index1__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
-#### `{{$__type__}}`
+##### `{{$__type__}}`
 
 Mevcut elemanın türünü tutar. Yukarıdaki örnekte `property` elemanına ait `title` elemanının türünü verir.
 
@@ -241,7 +241,7 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$__type__/__sha1_text__}}` ve
 - `{{$__type__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
-#### `{{$../category/__value__}}`
+##### `{{$../category/__value__}}`
 
 Mevcut eleman ile aynı seviyeye sahip `category` elemanının değerini verir.
 
@@ -265,7 +265,7 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 - `{{$../category/__value__/__sha1_text__}}` ve
 - `{{$../category/__value__/__sha1_md5_text__}}` şeklinde kullanılabilir.
 
-#### `{{$../../../title/__value__}}`
+##### `{{$../../../title/__value__}}`
 
 Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının değerini verir.
 
@@ -300,19 +300,19 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 
 ## Denetim Yapıları
 
-#### `{{@if...}}`
+##### `{{@if...}}`
 
 "EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz.
 
-#### `{{@else}}`
+##### `{{@else}}`
 
 "DEĞİLSE" denetiminin yapılmasını sağlayan denetim yapısıdır.
 
-#### `{{@elseif...}}`
+##### `{{@elseif...}}`
 
 "DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz.
 
-#### `{{@endif}}`
+##### `{{@endif}}`
 
 "EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır.
 
