@@ -83,12 +83,12 @@ sidebar_label: Şablon Kaynak Kod Yardımcıları
 | `{{@endif}}` | "EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır. |
 
 **Örnek 1:**
-`{{$__value__}}` ifadesinin değerinin 5 olduğu bir durum için aşağıdaki şablon kaynak kodu:
+`{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
 
 ```
-{{@if {{$__value__}} < 5}}
+{{@if {{$__value__}} < "5"}}
 DEĞER 5'TEN KÜÇÜK
-{{@elseif {{$__value__}} == 5}}
+{{@elseif {{$__value__}} == "5"}}
 DEĞER 5'E EŞİT
 {{@else}}
 DEĞER 5'TEN BÜYÜK
