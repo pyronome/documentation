@@ -125,6 +125,13 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 
 Mevcut eleman ile aynı seviyeye sahip `category` elemanının değerini verir.
 
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Buradaki ifade yukarıdaki örnekte verilen modele uygun olarak belirtilmiştir. Farklı bir modelde {{$../category/__value__}} ifadesi değişkenlik gösterebilir.</p>
+</div>
+
 Aynı şekilde;
 - `{{$../category/__name__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının adını verir.
 - `{{$../category/__index__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -sıfırdan başlayarak- verir.
@@ -141,6 +148,13 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 #### `{{$../../../title/__value__}}`
 
 Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının değerini verir.
+
+<div class="panelize-infobox infobox-warning">
+    <p>
+        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+    </p>
+    <p>Buradaki ifade yukarıdaki örnekte verilen modele uygun olarak belirtilmiştir. Farklı bir modelde {{$../../../title/__value__}} ifadesi değişkenlik gösterebilir.</p>
+</div>
 
 Aynı şekilde;
 - `{{$../../../title/__name__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının adını verir.
