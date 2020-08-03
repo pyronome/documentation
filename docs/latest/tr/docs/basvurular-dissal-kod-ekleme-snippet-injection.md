@@ -132,7 +132,6 @@ Dizinler oluşturulduktan sonra aşağıdaki gibi bir görüntüye sahip olur.
 │           └── app
 │               └── Providers
 │                   └── RouteServiceProvider.php
-│                       └── begin_methods
 └── source
 </pre>
 
@@ -190,7 +189,7 @@ Burada `snippets/user/source/app/Providers/RouteServiceProvider.php/begin_method
 `snippets` dizinleri içine birçok farklı kaynaktan dosya eklenebileceği için, eklenen dosyaların düzenlenmesi için bazı yardımcı dosyalar eklenebilmektedir.
 
 | Yardımcı Dosya | Açıklama |
-| -------------- | -------- |
+| --- | ------- |
 | `__glue__` | İlgili `snippets` dizini içinde bulunan farklı dosyaları birleştirmek için kullanılan örneğin `,` ya da `;` vb. birleştirme karakterlerini içeren dosyadır. Bu dosya içeriğinin herhangi bir uzunluk ya da karakter sayısı sınırı bulunmamaktadır. `snippets` dizini içinde hiçbir dosya bulunmazsa; bu dosya görmezden gelinir. |
 | `__header__` | İlgili `snippets` dizini içinde bulunan farklı dosyaları birleştirirken en başa yazılacak içeriği içeren dosyadır. Bütün dosyalar birleştirildikten sonra en başa `__header__` dosya içeriği eklenmektedir. `snippets` dizini içinde hiçbir dosya bulunmazsa; bu dosya görmezden gelinir. |
 | `__footer__` | İlgili `snippets` dizini içinde bulunan farklı dosyaları birleştirirken en sona yazılacak içeriği içeren dosyadır. Bütün dosyalar birleştirildikten sonra en sona `__footer__` dosya içeriği eklenmektedir. `snippets` dizini içinde hiçbir dosya bulunmazsa; bu dosya görmezden gelinir. |
