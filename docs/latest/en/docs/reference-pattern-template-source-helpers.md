@@ -243,20 +243,20 @@ In addition; just like `{{$__value__}}` variable, the following expressions can 
 
 ##### `{{$../category/__value__}}`
 
-Mevcut eleman ile aynı seviyeye sahip `category` elemanının değerini verir.
+This expression returns the value of the `category` element, which is at the same level as the current element.
 
 <div class="panelize-infobox infobox-warning">
     <p>
-        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+        <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>Buradaki ifade yukarıdaki örnekte verilen modele uygun olarak belirtilmiştir. Farklı bir modelde {{$../category/__value__}} ifadesi değişkenlik gösterebilir.</p>
+    <p>The expression is stated according to the model given in the example above. In a different model, the expression {{$../category/__value__}} may vary.</p>
 </div>
 
 Similarly;
-- `{{$../category/__name__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının adını verir.
-- `{{$../category/__index__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -sıfırdan başlayarak- verir.
-- `{{$../category/__index1__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının indisini -birden başlayarak- verir.
-- `{{$../category/__type__}}`: Mevcut eleman ile aynı seviyeye sahip `category` elemanının türünü verir.
+- `{{$../category/__name__}}`: Returns the name of the `category` element, which is at the same level as the current element.
+- `{{$../category/__index__}}`: Returns the index -starting from zero- of the `category` element, which is at the same level as the current element.
+- `{{$../category/__index1__}}`: Returns the index -starting from one- of the `category` element, which is at the same level as the current element.
+- `{{$../category/__type__}}`: Returns the type of the `category` element, which is at the same level as the current element.
 
 In addition; just like `{{$__value__}}` variable, the following expressions can be used:
 - `{{$../category/__value__/__uppercase_text__}}`
@@ -267,20 +267,20 @@ In addition; just like `{{$__value__}}` variable, the following expressions can 
 
 ##### `{{$../../../title/__value__}}`
 
-Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının değerini verir.
+This expression returns the value of the `title` element of the `model` element that contains the parent of the current element.
 
 <div class="panelize-infobox infobox-warning">
     <p>
-        <strong><i class="fas fa-exclamation-triangle"></i> Uyarı:</strong>
+        <strong><i class="fas fa-exclamation-triangle"></i> Warning:</strong>
     </p>
-    <p>Buradaki ifade yukarıdaki örnekte verilen modele uygun olarak belirtilmiştir. Farklı bir modelde {{$../../../title/__value__}} ifadesi değişkenlik gösterebilir.</p>
+    <p>The expression is stated according to the model given in the example above. In a different model, the expression {{$../../../title/__value__}} may vary.</p>
 </div>
 
 Similarly;
-- `{{$../../../title/__name__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının adını verir.
-- `{{$../../../title/__index__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -sıfırdan başlayarak- verir.
-- `{{$../../../title/__index1__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının indisini -birden başlayarak- verir.
-- `{{$../../../title/__type__}}`: Mevcut elemanın içinde bulunduğu `model` elemanına ait `title` elemanının türünü verir.
+- `{{$../../../title/__name__}}`: Returns the name of the `title` element of the `model` element that contains the parent of the current element.
+- `{{$../../../title/__index__}}`: Returns the index -starting from zero- of the `title` element of the `model` element that contains the parent of the current element.
+- `{{$../../../title/__index1__}}`: Returns the index -starting from one- of the `title` element of the `model` element that contains the parent of the current element.
+- `{{$../../../title/__type__}}`: Returns the type of the `title` element of the `model` element that contains the parent of the current element.
 
 In addition; just like `{{$__value__}}` variable, the following expressions can be used:
 - `{{$../../../title/__value__/__uppercase_text__}}`
@@ -291,50 +291,50 @@ In addition; just like `{{$__value__}}` variable, the following expressions can 
 
 ### Pattern Variables
 
-[Platform Kalıplar Değişkenler Sayfası](/latest/tr/docs/platform-kaliplar/#değişkenler-sayfası) bölümünde detayları belirtilen, kalıplar arası bilgi transferi için kullanılan değişken değerlerinin kaynak koda aktarılması gerekli olabilir. Bu değişkenleri `{{$__variables__/` ön takısı ile kaynak koda aktarabilirsiniz.
+[Platform Pattern Variables](/latest/en/docs/platform-patterns/#variables-page) are used for data sharing between patterns during the source code generation process. In some cases, it may be necessary to transfer the variable values to the source code. You can transfer these variables into the source code using the prefix `{{$__variables__/`.
 
-**Örneğin;**
+**For example:**
 
-- `MAX_CPU_COUNT` şeklinde tanımlanan değişken değeri, şablon kaynak koduna `{{$__variables__/MAX_CPU_COUNT}}` ifadesi ile aktarılabilir.
-- `PUBLIC_API_KEY` şeklinde tanımlanan değişken değeri, şablon kaynak koduna `{{$__variables__/PUBLIC_API_KEY}}` ifadesi ile aktarılabilir.
+- The variable value defined as `MAX_CPU_COUNT` can be transferred into the template source code with the expression `{{$__variables__/MAX_CPU_COUNT}}`.
+- The variable value defined as `PUBLIC_API_KEY` can be transferred into the template source code with the expression `{{$__variables__/PUBLIC_API_KEY}}`.
 
 ## Control Structures
 
 ##### `{{@if...}}`
 
-"EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz.
+It is the control structure that enables "IF" control. The logical test statement should be written in the section marked with `...`. You can group logical test expressions with symbols `(` and `)`; You can link `&&` and `||` with logical test operators.
 
 ##### `{{@else}}`
 
-"DEĞİLSE" denetiminin yapılmasını sağlayan denetim yapısıdır.
+It is the control structure that enables "ELSE" control.
 
 ##### `{{@elseif...}}`
 
-"DEĞİLSE EĞER" denetiminin yapılmasını sağlayan denetim yapısıdır. `...` ile belirtilen bölüme mantıksal sınama ifadesi yazılmalıdır. Mantıksal sınama ifadelerini `(` ve `)` simgeleri ile gruplayabilir; `&&` ve `||` mantıksal sınama operatörleri ile birbirine bağlayabilirsiniz.
+It is the control structure that enables "ELSE IF" control. The logical test statement should be written in the section marked with `...`. You can group logical test expressions with symbols `(` and `)`; You can link `&&` and `||` with logical test operators.
 
 ##### `{{@endif}}`
 
-"EĞER" ile başlayan denetim cümlesinin bittiğini belirten denetim yapısıdır.
+The control structure indicates that the control sentence that starts with "IF" is ended.
 
-**Örnek 1:** `{{$__value__}}` ifadesinin değerinin "5" olduğu bir durum için aşağıdaki şablon kaynak kodu:
+**Example 1:** The following source code, when the expression `{{$__value__}}` is equal to "5":
 
 ```php
 {{@if {{$__value__}} < "5"}}
-DEGER 5TEN KUCUK
+VALUE IS LESS THAN 5
 {{@elseif {{$__value__}} == "5"}}
-DEGER 5E ESIT
+VALUE IS EQUAL TO 5
 {{@else}}
-DEGER 5TEN BUYUK
+VALUE IS GREATER THAN 5
 {{@endif}}
 ```
 
-kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
+is converted into the following source code by the code generators:
 
 ```php
-DEGER 5E ESIT
+VALUE IS EQUAL TO 5
 ```
 
-**Örnek 2:** `{{$type/__value__}}` ifadesinin değerinin "String" olduğu bir durum için aşağıdaki şablon kaynak kodu:
+**Example 2:** The following source code, when the expression `{{$type/__value__}}` is equal to "String":
 
 ```php
 {{@if {{$type/__value__}} == "String"}}
@@ -344,13 +344,13 @@ $currentValue = 0;
 {{@endif}}
 ```
 
-kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
+is converted into the following source code by the code generators:
 
 ```php
 $currentValue = "";
 ```
 
-**Örnek 3:** `{{$type/__value__}}` ifadesinin değerinin "String" olduğu ve `{{$__index__}}` ifadesinin değerinin "0" olduğu bir durum için aşağıdaki şablon kaynak kodu: 
+**Example 3:** The following source code, when the expression `{{$type/__value__}}` is equal to "String" and `{{$__index__}}` is equal to "0": 
 
 ```php
 {{@if ({{$type/__value__}} == "String") && ({{$__index__}} == "0")}}
@@ -361,14 +361,14 @@ $values[{{$__index__}}] = '';
 {{@endif}}
 ```
 
-kaynak kod üreteçleri tarafından aşağıdaki koda dönüştürülecektir:
+is converted into the following source code by the code generators:
 
 ```php
 $values = [];
 $values[0] = '';
 ```
 
-Yukarıdaki ifade aşağıdaki biçimde içe içe birleştirilmiş olarak da yazılabilir:
+The above source code example can also be written nested in the following format:
 
 ```php
 {{@if {{$type/__value__}} == "String"}}
@@ -381,10 +381,10 @@ $values[{{$__index__}}] = '';
 
 ## Escaping Symbol
 
-Pyronome kalıp şablonları için özel bir anlama sahip olan `{{` ve `}}` ifadeleri, birçok başka yazılım dili, anaçatı ve kütüphane için de özel bir anlama sahip olabilir. Bu nedenle bazı durumlarda Pyronome kaynak kod üreteçlerinin `{{` ve `}}` ifadelerini görmezden gelmesini isteyebilirsiniz. Bu gibi durumlarda `{{!` ifadesi kullanılabilir. `{{!` ifadesi kaynak kod üretim aşamasında, `{{` ifadesine dönüştürülür.
+The expressions `{{` and `}}`, which have a special meaning for Pyronome pattern templates, can also have a special meaning for many other software languages, frameworks, and libraries. Therefore, in some cases, you may want Pyronome source code generators to ignore the `{{` and `}}` statements. In such cases, you can use the expression `{{!`. The expression `{{!` is converted into `{{` during the source code generation process.
 
-**Örneğin;**
+**For example:**
 
-- `{{!name}}` ifadesi, `{{name}}` ifadesine dönüştürülür.
-- `{{!$URL}}` ifadesi, `{{$URL}}` ifadesine dönüştürülür.
-- `{{!@if}}` ifadesi, `{{@if}}` ifadesine dönüştürülür.
+- `{{!name}}` expression is converted into `{{name}}`.
+- `{{!$URL}}` expression is converted into `{{$URL}}`.
+- `{{!@if}}` expression is converted into `{{@if}}`.
