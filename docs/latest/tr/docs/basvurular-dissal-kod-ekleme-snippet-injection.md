@@ -62,8 +62,8 @@ Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdaki
 
 <pre>
 ├── pyronome
-├── <span class="yellow-text">snippets</span>
-└── <span class="white-text">source</span>
+├── <span class="amber-text">snippets</span>
+└── source
 </pre>
 
 Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `user` isimli iki dizin daha bulunmaktadır:
@@ -71,7 +71,7 @@ Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `u
 <pre>
 ├── pyronome
 ├── snippets
-│   ├── <span class="yellow-text">system</span>
-│   └── <span class="yellow-text">user</span>
+│   ├── <span class="amber-text">system</span>
+│   └── <span class="amber-text">user</span>
 └── source
 </pre>
