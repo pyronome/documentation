@@ -62,7 +62,7 @@ Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdaki
 
 <pre>
 ├── pyronome
-├── <span class="yellow-text text-darken-2">snippets</span>
+├── snippets <span class="red-text">*</span>
 └── source
 </pre>
 
@@ -71,7 +71,7 @@ Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `u
 <pre>
 ├── pyronome
 ├── snippets
-│   ├── <span class="yellow-text text-darken-2">system</span>
-│   └── <span class="yellow-text text-darken-2">user</span>
+│   ├── system <span class="red-text">*</span>
+│   └── user <span class="red-text">*</span>
 └── source
 </pre>
