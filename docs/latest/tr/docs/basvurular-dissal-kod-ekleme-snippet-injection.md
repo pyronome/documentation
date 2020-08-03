@@ -61,17 +61,21 @@ Yukarıdaki kaynak kod içinde, dışsal kod belirteci, `{{@snippet:begin_method
 Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdakine benzer bir dizin yapısı bulunmaktadır:
 
 ```
+
 ├── pyronome
 ├── snippets
 └── source
+
 ```
 
 Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `user` isimli iki dizin daha bulunmaktadır:
 
 ```
+
 ├── pyronome
-├── source
-└── snippets
-    ├── system
-    └── user
+├── snippets
+│   ├── system
+│   └── user
+└── source
+
 ```
