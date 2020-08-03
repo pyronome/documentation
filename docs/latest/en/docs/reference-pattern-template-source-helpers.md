@@ -6,6 +6,13 @@ sidebar_label: Template Helpers
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
+Pyronome source code generators are created by pattern templates. Templates created based on the structure and levels of the project model determine how to generate source code according to the project model's content. During the source code generation process, the project model content is scanned by pattern templates; the source code is generated according to the model elements and values. During this process, some special expressions are used to transfer the elements' values from the project model into the source code.
+
+There are three types of template source helpers:
+1. Variables
+2. Control Structures
+3. Escaping Symbol
+
 ## Variables
 
 ### Global Variables
