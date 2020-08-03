@@ -63,7 +63,7 @@ Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdaki
 ```bash
 ├── pyronome
 ├── snippets
-├── source
+└── source
 ```
 
 Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `user` isimli iki dizin daha bulunmaktadır:
@@ -71,7 +71,7 @@ Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `u
 ```bash
 ├── pyronome
 ├── source
-├── snippets
-│   ├── system
-│   ├── user
+└── snippets
+    ├── system
+    └── user
 ```
