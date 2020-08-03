@@ -6,7 +6,7 @@ sidebar_label: Şablon Yardımcıları
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-Pyronome kaynak kod üreteçleri kalıp şablonları tarafından oluşturulmaktadır. Proje modelinin eleman yapısına ve seviyelerine göre oluşturulan şablonlar, proje modelinin içeriğine göre nasıl kaynak kod üretileceğini belirlemektedir. Kaynak kod üretim aşamasında proje modeli içeriği kalıp şablonları tarafından taranır; ilgili eleman ve değeri alınarak kaynak kod üretim işlemi gerçekleştirilir. Bu işlem sırasında proje modelindeki elemanlara ait değerlerin kaynak koda aktarılması için bazı yardımcı ifadeler kullanılmaktadır.
+Pyronome kaynak kod üreteçleri kalıp şablonları tarafından oluşturulmaktadır. Proje modelinin eleman yapısına ve seviyelerine göre oluşturulan şablonlar, proje modelinin içeriğine göre nasıl kaynak kod üretileceğini belirlemektedir. Kaynak kod üretim aşamasında proje modeli içeriği kalıp şablonları tarafından taranır; ilgili eleman ve değeri alınarak kaynak kod üretim işlemi gerçekleştirilir. Bu işlem sırasında proje modelindeki elemanlara ait değerlerin kaynak koda aktarılması için bazı yardımcı ifadeler kullanılmaktadır. Bu özel ifadelere **Şablon Kaynak Kod Yardımcıları** adı verilmektedir.
 
 Şablon kaynak kod yardımcılarını üç grupta toplayabiliriz:
 1. Değişkenler
