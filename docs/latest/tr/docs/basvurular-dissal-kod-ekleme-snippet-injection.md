@@ -53,7 +53,7 @@ Yukarıdaki kaynak kod içinde, dışsal kod belirteci, `{{@snippet:begin_method
     <p>
         <strong><i class="fas fa-info-circle"></i> Not:</strong>
     </p>
-    <p>Kaynak kod dosyasının türüne göre, dışsal kod belirtecinin başına ve/veya sonuna yorum bloğu açma/kapama karakterleri eklenebilir. Dışsal kaynak kod ekleme sürecinde, dışsal kod belirteci geçen satır silinir, dışsal kod bloğu bu satıra yazılır.</p>
+    <p>Kaynak kod dosyasının türüne göre, dışsal kod belirtecinin başına ve/veya sonuna yorum bloğu açma/kapama karakterleri eklenebilir. Dışsal kaynak kod ekleme sürecinde, dışsal kod belirteci geçen satır TAMAMEN SİLİNİR, dışsal kod bloğu bu satıra yazılır.</p>
 </div>
 
 ## `snippets` Dizin Yapısı
