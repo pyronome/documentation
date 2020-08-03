@@ -14,7 +14,7 @@ Dışsal kod ekleme sistemi iki bölümden oluşur:
 1. Dışsal Kod Belirteci
 2. `snippets` Dizin Yapısı
 
-Dışsal Kod Belirteci, kalıp şablonları ya da statik dosyalar içine yerleştirilen `{{@snippet:` ile başlayan belirteçlerdir. Bu belirteçlerin bulunduğu alanlara dizin yapısı göz önünde bulundurularak kod ekleme işlemi yapılmaktadır. `snippets` Dizin Yapısı, Dışsal Kod Belirteci ile belirtilen bölümlere kaynak kodun nasıl ekleneceğini belirleyen özel isimlendirmeye ve içeriğe sahip dosya ve dizinlerdir.
+Dışsal Kod Belirteci, kalıp şablonları ya da statik dosyalar içine yerleştirilen `{{@snippet:` ile başlayan belirteçlerdir. Bu belirteçlerin bulunduğu alanlara, dizin yapısı göz önünde bulundurularak, kod ekleme işlemi yapılmaktadır. `snippets` Dizin Yapısı, Dışsal Kod Belirteci ile belirtilen bölümlere kaynak kodun nasıl ekleneceğini belirleyen özel isimlendirmeye ve içeriğe sahip dosya ve dizinlerdir.
 
 ## Dışsal Kod Belirteci
 
@@ -61,21 +61,17 @@ Yukarıdaki kaynak kod içinde, dışsal kod belirteci, `{{@snippet:begin_method
 Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdakine benzer bir dizin yapısı bulunmaktadır:
 
 ```
-
 ├── pyronome
 ├── snippets
 └── source
-
 ```
 
 Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `user` isimli iki dizin daha bulunmaktadır:
 
 ```
-
 ├── pyronome
 ├── snippets
 │   ├── system
 │   └── user
 └── source
-
 ```
