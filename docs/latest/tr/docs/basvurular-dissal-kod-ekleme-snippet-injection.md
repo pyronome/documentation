@@ -11,10 +11,10 @@ Kaynak kod üreteçleri tarafından üretilen kod içine bazı durumlarda özel 
 Pyronome kaynak kod üreteçleri tarafından kaynak kod üretim sürecinin hemen ardından otomatik olarak Dışsal Kod Ekleme (Snippet Injection) işlemi çalıştırılmakta; gerekli yerlere dışsal kodlar eklenmektedir.
 
 Dışsal kod ekleme sistemi iki bölümden oluşur:
-1. Dışsal Kod Belirteci ve
-2. Dışsal Kod Dizin Yapısı
+1. Dışsal Kod Belirteci
+2. `snippets` Dizin Yapısı
 
-Dışsal Kod Belirteci, kalıp şablonları ya da statik dosyalar içine yerleştirilen `{{@snippet:` ile başlayan belirteçlerdir. Bu belirteçlerin bulunduğu alanlara dizin yapısı göz önünde bulundurularak kod ekleme işlemi yapılmaktadır. Dışsal Kod Dizin Yapısı, Dışsal Kod Belirteci ile belirtilen bölümlere kaynak kodun nasıl ekleneceğini belirleyen özel isimlendirmeye ve içeriğe sahip dosya ve dizinlerdir.
+Dışsal Kod Belirteci, kalıp şablonları ya da statik dosyalar içine yerleştirilen `{{@snippet:` ile başlayan belirteçlerdir. Bu belirteçlerin bulunduğu alanlara dizin yapısı göz önünde bulundurularak kod ekleme işlemi yapılmaktadır. `snippets` Dizin Yapısı, Dışsal Kod Belirteci ile belirtilen bölümlere kaynak kodun nasıl ekleneceğini belirleyen özel isimlendirmeye ve içeriğe sahip dosya ve dizinlerdir.
 
 ## Dışsal Kod Belirteci
 
@@ -56,7 +56,7 @@ Yukarıdaki kaynak kod içinde, dışsal kod belirteci, `{{@snippet:begin_method
     <p>Kaynak kod dosyasının türüne göre, dışsal kod belirtecinin başına ve/veya sonuna yorum bloğu açma/kapama karakterleri eklenebilir. Dışsal kaynak kod ekleme sürecinde, dışsal kod belirteci geçen satır silinir, dışsal kod bloğu bu satıra yazılır.</p>
 </div>
 
-## Dizin Yapısı
+## `snippets` Dizin Yapısı
 
 Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdakine benzer bir dizin yapısı bulunmaktadır:
 
