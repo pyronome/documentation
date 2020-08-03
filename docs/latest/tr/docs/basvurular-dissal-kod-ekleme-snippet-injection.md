@@ -60,7 +60,7 @@ Yukarıdaki kaynak kod içinde, dışsal kod belirteci, `{{@snippet:begin_method
 
 Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdakine benzer bir dizin yapısı bulunmaktadır:
 
-```bash
+```
 ├── pyronome
 ├── snippets
 └── source
@@ -68,7 +68,7 @@ Pyronome kaynak kod üreteçleri tarafından üretilen kaynak kodun aşağıdaki
 
 Oluşturulan kaynak kod içindeki `snippets` dizininin içinde de `system` ve `user` isimli iki dizin daha bulunmaktadır:
 
-```bash
+```
 ├── pyronome
 ├── source
 └── snippets
