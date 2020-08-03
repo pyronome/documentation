@@ -176,14 +176,14 @@ Kaynak kod üretim işlemi yapılan projenin son güncelleme zamanını herhangi
 
 ### Model Değişkenleri
 
-```
+```yaml
 - project
     - model_list
         - model
             - title
             - property_list
                 - property
-                    - title  <-- Bu elemanda olduğumuzu varsayalım
+                    - title     # <-- Bu elemanda olduğumuzu varsayalım
                     - category
 ```
 

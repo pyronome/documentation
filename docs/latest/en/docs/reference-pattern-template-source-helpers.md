@@ -176,14 +176,14 @@ This variable holds a random text of 64 characters length with uppercase letters
 
 ### Model Variables
 
-```
+```yaml
 - project
     - model_list
         - model
             - title
             - property_list
                 - property
-                    - title  <-- Let's assume, we are here!
+                    - title     # <-- Let's assume, we are here!
                     - category
 ```
 
