@@ -194,3 +194,124 @@ Burada `snippets/user/source/app/Providers/RouteServiceProvider.php/begin_method
 | `__header__` | İlgili `snippets` dizini içinde bulunan farklı dosyaları birleştirirken en başa yazılacak içeriği içeren dosyadır. Bütün dosyalar birleştirildikten sonra en başa `__header__` dosya içeriği eklenmektedir. `snippets` dizini içinde hiçbir dosya bulunmazsa; bu dosya görmezden gelinir. |
 | `__footer__` | İlgili `snippets` dizini içinde bulunan farklı dosyaları birleştirirken en sona yazılacak içeriği içeren dosyadır. Bütün dosyalar birleştirildikten sonra en sona `__footer__` dosya içeriği eklenmektedir. `snippets` dizini içinde hiçbir dosya bulunmazsa; bu dosya görmezden gelinir. |
 | `__default__` | İlgili `snippets` dizini içinde hiçbir dosya bulunmazsa varsayılan olarak eklenecek içeriği içeren dosyadır. `snippets` dizini içinde dosya bulunuyorsa; bu dosya görmezden gelinir. |
+
+**Örneğin;** `snippets/user/source/app/Providers/RouteServiceProvider.php/begin_methods` dizini içine `0000.php` dosyasını eklediğimiz gibi `0010.php` ve `0020.php` isimli iki tane daha dosya eklemek istiyoruz.
+
+Aşağıdaki şekilde `0010.php` isimli dosyayı ekleyelim:
+
+<pre>
+├── pyronome
+├── snippets
+│   ├── system
+│   └── user
+│       └── source
+│           └── app
+│               └── Providers
+│                   └── RouteServiceProvider.php
+│                       └── begin_methods
+│                           ├── 0000.php
+│                           └── 0010.php
+└── source
+</pre>
+
+`0010.php` dosyası içine aşağıdaki yorum satırlarını ekleyelim:
+
+```php
+    /* THIS COMMENT ADDED USING SNIPPET INJECTION FILE 0010.php */
+```
+
+Aynı şekilde, `0020.php` isimli dosyayı ekleyelim:
+
+<pre>
+├── pyronome
+├── snippets
+│   ├── system
+│   └── user
+│       └── source
+│           └── app
+│               └── Providers
+│                   └── RouteServiceProvider.php
+│                       └── begin_methods
+│                           ├── 0000.php
+│                           ├── 0010.php
+│                           └── 0020.php
+└── source
+</pre>
+
+`0020.php` dosyası içine aşağıdaki yorum satırlarını ekleyelim:
+
+```php
+    /* THIS COMMENT ADDED USING SNIPPET INJECTION FILE 0020.php */
+```
+
+`__header__`, `__footer__` ve `__glue__` dosyalarını da aşağıdaki şekilde ekleyelim:
+
+<pre>
+├── pyronome
+├── snippets
+│   ├── system
+│   └── user
+│       └── source
+│           └── app
+│               └── Providers
+│                   └── RouteServiceProvider.php
+│                       └── begin_methods
+│                           ├── __footer__
+│                           ├── __glue__
+│                           ├── __header__
+│                           ├── 0000.php
+│                           ├── 0010.php
+│                           └── 0020.php
+└── source
+</pre>
+
+`__header__` dosya içeriğine aşağıdaki satırları ekleyelim:
+
+```php
+    /* --- HEADER --- */
+```
+
+`__footer__` dosya içeriğine aşağıdaki satırları ekleyelim:
+
+```php
+    /* --- FOOTER --- */
+```
+
+`__glue__` dosya içeriğine aşağıdaki satırları ekleyelim:
+
+```php
+    /* --- GLUE --- */
+```
+
+Kaynak kod üretim işlemi sonrasında çalıştırılan dışsal kod ekleme işlemi sonucunda `source/app/Providers/RouteServiceProvider.php` dosya içeriği aşağıdaki şekilde güncellenecektir.
+
+```php
+<?php
+
+namespace App\Providers;
+
+use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
+use Illuminate\Support\Facades\Route;
+use App\Http\Middleware\HTMLDBMiddleware;
+use App\Http\Middleware\AdminLTEMiddleware;
+
+class RouteServiceProvider extends ServiceProvider
+{
+
+    /* --- HEADER --- */
+    /* THIS COMMENT ADDED USING SNIPPET INJECTION */
+    /* --- GLUE --- */
+    /* THIS COMMENT ADDED USING SNIPPET INJECTION FILE 0010.php */
+    /* --- GLUE --- */
+    /* THIS COMMENT ADDED USING SNIPPET INJECTION FILE 0020.php */
+    /* --- FOOTER --- */
+
+    /**
+     * This namespace is applied to your controller routes.
+     *
+     * In addition, it is set as the URL generator's root namespace.
+     *
+     * @var string
+     */
+    protected $namespace = 'App\Http\Controllers';
+```
