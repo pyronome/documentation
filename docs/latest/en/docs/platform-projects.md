@@ -66,6 +66,18 @@ In this section, you can model your project based on selected patterns.
 | <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
 | <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the model in JSON syntax. |
 
+### Variables Page
+More than one pattern can be installed on a single project. The source code generation process for these patterns is performed separately. Also, source code generation can be performed by parallel processing. In some cases, you need to define global variables that are available entire source code generation process. In this case, with the help of this section, you can define global variables.
+
+| Section | Description |
+| ------ | ------ |
+| <i class="fas fa-history"></i> Commit History | When you update the variables, a copy of this update is saved in the local memory of your browser. Using **"Commit History"**, you can revert a previous update. |
+| <i class="fas fa-times-circle"></i> <i class="fas fa-exclamation-triangle"></i> <i class="fas fa-info-circle"></i> Validation Log | During the variable update process, a validation check is performed on whether the variables satisfy the validation conditions. Incompatible sections are marked and shown to the user. Pressing the **"Validation Log"** button displays the window listing all error, warning and information messages. |
+| Search Field | Using this section, you can search fields and values. You can also enter search commands that include **Regular Expression**. |
+| <i class="fas fa-minus-square"></i> Collapse All | Collapses all arrays in the content, so you can only expand fields, you want to edit. |
+| <i class="fas fa-plus-square"></i> Expand All | You can click this link to expand all pre-collapsed arrays in the content. |
+| <i class="fab fa-js-square"></i> Edit as JSON | You can click this link to edit the variables in JSON syntax. |
+
 ### Patterns Page
 The patterns in a project are enabling the source code generation. You can install multiple patterns in a single project. In this way, the patterns can easily take care of the source code generation of different parts on an application. You can change an application's backend/frontend technology by changing just the pattern(s) dealing with the backend. In the same way, you can update an application's backend/frontend framework into a new version.
 

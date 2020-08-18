@@ -296,9 +296,9 @@ In addition; just like `{{$__value__}}` variable, the following expressions can 
 - `{{$../../../title/__value__/__sha1_text__}}`
 - `{{$../../../title/__value__/__sha1_md5_text__}}`
 
-### Pattern Variables
+### Pattern & Project Variables
 
-[Platform Pattern Variables](/latest/en/docs/platform-patterns/#variables-page) are used for data sharing between patterns during the source code generation process. In some cases, it may be necessary to transfer the variable values to the source code. You can transfer these variables into the source code using the prefix `{{$__variables__/`.
+[Platform Pattern Variables](/latest/en/docs/platform-patterns/#variables-page) and [Platform Project Variables](/latest/en/docs/platform-projects/#variables-page) are used for data sharing between patterns during the source code generation process. In some cases, it may be necessary to transfer the variable values to the source code. You can transfer these variables into the source code using the prefix `{{$__variables__/`.
 
 **For example:**
 
