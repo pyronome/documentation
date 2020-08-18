@@ -298,7 +298,7 @@ Buna ek olarak; `{{$__value__}}` ifadesinde olduğu gibi
 
 ### Kalıp & Proje Değişkenleri
 
-[Platform Kalıplar Değişkenler Sayfası](/latest/tr/docs/platform-kaliplar/#değişkenler-sayfası) ve [Platform Projeler Değişkenler Sayfası](/latest/tr/docs/platform-projeler/#değişkenler-sayfası bölümlerinde detayları belirtilen, kalıplar arası bilgi transferi için kullanılan değişken değerlerinin kaynak koda aktarılması gerekli olabilir. Bu değişkenleri `{{$__variables__/` ön takısı ile kaynak koda aktarabilirsiniz.
+[Platform Kalıplar Değişkenler Sayfası](/latest/tr/docs/platform-kaliplar/#değişkenler-sayfası) ve [Platform Projeler Değişkenler Sayfası](/latest/tr/docs/platform-projeler/#değişkenler-sayfası) bölümlerinde detayları belirtilen, kalıplar arası bilgi transferi için kullanılan değişken değerlerinin kaynak koda aktarılması gerekli olabilir. Bu değişkenleri `{{$__variables__/` ön takısı ile kaynak koda aktarabilirsiniz.
 
 **Örneğin;**
 
