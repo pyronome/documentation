@@ -242,7 +242,7 @@ Using this section, you can update the information about the Marketplace page of
 | Keywords | Keywords that will be used when any search is performed on the Marketplace.<br><br>`Required` |
 | Web URL | This field specifies the web URL of the pattern. |
 | Support URL | This field specifies the support address available to the pattern users. You can enter GitHub, GitLab, BitBucket, etc. **"Issues"** page addresses of the pattern repository to this field. |
-| Badges | This field specifies the badges of the pattern. E.g. <div class="divTypeTag">COMING SOON</div> These badges are used to differentiate the pattern in the marketplace. |
+| Badges | This field specifies the badges of the pattern. E.g. <div class="divTypeTag">COMING SOON</div> These badges are used to differentiate the pattern in the marketplace. For the entire list of available badges, please visit [Pattern Badges](/latest/en/docs/reference-pattern-badges) section. |
 | Repository URL | This field specifies the repository URL of the pattern. |
 | README.md URL (README Tab) | **"README"** tab shows the content of the README.md file entered to this field on the Marketplace pattern page. |
 | Licensing | This field specifies the usage terms and license of the pattern. |

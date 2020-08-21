@@ -246,7 +246,7 @@ Kalıbın Pazaryeri üzerindeki sayfası ile ilgili bilgilerin güncellendiği b
 | Anahtar Kelimeler | Pazaryeri üzerinde herhangi bir arama gerçekleştirildiğinde kullanılacak anahtar kelimelerdir.<br><br>`Gerekli` |
 | Web URL | Kalıbın web sitesi adresini girebileceğiniz alandır. |
 | Destek URL | Kalıp kullanıcılarının yararlanabileceği destek adresini belirtmektedir. Bu bölüme GitHub, GitLab, BitBucket vb. çevrimiçi kod depolarının **"Issues"** sayfa adreslerini girebilirsiniz. |
-| Etiketler | Kalıbın sahip olduğu etiketlerin seçildiği alandır. Örn. <div class="divTypeTag">COMING SOON</div> Etiketler kalıpları farklı özellikleriyle pazaryerinde ayırt etmek için kullanılmaktadır. |
+| Etiketler | Kalıbın sahip olduğu etiketlerin seçildiği alandır. Örn. <div class="divTypeTag">COMING SOON</div> Etiketler kalıpları farklı özellikleriyle pazaryerinde ayırt etmek için kullanılmaktadır. Kalıplar için kullanılabilecek etiketlerin listesine, [Kalıp Etiketleri](/latest/tr/docs/basvurular-kalip-etiketleri) bölümünden ulaşabilirsiniz. |
 | Kod Deposu URL | Kalıbın kod deposu adresini girebileceğiniz alandır. |
 | README.md URL (DETAYLAR Sekmesi) | Pazaryeri üzerindeki kalıbın sayfasında **"Detaylar"** sekmesinde gösterilecek **"README.md"** dosyasının adresini belirtmektedir. |
 | Lisanslama | Kalıbın kullanım lisansını belirtmektedir. |
