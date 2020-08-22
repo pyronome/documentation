@@ -6,7 +6,7 @@ sidebar_label: Release Notes
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## Sürüm 3.1.3
+## Version 3.1.3
 
 1. The "Badges" section has been added to the "Marketplace" section under the "Settings" section of the patterns.
 2. The "Variables" section has been added to the project page as in the pattern pages. Thus, database password, SSH key, access key, environment variables, etc. can also be defined within the project.
@@ -15,7 +15,7 @@ sidebar_label: Release Notes
 5. Some styling improvements are made on the user interface for better visuality.
 6. Patches applied for some parts that are not working correctly.
 
-## Sürüm 3.1.2
+## Version 3.1.2
 
 1. A more efficient directory structure was introduced for Snippet Injection.
 2. The helper files `__glue__`, `__header__`, `__footer__` and `__default__` have been added for Snippet Injection. (See [`snippets` Directory Structure](/latest/en/docs/reference-snippet-injection/#snippets-directory-structure))
@@ -27,7 +27,7 @@ sidebar_label: Release Notes
 8. Some styling improvements are made on the user interface for better visuality.
 9. Patches applied for some parts that are not working correctly.
 
-## Sürüm 3.1.1
+## Version 3.1.1
 
 1. Model files are added to the generated source code.
 2. `{{! ... }}` escaping symbol added to pattern template helpers. (See [Escaping Symbol](/latest/en/docs/reference-pattern-template-source-helpers/#escaping-symbol))
@@ -38,7 +38,7 @@ sidebar_label: Release Notes
 7. Some styling improvements are made on the user interface for better visuality.
 8. Patches applied for some parts that are not working correctly.
 
-## Sürüm 3.1.0
+## Version 3.1.0
 
 1. Project page Files section added. Thus, static files can easily be added for the projects.
 2. Git repository setup features are added as a pattern for projects and patterns. If a Git code repository is installed to a project or pattern, source code will be pulled from the Git repository based on its order during source code generation. The source codes pulled from the Git repository will be extracted and copied to the specified directories.
