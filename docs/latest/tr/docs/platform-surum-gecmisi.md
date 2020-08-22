@@ -18,7 +18,7 @@ sidebar_label: Sürüm Geçmişi
 ## Sürüm 3.1.2
 
 1. Dışsal Kod Ekleme (Snippet Injection) için daha etkin bir dizin yapısı oluşturuldu.
-2. Dışsal Kod Ekleme (Snippet Injection) için `__glue__`, `__header__`, `__footer__` ve `__default__` yardımcı dosyaları eklendi. Bkz. [`snippets` Dizin Yapısı](/latest/tr/docs/basvurular-dissal-kod-ekleme-snippet-injection/#snippets-dizin-yapısı)
+2. Dışsal Kod Ekleme (Snippet Injection) için `__glue__`, `__header__`, `__footer__` ve `__default__` yardımcı dosyaları eklendi. (Bkz. [`snippets` Dizin Yapısı](/latest/tr/docs/basvurular-dissal-kod-ekleme-snippet-injection/#snippets-dizin-yapısı))
 3. Kullanıcı profil ayarlarına zaman dilimi özelliği eklendi.
 4. Kalıp şablon dosyaları için toplu indirme özelliği eklendi.
 5. Kalıp şablonları için `skip_empty` ve `remove_whitespace` özellikleri eklendi. Böylelikle kaynak kod üretimi yapılırken, boş şablonlar geçilebilecek, ya da içinde sadece boşluk karakterleri olan şablonlardaki boşluklar kaldırılabilecek.
@@ -30,8 +30,8 @@ sidebar_label: Sürüm Geçmişi
 ## Sürüm 3.1.1
 
 1. Üretilen kaynak kodun içine, model dosyalarının eklenmesi sağlandı.
-2. Kalıp şablon yardımcılarına `{{! ... }}` kaçış simgesi eklendi. Bkz. [Kaçış Simgesi](/latest/tr/docs/basvurular-kalip-sablonu-kaynak-kod-yardimcilari/#kaçış-simgesi)
-3. Kalıp şablon yardımcılarına `{{@if ... }}` şeklinde denetim yapıları eklenmesi sağlandı. Bkz. [Denetim Yapıları](/latest/tr/docs/basvurular-kalip-sablonu-kaynak-kod-yardimcilari/#denetim-yapıları)
+2. Kalıp şablon yardımcılarına `{{! ... }}` kaçış simgesi eklendi. (Bkz. [Kaçış Simgesi](/latest/tr/docs/basvurular-kalip-sablonu-kaynak-kod-yardimcilari/#kaçış-simgesi))
+3. Kalıp şablon yardımcılarına `{{@if ... }}` şeklinde denetim yapıları eklenmesi sağlandı. (Bkz. [Denetim Yapıları](/latest/tr/docs/basvurular-kalip-sablonu-kaynak-kod-yardimcilari/#denetim-yapıları))
 4. Kalıp şablonları için Git kod deposu ekleme özelliği eklendi. Böylelikle şablonlar dosya olarak güncellenebilecek. Güncellenen dosyalar Git kod deposuna yüklenebilecek, Git kod deposuna yüklenen dosyalar tek tuşla kalıp şablonlar bölümüne çekilebilecek.
 5. Şema, şablon ve model editörlerine kullanım kolaylığı sağlayan özellikler eklendi.
 6. Arabirimde kullanım kolaylığı sağlayan güncellemeler yapıldı.
