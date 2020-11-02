@@ -6,7 +6,7 @@ sidebar_label: Release Notes
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## Sürüm 3.1.4
+## Version 3.1.4
 
 1. Necessary updates were made for GDPR compliance.
 2. "Private/Public" version visibility feature added for patterns.
