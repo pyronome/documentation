@@ -6,6 +6,16 @@ sidebar_label: Sürüm Geçmişi
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
+## Sürüm 3.1.4
+
+1. GDPR ve KVKK uyumu için gerekli güncellemeler yapıldı.
+2. Kalıplar için "Özel/Genel" sürüm özelliği eklendi.
+3. Dosya yöneticisinin işlevselliği artırıldı. Dosya arama özellikleri geliştirildi.
+4. Kalıplar için "Çevrimiçi Önizleme..." (Live Preview) ve "Dosyalara Gözat..." (Browse Files) özellikleri eklendi.
+5. Arabirimde kullanım kolaylığı sağlayan güncellemeler yapıldı.
+6. Arabirimde stil güncellemeleri yapıldı.
+7. Doğru çalışmayan bazı bölüm ve özelliklerin, doğru çalışmasını sağlayacak yamalar yapıldı.
+
 ## Sürüm 3.1.3
 
 1. Kalıpların "Ayarlar" bölümü altındaki "Pazaryeri" bölümüne "Etiketler" bölümü eklendi.

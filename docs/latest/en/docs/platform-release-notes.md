@@ -6,6 +6,16 @@ sidebar_label: Release Notes
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
+## Sürüm 3.1.4
+
+1. Necessary updates were made for GDPR compliance.
+2. "Private/Public" version visibility feature added for patterns.
+3. The functionality of the file manager has been increased. File search features have been improved.
+4. "Live Preview..." and "Browse Files..." marketplace buttons for patterns have been added.
+5. Some improvements are made on the user interface for better usability.
+6. Some styling improvements are made on the user interface for better visuality.
+7. Patches applied for some parts that are not working correctly.
+
 ## Version 3.1.3
 
 1. The "Badges" section has been added to the "Marketplace" section under the "Settings" section of the patterns.
