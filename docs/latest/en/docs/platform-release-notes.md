@@ -6,6 +6,12 @@ sidebar_label: Release Notes
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
+## Version 3.1.5
+
+1. Some improvements are made on the user interface for better usability.
+2. Some styling improvements are made on the user interface for better visuality.
+3. Patches applied for some parts that are not working correctly.
+
 ## Version 3.1.4
 
 1. Necessary updates were made for GDPR compliance.

@@ -6,6 +6,12 @@ sidebar_label: Sürüm Geçmişi
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
+## Sürüm 3.1.5
+
+1. Arabirimde kullanım kolaylığı sağlayan güncellemeler yapıldı.
+2. Arabirimde stil güncellemeleri yapıldı.
+3. Doğru çalışmayan bazı bölüm ve özelliklerin, doğru çalışmasını sağlayacak yamalar yapıldı.
+
 ## Sürüm 3.1.4
 
 1. GDPR ve KVKK uyumu için gerekli güncellemeler yapıldı.
