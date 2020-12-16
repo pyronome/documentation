@@ -6,7 +6,7 @@ sidebar_label: Release Notes
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
-## Sürüm 3.1.6
+## Version 3.1.6
 
 1. Incoming Webhooks feature added. The incoming Webhooks feature enables automatic pattern compile and project code generation through webhooks from online repository services like GitHub, BitBucket, GitLab, etc.
 2. Some improvements are made on the user interface for better usability.
