@@ -36,6 +36,9 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
 | Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
 | Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
+| Gelen Web İsteklerini Etkinleştir | Gelen web isteklerinin etkin olup olmadığını belirleyebileceğiniz alandır. Gelen web istekleri, proje kaynak kod üretim sürecini otomatikleştirmenizi sağlamaktadır. |
+| Gelen Web İsteği İçin URL (Etkin Sürüm) | Bu alan projenin etkin sürümü için kullanılabilecek web isteği URL adresini belirtmektedir. |
+| Gelen Web İsteği İçin URL (Mevcut Sürüm) | Bu alan projenin mevcut sürümü için kullanılabilecek web isteği URL adresini belirtmektedir. |
 
 ## Proje Sayfası
 Projenizin tüm detaylarının bulunduğu sayfadır. Bu sayfa üzerinden proje modeli, kaynak kodu ve sunucu ayarlarını yönetebilirsiniz.

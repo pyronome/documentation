@@ -179,6 +179,9 @@ Kalıba ait genel bilgilerin güncellendiği bölümdür.
 | Açıklama | Kalıp ile ilgili açıklamaların girilebileceği form alanıdır. |
 | Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Pazaryeri üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Kalıp Logosu | Kalıba ait simgenin yüklenebileceği form alanıdır. |
+| Gelen Web İsteklerini Etkinleştir | Gelen web isteklerinin etkin olup olmadığını belirleyebileceğiniz alandır. Gelen web istekleri, kalıp derleme sürecini otomatikleştirmenizi sağlamaktadır. |
+| Gelen Web İsteği İçin URL (Etkin Sürüm) | Bu alan kalıbın etkin sürümü için kullanılabilecek web isteği URL adresini belirtmektedir. |
+| Gelen Web İsteği İçin URL (Mevcut Sürüm) | Bu alan kalıbın mevcut sürümü için kullanılabilecek web isteği URL adresini belirtmektedir. |
 
 <div class="panelize-infobox infobox-warning">
     <p>

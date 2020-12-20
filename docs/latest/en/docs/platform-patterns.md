@@ -177,6 +177,9 @@ Using this page, you can update the general information of the pattern.
 | Description | This field specifies the description of the pattern. |
 | Visibility | This field specifies the visibility of the pattern. Patterns can be **"Public"** or **"Private"**. **"Public"** patterns can be displayed on the Marketplace. **"Private"** patterns can only be viewed by its members. |
 | Pattern Logo | You can upload the pattern logo in this field. |
+| Enable Incoming Webhooks | Using this field, you can enable incoming webhooks. Incoming webhooks helps you automate your pattern compile process. |
+| Incoming Webhook URL (Active Version) | This field specifies the incoming webhook URL for the active version of this pattern. |
+| Incoming Webhook URL (Current Version) | This field specifies the incoming webhook URL for the current version of this pattern. |
 
 <div class="panelize-infobox infobox-warning">
     <p>

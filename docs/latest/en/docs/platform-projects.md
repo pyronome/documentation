@@ -109,6 +109,9 @@ Using this page, you can update the general information of the project.
 | Title | This field specifies the title of the project.<br><br>`Required` and `Unique` |
 | Description | This field specifies the description of the project. |
 | Project Logo | You can upload the project logo in this field. |
+| Enable Incoming Webhooks | Using this field, you can enable incoming webhooks. Incoming webhooks helps you automate your project code generation process. |
+| Incoming Webhook URL (Active Version) | This field specifies the incoming webhook URL for the active version of this project. |
+| Incoming Webhook URL (Current Version) | This field specifies the incoming webhook URL for the current version of this project. |
 
 <div class="panelize-infobox infobox-warning">
     <p>
