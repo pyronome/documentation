@@ -6,6 +6,12 @@ sidebar_label: Sürüm Geçmişi
 
 <a id="aHeaderMenuAnchor" data-header-menu="Docs"></a>
 
+## Sürüm 3.1.7
+
+1. Arabirimde kullanım kolaylığı sağlayan güncellemeler yapıldı.
+2. Arabirimde stil güncellemeleri yapıldı.
+3. Doğru çalışmayan bazı bölüm ve özelliklerin, doğru çalışmasını sağlayacak yamalar yapıldı.
+
 ## Sürüm 3.1.6
 
 1. Gelen Web İstekleri bölümü eklendi. Böylelikle GitHub, BitBucket ve GitLab üzerindeki kod depoları üzerinden işlem yapıldığında otomatik olarak bir kalıbın derlenmesi ve bir projenin otomatik olarak üretilmesi sağlanabilecek.
