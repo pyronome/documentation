@@ -7,11 +7,11 @@ title: Başlangıç
 
 Pyronome hızlı ve sürdürülebilir yazılım geliştirilmesini sağlayan çevrimiçi bir platformdur. Pyronome'un sunmuş olduğu kolay kullanılır arayüzler ile yazılım elemanları kolaylıkla tanımlanabilmekte ve bu tanımlar daha sonra Java, C#, PHP, JavaScript, vb. gibi programlama dillerine dönüştürülebilmektedir. Pyronome yazılım geliştirme aşamasında sıklıkla kullanılan kaynak kod parçalarının, yeniden kullanılabilir bileşenlere dönüştürülmesini sağlayarak yazılım geliştirme süreçlerinde zaman tasarrufu sağlamaktadır. Bununla birlikte sunmuş olduğu yeniden kullanılabilir bileşen yaklaşımı ile yazılım Ar-Ge ve geliştirme süreçlerini birbirinden ayırmakta, tecrübenin sayısallaşmasını sağlayarak yazılım geliştirme süreçlerinde kalitenin artırılmasına yardımcı olmaktadır.
 
-Pyronome Platformu'nu kullanmaya başlamanın ilk adımı üye olmaktır. Üye kayıt formuna ulaşmak için lütfen [tıklayınız](https://pyronome.com/builder/signup). Eğer Pyronome hesabınız mevcutsa [giriş](https://pyronome.com/builder/login) yapabilirsiniz.
+Pyronome Platformu'nu kullanmaya başlamanın ilk adımı üye olmaktır. Üye kayıt formuna ulaşmak için lütfen [tıklayınız](https://platform.pyronome.com/builder/signup). Eğer Pyronome hesabınız mevcutsa [giriş](https://platform.pyronome.com/builder/login) yapabilirsiniz.
 
 <div class="col s12 center-align">
-    <a href="https://pyronome.com/builder/signup" class="waves-effect waves-dark btn-large white-text amber darken-4">KAYIT</a>
-    <a href="https://pyronome.com/builder/login" class="waves-effect waves-dark btn-large white-text blue-grey darken-2">GİRİŞ</a>
+    <a href="https://platform.pyronome.com/builder/signup" class="waves-effect waves-dark btn-large white-text amber darken-4">KAYIT</a>
+    <a href="https://platform.pyronome.com/builder/login" class="waves-effect waves-dark btn-large white-text blue-grey darken-2">GİRİŞ</a>
 </div>
 
 ## Yardım ve Bildirim Kanalları
