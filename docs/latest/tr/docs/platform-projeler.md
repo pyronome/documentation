@@ -33,8 +33,8 @@ Yeni proje ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` |
+| Proje Kısa Adı | Projenin kısa adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Proje Adı | Projenin adını belirtmektedir.<br><br>`Gerekli` |
 | Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
 | Gelen Web İsteklerini Etkinleştir | Gelen web isteklerinin etkin olup olmadığını belirleyebileceğiniz alandır. Gelen web istekleri, proje kaynak kod üretim sürecini otomatikleştirmenizi sağlamaktadır. |
 | Gelen Web İsteği İçin URL (Etkin Sürüm) | Bu alan projenin etkin sürümü için kullanılabilecek web isteği URL adresini belirtmektedir. |
@@ -109,8 +109,8 @@ Projeye ait genel bilgilerin güncellendiği bölümdür.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde proje yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Projenin kaydedileceği alt dizini belirtmektedir. |
-| Ad | Projenin adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
-| Başlık | Projenin başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
+| Proje Kısa Adı | Projenin kısa adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Proje adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` |
+| Proje Adı | Projenin adını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
 | Açıklama | Proje ile ilgili açıklamaların girilebileceği form alanıdır. |
 | Proje Logosu | Projeye ait simgenin yüklenebileceği form alanıdır. |
 

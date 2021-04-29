@@ -29,13 +29,13 @@ Pyronome sürümünün kısa halini tutan küresel değişkendir. `3.1.2` şekli
 
 Pyronome sürümünün tam halini tutan küresel değişkendir. `3.1.2+20200430.assets/605a822a/cache` şeklinde bir değere sahiptir.
 
+##### `{{$__globals__/PYRONOME_PROJECT_SLUG}}`
+
+Mevcut proje kısa adını tutan küresel değişkendir. `testproject` şeklinde bir değere sahiptir.
+
 ##### `{{$__globals__/PYRONOME_PROJECT_NAME}}`
 
-Mevcut proje adını tutan küresel değişkendir. `testproject` şeklinde bir değere sahiptir.
-
-##### `{{$__globals__/PYRONOME_PROJECT_TITLE}}`
-
-Mevcut proje başlığını tutan küresel değişkendir. `Test Project` şeklinde bir değere sahiptir.
+Mevcut proje adını tutan küresel değişkendir. `Test Project` şeklinde bir değere sahiptir.
 
 ##### `{{$__globals__/PYRONOME_PROJECT_VERSION}}`
 
@@ -77,13 +77,13 @@ Kaynak kod üretim işleminin yapıldığı saati herhangi bir biçimlendirme ya
 
 Kaynak kod üretim işleminin yapıldığı dakikayı herhangi bir biçimlendirme yapmadan gösteren küresel değişkendir. `54` şeklinde bir değere sahiptir.
 
+##### `{{$__globals__/PYRONOME_PATTERN_SLUG}}`
+
+Kaynak kod üretim işleminin yapıldığı kalıbın kısa adını tutan küresel değişkendir. `testpattern` şeklinde bir değere sahiptir.
+
 ##### `{{$__globals__/PYRONOME_PATTERN_NAME}}`
 
-Kaynak kod üretim işleminin yapıldığı kalıbın adını tutan küresel değişkendir. `testpattern` şeklinde bir değere sahiptir.
-
-##### `{{$__globals__/PYRONOME_PATTERN_TITLE}}`
-
-Kaynak kod üretim işleminin yapıldığı kalıbın başlığını tutan küresel değişkendir. `Test Pattern` şeklinde bir değere sahiptir.
+Kaynak kod üretim işleminin yapıldığı kalıbın adını tutan küresel değişkendir. `Test Pattern` şeklinde bir değere sahiptir.
 
 ##### `{{$__globals__/PYRONOME_PATTERN_VERSION}}`
 

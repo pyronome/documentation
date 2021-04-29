@@ -12,7 +12,7 @@ This page contains the projects you have created or are a member of. You can add
 
 | Table Field | Description |
 | ------ | ------ |
-| Name | This field shows the project title, the folder where the project is located and the project name. |
+| Name | This field shows the project name, the folder where the project is located and the project name. |
 | Active Version | Pyronome allows users to create different versions of their projects. This field refers to the version in which the user actively makes modifications to it. The active version can be changed via the **"Versions"** page of the project. |
 | Enabled | This field indicates whether the project is enabled or not. Other members cannot view disabled projects. |
 | <i class="fas fa-users"></i> Members Button | Displays the **"Members"** page, which lists other members authorized to take action on the project. |
@@ -32,8 +32,8 @@ This page contains the form, which you can add a new project.
 | Create New Directory | When this field is selected, the new project is created in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the project will be created. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the project will be created. |
-| Name | This field specifies the name of the new project.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the project name.<br><br>`Required` and `Unique` |
-| Title | This field specifies the title of the new project.<br><br>`Required` |
+| Slug | This field specifies the slut of the new project.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the project name.<br><br>`Required` and `Unique` |
+| Name | This field specifies the name of the new project.<br><br>`Required` |
 | Project Logo | You can upload the project logo in this field. |
 
 ## Project Page
@@ -105,8 +105,8 @@ Using this page, you can update the general information of the project.
 | Create New Directory | When this field is selected, the project is located in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the project will be located. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the project will be located. |
-| Name | This field specifies the name of the project.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the project name.<br><br>`Required` and `Unique` |
-| Title | This field specifies the title of the project.<br><br>`Required` and `Unique` |
+| Slug | This field specifies the slug of the project.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the project name.<br><br>`Required` and `Unique` |
+| Name | This field specifies the name of the project.<br><br>`Required` and `Unique` |
 | Description | This field specifies the description of the project. |
 | Project Logo | You can upload the project logo in this field. |
 | Enable Incoming Webhooks | Using this field, you can enable incoming webhooks. Incoming webhooks helps you automate your project code generation process. |
@@ -242,7 +242,7 @@ You can press the **"New Repository"** button to add a new repository.
 | HTTPS Password | This field is displayed when you check the **"Authenticate using HTTPS"** option. Specifies the password will be used to connect over HTTPS.<br><br>`Required` |
 | SSH Host | This field is displayed when you check the **"Authenticate using SSH"**. Specifies the SSH address.<br><br>`Required` |
 | Generate SSH Keypair | This field is displayed when you check the **"Authenticate using SSH"**. An SSH key pair is automatically generated each time you create a new repository over SSH authentication. You can select this option if you want to recreate the key pair for an existing repository. |
-| Commit Message | This field specifies the commit message to display in the repository logs. In this field, you can enter mustache templates like `{{project_name}}`, `{{project_title}}`, etc. You can find a complete list of these mustache templates below.<br><br>`Required` |
+| Commit Message | This field specifies the commit message to display in the repository logs. In this field, you can enter mustache templates like `{{project_slug}}`, `{{project_name}}`, etc. You can find a complete list of these mustache templates below.<br><br>`Required` |
 
 To view upload process logs for any repository, you can press the <strong><i class="fas fa-file-alt"></i></strong> icon to the right of the corresponding record row.
 
@@ -258,7 +258,7 @@ Code generation auto-push by Pyronome
 Commit message with mustache templates:
 
 ```HTML
-Code generation auto-push by Pyronome for {{project_title}} ({{project_name}}, {{project_active_version}}).
+Code generation auto-push by Pyronome for {{project_name}} ({{project_slug}}, {{project_active_version}}).
 ```
 
 Below is a list of specific identifiers that can be used in the commit messages:
@@ -278,11 +278,11 @@ Below is a list of specific identifiers that can be used in the commit messages:
 | `{{project_guid}}` | This identifier holds the global unique id of the project. This identifier, unlike `{{project_id}}`, is unique to each element within the platform. |
 | `{{project_id}}` | This identifier holds the unique integer id of the project. |
 | `{{project_main_directory}}` | This identifier holds the main directory of the project. |
-| `{{project_name}}` | This identifier holds the name of the project. |
+| `{{project_slug}}` | This identifier holds the slug of the project. |
 | `{{project_path}}` | This identifier holds the namespace of the project. |
 | `{{project_short_description}}` | This identifier holds the short description of the project. |
 | `{{project_sub_directory}}` | This identifier holds the subdirectory of the project. |
-| `{{project_title}}` | This identifier holds the title of the project. |
+| `{{project_name}}` | This identifier holds the name of the project. |
 | `{{server_host}}` | This identifier holds the address of the server where the repository is located. |
 | `{{server_name}}` | This identifier holds the name of the server where the repository is located. |
 | `{{user_full_name}}` | This identifier holds the full name of the user. |
@@ -341,8 +341,8 @@ Below is a sample webhook request.
 	"project": {
 		"id": 1,
 		"guid": "E0X0A0M0L0E0P0R0J0E0C0T",
-		"name": "exampleproject1",
-		"title": "Example Project 1",
+		"slug": "exampleproject1",
+		"name": "Example Project 1",
 		"short_description": "Project Short Description",
         "active_version": "1.0.0",
         "path": "exampleuser/exampleproject1",

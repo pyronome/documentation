@@ -12,7 +12,7 @@ This page lists the patterns you are a member of, or you have created. You can a
 
 | Table Field | Description |
 | ------ | ------ |
-| Name | This field shows the pattern title, the folder where the pattern is located and the pattern name. |
+| Name | This field shows the pattern name, the folder where the pattern is located and the pattern name. |
 | Active Version | Pyronome allows users to create different versions of their patterns. This field refers to the version in which the user actively makes modifications to it. The active version can be changed via the **"Versions"** page of the pattern. |
 | Enabled | This field indicates whether the pattern is enabled or not. Other members cannot view disabled patterns. |
 | <i class="fas fa-users"></i> Members Button | Displays the **"Members"** page, which lists other members authorized to take action on the pattern. |
@@ -35,8 +35,8 @@ This page contains the form, which you can add a new pattern.
 | Create New Directory | When this field is selected, the new pattern is created in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the pattern will be created. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
-| Name | This field specifies the name of the new pattern.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the pattern name.<br><br>`Required` and `Unique` |
-| Title | This field specifies the title of the new pattern.<br><br>`Required` and `Unique` |
+| Slug | This field specifies the name of the new pattern.<br><i class="fas fa-exclamation-triangle"></i> Please note the criteria in the [General Settings Page](#general-settings-page) section regarding the pattern name.<br><br>`Required` and `Unique` |
+| Name | This field specifies the name of the new pattern.<br><br>`Required` and `Unique` |
 | Pattern Logo | You can upload the pattern logo in this field. |
 
 ## Pattern Page
@@ -171,8 +171,8 @@ Using this page, you can update the general information of the pattern.
 | Create New Directory | When this field is selected, the new pattern is created in the new directory. |
 | Main Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the main directory where the pattern will be created. |
 | Sub Directory | This field is displayed when the **"Create New Directory"** is selected. Specifies the subdirectory where the pattern will be created. |
-| Name | This field specifies the name of the pattern.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the pattern name.<br><br>`Required` and `Unique` |
-| Title | This field specifies the title of the pattern.<br><br>`Required` and `Unique` |
+| Slug | This field specifies the slug of the pattern.<br><i class="fas fa-exclamation-triangle"></i> Please note the following criteria regarding the pattern name.<br><br>`Required` and `Unique` |
+| Name | This field specifies the name of the pattern.<br><br>`Required` and `Unique` |
 | Short Description | This field specifies a one-sentence description of the pattern. |
 | Description | This field specifies the description of the pattern. |
 | Visibility | This field specifies the visibility of the pattern. Patterns can be **"Public"** or **"Private"**. **"Public"** patterns can be displayed on the Marketplace. **"Private"** patterns can only be viewed by its members. |
@@ -237,7 +237,7 @@ Using this section, you can update the information about the Marketplace page of
 
 | Form Field | Description |
 | ------ | ------ |
-| Title | This field specifies the title of the pattern.<br><br>`Required` and `Unique` |
+| Name | This field specifies the name of the pattern.<br><br>`Required` and `Unique` |
 | Short Description | This field specifies a one-sentence description of the pattern.<br><br>`Required` |
 | Category | This field specifies the category under which the pattern will be listed.<br><br>`Required` |
 | List as Project Template | When you select this option, the pattern is listed as a project application template on the new project page. |

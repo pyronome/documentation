@@ -29,13 +29,13 @@ This variable holds the short form of the Pyronome version. Example value: `3.1.
 
 This variable holds the long form of the Pyronome version. Example value: `3.1.2+20200430.assets/605a822a/cache`.
 
+##### `{{$__globals__/PYRONOME_PROJECT_SLUG}}`
+
+This variable holds the project slug. Example value: `testproject`
+
 ##### `{{$__globals__/PYRONOME_PROJECT_NAME}}`
 
-This variable holds the project name. Example value: `testproject`
-
-##### `{{$__globals__/PYRONOME_PROJECT_TITLE}}`
-
-This variable holds the project title. Example value: `Test Project`
+This variable holds the project name. Example value: `Test Project`
 
 ##### `{{$__globals__/PYRONOME_PROJECT_VERSION}}`
 
@@ -77,13 +77,13 @@ This variable holds the hour of the source code generation process without any f
 
 This variable holds the minute of the source code generation process without any formatting. Example value: `54`
 
+##### `{{$__globals__/PYRONOME_PATTERN_SLUG}}`
+
+This variable holds the slug of the pattern, which is used for source code generation process. Example value: `testpattern`
+
 ##### `{{$__globals__/PYRONOME_PATTERN_NAME}}`
 
-This variable holds the name of the pattern, which is used for source code generation process. Example value: `testpattern`
-
-##### `{{$__globals__/PYRONOME_PATTERN_TITLE}}`
-
-This variable holds the title of the pattern, which is used for source code generation process. Example value: `Test Pattern`
+This variable holds the name of the pattern, which is used for source code generation process. Example value: `Test Pattern`
 
 ##### `{{$__globals__/PYRONOME_PATTERN_VERSION}}`
 

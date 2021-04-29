@@ -36,8 +36,8 @@ Yeni kalıp ekleme formunun bulunduğu sayfadır.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde kalıp yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği alt dizini belirtmektedir. |
-| Ad | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
-| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` |
+| Kalıp Kısa Adı | Kalıbın kısa adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen [Genel Ayarlar Sayfası](#genel-ayarlar-sayfası) bölümünde belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Kalıp Adı | Kalıbın adını belirtmektedir.<br><br>`Gerekli` |
 | Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Pazaryeri üzerinde görüntülenebilir. **"Özel"** kalıplar sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
 | Kalıp Logosu | Kalıba ait simgenin yüklenebileceği form alanıdır. |
 
@@ -173,8 +173,8 @@ Kalıba ait genel bilgilerin güncellendiği bölümdür.
 | Yeni Dizin Oluştur | Bu alan seçildiğinde kalıp yeni oluşturulacak dizine kaydedilir. |
 | Ana Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği ana dizini belirtmektedir. |
 | Alt Dizin | Bu alan **"Yeni Dizin Oluştur"** alanı seçildiğinde gösterilmektedir. Kalıbın kaydedileceği alt dizini belirtmektedir. |
-| Ad | Kalıbın adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
-| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
+| Kalıp Kısa Adı | Kalıbın kısa adını belirtmektedir.<br><i class="fas fa-exclamation-triangle"></i> Kalıp adı ile ilgili olarak lütfen aşağıda belirtilen ölçütlere dikkat ediniz.<br><br>`Gerekli` ve `Benzersiz` |
+| Kalıp Adı | Kalıbın adını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
 | Kısa Açıklama | Kalıbı anlatan bir cümlelik tanımıdır. |
 | Açıklama | Kalıp ile ilgili açıklamaların girilebileceği form alanıdır. |
 | Görünüm | Kalıbın görüntülenme biçimini belirtir. Kalıplar **"Genel"** ya da **"Özel"** olabilir. **"Genel"** kalıplar Pazaryeri üzerinde görüntülenebilir. **"Özel"** kalıplar ise sadece yetkisi olan kullanıcılar tarafından görüntülenebilir. |
@@ -241,7 +241,7 @@ Kalıbın Pazaryeri üzerindeki sayfası ile ilgili bilgilerin güncellendiği b
 
 | Form Alanı | Açıklama |
 | ------ | ------ |
-| Başlık | Kalıbın başlığını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
+| Kalıp Adı | Kalıbın adını belirtmektedir.<br><br>`Gerekli` ve `Benzersiz` |
 | Kısa Açıklama | Kalıbı anlatan bir cümlelik tanımıdır.<br><br>`Gerekli` |
 | Kategori | Kalıbın hangi kategori altında listeleneceğini belirtmektedir.<br><br>`Gerekli` |
 | Proje Şablonu Olarak Göster | Bu seçeneği işaretlediğinizde, ilgili kalıp yeni proje ekleme bölümünde proje uygulama şablonu olarak gösterilmektedir. |
